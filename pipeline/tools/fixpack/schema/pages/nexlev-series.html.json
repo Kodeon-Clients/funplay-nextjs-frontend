@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/nexlev-series.html#webpage",
+      "url": "https://funplaysystems.com/nexlev-series.html",
+      "name": "NexLev Series Wooden Play Structures",
+      "description": "NexLev Series: premium wooden-finish play towers, castles, adventure courses and tepee structures for schools, resorts and townships.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/nexlev-series/abstract.html",
+            "name": "NexLev Abstract Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/nexlev-series/castle.html",
+            "name": "NexLev Wooden Castle Playgrounds"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/nexlev-series/escapade.html",
+            "name": "NexLev Escapade Adventure Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/nexlev-series/pinnacle.html",
+            "name": "NexLev Pinnacle Tepee Play Towers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/nexlev-series/solitaire.html",
+            "name": "NexLev Solitaire Play Towers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://funplaysystems.com/nexlev-series/woody.html",
+            "name": "NexLev Woody Wooden Playground Equipment"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series Wooden Play Structures",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        }
+      ]
+    }
+  ]
+}

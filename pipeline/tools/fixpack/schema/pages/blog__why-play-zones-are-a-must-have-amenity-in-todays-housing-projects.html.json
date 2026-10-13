@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html#article",
+      "headline": "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects",
+      "description": "Why play zones are now a must-have amenity in Indian housing projects and how builders can plan them well.",
+      "url": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-29",
+      "image": "https://funplaysystems.com/images/why-india..JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects",
+          "item": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html"
+        }
+      ]
+    }
+  ]
+}

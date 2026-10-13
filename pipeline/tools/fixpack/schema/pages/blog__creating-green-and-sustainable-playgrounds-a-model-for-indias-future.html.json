@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html#article",
+      "headline": "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
+      "description": "How to build greener playgrounds in India: recycled materials, shade, natural play and low-maintenance designs that last.",
+      "url": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-19",
+      "image": "https://funplaysystems.com/images/Abstract-product-banner.jpg"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What’s the average cost of school playground equipment in India?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prices vary by setup and size but typically start from ₹50,000 for basic structures and go up based on customizations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we get playground equipment installed within a tight school budget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. FunPlay Systems specializes in affordable setups, especially for preschools and government institutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does installation take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard installations can be completed within 5–7 days post-approval."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it better to choose modular or fixed structures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Modular structures offer flexibility and scalability, making them a smarter investment for growing institutions."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
+          "item": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html"
+        }
+      ]
+    }
+  ]
+}

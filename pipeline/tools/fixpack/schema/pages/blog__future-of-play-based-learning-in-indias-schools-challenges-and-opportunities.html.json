@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html#article",
+      "headline": "Future of Play-Based Learning in India’s Schools: Challenges and Opportunities",
+      "description": "What NEP 2020 means for play-based learning in Indian schools, the challenges schools face and how outdoor play spaces help.",
+      "url": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-30",
+      "image": "https://funplaysystems.com/images/future-image.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Future of Play-Based Learning in India’s Schools: Challenges and Oppor",
+          "item": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html"
+        }
+      ]
+    }
+  ]
+}

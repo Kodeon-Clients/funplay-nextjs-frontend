@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/limlet.html#product",
+      "name": "Limlet Concept Play Structure",
+      "sku": "FOC006",
+      "mpn": "FOC006",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/limlet.html",
+      "image": [
+        "https://funplaysystems.com/images/Orange-Render-1.jpg",
+        "https://funplaysystems.com/images/Orange-Render-2.jpg",
+        "https://funplaysystems.com/images/Orange-Render-3.jpg",
+        "https://funplaysystems.com/images/Orange-Render-4.jpg",
+        "https://funplaysystems.com/images/Orange-Render-5.jpg"
+      ],
+      "description": "Welcome to Limlet, where excitement and relaxation unite in a whimsical wonderland! Perfect for both kids and their guardians, our park features a slice slide, seesaw, family swing, and MGR (Magical Gazebo Retreat). With transparent, colorful panels, the park offers interactive fun for all ages. Come, indulge in unforgettable adventures and cherished moments at Limlet!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Concept Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Banana Yellow & Cherry Red"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Limlet Concept Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/limlet.html"
+        }
+      ]
+    }
+  ]
+}

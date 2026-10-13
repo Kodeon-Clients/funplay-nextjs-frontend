@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-morena.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Morena",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Morena",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Madhya Pradesh"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-morena.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Morena. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhya Pradesh",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Morena",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-morena.html"
+        }
+      ]
+    }
+  ]
+}

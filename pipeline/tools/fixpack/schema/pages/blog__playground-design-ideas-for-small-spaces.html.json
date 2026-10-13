@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html#article",
+      "headline": "Playground Design Ideas for Small Spaces",
+      "description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, rooftop ideas and layout tips.",
+      "url": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-02",
+      "image": "https://funplaysystems.com/images/clients/park.jpeg"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Playground Design Ideas for Small Spaces",
+          "item": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html"
+        }
+      ]
+    }
+  ]
+}

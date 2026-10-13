@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/hittu.html#product",
+      "name": "Hittu Nature Play Structure",
+      "sku": "FOO04",
+      "mpn": "FOO04",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/hittu.html",
+      "image": [
+        "https://funplaysystems.com/images/Hittu-1.jpg",
+        "https://funplaysystems.com/images/Hittu-2.jpg",
+        "https://funplaysystems.com/images/Hittu-3.jpg",
+        "https://funplaysystems.com/images/Hittu-4.jpg",
+        "https://funplaysystems.com/images/Hittu-5.jpg",
+        "https://funplaysystems.com/images/Hittu-6.jpg"
+      ],
+      "description": "Hittu, also called as Pink Hen, burst with playful colors that will capture kids imaginations! With spread wings on either side, this hen invites children to climb on and slide down, adding an exciting twist to traditional play.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "25'9\" x 20'4\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "617.22 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "467.36 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Sliding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Imagination Gross Motor Skills"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sea Green"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hittu Nature Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/hittu.html"
+        }
+      ]
+    }
+  ]
+}

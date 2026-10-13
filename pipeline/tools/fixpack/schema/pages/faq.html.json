@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://funplaysystems.com/faq.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the different types of playground equipment that you offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer outdoor multi-play systems for kids that includes Slides, Swings, Climbers, Merry-go-round’s, Spinners, Spring Riders and See-Saw. We also provide outdoor gym equipment’s for adults."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you also provide play systems based on a particular theme/location?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We have various theme-based designs already available in our recently launched catalogs i.e Funplay Originals and Funplay CoreCraft. Apart from that we also take customized design projects as per requirement depending on the scope of design."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an option to choose colors of our choice or customization in any way?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, but all our products have a diverse and balanced color options available. We provide 12 color options in plastic and 7 color options in metals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What measures have been taken for ensuring the safety of kid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All our products are designed as per the international safety standards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What site preparation is required before installation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Before you begin the installation process, it is essential to ensure that A. The proposed area is clear of any rocks, debris, or other obstructions. B. Check that the site is correctly level. C. Provide proper drainage to avoid accumulation of water."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I place an order?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can contact us on +91 9028302266 / +91 9028302266 or email us on Sales@funplaysystems,com for Enquiries & we shall get in touch with you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the lead time for delivery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We take minimum 3-4 weeks for the production."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you ship internationally",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we do ship globally."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "1. What is the life span of these equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Life span of our products is around 10 years depending on the usage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How durable are your products?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide 3 years warranty on all our products and 1 year free After Sales Support services. We use corrosion resistant GI metal pipes, Impact resistant LLDPE plastic and Weather proof composites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "3. What if the products get damaged? Can I get it repaired for free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the products get damaged within one year of purchase, we provide free replacement or repair of the damaged parts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you maintain your play equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide 1-year free services. Post that we have an Annual maintenance Contract that includes servicing of moving parts, Inspection of wooden parts and refinishing if required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your products environment friendly?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, majorly! All our standard products are produced from recyclable LLDPE plastic. The wood we use is sustainably sourced. Moreover, we us composites produced from recycled materials."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "FAQs",
+          "item": "https://funplaysystems.com/faq.html"
+        }
+      ]
+    }
+  ]
+}

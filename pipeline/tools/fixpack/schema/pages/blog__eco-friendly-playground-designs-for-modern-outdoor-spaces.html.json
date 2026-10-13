@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html#article",
+      "headline": "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+      "description": "Eco-friendly playground design ideas: recycled and recyclable materials, natural elements, shade and long-life equipment.",
+      "url": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-08-04",
+      "image": "https://funplaysystems.com/images/eco-friendly-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+          "item": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html"
+        }
+      ]
+    }
+  ]
+}

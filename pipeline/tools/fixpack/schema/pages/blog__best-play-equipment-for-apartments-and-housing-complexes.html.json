@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/best-play-equipment-for-apartments-and-housing-complexes.html#article",
+      "headline": "Best Play Equipment for Apartments and Housing Complexes",
+      "description": "Which playground equipment suits apartments and housing societies: space-saving play stations, age zones, safety surfacing and budgets.",
+      "url": "https://funplaysystems.com/blog/best-play-equipment-for-apartments-and-housing-complexes.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/best-play-equipment-for-apartments-and-housing-complexes.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-17",
+      "image": "https://funplaysystems.com/images/best-playground-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Best Play Equipment for Apartments and Housing Complexes",
+          "item": "https://funplaysystems.com/blog/best-play-equipment-for-apartments-and-housing-complexes.html"
+        }
+      ]
+    }
+  ]
+}

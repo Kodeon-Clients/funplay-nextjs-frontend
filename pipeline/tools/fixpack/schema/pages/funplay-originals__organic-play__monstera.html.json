@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/monstera.html#product",
+      "name": "Monstera Nature Play Structure",
+      "sku": "FOO06",
+      "mpn": "FOO06",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/monstera.html",
+      "image": [
+        "https://funplaysystems.com/images/Monstera-1.jpg",
+        "https://funplaysystems.com/images/Monstera-2.jpg",
+        "https://funplaysystems.com/images/Monstera-3.jpg",
+        "https://funplaysystems.com/images/Monstera-4.jpg",
+        "https://funplaysystems.com/images/Monstera-5.jpg"
+      ],
+      "description": "Monstera is a multi-level system inspired by the characteristics of Monstera leaves. Featuring organic shape cutouts, it maximizes visibility and invites natural light into the play area.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "30' x 26'4\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "731.52 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "619.76 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Climbing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Imagination Body Strength"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Lemon Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Monstera Nature Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/monstera.html"
+        }
+      ]
+    }
+  ]
+}

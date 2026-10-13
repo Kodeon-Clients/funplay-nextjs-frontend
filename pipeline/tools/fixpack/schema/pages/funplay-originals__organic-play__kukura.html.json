@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/kukura.html#product",
+      "name": "Kukura",
+      "sku": "FOO08",
+      "mpn": "FOO08",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/kukura.html",
+      "image": [
+        "https://funplaysystems.com/images/Kukura-1.jpg",
+        "https://funplaysystems.com/images/Kukura-2.jpg"
+      ],
+      "description": "Kukura is more than just a name it’s an expression of fun! This playful addition to the ordinary spring rider offers kids an extra dose of excitement and enjoyment.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Spring Rider",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 8 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "8'3\" x 4'11\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "129.54 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "335.28 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Riding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Imagination"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kukura",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/kukura.html"
+        }
+      ]
+    }
+  ]
+}

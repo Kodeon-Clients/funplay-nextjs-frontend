@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html#product",
+      "name": "Fortress Fun Castle Multi Play Station",
+      "sku": "CASMPFS03",
+      "mpn": "CASMPFS03",
+      "url": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html",
+      "image": [
+        "https://funplaysystems.com/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+        "https://funplaysystems.com/images/castle-Crest-Fortress-Fun-Green-product-image.jpg",
+        "https://funplaysystems.com/images/castle-Crest-Fortress-Fun-Blue-1-product-image.jpg",
+        "https://funplaysystems.com/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg"
+      ],
+      "description": "Jump into a world of grandeur and imagination with the Royal Castle Adventure Series. These designs evoke the splendor of ancient castles and majestic adventures, providing kids with spaces resembling real castles and forts. This series promises a regal play experience filled with swinging, sliding, hanging, and climbing activities fit for young royalty. Adorned with crown-shaped elements and a castle canopy, it provides shade while adding to the royal theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Castle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "30'5\" x 30'2\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "774.7 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "767.08 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Cherry Red & Baby Blue, Mnago Yellow & Forst Green, Baby Blue & Knight Blue"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "20"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-10-10",
+          "reviewBody": "The Fortress Fun playground is a fantastic choice for fostering imaginative play and physical activity. Kids absolutely love it!",
+          "name": "A Thrilling Adventure for Kids",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Castle Crest Castle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/castle-crest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fortress Fun Castle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html"
+        }
+      ]
+    }
+  ]
+}

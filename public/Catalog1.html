@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <title>Catalog1</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="funplay" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta name="description"
+        content="If you are looking for outdoor playground equipment manufacturer & supplier then you have came at right place." />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <!-- favicon icon -->
+    <link rel="shortcut icon" href="images/favicon.png" />
+    <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
+    <!-- google fonts preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- style sheets and font icons  -->
+    <link rel="stylesheet" href="css/vendors.min.css" />
+    <link rel="stylesheet" href="css/icon.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+</head>
+
+<body>
+    <section id="down-section" class="background-position-center-top" style="
+        background-image: url('images/pat1.svg'); background-color: #E6F5FC; position: relative;
+      ">
+        <div class="opacity-light bg-dark-gray"></div>
+        <div class="container" style="position: relative;">
+            <div class="row mb-6">
+                <div class="col px-0 sm-ps-15px sm-pe-15px">
+                    <ul id="gallery"
+                        class="image-gallery-style-01 gallery-wrapper grid grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-1col xs-grid-1col gutter-large">
+                        <li class="grid-sizer"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <a href="/files/IDAC-Booklet-V2.pdf" id="downloadButton"
+                class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge submit m-auto d-block"
+                style="width: fit-content;" download>
+                Download IDAC Booklet
+            </a>
+        </div>
+    </section>
+    <script>
+        // Array of image file names
+        const images = [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp",
+            "9.webp",
+            "10.webp",
+            "Astronaut Plain Render.34 1.webp",
+            "Bear.106 1.webp",
+            "Bee 3.webp",
+            "Bee Render.48 1.webp",
+            "Color Wheel.29 1.webp",
+            "colorfall.411.webp",
+            "Continous Bell.423.webp",
+            "Continous Bell.425.webp",
+            "Copter 1.webp",
+            "Copter Render.50 1.webp",
+            "Crab 1.webp",
+            "Crab Render.67 1.webp",
+            "Dino 1.webp",
+            "Dino Render.54 1.webp",
+            "Driver Render.35 1.webp",
+            "Echo Chember1.496.webp",
+            "Engine.32 1.webp",
+            "Flower.495.webp",
+            "Maths Plain Render.34 1.webp",
+            "Memory.37 1.webp",
+            "Mimica Render.39 1.webp",
+            "Mimica.28 1.webp",
+            "Moire Pattern.422.webp",
+            "Pirate Render.46 2.webp",
+            "Possibilities.44 1.webp",
+            "Pressure Roller.423.webp",
+            "Rocket 1.webp",
+            "Rocket Render.55 1.webp",
+            "Rocket Render.55 1.webp",
+            "Shop Render.40 1.webp",
+            "Tactica.426.webp",
+            "Texture Zoo.497.webp",
+        ];
+
+        // Get the gallery UL element
+        const gallery = document.getElementById("gallery");
+
+        // Loop through images array and create LI elements
+        images.forEach(img => {
+            const li = document.createElement("li");
+            li.className = "grid-item transition-inner-all";
+
+            li.innerHTML = `
+            <div class="gallery-box">
+                <a href="images/catalog/${img}" data-group="lightbox-gallery" title="Lightbox gallery image title...">
+                    <div class="position-relative gallery-image bg-white overflow-hidden">
+                        <img src="images/catalog/${img}" alt="funplay" />
+                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                            <div class="d-flex align-items-center justify-content-center w-50px h-50px rounded-circle bg-dark-gray">
+                                <i class="feather icon-feather-search text-white icon-small"></i>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        `;
+
+            gallery.appendChild(li);
+        });
+
+        document.getElementById("downloadButton").addEventListener("click", function () {
+            const url = "/files/IDAC-Booklet-V2.pdf"; 
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = "IDAC-Booklet-V2.pdf"; 
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        });
+    </script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/vendors.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>

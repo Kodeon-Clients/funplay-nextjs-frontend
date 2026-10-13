@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html#product",
+      "name": "Blossam Brook Jungle Multi Play Station",
+      "sku": "F0RMPFS04",
+      "mpn": "F0RMPFS04",
+      "url": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html",
+      "image": [
+        "https://funplaysystems.com/images/BlossomBrook-green-product-image.jpg",
+        "https://funplaysystems.com/images/BlossomBrook-green2-product-image.jpg",
+        "https://funplaysystems.com/images/BlossomBrook-orange-product-image.jpg",
+        "https://funplaysystems.com/images/BlossomBrook-blue-product-image.jpg"
+      ],
+      "description": "Get on an adventure into the heart of the jungle with the Forestia Series Playground Equipment. Designed to immerse children in a vibrant and imaginative play environment inspired by the wonders of nature. This features realistic tree-like structures, leafy accessories, earthy tones tree house canopies, creating an authentic jungle atmosphere. Also Includes adventurous features such as vine ropes, log bridges, and treehouse platforms that mimic the experience of navigating through a jungle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Jungle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "39'9\" x 31'3\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1059.18 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "769.62 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Red, Play Orange, Knight Blue"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "reviewCount": "22"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-11-15",
+          "reviewBody": "The Blossam Brook is a beautiful nature-inspired playground that kids absolutely adore. It encourages creativity and exploration in a safe environment!",
+          "name": "A Nature-Inspired Adventure",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Forestia Jungle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/forestia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Blossam Brook Jungle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html"
+        }
+      ]
+    }
+  ]
+}

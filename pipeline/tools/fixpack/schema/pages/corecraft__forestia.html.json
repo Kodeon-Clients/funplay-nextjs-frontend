@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/corecraft/forestia.html#webpage",
+      "url": "https://funplaysystems.com/corecraft/forestia.html",
+      "name": "Forestia Jungle-Themed Playground Equipment",
+      "description": "Forestia jungle-themed multi play stations by FunPlay: palm-tree towers, slides, nets and swings for ages 3–12. See models and get a quote.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html",
+            "name": "Blossam Brook Jungle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/corecraft/forestia/gloracia.html",
+            "name": "Gloracia Jungle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l1.html",
+            "name": "Jungle Jive-l1 Jungle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html",
+            "name": "Jungle Jive-l2 Jungle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html",
+            "name": "King Kong Play Park Jungle Multi Play Station"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Forestia Jungle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/forestia.html"
+        }
+      ]
+    }
+  ]
+}

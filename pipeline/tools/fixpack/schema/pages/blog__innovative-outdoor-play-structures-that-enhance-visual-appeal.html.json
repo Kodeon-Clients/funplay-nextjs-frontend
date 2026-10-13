@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/innovative-outdoor-play-structures-that-enhance-visual-appeal.html#article",
+      "headline": "Innovative Outdoor Play Structures That Enhance Visual Appeal",
+      "description": "Innovative outdoor play structures that add visual appeal to parks, townships and resorts while keeping play value high.",
+      "url": "https://funplaysystems.com/blog/innovative-outdoor-play-structures-that-enhance-visual-appeal.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/innovative-outdoor-play-structures-that-enhance-visual-appeal.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-08-25",
+      "image": "https://funplaysystems.com/images/castle-crest-banner.jpg"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Innovative Outdoor Play Structures That Enhance Visual Appeal",
+          "item": "https://funplaysystems.com/blog/innovative-outdoor-play-structures-that-enhance-visual-appeal.html"
+        }
+      ]
+    }
+  ]
+}

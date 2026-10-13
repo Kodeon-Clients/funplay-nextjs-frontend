@@ -1,0 +1,166 @@
+# =====================================================================
+# FunPlay Systems – SEO redirects (2026-10-05)
+# Paste this block at the TOP of the existing .htaccess in the site root
+# (public_html). Keep a backup of the old file first.
+# =====================================================================
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# 1) Force one host: https://funplaysystems.com (no www, no mail.)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC,OR]
+RewriteCond %{HTTP_HOST} ^mail\. [NC]
+RewriteRule ^(.*)$ https://funplaysystems.com/$1 [R=301,L,NE]
+
+# 2) Homepage duplicates
+RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
+RewriteRule ^index\.html$ / [R=301,L]
+
+# 3) Page-level redirects (404s, duplicates, renamed files)
+# Folder URL duplicates category page
+RewriteRule ^corecraft/individual-equipment/spring-rider/$ /corecraft/individual-equipment/spring-rider.html [R=301,L,NC]
+
+# Mixed-case duplicate
+RewriteRule ^blog/behind-the-scenes-funPlays-manufacturing-marvel\.html$ /blog/behind-the-scenes-funplays-manufacturing-marvel.html [R=301,L]
+
+# Same city as Bangalore page (38 clicks)
+RewriteRule ^outdoor-playground-equipment-manufacturer-in-bengaluru\.html$ /outdoor-playground-equipment-manufacturer-in-bangalore.html [R=301,L,NC]
+
+# Same city as Rourkela page
+RewriteRule ^outdoor-playground-equipment-manufacturer-in-raurkela-industrial-township\.html$ /outdoor-playground-equipment-manufacturer-in-rourkela.html [R=301,L,NC]
+
+# 404 – wrong case
+RewriteRule ^outdoor-playground-equipment-manufacturer-in-Tripura\.html$ /outdoor-playground-equipment-manufacturer-in-tripura.html [R=301,L]
+
+# 404 – old page
+RewriteRule ^PLAYGROUND-SURFACING\.html$ /blog/school-playground-surface-materials-which-one-is-best.html [R=301,L,NC]
+
+# 404 – old page
+RewriteRule ^WELLNESS-ZONE\.html$ /corecraft/fun-fitness-equipment.html [R=301,L,NC]
+
+# 404 – old page
+RewriteRule ^roto-mpfs\.html$ /corecraft/play-lands.html [R=301,L,NC]
+
+# 404 – broken blog link
+RewriteRule ^contact$ /contact-us.html [R=301,L,NC]
+
+# 404 – broken blog link
+RewriteRule ^get-a-quote$ /contact-us.html [R=301,L,NC]
+
+# 404 – broken blog link
+RewriteRule ^pricing$ /contact-us.html [R=301,L,NC]
+
+# 404 – old product URL
+RewriteRule ^corecraft/fun-fitness-equipment/leg-press-cum-seating-twister\.html$ /corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html [R=301,L,NC]
+
+# 404 – product URL (live file has a typo: strtaight)
+RewriteRule ^corecraft/individual-equipment/slide-7foot-height/straight-tunnel-slide\.html$ /corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html [R=301,L,NC]
+
+# 404 – copy-file URL
+RewriteRule ^corecraft/individual-equipment/slide-3foot-height/straight-open-slide\s\(2\)\.html$ /corecraft/individual-equipment/slide-3foot-height/straight-open-slide.html [R=301,L,NC]
+
+# 404 – old blog URL
+RewriteRule ^blog/imported-vs-indian-playground-equipment-budget-comparison\.html$ /blog/imported-vs-indian-playground-equipment.html [R=301,L,NC]
+
+# 404 – old blog URL
+RewriteRule ^blog/what-landscape-architects-look-for-in-playground-equipment-manufacturer\.html$ /blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html [R=301,L,NC]
+
+# 404 – missing .html
+RewriteRule ^blog/creating-child-friendly-play-zones-in-residential-areas$ /blog/creating-child-friendly-play-zones-in-residential-areas.html [R=301,L,NC]
+
+# 404 – missing .html
+RewriteRule ^blog/preschool-play-equipment-what-to-choose-and-why-it-matters$ /blog/preschool-play-equipment-what-to-choose-and-why-it-matters.html [R=301,L,NC]
+
+# 404 – missing .html
+RewriteRule ^blog/what-every-school-playground-should-include$ /blog/what-every-school-playground-should-include.html [R=301,L,NC]
+
+# 404 – old blog URL
+RewriteRule ^blog/school-playground-surface-materials-in-india-ist$ /blog/school-playground-surface-materials-which-one-is-best.html [R=301,L,NC]
+
+# 404 – folder URL
+RewriteRule ^blog/eco-friendly-playground-designs-for-modern-outdoor-spaces/$ /blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html [R=301,L,NC]
+
+# 404 – old blog URL
+RewriteRule ^blog/creating-green-and-sustainable-playgrounds-as-a-model-for-indias-future\.html$ /blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html [R=301,L,NC]
+
+# 404 – old blog URL
+RewriteRule ^blog/creating-green-and-sustainable-playgrounds-for-indias-future\.html$ /blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html [R=301,L,NC]
+
+# 404 – variant of renamed post
+RewriteRule ^blog/do-and-don-t-in-playground-for-kids\.html$ /blog/playground-safety-dos-and-donts-for-kids.html [R=301,L,NC]
+
+# 404 – variant of renamed post
+RewriteRule ^blog/do-and-don-ts-in-playground-for-kids\.html$ /blog/playground-safety-dos-and-donts-for-kids.html [R=301,L,NC]
+
+# 404 – variant of renamed post
+RewriteRule ^blog/do-and-dont-in-playground-for-kids\.html$ /blog/playground-safety-dos-and-donts-for-kids.html [R=301,L,NC]
+
+# Rename: apostrophe in URL (209 clicks – rename the file, then 301)
+RewriteRule ^blog/do-and-don't-in-playground-for-kids\.html$ /blog/playground-safety-dos-and-donts-for-kids.html [R=301,L,NC]
+
+# Rename: apostrophe in URL
+RewriteRule ^blog/funplay's-innovative-approach-to-playground-design\.html$ /blog/funplays-innovative-approach-to-playground-design.html [R=301,L,NC]
+
+# Rename: typo in URL ('gound')
+RewriteRule ^corecraft/individual-equipment/merry-go-gound\.html$ /corecraft/individual-equipment/merry-go-round.html [R=301,L,NC]
+
+# 404 – link with en-dash; no Hubli page exists
+RewriteRule ^outdoor-playground-equipment-manufacturer-in-hubli–dharwad\.html$ /outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html [R=301,L,NC]
+
+# Old-template link (Sirsa, Ahmednagar gym pages)
+RewriteRule ^contact\.html$ /contact-us.html [R=301,L,NC]
+
+# Old-template link
+RewriteRule ^about\.html$ /about-us.html [R=301,L,NC]
+
+# Old-template link
+RewriteRule ^testimonials\.html$ /about-us.html [R=301,L,NC]
+
+# Old-template link (lowercase)
+RewriteRule ^products\.html$ /Products.html [R=301,L]
+
+# Old-template link
+RewriteRule ^MULTI-PLAY-FUN-SYSTEM\.html$ /corecraft/play-lands.html [R=301,L,NC]
+
+# Old-template link
+RewriteRule ^INDIVIDUAL-ITEMS\.html$ /corecraft/individual-equipment.html [R=301,L,NC]
+
+# Old-template link
+RewriteRule ^GARDEN-DECOR\.html$ /corecraft/garden-decor.html [R=301,L,NC]
+
+# Old-template link – product no longer sold
+RewriteRule ^hand-sanitizer\.html$ /Products.html [R=301,L,NC]
+
+# 4) Strip tracking junk Google is crawling (e.g. ?trk=public_post_comment-text)
+RewriteCond %{QUERY_STRING} (^|&)trk= [NC]
+RewriteRule ^(.*)$ /$1? [R=301,L]
+</IfModule>
+
+# 5) Search results page must never be indexed
+<IfModule mod_headers.c>
+<Files "search-result.html">
+  Header set X-Robots-Tag "noindex, follow"
+</Files>
+</IfModule>
+
+# 6) HSTS (only after HTTPS redirect is confirmed working on all hosts)
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000" env=HTTPS
+</IfModule>
+
+# 7) Browser caching for static files (LiteSpeed honours mod_expires)
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+
+# 8) Serve sitemaps and llms.txt with the right type
+AddType application/xml .xml
+AddType text/plain .txt

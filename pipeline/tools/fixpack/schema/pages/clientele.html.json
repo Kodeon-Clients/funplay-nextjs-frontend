@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/clientele.html#webpage",
+      "url": "https://funplaysystems.com/clientele.html",
+      "name": "Clients Who Trust FunPlay Systems",
+      "description": "FunPlay Systems supplies playground equipment to municipal corporations, PSUs, builders, schools and corporates including NTPC, ONGC, L&T and Tata Steel.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Clients Who Trust FunPlay Systems",
+          "item": "https://funplaysystems.com/clientele.html"
+        }
+      ]
+    }
+  ]
+}

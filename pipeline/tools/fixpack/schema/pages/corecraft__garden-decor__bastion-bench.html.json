@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html#product",
+      "name": "Bastion Bench",
+      "sku": "FPGD007",
+      "mpn": "FPGD007",
+      "url": "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html",
+      "image": [
+        "https://funplaysystems.com/images/bastion-bench-product-image.jpg"
+      ],
+      "description": "Transform your garden into a serene oasis with our exquisite range of Garden décor equipment’s. Featuring beautifully crafted gazebos, stylish pergolas, aesthetic benches and seatings, and practical bins, our collection is designed to enhance the beauty and functionality of any outdoor space. Create a charming and inviting atmosphere that reflects your unique style and love for the outdoors.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Park Bench",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sand Beige"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Garden Decor",
+          "item": "https://funplaysystems.com/corecraft/garden-decor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bastion Bench",
+          "item": "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html"
+        }
+      ]
+    }
+  ]
+}

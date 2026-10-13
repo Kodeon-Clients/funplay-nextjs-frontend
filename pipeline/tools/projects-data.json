@@ -1,0 +1,1018 @@
+{
+ "/projects/dighe-garden.html": {
+  "title": "Dighe Garden",
+  "subtitle": "THANE",
+  "description": "Revitalizing public spaces with inclusive play solutions that encourage active lifestyles.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/dighe-garden-thane/1.jpg",
+   "../images/projects/dighe-garden-thane/2.jpg",
+   "../images/projects/dighe-garden-thane/3.jpg",
+   "../images/projects/dighe-garden-thane/4.jpg",
+   "../images/projects/dighe-garden-thane/5.jpg",
+   "../images/projects/dighe-garden-thane/6.jpg",
+   "../images/projects/dighe-garden-thane/7.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/dindigul-resorts-tamil-nadu.html": {
+  "title": "DINDIGUL RESORTS",
+  "subtitle": "TAMIL NADU",
+  "description": "ffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/dindigul-resorts-tamil-nadu/1.webp",
+   "../images/projects/dindigul-resorts-tamil-nadu/2.webp",
+   "../images/projects/dindigul-resorts-tamil-nadu/3.webp",
+   "../images/projects/dindigul-resorts-tamil-nadu/4.webp",
+   "../images/projects/dindigul-resorts-tamil-nadu/5.webp",
+   "../images/projects/dindigul-resorts-tamil-nadu/6.webp"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/nakshatravan.html": {
+  "title": "Nakshatravan",
+  "subtitle": "THANE",
+  "description": "Crafting nature-inspired recreational environments for communities to connect and thrive.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/nakshatra-van-thane/1.jpg",
+   "../images/projects/nakshatra-van-thane/2.jpg",
+   "../images/projects/nakshatra-van-thane/3.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/nicon-vista.html": {
+  "title": "Nicon Vista",
+  "subtitle": "MUMBAI",
+  "description": "Elevating residential experiences with modern and child-friendly recreational zones.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/nicon-vista-mumbai/1.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/section/sec6img2.webp",
+   "../images/campaign/section/builder2.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder4.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder2.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/praharsh-highland.html": {
+  "title": "Praharsh Highland",
+  "subtitle": "GUJRAT",
+  "description": "Designing joyful outdoor destinations that enrich everyday community living.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/praharsh-highland-gujrat/1.jpg",
+   "../images/projects/praharsh-highland-gujrat/2.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/ratnakar-aravali.html": {
+  "title": "Ratnakar Aravali",
+  "subtitle": "GUJRAT",
+  "description": "Designing joyful outdoor destinations that enrich everyday community living.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/ratnakar-aravali-gujrat/1.jpeg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/ratnakar-prestine.html": {
+  "title": "Ratnakar Prestine",
+  "subtitle": "GUJRAT",
+  "description": "Creating premium outdoor experiences that complement contemporary residential living.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/ratnakar-prestine-gujrat/1.jpg",
+   "../images/projects/ratnakar-prestine-gujrat/3.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/raymond-thane.html": {
+  "title": "Raymond",
+  "subtitle": "THANE",
+  "description": "ffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/raymond-thane/1.webp",
+   "../images/projects/raymond-thane/2.webp",
+   "../images/projects/raymond-thane/3.webp"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/banners/funplay-banner.webp",
+   "../images/campaign/banners/sec2banner.webp",
+   "../images/campaign/banners/sec7banner.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/royal-mangalam.html": {
+  "title": "Royal Mangalam",
+  "subtitle": "MUMBAI",
+  "description": "Building vibrant community hubs where play, fitness, and leisure come together.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/royal-mangalam-mumbai/1.jpg",
+   "../images/projects/royal-mangalam-mumbai/2.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/section/sec6img2.webp",
+   "../images/campaign/section/builder2.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder4.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder2.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/st-andrews-school.html": {
+  "title": "St. Andrews High School",
+  "subtitle": "TELENGANA",
+  "description": "Creating vibrant play spaces that inspire learning, creativity, and active childhood development.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/st-andrews-school-telengana/1.jpg",
+   "../images/projects/st-andrews-school-telengana/2.jpg",
+   "../images/projects/st-andrews-school-telengana/3.jpeg",
+   "../images/projects/st-andrews-school-telengana/4.jpg",
+   "../images/projects/st-andrews-school-telengana/5.jpg",
+   "../images/projects/st-andrews-school-telengana/6.jpg",
+   "../images/projects/st-andrews-school-telengana/7.jpg",
+   "../images/projects/st-andrews-school-telengana/8.jpg",
+   "../images/projects/st-andrews-school-telengana/9.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/section/sec6img2.webp",
+   "../images/campaign/section/builder2.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder4.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder2.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/swr-railways.html": {
+  "title": "SWR - Railways",
+  "subtitle": "BANGALORE",
+  "description": "Enhancing community living with safe, engaging, and inclusive recreational environments.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/swr-railways-bangalore/1.jpeg",
+   "../images/projects/swr-railways-bangalore/2.jpeg",
+   "../images/projects/swr-railways-bangalore/3.jpeg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/section/sec6img2.webp",
+   "../images/campaign/section/builder2.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder4.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder2.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ },
+ "/projects/turquoise-grandeure.html": {
+  "title": "Turquoise Grandeure",
+  "subtitle": "GUJARAT",
+  "description": "Bringing families together through thoughtfully designed outdoor play and leisure spaces.",
+  "image": "../images/campaign/section/img1.webp",
+  "schoolPlayGroundSetup": [
+   "../images/projects/turquoise-grandeure-gujrat/1.jpg",
+   "../images/projects/turquoise-grandeure-gujrat/2.jpg"
+  ],
+  "productsIntsalled": [
+   "../images/campaign/section/sec6img2.webp",
+   "../images/campaign/section/builder2.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder4.webp",
+   "../images/campaign/section/builder3.webp",
+   "../images/campaign/section/builder2.webp"
+  ],
+  "atFunplay": [
+   {
+    "title": "At FunPlay, our playgrounds don't just fill up space in your site plan —they elevate it.",
+    "description": "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face—tight timelines, budget efficiency, and buyer expectations.\n\nOur solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand's reputation. From seamless install integration to boosting buyer appeal, our award-winning units are engineered to delight.",
+    "image": "../images/campaign/section/img1.webp",
+    "whyLeadingDevelopersChooseUs": [
+     {
+      "icon": "../images/campaign/icons/icon6.svg",
+      "title": "Award-winning aesthetics"
+     },
+     {
+      "icon": "../images/campaign/icons/icon5.svg",
+      "title": "RERA & ISO compliant"
+     },
+     {
+      "icon": "../images/campaign/icons/icon4.svg",
+      "title": "Site plan integration support"
+     },
+     {
+      "icon": "../images/campaign/icons/icon1.svg",
+      "title": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "icon": "../images/campaign/icons/star.svg",
+      "title": "Adds real estate value and buyer appeal"
+     },
+     {
+      "icon": "../images/campaign/icons/trust.svg",
+      "title": "Trusted by 100+ top builders"
+     }
+    ],
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf"
+   }
+  ],
+  "solutionForEvery": [
+   {
+    "title": "Solutions for every kind of playground project",
+    "downloadCatalogueUrl": "/files/Funplay-Originals.pdf",
+    "card": [
+     {
+      "title": "Schools & Educational Institutions",
+      "description": "Built for learning through play",
+      "image": "../images/campaign/section/sec6img1.webp"
+     },
+     {
+      "title": "Builders & Societies",
+      "description": "Designed for communities & real estate projects",
+      "image": "../images/campaign/section/sec6img2.webp"
+     },
+     {
+      "title": "Government & Public Spaces ",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     },
+     {
+      "title": "Malls & Daycares",
+      "description": "Designed for communities and real estate projects",
+      "image": "../images/campaign/section/sec6img4.webp"
+     },
+     {
+      "title": "Homes & Private Villas",
+      "description": "Compliant, inclusive, long-lasting",
+      "image": "../images/campaign/section/sec6img5.webp"
+     }
+    ]
+   }
+  ]
+ }
+}

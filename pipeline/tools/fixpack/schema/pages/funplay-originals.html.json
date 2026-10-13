@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/funplay-originals.html#webpage",
+      "url": "https://funplaysystems.com/funplay-originals.html",
+      "name": "FunPlay Originals Designer Play Equipment",
+      "description": "FunPlay Originals: award-winning, India-inspired play structures designed in-house, from origami climbers to nature and traditional games play.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/funplay-originals/conceptual.html",
+            "name": "Conceptual Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi.html",
+            "name": "Kagzi Origami-Inspired Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/funplay-originals/khel-khud.html",
+            "name": "Khel Khud Indian Games-Inspired Play Equipment"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh.html",
+            "name": "Nature Sparsh Nature-Inspired Play Stations"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/funplay-originals/organic-play.html",
+            "name": "Organic Play Nature Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://funplaysystems.com/funplay-originals/timeless-play.html",
+            "name": "Timeless Play Structures"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://funplaysystems.com/funplay-originals/wall-play.html",
+            "name": "Wall Play Interactive Panels"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals Designer Play Equipment",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        }
+      ]
+    }
+  ]
+}

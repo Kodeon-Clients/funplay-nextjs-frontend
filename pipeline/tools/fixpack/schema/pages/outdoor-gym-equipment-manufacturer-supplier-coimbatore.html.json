@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-coimbatore.html#service",
+      "name": "Outdoor Gym Equipment Manufacturer & Supplier in Coimbatore",
+      "serviceType": "Outdoor gym equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Coimbatore",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Tamil Nadu"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-coimbatore.html",
+      "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Coimbatore. Made in our Vasai factory. Get a free."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "India",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym – Coimbatore",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-coimbatore.html"
+        }
+      ]
+    }
+  ]
+}

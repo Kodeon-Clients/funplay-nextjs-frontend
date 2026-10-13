@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html#product",
+      "name": "Fugadi Revolving Play Pole",
+      "sku": "FOTP04",
+      "mpn": "FOTP04",
+      "url": "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html",
+      "image": [
+        "https://funplaysystems.com/images/Fugadi-product-image.jpg"
+      ],
+      "description": "Fugdi, a versatile playground equipment, stands out from others by encouraging rhythmic dance along with play, involving revolving around instead of the usual spinning activity—a unique intervention in the industry. It is designed for everyone, regardless of age or gender.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Revolving Play Pole",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "21'6\" x 18'18\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "502.92 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "408.94 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Revolving Balancing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Arm Strength Cognitive Balance Spatial Awareness"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Red & Baby Blue"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Timeless Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fugadi Revolving Play Pole",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html"
+        }
+      ]
+    }
+  ]
+}

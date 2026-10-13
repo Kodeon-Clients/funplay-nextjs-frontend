@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html#product",
+      "name": "Unt Savari",
+      "sku": "FOO07",
+      "mpn": "FOO07",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html",
+      "image": [
+        "https://funplaysystems.com/images/Unt-Savari-1.jpg",
+        "https://funplaysystems.com/images/Unt-Savari-2.jpg"
+      ],
+      "description": "Embark on a camel safari right in your own play park with our lifelike camel! Let our camel take you to a whole new world of adventure and fun. With its innovative design featuring a hump popping up at the back, it offers a realistic riding experience for children.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Spring Rider",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 8 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "7'9\" x 5'6\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "114.3 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "45.72 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Riding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Imagination Creativity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Mango Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Unt Savari",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html"
+        }
+      ]
+    }
+  ]
+}

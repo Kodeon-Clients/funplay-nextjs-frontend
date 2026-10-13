@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/fun-fitness-equipment/abb-trainer.html#product",
+      "name": "ABB Trainer Outdoor Gym Equipment",
+      "sku": "FFE025",
+      "mpn": "FFE025",
+      "url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/abb-trainer.html",
+      "image": [
+        "https://funplaysystems.com/images/Abb-Trainer-product-image.jpg"
+      ],
+      "description": "Discover the joy of outdoor workouts with the \"Fun Fitness\" series. Our robust and versatile gym equipment is designed to bring out your inner strength while making fitness fun and accessible for everyone. Perfect for parks, recreational areas, and community spaces, this series encourages a healthy lifestyle through engaging physical activities in the great outdoors.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Outdoor Gym Equipment",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Orange"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "30"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2024-01-05",
+          "reviewBody": "The ABB Trainer is a fantastic piece of equipment for strengthening abdominal muscles. It's easy to use and delivers great results for core fitness!",
+          "name": "A Must-Have for Core Strength",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym Equipment",
+          "item": "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ABB Trainer Outdoor Gym Equipment",
+          "item": "https://funplaysystems.com/corecraft/fun-fitness-equipment/abb-trainer.html"
+        }
+      ]
+    }
+  ]
+}

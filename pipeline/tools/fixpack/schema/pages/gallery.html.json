@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/gallery.html#webpage",
+      "url": "https://funplaysystems.com/gallery.html",
+      "name": "Playground Installation Gallery",
+      "description": "Photos of FunPlay playgrounds, outdoor gyms and play structures installed at schools, housing societies and parks across India.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Playground Installation Gallery",
+          "item": "https://funplaysystems.com/gallery.html"
+        }
+      ]
+    }
+  ]
+}

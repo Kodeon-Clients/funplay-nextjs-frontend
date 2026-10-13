@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html#article",
+      "headline": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
+      "description": "What landscape architects need from a playground equipment manufacturer: CAD files, customisation, safety compliance and support.",
+      "url": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-24",
+      "image": "https://funplaysystems.com/images/what-landscape-image.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What Landscape Architects Look for in a Playground Equipment Manufactu",
+          "item": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/pachkili.html#product",
+      "name": "Pachkili Nature Play Structure",
+      "sku": "FOO03",
+      "mpn": "FOO03",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/pachkili.html",
+      "image": [
+        "https://funplaysystems.com/images/Pachakili-1.jpg",
+        "https://funplaysystems.com/images/Pachakili-2.jpg"
+      ],
+      "description": "Pachakili is a dynamic circuit that guides kids through a series of exciting activities, inspiring exploration and creativity along the way. Just like the name suggests, it’s a loop of fun that sparks the imagination, allowing kids to imagine themselves soaring through the vibrant world of a parrot’s beak.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "18'4\" x 8'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "406.4 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "134.62 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Sliding Crawling"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Upper Body Strength Spatial Awareness"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Yellow & Green"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pachkili Nature Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/pachkili.html"
+        }
+      ]
+    }
+  ]
+}

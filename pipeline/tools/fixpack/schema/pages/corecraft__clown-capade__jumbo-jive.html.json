@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html#product",
+      "name": "Jumbo Jive Circus Multi Play Station",
+      "sku": "CLOMPFS05",
+      "mpn": "CLOMPFS05",
+      "url": "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html",
+      "image": [
+        "https://funplaysystems.com/images/Jumbo-Jive-1-product-image.jpg",
+        "https://funplaysystems.com/images/Jumbo-Jive-2-product-image.jpg",
+        "https://funplaysystems.com/images/Jumbo-Jive-3-product-image.jpg",
+        "https://funplaysystems.com/images/Jumbo-Jive-4-product-image.jpg"
+      ],
+      "description": "Step into a world of whimsy and laughter with the Clown Capade Series. The funny looking tilted Clown Canopies brings joy and excitement to children's playtime. This series dazzles with a spectrum of bright colors, creating a cheerful and inviting playground environment reminiscent of a lively circus tent. Includes a variety of entertaining activities such as swinging trapeze bars, spiral slides, hanging rings, and challenging climbing structures.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Circus Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "47'11\" x 38'4\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1338.58 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "985.52 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "30"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-10-30",
+          "reviewBody": "The Jumbo Jive is an incredible addition to any playground. Its clown-inspired design keeps kids entertained while fostering creativity and active play!",
+          "name": "A Playground Full of Joy",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Clown Capade Circus-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/clown-capade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jumbo Jive Circus Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html"
+        }
+      ]
+    }
+  ]
+}

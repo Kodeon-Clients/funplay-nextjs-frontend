@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/role-of-government-and-ngos-in-reclaiming-play-spaces-across-india.html#article",
+      "headline": "Role of Government and NGOs in Reclaiming Play Spaces Across India",
+      "description": "How government bodies and NGOs are reclaiming public play spaces in India, with examples and ways to get involved.",
+      "url": "https://funplaysystems.com/blog/role-of-government-and-ngos-in-reclaiming-play-spaces-across-india.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/role-of-government-and-ngos-in-reclaiming-play-spaces-across-india.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-09"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Role of Government and NGOs in Reclaiming Play Spaces Across India",
+          "item": "https://funplaysystems.com/blog/role-of-government-and-ngos-in-reclaiming-play-spaces-across-india.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/castle/sunspear.html#product",
+      "name": "Sunspear Wooden Castle Playground",
+      "sku": "NXCASU",
+      "mpn": "NXCASU",
+      "url": "https://funplaysystems.com/nexlev-series/castle/sunspear.html",
+      "image": [
+        "https://funplaysystems.com/images/SUNSPEAR-A.jpg",
+        "https://funplaysystems.com/images/SUNSPEAR-B.jpg",
+        "https://funplaysystems.com/images/SUNSPEAR-C.jpg"
+      ],
+      "description": "A castle-themed wooden playground, complete with fort-like structures, cannons, and flags to enhance the experience, is designed to provide children with a variety of engaging activities that promote physical, cognitive, and social development. The equipment includes features that encourage sliding, climbing, balancing, and imaginative play, all within the enchanting setting of a medieval castle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Wooden Castle Playground",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "20 - 25"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "40'11\" x 34'3\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications This castle-themed wooden playground, outfitted with fortress-like elements, cannons, and banners, offers children a range of stimulating activities that support physical, mental, and social growth. The design includes various components that promote climbing, sliding, balancing, and creative play, all set within the magical ambiance of a medieval castle. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 20 - 25 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Team building Perspective talking Leadership"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Cherry Red"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Wooden Castle Playgrounds",
+          "item": "https://funplaysystems.com/nexlev-series/castle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sunspear Wooden Castle Playground",
+          "item": "https://funplaysystems.com/nexlev-series/castle/sunspear.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/individual-equipment/swing/in-curve-post-swing.html#product",
+      "name": "In-Curve Post Swing",
+      "sku": "FPSW04",
+      "mpn": "FPSW04",
+      "url": "https://funplaysystems.com/corecraft/individual-equipment/swing/in-curve-post-swing.html",
+      "image": [
+        "https://funplaysystems.com/images/CURVE-Post-SWING-Product-Image.jpg"
+      ],
+      "description": "Now you have the chance to craft your own playground with our diverse range of individual equipment. Our collection features a variety of classic and innovative pieces that will transform any outdoor space into a vibrant and engaging playground. Explore our latest additions, including the merry-go-round, interactive character spring riders, and gazebos, alongside our popular staples.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Swing",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "6 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "6+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "Diameter 11'2\" x 13'3\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Horizon Teal"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Individual Equipment",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Playground Swings and Swing Sets",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "In-Curve Post Swing",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment/swing/in-curve-post-swing.html"
+        }
+      ]
+    }
+  ]
+}

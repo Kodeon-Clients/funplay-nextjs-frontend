@@ -1,0 +1,680 @@
+[
+  {
+    "name": "Wickey India",
+    "identified": true,
+    "official_url": "https://wickey.ie",
+    "also_known_as": "Wickey GmbH & Co. KG (Germany); also sells under fatmoose brand",
+    "hq": "Gangelt, Germany (foreign brand). No Indian office or Indian distributor found.",
+    "offers": [
+      "outdoor playground (wooden backyard climbing frames, swings, playhouses, sandpits)",
+      "other: children's beds"
+    ],
+    "manufacturing": "Not listed on their website (as of 10 Oct 2026)",
+    "products": "Wooden climbing frames, playhouses, swings, sandpits; 'PRO' commercial range (e.g. Pro Magic Lift, Pro Tumble bars)",
+    "materials": "Solid wood (planed and bevelled) per about-us page",
+    "certifications_claimed": "EN 1176 for its public-use (PRO) playground equipment",
+    "warranty_claimed": "Not stated on about-us page (as of 10 Oct 2026)",
+    "scale_claims": "States company established 2009; founder sold self-developed climbing frames from early 1990s",
+    "relevance": "not comparable",
+    "notes": "Name matches a European wooden-playset brand. No 'Wickey India' entity, Indian distributor or Indian project found in searches. Sold to families across Europe per Swiss trade association listing.",
+    "sources": [
+      "https://wickey.ie/about-us",
+      "https://wickey.ie/pro/playground-equipment-pro-magic-lift",
+      "https://handelsverband.swiss/members/detail/wickey-gmbh-co-kg/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Adventura Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No playground equipment company by this name found. Search results point to 'Adventuraa', a family entertainment park in Vadodara, Gujarat, and 'Adventura', an attraction in Vijayawada, Andhra Pradesh; both are venues, not equipment makers. Ambiguous; client should confirm which company is meant.",
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g297613-d23598182-Reviews-Adventuraa-Vadodara_Vadodara_District_Gujarat.html",
+      "https://tripadvisor.com/Attraction_Review-g303876-d8098017-Reviews-or15-Adventura-Vijayawada_Krishna_District_Andhra_Pradesh.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Kidszone India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company clearly matching 'Kidszone India' found. 'Kids Zone' appears as a product name on TradeIndia listings (e.g. 'Kids Zone Playcentre') and as a generic phrase used by many sellers. Generic name; client should supply a URL.",
+    "sources": [
+      "https://www.tradeindia.com/products/kids-zone-playcentre-c7878362.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Tennisco Softplay",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company by this name found in standard or extended searches (results returned only unrelated tennis and generic soft-play pages).",
+    "sources": [
+      "https://www.softplay.com/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Tiny Town Play Systems",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian equipment company by this name found. 'Tiny Town' appears as a kids' play area venue in Chennai (event listing), as a Sri Lankan play venue, and as product names of US playset sellers (Swing Kingdom, Extreme Kids World).",
+    "sources": [
+      "https://www.district.in/events/tiny-town-kids-play-area-chennai-2026-buy-tickets",
+      "https://swingkingdom.com/products/playsets/commercial-playgrounds/tiny-town-playground"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Fun World Bangalore",
+    "identified": true,
+    "official_url": null,
+    "also_known_as": "Fun World Amusement Park / Fun World and Water World, Bangalore",
+    "hq": "Bangalore, Karnataka",
+    "offers": [
+      "water parks",
+      "other: amusement / theme park (venue operator)"
+    ],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "not comparable",
+    "notes": "Most likely refers to the Fun World amusement and water park in Bangalore, which is a venue, not an equipment manufacturer. Official website not confirmed in this pass.",
+    "sources": [
+      "https://backpackersunited.in/destinations/bangalore/attraction/funworld-bangalore",
+      "https://magicpin.com/blog/Top-water-parks-in-bangalore"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Tumble Tots Equipment",
+    "identified": true,
+    "official_url": "https://www.tumbletots.com/",
+    "also_known_as": "Tumble Tots (UK) Limited; 'Tumble Tots (India)' franchise listing",
+    "hq": "Redditch, Worcestershire, UK (foreign brand). Indian franchise listing names Chennai as preferred expansion location; no Indian outlets listed.",
+    "offers": [
+      "other: children's physical-play activity classes (franchise)"
+    ],
+    "manufacturing": "Not stated; about-us page does not describe equipment manufacture",
+    "products": "Structured physical play classes for ages 6 months to 7 years; online toy shop mentioned",
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": "States founded 1979; about 180 centres across the UK",
+    "relevance": "not comparable",
+    "notes": "No 'Tumble Tots Equipment' company found. The name most likely refers to the UK Tumble Tots class franchise, which is not an equipment seller. The India franchise listing on franchisebazar.com has gaps (no outlets named, text apparently copied from another listing).",
+    "sources": [
+      "https://www.tumbletots.com/about-us/",
+      "https://www.franchisebazar.com/franchise-opportunity/tumble-tots-india"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Playco Soft Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company clearly matching found. A search result titled 'India's Trusted Playground Equipment Manufacturers' pointed to playco.co, but on 10 Oct 2026 that domain redirected to a GoDaddy 'domain for sale' page, so no company content could be verified.",
+    "sources": [
+      "https://playco.co/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Jumpking India",
+    "identified": true,
+    "official_url": null,
+    "also_known_as": "Jump King / JumpKing (owned by YJ (USA) Corporation since 2005)",
+    "hq": "Texas, USA (foreign brand; source lists both Addison, TX and Garland, TX). No Indian office or distributor found; one product appears on Ubuy India, an import marketplace.",
+    "offers": [
+      "trampolines"
+    ],
+    "manufacturing": null,
+    "products": "Recreational backyard trampolines (e.g. JumpPOD range sold by UK retailers)",
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": "B2USA profile states it is the 'largest manufacturer and seller of recreational trampolines in the world', about 60% of US trampoline sales, started 1948 (third-party profile, not brand's own site)",
+    "relevance": "not comparable",
+    "notes": "Official brand website not confirmed in this pass. No India-specific entity found.",
+    "sources": [
+      "https://b2usa.com/hotsite/jumpking",
+      "https://www.ubuy.co.in/product/3RNSVT4-jumpking-rectangle-10-x-15-trampoline-with-2-basketball-hoops-footstep-and-court-print-blue-yellow",
+      "https://www.madfun.co.uk/15ft-jumpking-jumppod-select-trampoline-with-enclosure-jps15b"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Multiplay Equipment",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "Generic name. 'Multiplay' / 'multiplay station' is a common product category used by dozens of Indian sellers (IndiaMart category page, GN Enterprises Jaipur, Nidhi Play System, Kidzlet, etc.). No single company by this name found.",
+    "sources": [
+      "https://dir.indiamart.com/impcat/lldpe-multiplay-equipment.html",
+      "https://www.kidzletmultiplaysystem.com/outdoor-multiplay-equipment.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Rainbow Play Systems",
+    "identified": true,
+    "official_url": null,
+    "also_known_as": "Rainbow Play Systems Inc.",
+    "hq": "Brookings, South Dakota, USA (foreign brand); UK HQ in Bagshot, Surrey per Wikipedia. India not mentioned.",
+    "offers": [
+      "outdoor playground (residential swing sets and playsets)"
+    ],
+    "manufacturing": null,
+    "products": "Backyard swing sets and playsets",
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": "Wikipedia: founded 1985 by Greg Foster; sales countries listed as US, Canada, UK, Mexico, Spain, Panama, Italy, Belarus",
+    "relevance": "not comparable",
+    "notes": "Official website not fetched in this pass. 'Rainbow climber' / 'rainbow ladder' is also a generic playground product name used by many Indian sellers, which may be the source of confusion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rainbow_Play_Systems",
+      "https://m.indiamart.com/impcat/rainbow-ladder.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Supreme Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian company by this name found. 'Supreme Playcenter' is a US backyard wooden playset model sold by several US retailers.",
+    "sources": [
+      "https://superiorplay.com/p/supreme-playcenter-playset/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Play Factory",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian playground or soft-play company by this name found in standard or extended searches.",
+    "sources": [
+      "https://www.tradeindia.com/manufacturers/soft-play-equipment.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Moduplay India",
+    "identified": true,
+    "official_url": "https://moduplay.com.au/",
+    "also_known_as": "Moduplay Group / Moduplay Commercial Play Systems",
+    "hq": "Unanderra, New South Wales, Australia (foreign brand). No Indian office or distributor found.",
+    "offers": [
+      "outdoor playground",
+      "outdoor gym equipment",
+      "other: playground construction"
+    ],
+    "manufacturing": "Australian Made licensee listing; India manufacturing not stated",
+    "products": "Commercial playground equipment and outdoor fitness equipment",
+    "materials": null,
+    "certifications_claimed": "Australian Made licensee (per australianmade.com.au)",
+    "warranty_claimed": null,
+    "scale_claims": "Availability listed as 'Worldwide' on Australian Made listing",
+    "relevance": "not comparable",
+    "notes": "Name matches an Australian manufacturer; no 'Moduplay India' entity or Indian project found.",
+    "sources": [
+      "https://australianmade.com.au/licensees/moduplay-group--commercial-playgrounds-and-outdoor-fitness-equipment",
+      "https://walga.asn.au/suppliers/preferred-supplier-directory/moduplay-group"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Playschool Setup Experts",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "Reads as a generic service description rather than a company name. Exact-phrase search returned only playschool-startup guides and consultancies.",
+    "sources": [
+      "https://citizenmatters.in/articles/3686-quick-guide-to-starting-a-playschool",
+      "https://m.indiamart.com/impcat/playschool.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Swingline Equipments",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No playground company by this name found. 'Swingline' is a US stapler brand and 'Slackers Swingline' is a US backyard rope-swing toy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Swingline",
+      "https://bolderplay.com/products/slackers-swingline-backyard-play-outdoor"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Playtopia",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "Ambiguous. 'Playtopia, Inc.' is a US maker of recycled-plastic playgrounds (Ferguson, Kentucky; states founded 1993); its about-us page shows no India presence. A Facebook page 'Playtopiaindia' exists but could not be verified. Several play venues abroad also use the name.",
+    "sources": [
+      "https://www.playtopiaplaygrounds.com/pages/about-us",
+      "https://www.facebook.com/playtopiaindia"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "SmartPlay India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian company by this name found. 'Smart Play' is a registered product line of Landscape Structures (US), resold by US dealers.",
+    "sources": [
+      "https://www.playlsi.com/en/commercial-playground-equipment/freestanding-playground-equipment/smart-play"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Playcraft India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "Possible: Playcraft Enterprises (Pune)",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company named 'Playcraft India' found. Closest match: Playcraft Enterprises, Pune, Maharashtra, an IndiaMart sole-proprietor trader/distributor (not a manufacturer) listing EPDM flooring, artificial turf, multi-play stations, outdoor gym sets and FRP slides; its listing gives conflicting establishment dates (2025 vs '6 yrs'). Do not assume this is the intended company without client confirmation.",
+    "sources": [
+      "https://m.indiamart.com/playcraft-enterprises/profile.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "EcoSoft Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company by this name found in standard or extended searches.",
+    "sources": [
+      "https://m.indiamart.com/impcat/soft-play-equipment.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "PlayMax India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian company by this name found. Extended search surfaced differently named firms (Play On India, Play Plus India, Sundek) but none called PlayMax.",
+    "sources": [
+      "https://www.playonindia.co.in/",
+      "http://www.playplusindia.com/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Active Arena India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No equipment company by this name found. 'Active Arena' is a football/sports venue in Panathur, Bengaluru; 'Active Sports Fitness Arena' (Faridabad) appears as an indoor gym-equipment seller on aajjo.com. Ambiguous.",
+    "sources": [
+      "https://discover.lyfskills.com/listing/526",
+      "https://www.aajjo.com/product/wrist-conditioner-in-faridabad-active-sports-fitness-arena"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "KinderPlay Equipments",
+    "identified": true,
+    "official_url": "http://www.playground-equipments.com",
+    "also_known_as": "Kinderplay Equipment(s), Bengaluru",
+    "hq": "Bengaluru, Karnataka",
+    "offers": [
+      "outdoor playground"
+    ],
+    "manufacturing": "Per 2012 IndiaMart success story: own factory with in-house welding and grinding; some products outsourced; joint ventures with OEM suppliers abroad",
+    "products": "Swings, slides, see-saws, merry-go-rounds for institutions and residential buildings (per 2012 IndiaMart story)",
+    "materials": "Not found in sources checked (as of 10 Oct 2026)",
+    "certifications_claimed": "Not found in sources checked (as of 10 Oct 2026)",
+    "warranty_claimed": "Not found in sources checked (as of 10 Oct 2026)",
+    "scale_claims": "2012 IndiaMart story: entered manufacturing in 1975; about 2,000 installations in Bengaluru and over 6,000 across India (figures as of 2012)",
+    "relevance": "direct",
+    "notes": "Official website blocks automated fetching (robots.txt), so facts come from a dated 2012 IndiaMart corporate blog interview with partner Mr. Raghunandan. Re-verify on their live site before publishing. Not to be confused with 'Disneys Kinder Play Equipments', a separate FRP playground seller in Kochi, Kerala (IndiaMart).",
+    "sources": [
+      "https://corporate.indiamart.com/2012/09/28/kinderplay-equipment/",
+      "https://m.indiamart.com/disneys-kinder-play"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Arplay India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No company by this name found. A site 'arplayingkids.com' (Arplaykids) appeared in results but blocks automated fetching, so its business and location could not be verified.",
+    "sources": [
+      "https://www.arplayingkids.com/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Little Millennium Infra",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "Little Millennium (preschool chain)",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "'Little Millennium' is an Indian preschool franchise brand (education, daycare). No 'Little Millennium Infra' entity, and no equipment or setup service sold to third parties, was found on its site. Not an equipment manufacturer on available evidence.",
+    "sources": [
+      "https://www.littlemillennium.com/llms.txt",
+      "https://franchise.littlemillennium.com"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Softplay India",
+    "identified": true,
+    "official_url": "https://www.softplay.in/",
+    "also_known_as": "Softplay.in; IndiaMart: softplayindia",
+    "hq": "New Delhi (office: Jhandewalan Extension, New Delhi 110055); site also states offices in Delhi and Patna",
+    "offers": [
+      "indoor soft play",
+      "trampolines (as soft-play add-on)",
+      "other: foam gymnastic kits for preschools/daycares"
+    ],
+    "manufacturing": "States 'design, manufacturing & PAN-India installation'; 'Factory-direct pricing'; production '2 weeks after advance payment'. Factory location not stated.",
+    "products": "Indoor soft play areas and indoor playgrounds for preschools, cafes, malls and daycares; gymnastic soft play equipment; ball pools, slopes, nets",
+    "materials": "States 'certified non-toxic foam, rust-proof GI pipes, and heavy-duty safety nets'; 'certified foam, PU, PVC & child-safe finishes'",
+    "certifications_claimed": "General claim: 'meet international safety standards & certifications'. No specific standard or certificate named.",
+    "warranty_claimed": "Metal/structural frames: 12 months; soft padding and stitching: 6 months (warranty policy page)",
+    "scale_claims": "States 'Founded by an architect with 10 years in the industry'; 'Projects completed for EuroKids, schools, and malls across India'; '3-4 weeks delivery guarantee'",
+    "relevance": "partial",
+    "notes": "Indoor soft play only; outdoor playground and outdoor gym not listed on their website (as of 10 Oct 2026). Founder named on about page as Harsh Vardhan.",
+    "sources": [
+      "https://www.softplay.in/",
+      "https://www.softplay.in/about-soft-play-equipment",
+      "https://www.softplay.in/softplay-warranty",
+      "https://www.indiamart.com/softplayindia/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Pioneer Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian company by this name found. 'Pioneer' is a product name used by US playground dealers (Play Mart, King Swings, AAA State of Play); 'Pioneer Playschool' is a school.",
+    "sources": [
+      "https://playmart.com/product/play-fit/pioneer/",
+      "https://www.pioneerplayschool.com/programs.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Funriders",
+    "identified": true,
+    "official_url": "http://www.funridersindia.com/",
+    "also_known_as": "Funriders Leisure & Amusement Pvt. Ltd.; FunRiders India Pvt. Ltd. (footer); linked to 'Buildindia' per their quality page",
+    "hq": "Corporate office: Mahakavi G Road, Kochi, Kerala; factory: Angamaly, Ernakulam 683570, Kerala",
+    "offers": [
+      "outdoor playground",
+      "outdoor gym equipment",
+      "indoor soft play",
+      "trampolines",
+      "other: trampoline parks, climbing walls, rope courses, family entertainment centres, EPDM flooring, benches/bins"
+    ],
+    "manufacturing": "States 'state-of-the-art manufacturing facility in Angamaly' and 'one of India's only fully integrated play equipment manufacturers'. Quality page also states it 'has teamed up with some of the best manufacturing firms to supply top-end play equipment'.",
+    "products": "Outdoor: Custom Series, HDPE Multi Fun Station, LLDPE Multi Fun Station, Rope Series, Fitness Series, Individual Series, Inclusive Play Zone, Outdoor Trampoline, EPDM flooring. Indoor: soft play, trampoline parks, FEC solutions",
+    "materials": "HDPE sheets, GI square pipes with powder-coated finish, LLDPE, high-strength ropes, EPDM rubber",
+    "certifications_claimed": "Homepage: ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, TUV Rheinland certification, MSME ZED, Startup India, IAAPI member. Quality page: 'ISO 9001 2008 certified', products by industries adhering to 'ASTM, EN', NSIC member.",
+    "warranty_claimed": "Not listed on the pages checked (home, outdoor products, quality management) as of 10 Oct 2026",
+    "scale_claims": "States established 2010; '15+ years of experience'; '1300+ Installations' (counter) and '1200+ successful projects across India and international markets' (about text)",
+    "relevance": "direct",
+    "notes": "Strongest direct competitor in the list: Indian maker of outdoor playground and outdoor fitness equipment. Their own pages are internally inconsistent (ISO 9001:2015 vs 2008; 1300+ vs 1200+; own factory vs partner manufacturers), so cite exact page and wording if used.",
+    "sources": [
+      "http://www.funridersindia.com/",
+      "http://www.funridersindia.com/products/category/outdoor-play-equipment/",
+      "http://www.funridersindia.com/quality-management/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Featherlite Play",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No playground, soft-play or outdoor fitness company named 'Featherlite Play' found in standard or extended searches (results returned only unrelated US playground products and Indian preschool-furniture sellers under other names). Client should confirm which company is meant.",
+    "sources": [
+      "https://www.kidzlet.com/preschool-outdoor-play-equipment.html"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Premier Play Solutions",
+    "identified": true,
+    "official_url": "https://www.premierplaysolutions.co.uk/",
+    "also_known_as": "",
+    "hq": "Barkby, Leicester, UK (foreign company). India not mentioned.",
+    "offers": [
+      "outdoor playground",
+      "outdoor gym equipment",
+      "other: playground surfacing and markings for UK schools"
+    ],
+    "manufacturing": "Not stated; describes itself as supply and installation",
+    "products": "Trim and bike trails, outdoor gyms, clamber stacks, swings and slides, play towers, music panels, recycled plastic playgrounds",
+    "materials": "Wood and steel ('superior-quality wood and robust steel'); rubber and artificial grass surfacing",
+    "certifications_claimed": "Installation to BS EN 1176 and BS EN 1177; Disability Confident Committed; YPO and CPC framework provider",
+    "warranty_claimed": "Not listed on homepage (as of 10 Oct 2026)",
+    "scale_claims": "States team has '30+ years of experience'",
+    "relevance": "not comparable",
+    "notes": "Name matches a UK schools playground installer with no Indian presence found.",
+    "sources": [
+      "https://www.premierplaysolutions.co.uk/",
+      "https://www.linkcentre.com/profile/premierplaysolutions/"
+    ],
+    "checked_on": "2026-10-10"
+  },
+  {
+    "name": "Jamboree India",
+    "identified": false,
+    "official_url": null,
+    "also_known_as": "",
+    "hq": null,
+    "offers": [],
+    "manufacturing": null,
+    "products": null,
+    "materials": null,
+    "certifications_claimed": null,
+    "warranty_claimed": null,
+    "scale_claims": null,
+    "relevance": "unidentified",
+    "notes": "No Indian company by this name found. 'Jamboree' appears as US playground product names (AAA State of Play, American Parks Company) and a US playground tile.",
+    "sources": [
+      "https://www.aaastateofplay.com/jamboree-play-system",
+      "https://www.americanparkscompany.com/jamboree.html"
+    ],
+    "checked_on": "2026-10-10"
+  }
+]

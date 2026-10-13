@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/careers/business-development-executive.html#webpage",
+      "url": "https://funplaysystems.com/careers/business-development-executive.html",
+      "name": "Business Development Executive",
+      "description": "Apply for the Business Development Executive role at FunPlay Systems, Vasai. Sell playground equipment to builders, schools and government buyers.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Business Development Executive",
+          "item": "https://funplaysystems.com/careers/business-development-executive.html"
+        }
+      ]
+    }
+  ]
+}

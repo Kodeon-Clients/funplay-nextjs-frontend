@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html#product",
+      "name": "Stand Out Bench",
+      "sku": "FPGD005",
+      "mpn": "FPGD005",
+      "url": "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html",
+      "image": [
+        "https://funplaysystems.com/images/stand-out-bench-product-image.jpg"
+      ],
+      "description": "Transform your garden into a serene oasis with our exquisite range of Garden décor equipment’s. Featuring beautifully crafted gazebos, stylish pergolas, aesthetic benches and seatings, and practical bins, our collection is designed to enhance the beauty and functionality of any outdoor space. Create a charming and inviting atmosphere that reflects your unique style and love for the outdoors.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Park Bench",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sand Beige"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Garden Decor",
+          "item": "https://funplaysystems.com/corecraft/garden-decor.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Stand Out Bench",
+          "item": "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html"
+        }
+      ]
+    }
+  ]
+}

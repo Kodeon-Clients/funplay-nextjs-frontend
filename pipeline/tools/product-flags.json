@@ -1,0 +1,964 @@
+{
+ "/corecraft/castle-crest/crown-court-3.html": [
+  "Capacity of 15 is the same for every Castle Crest station, from this small single tower to Royal Rise. Looks like a default value; confirm with FunPlay.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/castle-crest/crown-court-7.html": [
+  "Safe play area adds 4' to the length but 6' to the width (16'6\" x 14'9\" to 20'6\" x 20'9\"), unlike most units which add 5' or 6' on both sides. Confirm.",
+  "Swinging is listed but the warranty line does not mention the 1-year cover on bearings and spare parts.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/castle-crest/fortress-fun.html": [
+  "Colour names are misspelt in the source: 'Mnago Yellow & Forst Green'. Written here as Mango Yellow and Forest Green.",
+  "Both image descriptions are identical; only the red and blue version is described.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/castle-crest/noble-nook.html": [
+  "Capacity of 15 seems low for a 40' long two-tower unit with swings and is the same as the smallest Castle Crest unit. Confirm.",
+  "Both image descriptions are identical.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/castle-crest/royal-rise.html": [
+  "Capacity of 15 looks far too low for a structure of 42'6\" x 40'5\" with several slides, bridges and swings. Likely a default value.",
+  "Swinging is listed but the warranty line does not mention the 1-year cover on bearings and spare parts.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/clown-capade/Jambore-3.html": [
+  "URL uses a capital J (/Jambore-3.html) while Jambore 5 is lowercase. Check the final URL scheme.",
+  "Series name 'Jambore' may be a misspelling of 'Jamboree'. Confirm the intended product name.",
+  "Capacity of 15 seems high for a single-slide unit of 9'11\" x 13'5\". Confirm.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/clown-capade/chuckle-chums.html": [
+  "Colour name misspelt in the source: 'Creazy Pink'. Written here as Crazy Pink.",
+  "Safe play area adds 6' to the length but only 4' to the width. Confirm.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/clown-capade/jambore-5.html": [
+  "Safe play area width 24'6\" does not follow the usual rule (product width 18'7\" plus 6' would be 24'7\"). Possible typo.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/clown-capade/jumbo-jive.html": [
+  "Capacity of 15 looks far too low for a 43'11\" x 32'4\" structure with several towers and a swing set. Likely a default value.",
+  "Colour is given only as 'Multi Color'. A colour breakdown would help buyers.",
+  "Safe play area adds 4' to the length and 6' to the width. Confirm.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/clown-capade/tumble-twin.html": [
+  "Both image descriptions are identical.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/forestia/blossam-brook.html": [
+  "Name may be a misspelling of 'Blossom Brook'. Confirm.",
+  "Image description says teal and red, but the colour list is Play Red, Play Orange and Knight Blue. Teal is not offered. Check the image or the colours.",
+  "Breadcrumb for all Forestia products ends in a stray '/li>' HTML fragment.",
+  "SKU starts with 'F0R' (zero) rather than 'FOR' for all Forestia items. Check.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/forestia/gloracia.html": [
+  "Image shows a swing, but activities list only Climbing, Sliding and Hanging. Swinging may be missing.",
+  "Swing parts would normally carry the 1-year cover on bearings and spare parts, which the warranty line does not mention.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/forestia/jungle-jive-l1.html": [
+  "Colour is listed as 'Mango Yellow & Forest Yellow'. 'Forest Yellow' is probably 'Forest Green'. Only Mango Yellow is used in the copy.",
+  "Product name 'Jungle Jive-l1' uses a lowercase L; probably meant to be 'L1'. Confirm display name.",
+  "Swinging is listed, but the warranty line does not mention the 1-year cover on bearings and spare parts.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/forestia/jungle-jive-l2.html": [
+  "Colour given only as 'Multi Color'.",
+  "Product name uses lowercase 'l2'. Confirm display name.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/forestia/king-kong-play-park.html": [
+  "Capacity of 15 looks far too low for a 50'1\" x 42'5\" play park. Likely a default value.",
+  "Product name 'King Kong' may raise trademark questions. Worth checking.",
+  "Height is listed as NA."
+ ],
+ "/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html": [
+  "No spec rows, dimensions, age group or warranty line in the fact sheet.",
+  "SKU FFE018D uses the 'D' suffix that elsewhere means Double, for a three-station combination. Check SKU."
+ ],
+ "/corecraft/fun-fitness-equipment/2-seating-cum-1-standing-twister.html": [
+  "No spec rows, dimensions, age group or warranty line in the fact sheet.",
+  "SKU FFE019D uses the 'D' (Double) suffix for a three-station combination. Check."
+ ],
+ "/corecraft/fun-fitness-equipment/6-station-multi-gym.html": [
+  "No spec rows, dimensions, warranty or list of the six stations in the fact sheet.",
+  "Image description says orange and grey; colour list says only Play Orange."
+ ],
+ "/corecraft/fun-fitness-equipment/8-station-multi-gym.html": [
+  "No spec rows, dimensions, warranty or list of stations in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/Shoulder-twirl-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet.",
+  "URL uses a capital S (/Shoulder-twirl-double.html) while the single version is lowercase. Check."
+ ],
+ "/corecraft/fun-fitness-equipment/abb-trainer.html": [
+  "Name 'ABB Trainer' is probably meant to be 'Ab Trainer'. Breadcrumb shows 'Abb Trainer'. Confirm.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/chest-press-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/chest-press.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/cross-fit.html": [
+  "No spec rows, dimensions, warranty or list of stations in the fact sheet.",
+  "'Cross Fit' / 'CrossFit' is a registered trademark of CrossFit LLC. Consider renaming."
+ ],
+ "/corecraft/fun-fitness-equipment/fun-cycle.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/fun-rider.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/fun-rower.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/fun-walker-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/fun-walker-single.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-extension.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-lift-post.html": [
+  "Image shows a combination (seat with footrests, a hand wheel and a separate textured stool) rather than a single leg lift post. The image description also mentions a wheel. Check that the name and image match.",
+  "SKU FFE015 is also used for Tai Chi. Duplicate SKU.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html": [
+  "No spec rows, dimensions or warranty in the fact sheet.",
+  "Breadcrumb has inconsistent capitalisation: 'Leg Press Cum fun Walker Cum Seating Twister'."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html": [
+  "No spec rows, dimensions or warranty in the fact sheet.",
+  "Image file is named 'Leg-Cum-Parallel-Bar', missing the word 'Press'."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press-cum-pendulum.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press-cum-standing-twister.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press-double.html": [
+  "Breadcrumb ends in 'Leg Press' instead of 'Leg Press Double'.",
+  "Colour is listed as Lavender, unlike the rest of the range (Play Orange or Ocean Grey). Confirm this is intended.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/leg-press.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/parallel-bar-double.html": [
+  "Subtitle missing (None) and image description is empty in the fact sheet.",
+  "Image shows angled bars on a single post rather than two straight parallel rails. Name is fine, but check the image is the right product.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/parallel-bar.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/pendulum-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/pendulum.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/pull-up-station.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/seating-twister-single.html": [
+  "SKU FFE019 is the base code for the 2 Seating Cum 1 Standing Twister (FFE019D). Check the SKU scheme.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/seating-twister-three-way.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/shoulder-press-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/shoulder-press.html": [
+  "Product name and subtitle are missing (None) in the fact sheet; name taken from the breadcrumb and URL.",
+  "Image description is empty. Description written from the product image (grey post, orange seat and backrest, overhead handles).",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/shoulder-twirl.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/ski-trainer.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/standing-twister-single.html": [
+  "SKU FFE018 is the base code used by the 1 Seating Cum 2 Standing Twister (FFE018D). Check the SKU scheme.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/step-trainer.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/tai-chi-double.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/tai-chi.html": [
+  "SKU FFE015 is also used for the Leg Lift Post. Duplicate SKU.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/fun-fitness-equipment/twister-three-way.html": [
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/garden-decor/atypical-bin.html": [
+  "Breadcrumb places this bin under 'Fun Fitness Equipment' instead of Garden Decor. All garden decor items have this error.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions, capacity or warranty in the fact sheet.",
+  "Image says wooden slats; confirm whether these are wood or composite."
+ ],
+ "/corecraft/garden-decor/bastion-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions, seating capacity or warranty in the fact sheet."
+ ],
+ "/corecraft/garden-decor/comfy-gazebo.html": [
+  "Image descriptions conflict: one says hexagonal, another octagonal. The product image shows an octagonal base.",
+  "Colour listed as Sand Beige, but the image also shows coloured window panels (red, green, blue, yellow).",
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/garden-decor/crevice-cube.html": [
+  "Colour is listed as Sand Beige, but images show blue, yellow, teal and red blocks.",
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "No spec rows, dimensions, number of blocks or warranty in the fact sheet."
+ ],
+ "/corecraft/garden-decor/curve-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty in the fact sheet."
+ ],
+ "/corecraft/garden-decor/deluxe-swing.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "Listed colour is Sand Beige, but the image shows a red canopy on a black frame. Confirm the colour options.",
+  "Swing chains and hangers would normally carry the 1-year cover on bearings and spare parts. Confirm the warranty split for garden swings."
+ ],
+ "/corecraft/garden-decor/dna-pergola.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, length, height or warranty line in the fact sheet. The image shows a long walkway, so it is unclear whether the length is fixed or made to order."
+ ],
+ "/corecraft/garden-decor/eco-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "Name 'Eco Bench' suggests recycled or eco material, but no material detail is given. Confirm what 'Eco' refers to before the page makes any claim."
+ ],
+ "/corecraft/garden-decor/grin-barrel-bin.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, capacity in litres, dimensions or warranty line in the fact sheet.",
+  "Listed colour is Sand Beige, but the image shows a yellow stand. Confirm colour options.",
+  "Image files are named 'grinbarrel-bin' while the URL is 'grin-barrel-bin'. Minor, but check naming."
+ ],
+ "/corecraft/garden-decor/luxury-swing.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "Listed colour is Sand Beige, but the image shows a red canopy. Confirm colour options.",
+  "Names 'Luxury Swing' and 'Deluxe Swing' are easy to confuse. Consider adding a subtitle that tells buyers the difference (A-frame versus curved frame)."
+ ],
+ "/corecraft/garden-decor/maestro-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, length, seating capacity or warranty line in the fact sheet."
+ ],
+ "/corecraft/garden-decor/pyramid-pergola.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "The image shows a solid pyramid roof on four posts, which reads more like a gazebo or kiosk than a pergola (usually an open slatted roof). Check the name or category.",
+  "Two of the three image descriptions just repeat the product name.",
+  "Listed colour is Sand Beige, but the image shows red, blue and green panels."
+ ],
+ "/corecraft/garden-decor/relaxed-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet."
+ ],
+ "/corecraft/garden-decor/repose-gazebo.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "Listed colour is Sand Beige, but the roof has blue, green, yellow and black triangles in the images."
+ ],
+ "/corecraft/garden-decor/stand-out-bench.html": [
+  "Breadcrumb shows 'Fun Fitness Equipment' instead of Garden Decor.",
+  "Subtitle missing (None).",
+  "No spec rows, dimensions or warranty line in the fact sheet.",
+  "Listed colour is Sand Beige, but the image shows a black frame with one green leg."
+ ],
+ "/corecraft/individual-equipment/climber/Igloo-climber.html": [
+  "URL uses a capital I (/Igloo-climber.html) while other climber URLs are lowercase. Check the final URL scheme.",
+  "The image shows four hanging swing seats, but activities and skills are empty and the warranty line does not mention the 1-year cover on bearings and spare parts.",
+  "Image shows a flat-topped net frame rather than a dome. The name 'Igloo' is fine, but the image description calls it dome-shaped.",
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity is listed as 15 with only four seats. Confirm."
+ ],
+ "/corecraft/individual-equipment/climber/abstract-climber.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity is listed as 15 for a 5'8\" x 9'4\" climbing wall. Looks like a default value; confirm.",
+  "Activities and skills are empty in the fact sheet.",
+  "Catalogue image file is named 'abstract-cliimver', a typo."
+ ],
+ "/corecraft/individual-equipment/climber/balancing-beam.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity of 15 seems high for three short beams that are walked one child at a time. Confirm.",
+  "Activities and skills are empty in the fact sheet.",
+  "Product area 2'9\" x 12'11\" does not obviously match three beams set at angles in the image. Check the layout the dimensions refer to."
+ ],
+ "/corecraft/individual-equipment/climber/balancing-bridge.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity is listed as 15. Confirm how many children can safely be on the bridge at once.",
+  "Activities and skills are empty in the fact sheet.",
+  "Moving pads and hangers may need the 1-year cover on spare parts, which the warranty line does not mention."
+ ],
+ "/corecraft/individual-equipment/climber/crawling-tunnel.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity of 15 seems high for a single crawl tunnel of 8'10\" x 4'6\". Confirm.",
+  "Activities and skills are empty in the fact sheet.",
+  "Listed under Climber, though it is a crawling piece. Category may need review."
+ ],
+ "/corecraft/individual-equipment/climber/crest-climber.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "No product image found for Crest Climber in the image folder (only Crest Loop Climber and Crest Swing). Copy is based on the image description only.",
+  "Safe play area adds 5' to the length but only 3' to the width (10'10\" x 4'8\" to 15'10\" x 7'8\"), unlike other climbers which add 5' on both sides. Possible typo.",
+  "Capacity is listed as 15 for a single overhead ladder. Confirm.",
+  "Activities and skills are empty in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/climber/disc-challenger.html": [
+  "Product name is spelt 'Disc Challanger' in the fact sheet and breadcrumb, while the URL uses 'challenger'. Correct the spelling on the page.",
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity of 15 seems high for five hanging discs. Confirm.",
+  "Hanging discs and chains would normally carry the 1-year cover on spare parts, which the warranty line does not mention.",
+  "Activities and skills are empty in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/climber/droopy-climber.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity is listed as 15 for a 3' wide overhead ladder. Confirm.",
+  "Activities and skills are empty in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/climber/hopping-pod.html": [
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity of 15 looks far too high for five pods in a 7' x 1' row. Likely a default value.",
+  "Activities and skills are empty in the fact sheet.",
+  "Image file name has a space ('HOPPING POD-Climber-Product-Image.jpg'), which can break URLs."
+ ],
+ "/corecraft/individual-equipment/climber/jumping-jacks.html": [
+  "No product image found, only the catalogue image. Number of pads in a set is not given; the catalogue image shows about ten, which looks larger than the listed 9'4\" x 4' area.",
+  "Springs are the main part, but the warranty line lists only the 3-year items and leaves out the 1-year cover on springs.",
+  "Age Group and Key User Group are listed as NA.",
+  "Capacity is listed as 15. Confirm.",
+  "Activities and skills are empty in the fact sheet.",
+  "Listed under Climber, though it is a bouncing piece. Category may need review."
+ ],
+ "/corecraft/individual-equipment/climber/leo-climber.html": [
+  "Capacity of 15 looks far too low for a 54' x 18'10\" net climber. Likely a default value.",
+  "Age Group and Key User Group are listed as NA.",
+  "Breadcrumb shows 'Leo climber' in lowercase.",
+  "Two product image files are named 'Leo-Climebr', a typo.",
+  "Activities and skills are empty in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/climber/loop-climber.html": [
+  "Age Group and Key User Group are NA.",
+  "Capacity 15 looks like a default value for a single monkey bar climber. Every climber in this category shows 15. Confirm."
+ ],
+ "/corecraft/individual-equipment/climber/monkey-climber.html": [
+  "Age Group and Key User Group are NA.",
+  "Capacity 15 seems high for a straight monkey bar. Confirm."
+ ],
+ "/corecraft/individual-equipment/climber/mushroom-climber.html": [
+  "Name suggests a mushroom shape, but the image description shows an arched overhead ladder with a bird figure. Check the photo matches the product.",
+  "Age Group and Key User Group are NA. Capacity 15 looks like a default value."
+ ],
+ "/corecraft/individual-equipment/climber/net-rock-climber.html": [
+  "Age Group and Key User Group are NA. Capacity 15 seems high for a 5'3\" x 4'7\" frame. Confirm."
+ ],
+ "/corecraft/individual-equipment/climber/orbit-climber.html": [
+  "Age Group and Key User Group are NA. Capacity 15 not verified."
+ ],
+ "/corecraft/individual-equipment/climber/s-bridge-climber.html": [
+  "Breadcrumb calls it S Bridge Ladder while the name is S Bridge Climber.",
+  "Age Group and Key User Group are NA. Capacity 15 looks like a default value."
+ ],
+ "/corecraft/individual-equipment/climber/straight-net.html": [
+  "Product Area is listed as 5' x 2\", which looks wrong (probably 2' or more). Left out of the copy.",
+  "Age Group and Key User Group are NA. Capacity 15 seems high for a single vertical net. Confirm."
+ ],
+ "/corecraft/individual-equipment/climber/tornado-climber.html": [
+  "At 54' long this is a full net course rather than an individual climber. Consider moving it out of Individual Equipment.",
+  "Capacity 15 for a 54' course may be too low. Age Group and Key User Group are NA.",
+  "Source image file is named tornado-twist. Check whether the product name is Tornado Climber or Tornado Twist."
+ ],
+ "/corecraft/individual-equipment/climber/trampoline.html": [
+  "SKU FFEO28 uses the Fun Fitness prefix, but the product sits in the Climber category. Check category and SKU.",
+  "Capacity 15 is not realistic for a 5' x 5' trampoline. Confirm the correct figure.",
+  "Age Group and Key User Group are NA. Warranty line lists galvanised pipe and roto-moulded parts, which may not match an in-ground trampoline.",
+  "Installation method for an in-ground unit is not given in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/climber/wall-rock-climber.html": [
+  "Product Area 12' x 3\" (8' Ht) has an unlikely 3\" depth.",
+  "Safe Play Area 14' x 3' is too small for an 8' high climbing wall. Confirm both figures; left out of the copy.",
+  "Age Group and Key User Group are NA. Capacity 15 not verified."
+ ],
+ "/corecraft/individual-equipment/climber/wheel-thrill-climber.html": [
+  "Colour field is empty.",
+  "Age Group and Key User Group are NA. Capacity 15 not verified."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/animal-mgr.html": [
+  "Named Animal MGR, but the image shows only bird seats. Check whether other animal seats are offered."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html": [
+  "Product Area and Safe Play Area are NA.",
+  "A single-seat spinner is listed under Merry-Go-Round. Consider a Spinner category."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/cage-spinner.html": [
+  "Product Area and Safe Play Area are NA."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/flower-spinner.html": [
+  "Product Area and Safe Play Area are NA."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/horse-mgr.html": [
+  "Safe Play Area reads \"DDiameter 10'\" (typo)."
+ ],
+ "/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html": [
+  "Several merry-go-rounds share the same 4' x 4' product area and 10' x 10' safe play area. Confirm each is correct."
+ ],
+ "/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html": [
+  "Product Area and Safe Play Area are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/see-saw/double-see-saw.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/see-saw/standing-see-saw.html": [
+  "A standing see saw listed for 3 to 6 years is unusual; confirm the age group."
+ ],
+ "/corecraft/individual-equipment/slide-3foot-height/curve-slide.html": [
+  "No spec rows (age group, capacity, product area, safe play area) and no warranty line in the fact sheet. This applies to every slide in this group."
+ ],
+ "/corecraft/individual-equipment/slide-3foot-height/double-wave-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-3foot-height/shrimp-slide.html": [
+  "Product name is misspelt \"Shrimpm Slide\" in the name field and image alt text. Copy uses Shrimp Slide.",
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-3foot-height/straight-open-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/curve-slide.html": [
+  "Subtitle is empty; other 5 ft slides show \"(5 ft)\".",
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/double-wave-slide.html": [
+  "Colour is listed as \"Red\" while other slides use \"Play Red\". Confirm the shade name.",
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/s-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/spiral-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/straight-tunnel-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/wave-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-5foot-height/zig-zag-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/curve-slide.html": [
+  "Colour field reads \"Play Red & Play Yellow<\" with a stray character.",
+  "No spec rows (age group, capacity, product area, safe play area) and no warranty line. This applies to every 7 ft slide."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html": [
+  "Breadcrumb reads \"Strtaight Tunnel Slide\" on this Spiral Tunnel Slide page. Fix the breadcrumb."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/straight-open-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html": [
+  "Name and URL are misspelt \"Strtaight\". Copy uses Straight Tunnel Slide.",
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html": [
+  "No spec rows and no warranty line in the fact sheet."
+ ],
+ "/corecraft/individual-equipment/spring-rider/aeroplane-rider.html": [
+  "No spec rows (age group, capacity, product area, safe play area) and no warranty line in the fact sheet. This applies to every spring rider in this group."
+ ],
+ "/corecraft/individual-equipment/spring-rider/duck-rider.html": [
+  "Image description describes a blue alligator spring rider, not a duck. The product image file shows a yellow duck; fix the alt text."
+ ],
+ "/corecraft/individual-equipment/spring-rider/dumbo-rider.html": [
+  "No product photo: the image is an \"Image coming soon\" placeholder. Copy avoids describing the shape.",
+  "Colour \"Green\" does not match the named shade format used elsewhere (for example Forest Green)."
+ ],
+ "/corecraft/individual-equipment/spring-rider/see-horse-rider.html": [
+  "Name is \"See Horse\" but the image shows a seahorse. Consider renaming to Sea Horse Spring Rider."
+ ],
+ "/corecraft/individual-equipment/swing/double-arc-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/swing/double-post-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/swing/double-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/swing/giraffe-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures.",
+  "Capacity 1 on a nest seat; confirm, since nest seats often take more than one child."
+ ],
+ "/corecraft/individual-equipment/swing/in-curve-post-swing.html": [
+  "Image description names the Curve Post Swing, not the In-Curve Post Swing. Check that the correct photo is used.",
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/swing/mother-child-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/individual-equipment/swing/toddler-swing.html": [
+  "Dimensions are prefixed \"Diameter\" though they are length x width figures."
+ ],
+ "/corecraft/play-lands/azure-space.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Image files are named Azure-Scape while the page says Azure Space. Confirm the correct product name.",
+  "Height is NA in dimensions."
+ ],
+ "/corecraft/play-lands/coral-cascade.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Colour field has a double space (\"Play Orange &  Royal Turquoise\"), and the image alt text mentions only play orange. Confirm the turquoise is shown in the photos."
+ ],
+ "/corecraft/play-lands/fun-field.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Image files include both Fun-Field.jpg and Play-Lands-Fun-Field*.jpg. Check which set is current."
+ ],
+ "/corecraft/play-lands/giants-galore.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Page name is Giants Galore but image files are named Giant-Galore. Confirm the spelling."
+ ],
+ "/corecraft/play-lands/gloden-hour.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Name \"Gloden Hour\" looks like a typo for \"Golden Hour\". The image file is Golden-Hour.jpg. The typo is in the URL, H1, title and breadcrumb."
+ ],
+ "/corecraft/play-lands/joy-ridge.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Image files are named JoyRidge (one word) while the page uses Joy Ridge."
+ ],
+ "/corecraft/play-lands/play-pulse.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Colour is only \"Multi Color\", with no named shades. Only two images."
+ ],
+ "/corecraft/play-lands/thrill-trail.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Product area and safe play area are close to Joy Ridge (45'9\" width on both). Confirm these are not copied."
+ ],
+ "/corecraft/play-lands/tiny-tot.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Image alt text calls it a \"small\" and \"toddler\" station, but the age group is 3+ and the product area (31'9\" x 24'11\") is larger than We Wonderland. Check whether toddler wording is right."
+ ],
+ "/corecraft/play-lands/we-wonderland.html": [
+  "Current description is the Royal Castle Adventure series blurb, not Play Lands copy. The same wrong blurb appears on all ten Play Lands pages.",
+  "Capacity is 15 on every Play Lands product, from We Wonderland (29'8\" x 15'1\") to Giants Galore (54'5\" x 47'1\"). Check whether the capacity value was copied across.",
+  "Image files are named WeeWonderland and play-lands-we-wonderland. Confirm whether the name is \"We\" or \"Wee\" Wonderland."
+ ],
+ "/corecraft/robo-romp/dual-bot.html": [
+  "Dual Bot, Robo Kingdom and Triple Threat have identical spec rows and dimensions (23'7\" x 18'6\", safe area 29'7\" x 23'6', 718.82 x 563.88 cm). Likely copied across.",
+  "Safe Play Area is written 29'7\" x 23'6' (single quote at the end). Should be 23'6\".",
+  "Current spec paragraph is the Solo Fight-7 text with the wrong product name.",
+  "Both image alt texts are identical. The catalogue image appears to show more than two slides; check the alt text."
+ ],
+ "/corecraft/robo-romp/robo-kingdom.html": [
+  "Dual Bot, Robo Kingdom and Triple Threat have identical spec rows and dimensions (23'7\" x 18'6\", safe area 29'7\" x 23'6', 718.82 x 563.88 cm). Likely copied across. The Robo Kingdom photos show a much larger multi-tower structure than Dual Bot, so these dimensions are almost certainly wrong. Left out of the copy until corrected.",
+  "Safe Play Area is written 29'7\" x 23'6' (single quote at the end). Should be 23'6\".",
+  "Current spec paragraph mentions gear-shaped climbers and circuit-patterned flooring, which are not visible in the images.",
+  "Image alt text says orange and teal while the colour field says Play Orange & Forest Green."
+ ],
+ "/corecraft/robo-romp/solo-fight-5.html": [
+  "Capacity of 15 looks high for a single tower of 18'6\" x 9'5\".",
+  "Name is \"Solo Fight-5\" in the H1 and \"Solo Fight 5\" in the breadcrumb. Solo Fight 7 has no hyphen. Pick one style.",
+  "Both image alt texts are identical."
+ ],
+ "/corecraft/robo-romp/solo-fight-7.html": [
+  "Product Area is written with a capital X (\"21'11\\\" X 10'4\\\"\").",
+  "Name has no hyphen here (Solo Fight 7) but Solo Fight-5 does.",
+  "Both image alt texts are identical."
+ ],
+ "/corecraft/robo-romp/triple-threat.html": [
+  "Dual Bot, Robo Kingdom and Triple Threat have identical spec rows and dimensions (23'7\" x 18'6\", safe area 29'7\" x 23'6', 718.82 x 563.88 cm). Likely copied across.",
+  "Safe Play Area is written 29'7\" x 23'6' (single quote at the end). Should be 23'6\".",
+  "Image alt text says orange and grey, the catalogue image shows red and navy, and neither grey nor navy is in the listed colours.",
+  "Current spec paragraph says climbing, sliding and balancing for \"children of all ages\", which conflicts with the 5 to 12 user group and the activity list (climbing, sliding, swinging, hopping).",
+  "Both image alt texts are identical."
+ ],
+ "/funplay-originals/conceptual/chidiyaan.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Current description and catalogue image file spell it \"Chiddiyaan\"; the page uses \"Chidiyaan\". Pick one spelling.",
+  "Marked as a concept. Confirm it can be ordered as a product."
+ ],
+ "/funplay-originals/conceptual/city-strange.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Colour is only \"Multi Color\". Current description uses several words from our style ban list and should be replaced by this copy."
+ ],
+ "/funplay-originals/conceptual/flamingo-park.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Current description says it is for adults and grandparents as well as children. Confirm whether any part is rated for adult use."
+ ],
+ "/funplay-originals/conceptual/ground-hogs.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Colour is listed as Sand Beige, but the images show green platforms and dark brown pods.",
+  "Image folder also has Ground-Dog catalogue images. Check that the right images are on this page.",
+  "Breadcrumb reads \"Ground hogs\" in lower case."
+ ],
+ "/funplay-originals/conceptual/junk-park.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Current description names a soft drink brand (\"Coke\"). Remove the trademark.",
+  "Both image alt texts are identical, and they mention only ice cream although the render also shows a cup and fries."
+ ],
+ "/funplay-originals/conceptual/lady-musance.html": [
+  "No spec rows, dimensions, activities, age group or warranty line in the fact sheet. Copy avoids sizes and age; please supply them.",
+  "Only concept drawings, no product photos. Confirm it is offered for sale before the page goes live."
+ ],
+ "/funplay-originals/conceptual/limlet.html": [
+  "No spec rows, dimensions, age group, capacity, activities, skills or warranty line in the fact sheet. Description avoids all numbers; please supply specs.",
+  "Current website copy expands MGR as 'Magical Gazebo Retreat', but images show spinner seats (merry-go-round). Copy written from the images."
+ ],
+ "/funplay-originals/conceptual/witchs-enchantment.html": [
+  "Product name in the fact sheet is 'Witchs Enchantment' (missing apostrophe). Copy uses 'Witch's Enchantment'; please fix the page title and H1.",
+  "No spec rows, dimensions, age group, capacity, activities, skills or warranty line in the fact sheet."
+ ],
+ "/funplay-originals/kagzi/paper-bird.html": [
+  "Activities list 'Sliding' but no image description mentions a slide. Confirm."
+ ],
+ "/funplay-originals/kagzi/paper-boat.html": [
+  "Skill 'Imaginatiom' is misspelt in the fact sheet."
+ ],
+ "/funplay-originals/kagzi/paper-fish.html": [
+  "Capacity '15' is implausible for a swing set; left out of the copy.",
+  "Current website copy calls this product 'Twin Fish Swing'. Confirm the name."
+ ],
+ "/funplay-originals/kagzi/paper-frog.html": [
+  "Subtitle is missing (null). Suggest 'Spring Rider'.",
+  "Capacity '15' is implausible for a single spring rider; left out of the copy.",
+  "Warranty line in the fact sheet omits the 1-year cover on springs; copy uses the company warranty for the spring."
+ ],
+ "/funplay-originals/kagzi/paper-mouse.html": [
+  "Dimensions (1740 x 824 x 800 cm) contradict the product area 17'8\" x 4'6\" (about 538 x 137 cm); the same placeholder values appear on Barrel Barrel and Inframe. Copy uses the product area.",
+  "Current website copy calls it 'Mouse Hole'. Confirm the name.",
+  "Capacity '15' looks high for a toddler crawl tunnel; left out of the copy."
+ ],
+ "/funplay-originals/khel-khud/bellatrix.html": [
+  "Subtitle 'Indian Games Play Equipment' does not describe a star climbing frame (applies to the whole Khel-Khud series)."
+ ],
+ "/funplay-originals/khel-khud/goblin-gully.html": [
+  "Skills include 'Space Rescue' (unclear meaning) and 'Crawing Endurance' (typo). Copy uses endurance and problem solving only.",
+  "Colour 'Mineral & Lavender' while images describe green and grey with a red slide. Confirm colours."
+ ],
+ "/funplay-originals/khel-khud/roo-pocket.html": [
+  "Capacity '15' looks high for a compact toddler tower with a single pouch; left out of the copy.",
+  "Only one image for this product."
+ ],
+ "/funplay-originals/khel-khud/shapestatic.html": [
+  "No catalogue entry for Shapestatic, so the website age group and areas are unverified.",
+  "Only one image for this product."
+ ],
+ "/funplay-originals/khel-khud/sky-hop.html": [
+  "Capacity '15' is implausible for a two-ended hopping post; left out of the copy.",
+  "Image description calls it 'wooden'; material not in the warranty line. Copy avoids calling it wooden.",
+  "Only one image for this product."
+ ],
+ "/funplay-originals/nature-sparsh/archies.html": [
+  "Only one skill listed ('Simultaneous Play')."
+ ],
+ "/funplay-originals/nature-sparsh/aviral.html": [
+  "Image mentions 'spring climbers' but the warranty line does not list springs. Confirm."
+ ],
+ "/funplay-originals/nature-sparsh/barrel-barrel.html": [
+  "Dimensions (1740 x 824 cm) contradict the product area 13'7\" x 5'4\" (about 414 x 163 cm). Same placeholder values as Paper Mouse and Inframe."
+ ],
+ "/funplay-originals/nature-sparsh/card-cook.html": [
+  "Product area 13'5\" x 11'8\" and safe area 17'11\" x 16'8\" are identical to the Ulta Ghar website values (already flagged against the catalogue). Possible copy-paste; no catalogue entry to confirm.",
+  "Current website copy mentions a 'folded plane', which does not match the card theme in the images."
+ ],
+ "/funplay-originals/nature-sparsh/card-pyramid.html": [
+  "Capacity '15' looks high for a 3'11\" deep A-frame; kept as given, please confirm."
+ ],
+ "/funplay-originals/nature-sparsh/fun.html": [
+  "Safe play area '21'6\" x 18'18\"' is invalid (18 inches); same in the catalogue. Left out of the copy. Confirm the correct figure.",
+  "Fugadi has exactly the same product area, safe area and dimensions as Fun, which suggests one was copied."
+ ],
+ "/funplay-originals/nature-sparsh/inframe.html": [
+  "Dimensions (1740 x 824 x 800 cm) are placeholder values that contradict the product area 16'3\" x 14'9\". Same values on Paper Mouse and Barrel Barrel.",
+  "Product and safe areas are identical to Bellatrix (16'3\" x 14'9\", 21'9\" x 19'3\"); catalogue agrees, but please confirm.",
+  "Only one image for this product."
+ ],
+ "/funplay-originals/nature-sparsh/phula.html": [
+  "Capacity '15' looks low for the longest Nature Sparsh structure; kept as given, please confirm."
+ ],
+ "/funplay-originals/organic-play/cipu-sittu.html": [
+  "Capacity '15' is implausible for a 5' x 5' merry-go-round; left out of the copy.",
+  "No catalogue entry. Only one image."
+ ],
+ "/funplay-originals/organic-play/ghogalo.html": [
+  "Skill 'Cognitve Balance' misspelt in the fact sheet."
+ ],
+ "/funplay-originals/organic-play/hittu.html": [
+  "Product area on the website is 20'3\" x 15'4\" but the catalogue gives 20'3\" x 16'4\". Copy uses the website value. Confirm with FunPlay.",
+  "Colour listed as Sea Green, while the current description calls it the Pink Hen and images show a pink frame."
+ ],
+ "/funplay-originals/organic-play/kukura.html": [
+  "Product area '4'3\" x 11'' is larger than the safe play area '8'3\" x 4'11\"' in one direction, and the 335 cm width is implausible for a spring rider. Both areas left out of the copy.",
+  "Website age 3 to 8; catalogue says 3 to 9. Copy uses 3 to 8.",
+  "Subtitle missing (null). Suggest 'Spring Rider'. Capacity '15' implausible for a spring rider."
+ ],
+ "/funplay-originals/organic-play/pachkili.html": [
+  "No catalogue entry; website height value is 'NA cm'. The current description spells it 'Pachakili'.",
+  "Activities list 'Sliding' but images mention only a tunnel and net climber. Confirm a slide is included."
+ ],
+ "/funplay-originals/organic-play/toucan.html": [
+  "Safe play area 25'9\" x 4'8\" is narrower than the product area width 5'8\" (same in catalogue). Left out of the copy; confirm the correct width."
+ ],
+ "/funplay-originals/organic-play/unt-savari.html": [
+  "Subtitle missing (null). Suggest 'Spring Rider'. Capacity '15' implausible for a single spring rider; left out."
+ ],
+ "/funplay-originals/timeless-play/fugadi.html": [
+  "Product area 16'6\" x 13'5\", safe area 21'6\" x 18'18\" and dimensions are identical to Fun (Nature Sparsh); implausible for a single revolving pole, and 18'18\" is invalid. Left out of the copy.",
+  "Capacity '15' implausible for a four-grip pole; left out. Current description spells it 'Fugdi'.",
+  "No catalogue entry. Two image descriptions are identical."
+ ],
+ "/funplay-originals/timeless-play/patang.html": [
+  "Capacity '15' implausible for a swing set; left out of the copy."
+ ],
+ "/funplay-originals/wall-play/dahi-handi.html": [
+  "Website age group 5+ but catalogue says 3 to 12. Copy uses 5 to 12.",
+  "Activities include 'Sliding' but the image shows only stacked figures. Left out.",
+  "Product area 2'2\" x 1'4\" looks too small for a six-figure pyramid. Capacity '15' implausible. Confirm."
+ ],
+ "/funplay-originals/wall-play/geoboard.html": [
+  "No catalogue entry. Capacity '15' looks high for a single panel."
+ ],
+ "/funplay-originals/wall-play/ghar-ghar.html": [
+  "Colour listed as Mango Yellow but images show a purple house with a yellow slide. Two image descriptions are identical.",
+  "Subtitle 'Play Panel' does not describe a play house with slide and tunnel."
+ ],
+ "/funplay-originals/wall-play/udanchu.html": [
+  "Subtitle 'Play Panel' does not match the images, which show a play tower with slide and net wings.",
+  "Images call it an insect and a dragonfly; the current description calls it a fly. Copy uses fly."
+ ],
+ "/nexlev-series/abstract/dravmo.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/abstract/ernoto.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Safe play area 29'9\" x 9'2\" is smaller than the product area 23'9\" x 23'2\". Left out of the copy; probably 29'2\"."
+ ],
+ "/nexlev-series/abstract/eromofy.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range."
+ ],
+ "/nexlev-series/abstract/rengvo.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Shade sails are not covered by the warranty line; confirm their warranty."
+ ],
+ "/nexlev-series/castle/arthur.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber.",
+  "Capacity '80 - 99' looks very high for a 34'4\" x 29'6\" structure (same on Gonthina and Palamu). Confirm."
+ ],
+ "/nexlev-series/castle/gonthina.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Product area, safe area, capacity and skills are identical to Palamu. Possible copy-paste; confirm.",
+  "Capacity '80 - 99' looks very high."
+ ],
+ "/nexlev-series/castle/palamu.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Product area, safe area, capacity and skills are identical to Gonthina, although the images show a different layout (single hexagonal tower). Confirm Palamu's own figures."
+ ],
+ "/nexlev-series/castle/sunspear.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Safe play area 40'11\" x 34'3\" adds 6'10\" to the length but 6' to the width; other castles add 6' both ways. Possible typo for 40'1\". Left out of the copy.",
+  "Capacity '20 - 25' is far lower than the other castles (80 to 99) of similar size. Confirm.",
+  "Skill 'Perspective talking' is probably 'Perspective taking'."
+ ],
+ "/nexlev-series/escapade/aviator.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/escapade/combat.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range."
+ ],
+ "/nexlev-series/escapade/crossette.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range."
+ ],
+ "/nexlev-series/escapade/frisk.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Skills are identical to Crossette and Capstone."
+ ],
+ "/nexlev-series/escapade/frolic.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber.",
+  "Capacity '30 - 35' looks high for an 18' x 16'8\" balance circuit."
+ ],
+ "/nexlev-series/escapade/thunder-bolt.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Safe play area is identical to the product area (28'1\" x 15'1\"), so no safe zone is given. Left out of the copy."
+ ],
+ "/nexlev-series/escapade/tidal.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "image_descriptions call Tidal 'coastal-themed', but the main image (TIDAL-A.jpg) shows garden toppers: a snail, a bird, flowers and a dome. Copy describes what the image shows; confirm the intended theme.",
+  "Series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/escapade/tri-trap.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range."
+ ],
+ "/nexlev-series/pinnacle/apex.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Pinnacle series copy calls the towers wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/pinnacle/bouldering.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Main image (BOULDERING-A.jpg) also shows hanging stepping pods and a ring traverse that image_descriptions do not mention; copy includes them. There is no bouldering or rock wall visible despite the name.",
+  "Pinnacle series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/pinnacle/capstone.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Skills are identical to Frisk and Crossette.",
+  "Pinnacle series copy calls the towers wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/pinnacle/crestro.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "A four-seat see saw sits in the Pinnacle series, whose series copy describes wooden play towers. Check the category.",
+  "image_descriptions are generic placeholders ('shown on Crestro page'); copy is based on CRESTRO-A.jpg."
+ ],
+ "/nexlev-series/pinnacle/glory.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Product area is written '46'5\" X 25'2\"' with a capital X; minor format fix on the spec table.",
+  "Pinnacle series copy calls the towers wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/pinnacle/groovy.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range."
+ ],
+ "/nexlev-series/pinnacle/peak.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "image_descriptions mention 'belt swings', but PEAK-A.jpg shows hanging stepping pods on one beam and a single nest swing on the other. Copy follows the image.",
+  "Extra images PEAK-R1*.jpg show the same design in a different colour scheme; confirm which version is current.",
+  "Pinnacle series copy calls the towers wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/pinnacle/prime.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Safe play area 40' x 33'7\" adds 5' to the length but 6' to the width; most pieces add 6' both ways. Possibly 41'. It is also identical to Jager's safe area. Left out of the copy.",
+  "Pinnacle series copy calls the towers wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/pinnacle/sway.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Colour is spelt 'Cheery Red' in the fact sheet; should be 'Cherry Red'.",
+  "Image folder has both PINNACLE-SWAY-Img.jpg and Woody-SWAY-Img.jpg; the Woody file shows the Wiggle swing. Check that Sway and Wiggle pages use the right images."
+ ],
+ "/nexlev-series/pinnacle/vertex.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Capacity '40 - 45' looks very high for a 14'7\" x 12'8\" net climber. Left out of the copy; confirm.",
+  "Image files are named VERETX-*.jpg (typo for VERTEX); check image links and alt text."
+ ],
+ "/nexlev-series/solitaire/chalet.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Solitaire series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/solitaire/jager.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Solitaire series copy calls the range wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/baobab.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "A park bench is listed in a play series with a 'Safe Play Area' and the skill 'Positive thinking'. Written as garden furniture; consider moving it to Garden Decor.",
+  "Slat material is not stated (image_descriptions say wooden). The warranty line does not mention timber; confirm."
+ ],
+ "/nexlev-series/woody/beaber.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Only skill listed is 'Positive thinking', the same as the Baobab bench. Looks copy-pasted; confirm.",
+  "image_descriptions say rope or net bridge, but BEABER-A.jpg shows an enclosed net crawl tunnel. Copy follows the image.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/woody/colga.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Skills are identical to Apex in the Pinnacle series.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/conifer.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/el-dorado.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Listed as wooden play equipment, but EL-DORADO-A.jpg shows what looks like a metal frame with a brown finish. Confirm whether the posts are timber.",
+  "Skills are identical to Montana."
+ ],
+ "/nexlev-series/woody/montana.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Skills are identical to El Dorado.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/skuhoom.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials and any warranty on timber."
+ ],
+ "/nexlev-series/woody/sundarban.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/teton.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Woody series is described as wooden, but the warranty line covers only galvanised pipe, roto-moulded parts, composite laminates and play rope. Confirm materials."
+ ],
+ "/nexlev-series/woody/toss.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Beam material is not stated (image_descriptions say wooden). The warranty line does not mention timber; confirm."
+ ],
+ "/nexlev-series/woody/wiggle.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "The only Wiggle images are Wiggle-product-cat.jpg and Woody-SWAY-Img.jpg; the second is named 'Sway', which clashes with the Pinnacle Sway swing. Check the image links on both pages.",
+  "Leg material is not stated (image_descriptions say wooden). The warranty line does not mention timber; confirm."
+ ],
+ "/nexlev-series/woody/woody-go-round.html": [
+  "Age group and activities are 'NA' in the fact sheet; copy gives no age range.",
+  "Platform is described as wooden, but the warranty line does not mention timber; confirm the platform material and its warranty."
+ ]
+}

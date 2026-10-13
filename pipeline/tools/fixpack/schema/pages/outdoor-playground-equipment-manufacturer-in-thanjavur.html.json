@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thanjavur.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Thanjavur",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Thanjavur",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Tamil Nadu"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thanjavur.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Thanjavur. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kerala & Tamil Nadu",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Thanjavur",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thanjavur.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Playground Equipment",
+          "description": "High-quality, durable outdoor playground equipment designed for children in Thanjavur. Suitable for schools, parks, and housing societies.",
+          "category": "Playground Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "95"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

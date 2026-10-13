@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh/fun.html#product",
+      "name": "Fun Nature Play Station",
+      "sku": "FONS08",
+      "mpn": "FONS08",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/fun.html",
+      "image": [
+        "https://funplaysystems.com/images/fun-product1.jpg",
+        "https://funplaysystems.com/images/fun-product2.jpg"
+      ],
+      "description": "Climbing into the FUN zone takes on a literal meaning with our Multi Play System. Designed to embrace the exuberant expression of children, this equipment aims to elevate the joyous spirit within each little adventurer.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "21'6\" x 18'18\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "502.92 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "408.94 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Sliding Hanging Balancing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Body Strength Creativity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Cherry Red"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fun Nature Play Station",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh/fun.html"
+        }
+      ]
+    }
+  ]
+}

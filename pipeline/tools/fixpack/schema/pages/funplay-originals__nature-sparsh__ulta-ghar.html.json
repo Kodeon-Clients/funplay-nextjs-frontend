@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html#product",
+      "name": "Ulta Ghar Nature Play Station",
+      "sku": "FONS01",
+      "mpn": "FONS01",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html",
+      "image": [
+        "https://funplaysystems.com/images/Ulta-Ghar1.jpg",
+        "https://funplaysystems.com/images/Ulta-Ghar2.jpg",
+        "https://funplaysystems.com/images/Ulta-Ghar3.jpg",
+        "https://funplaysystems.com/images/Ulta-Ghar4.jpg"
+      ],
+      "description": "The design infuses a sense of wonder and imagination into children play experiences, encouraging them to explore extraordinary in everyday objects. “Ulta Ghar” features a unique drop climber that adds an element of surprise and excitement for kids.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 8 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "408.94 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "355.6 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Climbing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Coordination Cooperative Play Creativity Height Exploration"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Forest Green"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "15"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "price": "Contact for Pricing",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Fun Play Systems"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ulta Ghar Nature Play Station",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html"
+        }
+      ]
+    }
+  ]
+}

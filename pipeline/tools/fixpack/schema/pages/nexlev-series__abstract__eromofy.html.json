@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/abstract/eromofy.html#product",
+      "name": "Eromofy Play Structure",
+      "sku": "NXABER",
+      "mpn": "NXABER",
+      "url": "https://funplaysystems.com/nexlev-series/abstract/eromofy.html",
+      "image": [
+        "https://funplaysystems.com/images/EROMOFY-A.jpg",
+        "https://funplaysystems.com/images/EROMOFY-B.jpg",
+        "https://funplaysystems.com/images/EROMOFY-C.jpg"
+      ],
+      "description": "The Abstract Wooden Series for playground equipment creates a dynamic and enriching environment that supports children's physical, cognitive, and social development through active play. This series offers engaging activities that promote growth in an enjoyable and stimulating setting.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "35 - 40"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "33' x 26'4\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications The Abstract Wooden Series transforms playgrounds into vibrant hubs of activity that nurture children's physical, cognitive, and social growth. Offering a variety of engaging activities, this series provides a stimulating environment where fun meets developmental progress. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 35 - 40 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Improves concentration Build Strength Hand & eye coordination Team building"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sea Green"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Abstract Play Structures",
+          "item": "https://funplaysystems.com/nexlev-series/abstract.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Eromofy Play Structure",
+          "item": "https://funplaysystems.com/nexlev-series/abstract/eromofy.html"
+        }
+      ]
+    }
+  ]
+}

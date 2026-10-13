@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html#product",
+      "name": "Crown Court 7 Castle Multi Play Station",
+      "sku": "CASMPFS02",
+      "mpn": "CASMPFS02",
+      "url": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html",
+      "image": [
+        "https://funplaysystems.com/images/Crown-Court-7-product-image2.jpg",
+        "https://funplaysystems.com/images/Crown-Court-7-product-image.jpg"
+      ],
+      "description": "Jump into a world of grandeur and imagination with the Royal Castle Adventure Series. These designs evoke the splendor of ancient castles and majestic adventures, providing kids with spaces resembling real castles and forts. This series promises a regal play experience filled with swinging, sliding, hanging, and climbing activities fit for young royalty. Adorned with crown-shaped elements and a castle canopy, it provides shade while adding to the royal theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Castle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "20'6\" x 20'9\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "502.92 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "449.58 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Orange"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "30"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-10-05",
+          "reviewBody": "The Crown Court Seven is a perfect blend of creativity and functionality. It inspires children to explore their imagination while staying active and safe.",
+          "name": "A Must-Have Playground Design",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Castle Crest Castle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/castle-crest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Crown Court 7 Castle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html"
+        }
+      ]
+    }
+  ]
+}

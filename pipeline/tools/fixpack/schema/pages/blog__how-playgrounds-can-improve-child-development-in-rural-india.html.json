@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/how-playgrounds-can-improve-child-development-in-rural-india.html#article",
+      "headline": "How Playgrounds Can Improve Child Development in Rural India",
+      "description": "How playgrounds improve health and learning for children in rural India, and low-cost ways to build them in villages and schools.",
+      "url": "https://funplaysystems.com/blog/how-playgrounds-can-improve-child-development-in-rural-india.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/how-playgrounds-can-improve-child-development-in-rural-india.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-26",
+      "image": "https://funplaysystems.com/images/how-playground-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How Playgrounds Can Improve Child Development in Rural India",
+          "item": "https://funplaysystems.com/blog/how-playgrounds-can-improve-child-development-in-rural-india.html"
+        }
+      ]
+    }
+  ]
+}

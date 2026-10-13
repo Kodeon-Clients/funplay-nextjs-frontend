@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-suryapet.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Suryapet",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Suryapet",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Telangana"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-suryapet.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Suryapet. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Telangana",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-telangana.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Suryapet",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-suryapet.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Playground Equipment",
+          "description": "Durable and engaging outdoor playground equipment for schools, public spaces, and residential areas in Suryapet.",
+          "category": "Playground Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "87"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/blending-play-equipment-with-green-spaces.html#article",
+      "headline": "Blending Play Equipment with Green Spaces",
+      "description": "Ideas for placing playground equipment in parks and gardens without losing green cover: layouts, materials and planting tips.",
+      "url": "https://funplaysystems.com/blog/blending-play-equipment-with-green-spaces.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/blending-play-equipment-with-green-spaces.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-26"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Blending Play Equipment with Green Spaces",
+          "item": "https://funplaysystems.com/blog/blending-play-equipment-with-green-spaces.html"
+        }
+      ]
+    }
+  ]
+}

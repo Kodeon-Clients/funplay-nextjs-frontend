@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html#product",
+      "name": "City Strange Concept Play Structure",
+      "sku": "FOC003",
+      "mpn": "FOC003",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html",
+      "image": [
+        "https://funplaysystems.com/images/City-Strange-V1.jpg",
+        "https://funplaysystems.com/images/City-Strange-V2.jpg",
+        "https://funplaysystems.com/images/City-Strange-V3.jpg",
+        "https://funplaysystems.com/images/City-Strange-V4.jpg",
+        "https://funplaysystems.com/images/City-Strange-V5.jpg",
+        "https://funplaysystems.com/images/City-Strange-V6.jpg"
+      ],
+      "description": "City Strange, a multi-level play equipment extravaganza that transforms ordinary playtime into an urban adventure! As the name suggests, City Strange is a bustling metropolis of play, brimming with a myriad of activities designed to inspire young imaginations and encourage exploration. This whimsical play city invites children to embark on thrilling journeys through its winding streets and towering structures, discovering new surprises at every turn. From climbing walls to slides, each element is thoughtfully crafted to offer endless opportunities for fun and adventure. Join us in City Strange, where every corner holds a new discovery and every adventure is sure to ignite the imagination. Let’s explore the wonders of the city together!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Concept Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "City Strange Concept Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html"
+        }
+      ]
+    }
+  ]
+}

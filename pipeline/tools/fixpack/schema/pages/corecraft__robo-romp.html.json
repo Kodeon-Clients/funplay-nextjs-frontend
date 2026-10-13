@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/corecraft/robo-romp.html#webpage",
+      "url": "https://funplaysystems.com/corecraft/robo-romp.html",
+      "name": "Robo Romp Robot-Themed Playground Equipment",
+      "description": "Robo Romp robot-themed play towers by FunPlay with tube slides and climbing walls for ages 3–12. See models and get a quote.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/corecraft/robo-romp/dual-bot.html",
+            "name": "Dual Bot Robot Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/corecraft/robo-romp/robo-kingdom.html",
+            "name": "Robo Kingdom Robot Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html",
+            "name": "Solo Fight-5 Robot Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-7.html",
+            "name": "Solo Fight 7 Robot Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/corecraft/robo-romp/triple-threat.html",
+            "name": "Triple Threat Robot Multi Play Station"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Robo Romp Robot-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/robo-romp.html"
+        }
+      ]
+    }
+  ]
+}

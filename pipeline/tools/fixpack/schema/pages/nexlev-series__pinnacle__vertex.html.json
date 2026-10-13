@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/pinnacle/vertex.html#product",
+      "name": "Vertex Net Climber",
+      "sku": "NXPNVR",
+      "mpn": "NXPNVR",
+      "url": "https://funplaysystems.com/nexlev-series/pinnacle/vertex.html",
+      "image": [
+        "https://funplaysystems.com/images/VERETX-A.jpg",
+        "https://funplaysystems.com/images/VERETX-B.jpg",
+        "https://funplaysystems.com/images/VERETX-C.jpg"
+      ],
+      "description": "Welcome to Pinnacle Play, where imagination meets adventure! Our wooden pinnacles are crafted to inspire creativity and nurture physical development through engaging activities. From sliding down towering slides to scaling climbing walls, swinging through the air, and hopping across platforms, each element encourages problem-solving, creative thinking, and strength-building in a safe and stimulating environment. Discover the joy of play and exploration with Pinnacle Play, where every challenge is a new opportunity for growth and fun!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Net Climber",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "40 - 45"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "19'7\" x 17'8\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications The Pinnacle Series represents the ultimate in playground innovation, showcasing advanced designs that inspire and challenge. Perfect for bold explorers, these structures include intricate climbing frames and soaring heights, motivating children to ascend to new levels of play and creativity. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 40 - 45 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Cognitive development Motor skills Self control"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Pinnacle Tepee Play Towers",
+          "item": "https://funplaysystems.com/nexlev-series/pinnacle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vertex Net Climber",
+          "item": "https://funplaysystems.com/nexlev-series/pinnacle/vertex.html"
+        }
+      ]
+    }
+  ]
+}

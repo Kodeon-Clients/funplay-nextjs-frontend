@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "name": "FunPlay Systems",
+      "legalName": "Fun Play Systems Private Limited",
+      "alternateName": [
+        "FunPlay",
+        "Fun Play Systems"
+      ],
+      "url": "https://funplaysystems.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://funplaysystems.com/images/logo-black.png"
+      },
+      "description": "FunPlay Systems designs, manufactures and installs outdoor playground equipment, outdoor gym equipment and garden furniture in India. In-house design, roto-moulding and fabrication at a 45,000 sq ft factory in Vasai, Maharashtra.",
+      "foundingDate": "2002",
+      "founder": {
+        "@type": "Person",
+        "name": "Suraj Shetty",
+        "jobTitle": "Director"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "minValue": 150
+      },
+      "award": "Red Dot Design Award 2024",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unit No. 5, S. Nanda Business Park, Survey No. 33/2, Opposite Anupam Stationery, Shiv Shankar Road, Sagpada, Devdhal, Kaman Bhiwandi Road, Vasai East",
+        "addressLocality": "Vasai East",
+        "addressRegion": "Maharashtra",
+        "postalCode": "401208",
+        "addressCountry": "IN"
+      },
+      "email": "sales@funplaysystems.com",
+      "telephone": "+91-90283-02266",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "telephone": "+91-90283-02266",
+          "email": "sales@funplaysystems.com",
+          "areaServed": "IN",
+          "availableLanguage": [
+            "en",
+            "hi",
+            "mr"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "name": "After Sales Support",
+          "telephone": "+91-73853-00921",
+          "email": "aftersales@funplaysystems.com",
+          "areaServed": "IN"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/Fun-Play-Systems-224395631674041/",
+        "https://www.linkedin.com/company/68143999",
+        "https://www.youtube.com/channel/UCIVzspLQgAJe7OSeiQKlHcg",
+        "https://www.instagram.com/funplayindia/"
+      ],
+      "knowsAbout": [
+        "Playground equipment",
+        "Outdoor gym equipment",
+        "Playground design",
+        "Rotational moulding",
+        "Playground safety surfacing"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://funplaysystems.com/#factory",
+      "name": "FunPlay Systems – Factory & Head Office",
+      "parentOrganization": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "image": "https://funplaysystems.com/images/logo-black.png",
+      "url": "https://funplaysystems.com/contact-us.html",
+      "telephone": "+91-90283-02266",
+      "email": "sales@funplaysystems.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unit No. 5, S. Nanda Business Park, Survey No. 33/2, Opposite Anupam Stationery, Shiv Shankar Road, Sagpada, Devdhal, Kaman Bhiwandi Road, Vasai East",
+        "addressLocality": "Vasai East",
+        "addressRegion": "Maharashtra",
+        "postalCode": "401208",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.371953,
+        "longitude": 72.906704
+      },
+      "hasMap": "https://maps.app.goo.gl/aPCwbH2qknrfbjd6A",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:30"
+        }
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "India"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://funplaysystems.com/#website",
+      "url": "https://funplaysystems.com/",
+      "name": "FunPlay Systems",
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN"
+    }
+  ]
+}

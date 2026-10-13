@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/clown-capade/Jambore-3.html#product",
+      "name": "Jambore 3 Circus Multi Play Station",
+      "sku": "CLOMPFS02",
+      "mpn": "CLOMPFS02",
+      "url": "https://funplaysystems.com/corecraft/clown-capade/Jambore-3.html",
+      "image": [
+        "https://funplaysystems.com/images/Jamboree-3-1.jpg",
+        "https://funplaysystems.com/images/Jamboree-3-2.jpg"
+      ],
+      "description": "Step into a world of whimsy and laughter with the Clown Capade Series. The funny looking tilted Clown Canopies brings joy and excitement to children's playtime. This series dazzles with a spectrum of bright colors, creating a cheerful and inviting playground environment reminiscent of a lively circus tent. Includes a variety of entertaining activities such as swinging trapeze bars, spiral slides, hanging rings, and challenging climbing structures.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Circus Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 9 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "15'11\" x 19'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "302.26 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "408.94 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Crazy Pink & Baby Blue"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "reviewCount": "18"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-10-15",
+          "reviewBody": "The Jambore 3 is an absolute hit with kids! Its clown-inspired design brings joy and encourages hours of creative play.",
+          "name": "A Playground Full of Laughter",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Clown Capade Circus-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/clown-capade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jambore 3 Circus Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/clown-capade/Jambore-3.html"
+        }
+      ]
+    }
+  ]
+}

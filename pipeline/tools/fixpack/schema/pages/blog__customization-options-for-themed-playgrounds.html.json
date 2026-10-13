@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html#article",
+      "headline": "Customization Options for Themed Playgrounds",
+      "description": "Castle, jungle, robot or custom brand themes: how FunPlay customises playground colours, shapes and layouts for your site.",
+      "url": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2024-09-19"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Customization Options for Themed Playgrounds",
+          "item": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html"
+        }
+      ]
+    }
+  ]
+}

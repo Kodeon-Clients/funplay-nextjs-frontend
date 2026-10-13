@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html#product",
+      "name": "Jungle Jive-l2 Jungle Multi Play Station",
+      "sku": "F0RMPFS02",
+      "mpn": "F0RMPFS02",
+      "url": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html",
+      "image": [
+        "https://funplaysystems.com/images/JungleJive-Level2-product-image.jpg",
+        "https://funplaysystems.com/images/JungleJive-Level2-product-image2.jpg"
+      ],
+      "description": "Get on an adventure into the heart of the jungle with the Forestia Series Playground Equipment. Designed to immerse children in a vibrant and imaginative play environment inspired by the wonders of nature. This features realistic tree-like structures, leafy accessories, earthy tones tree house canopies, creating an authentic jungle atmosphere. Also Includes adventurous features such as vine ropes, log bridges, and treehouse platforms that mimic the experience of navigating through a jungle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Jungle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "36' x 28'4\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "914.4 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "711.2 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "30"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-12-01",
+          "reviewBody": "The Jungle Jive L2 is a fantastic jungle-themed playground that keeps kids engaged and active. Its adventurous design sparks imagination and fun!",
+          "name": "A Thrilling Jungle Adventure",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Forestia Jungle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/forestia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jungle Jive-l2 Jungle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html"
+        }
+      ]
+    }
+  ]
+}

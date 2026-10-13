@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-panaji.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Panaji",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Panaji",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goa"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-panaji.html",
+      "description": "FunPlay Systems makes outdoor playground equipment for schools, societies and parks in Panaji, Goa. Shipped from our Vasai factory, 442 km away. Get a quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Goa & Andaman and Nicobar Islands",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-goa-and-andaman-&-nicobar.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Panaji",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-panaji.html"
+        }
+      ]
+    }
+  ]
+}

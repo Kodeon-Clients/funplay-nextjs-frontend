@@ -1,0 +1,18 @@
+# ai.txt for https://funplaysystems.com
+# Owner: Fun Play Systems Private Limited, Vasai East, Palghar, Maharashtra 401208, India
+# Contact: sales@funplaysystems.com   Updated: 2026-10-05
+#
+# ai.txt (Spawning convention) states whether site content may be used to TRAIN AI models.
+# In this file "Disallow" means "do not use for AI/ML training or datasets".
+# It does NOT control search indexing. Search engines and AI answer engines
+# (Google, Bing, ChatGPT search, Perplexity, Claude search) are governed by /robots.txt,
+# which ALLOWS them to crawl, quote and link to our pages.
+#
+# Policy: no AI model training on our text, product photos, 3D renders or drawings.
+# Our product designs are registered designs of Fun Play Systems Private Limited.
+
+User-Agent: *
+Disallow: /
+
+# Machine-readable company summary for AI assistants:
+# https://funplaysystems.com/llms.txt

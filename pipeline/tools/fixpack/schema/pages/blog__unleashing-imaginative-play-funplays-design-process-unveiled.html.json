@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html#article",
+      "headline": "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
+      "description": "How FunPlay turns an idea into a playground: concept, 3D design, prototyping, safety testing, manufacturing and installation.",
+      "url": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-16",
+      "image": "https://funplaysystems.com/images/unleashing-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
+          "item": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/funplay-originals/kagzi.html#webpage",
+      "url": "https://funplaysystems.com/funplay-originals/kagzi.html",
+      "name": "Kagzi Origami-Inspired Play Structures",
+      "description": "Kagzi origami-inspired play structures: paper boat, bird, fish, frog and plane designs that climb, slide and swing.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-bird.html",
+            "name": "Paper Bird Origami Play Structure"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-boat.html",
+            "name": "Paper Boat Origami Play Structure"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-fish.html",
+            "name": "Paper Fish Swing Set"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-frog.html",
+            "name": "Paper Frog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-mouse.html",
+            "name": "Paper Mouse Crawl Tunnel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://funplaysystems.com/funplay-originals/kagzi/paper-plane.html",
+            "name": "Paper Plane Origami Play Structure"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kagzi Origami-Inspired Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/kagzi.html"
+        }
+      ]
+    }
+  ]
+}

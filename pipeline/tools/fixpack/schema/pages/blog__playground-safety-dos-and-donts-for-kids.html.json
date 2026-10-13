@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html#article",
+      "headline": "Playground Safety: Do's and Don'ts for Kids",
+      "description": "Simple playground safety rules for children and parents: what to do, what to avoid and how to check equipment before play.",
+      "url": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-14"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Playground Safety: Do's and Don'ts for Kids",
+          "item": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html"
+        }
+      ]
+    }
+  ]
+}

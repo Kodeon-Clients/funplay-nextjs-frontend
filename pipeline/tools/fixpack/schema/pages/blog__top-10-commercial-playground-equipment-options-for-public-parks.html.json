@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/top-10-commercial-playground-equipment-options-for-public-parks.html#article",
+      "headline": "Top 10 Commercial Playground Equipment Options for Public Parks",
+      "description": "The 10 most useful types of commercial playground equipment for public parks in India, from multi play stations to outdoor gyms.",
+      "url": "https://funplaysystems.com/blog/top-10-commercial-playground-equipment-options-for-public-parks.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/top-10-commercial-playground-equipment-options-for-public-parks.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-08",
+      "image": "https://funplaysystems.com/images/top-ten-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Top 10 Commercial Playground Equipment Options for Public Parks",
+          "item": "https://funplaysystems.com/blog/top-10-commercial-playground-equipment-options-for-public-parks.html"
+        }
+      ]
+    }
+  ]
+}

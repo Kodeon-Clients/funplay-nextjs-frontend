@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/top-trends-in-playground-design.html#article",
+      "headline": "Top Trends in Playground Design",
+      "description": "The latest playground design trends in India: nature play, inclusive design, themed structures, outdoor fitness and smart layouts.",
+      "url": "https://funplaysystems.com/blog/top-trends-in-playground-design.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/top-trends-in-playground-design.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-11",
+      "image": "https://funplaysystems.com/images/unleashing-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Top Trends in Playground Design",
+          "item": "https://funplaysystems.com/blog/top-trends-in-playground-design.html"
+        }
+      ]
+    }
+  ]
+}

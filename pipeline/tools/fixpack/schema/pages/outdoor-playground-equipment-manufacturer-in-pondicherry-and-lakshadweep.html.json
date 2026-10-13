@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Puducherry & Lakshadweep",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "State",
+          "name": "Puducherry"
+        },
+        {
+          "@type": "State",
+          "name": "Lakshadweep"
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Puducherry & Lakshadweep. Made in our Vasai factory. Get a free."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Puducherry & Lakshadweep",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html"
+        }
+      ]
+    }
+  ]
+}

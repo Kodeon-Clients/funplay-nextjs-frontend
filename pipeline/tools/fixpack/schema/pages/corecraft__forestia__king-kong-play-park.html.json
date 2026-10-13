@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html#product",
+      "name": "King Kong Play Park Jungle Multi Play Station",
+      "sku": "F0RMPFS05",
+      "mpn": "F0RMPFS05",
+      "url": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html",
+      "image": [
+        "https://funplaysystems.com/images/King-Kong-Play-Park-1-product-image.jpg",
+        "https://funplaysystems.com/images/King-Kong-Play-Park-2-product-image.jpg",
+        "https://funplaysystems.com/images/King-Kong-Play-Park-3-product-image.jpg",
+        "https://funplaysystems.com/images/King-Kong-Play-Park-4-product-image.jpg"
+      ],
+      "description": "Get on an adventure into the heart of the jungle with the Forestia Series Playground Equipment. Designed to immerse children in a vibrant and imaginative play environment inspired by the wonders of nature. This features realistic tree-like structures, leafy accessories, earthy tones tree house canopies, creating an authentic jungle atmosphere. Also Includes adventurous features such as vine ropes, log bridges, and treehouse platforms that mimic the experience of navigating through a jungle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Jungle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "56'1\" x 48'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1526.54 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "1292.86 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Forest Green & Sand Beige"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "38"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-12-05",
+          "reviewBody": "The King Kong Play Park is a thrilling jungle-themed playground that kids absolutely adore. Its King Kong-inspired design sparks imagination and keeps them active for hours!",
+          "name": "A Mighty Adventure for Kids",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Forestia Jungle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/forestia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "King Kong Play Park Jungle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html"
+        }
+      ]
+    }
+  ]
+}

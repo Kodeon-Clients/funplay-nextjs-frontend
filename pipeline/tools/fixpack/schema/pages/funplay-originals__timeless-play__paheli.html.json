@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html#product",
+      "name": "Paheli Play Structure",
+      "sku": "FOTP03",
+      "mpn": "FOTP03",
+      "url": "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html",
+      "image": [
+        "https://funplaysystems.com/images/Paheli-1.jpg",
+        "https://funplaysystems.com/images/Paheli-2.jpg"
+      ],
+      "description": "Paheli offers a unique structural form that allows kids to elevate themselves to new levels, engaging their problem-solving attitude in various ways. Puzzle shapes support climbing, while a huge puzzle piece at the back provides access to climb upwards.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "27'7\" x 17'10\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "657.86 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "391.16 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Hanging Sliding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Concentration Cognitive Balance Upper Body Strength Problem Solving"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Timeless Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Paheli Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html"
+        }
+      ]
+    }
+  ]
+}

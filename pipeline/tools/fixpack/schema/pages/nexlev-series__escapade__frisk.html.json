@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/escapade/frisk.html#product",
+      "name": "Frisk Adventure Play Structure",
+      "sku": "NXESFRI",
+      "mpn": "NXESFRI",
+      "url": "https://funplaysystems.com/nexlev-series/escapade/frisk.html",
+      "image": [
+        "https://funplaysystems.com/images/FRISK-A.webp",
+        "https://funplaysystems.com/images/FRISK-B.webp",
+        "https://funplaysystems.com/images/FRISK-C.webp"
+      ],
+      "description": "Discover the \"Escapade\" series – a premium collection of wooden outdoor playground equipment designed to inspire adventure and foster essential developmental skills in children. Each element in the \"Escapade\" series is thoughtfully crafted to create an engaging and educational play environment, promoting physical, cognitive, and emotional growth. With imaginative play areas including castles, pirate ships, and forts, the \"Escapade\" series sparks creativity and fantasy play. Children can engage in role-playing and storytelling, enriching their imaginative capabilities.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Adventure Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15 - 20"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "26' x 16'"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications Explore the \"Escapade\" series, where each piece of wooden playground equipment is expertly designed to encourage adventure and developmental growth. Featuring imaginative play areas like castles and pirate ships, this series enhances physical, cognitive, and creative skills through dynamic role-playing and storytelling. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 15 - 20 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Emotional intelligence Leadership Self directed"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Blue"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Escapade Adventure Play Structures",
+          "item": "https://funplaysystems.com/nexlev-series/escapade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Frisk Adventure Play Structure",
+          "item": "https://funplaysystems.com/nexlev-series/escapade/frisk.html"
+        }
+      ]
+    }
+  ]
+}

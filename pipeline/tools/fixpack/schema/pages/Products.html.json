@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/Products.html#webpage",
+      "url": "https://funplaysystems.com/Products.html",
+      "name": "Playground and Outdoor Gym Equipment Products",
+      "description": "Browse FunPlay's CoreCraft, FunPlay Originals and NexLev ranges: multi play stations, slides, swings, climbers, outdoor gym equipment and garden furniture.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Playground and Outdoor Gym Equipment Products",
+          "item": "https://funplaysystems.com/Products.html"
+        }
+      ]
+    }
+  ]
+}

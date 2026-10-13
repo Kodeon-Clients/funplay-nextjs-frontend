@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html#product",
+      "name": "Solo Fight-5 Robot Multi Play Station",
+      "sku": "ROBMPFS01",
+      "mpn": "ROBMPFS01",
+      "url": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html",
+      "image": [
+        "https://funplaysystems.com/images/Solo-Fight-5-green-product.jpg",
+        "https://funplaysystems.com/images/Solo-Fight-5-blue-product.jpg",
+        "https://funplaysystems.com/images/Solo-Fight-5-orange-product.jpg",
+        "https://funplaysystems.com/images/Solo-Fight-5-orange2-product.jpg"
+      ],
+      "description": "The Robo Romp series forms the core of our Corecraft collection, inspired by the robotic world. The designs reflect bold and loud expressions through their form. The shapes are designed to resemble the postures of robots, allowing kids to immerse themselves in play. Moreover, the relevant color selection, Robotic themed canopies, Robo railings, bubble panels, and other such elements represent characteristics of robots, enhancing the overall theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Robot Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "22'6\" x 15'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "563.88 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "287.02 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Forest Green & Sea Green, Knight Blue & Lavender Dilly, Play Orange & Baby Blue"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Robo Romp Robot-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/robo-romp.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Solo Fight-5 Robot Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html"
+        }
+      ]
+    }
+  ]
+}

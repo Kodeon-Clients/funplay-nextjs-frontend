@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/choosing-durable-playground-materials.html#article",
+      "headline": "Choosing Durable Playground Materials",
+      "description": "Compare playground materials for Indian weather: galvanised steel, roto-moulded LLDPE, HPL panels, wood and rope. What lasts and why.",
+      "url": "https://funplaysystems.com/blog/choosing-durable-playground-materials.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/choosing-durable-playground-materials.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-08-11",
+      "image": "https://funplaysystems.com/images/blog-14-cover.jpg"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Choosing Durable Playground Materials",
+          "item": "https://funplaysystems.com/blog/choosing-durable-playground-materials.html"
+        }
+      ]
+    }
+  ]
+}

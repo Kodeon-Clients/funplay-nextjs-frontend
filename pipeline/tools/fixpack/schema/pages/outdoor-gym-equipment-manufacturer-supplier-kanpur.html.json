@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kanpur.html#service",
+      "name": "Outdoor Gym Equipment Manufacturer & Supplier in Kanpur",
+      "serviceType": "Outdoor gym equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Kanpur",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Uttar Pradesh"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kanpur.html",
+      "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Kanpur. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "India",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym – Kanpur",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kanpur.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Gym Equipment",
+          "description": "High-quality outdoor fitness equipment for parks, schools, and public spaces in Kanpur.",
+          "category": "Outdoor Gym Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "150"
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Rahul Verma"
+              },
+              "datePublished": "2024-10-22",
+              "reviewBody": "Installed their gym equipment in our society park. It's very sturdy and safe for all age groups. Excellent quality!",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+              }
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Priya Singh"
+              },
+              "datePublished": "2024-09-20",
+              "reviewBody": "Very professional service. The team guided us through each product and ensured timely installation in Kanpur.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4.6",
+                "bestRating": "5"
+              }
+            }
+          ],
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

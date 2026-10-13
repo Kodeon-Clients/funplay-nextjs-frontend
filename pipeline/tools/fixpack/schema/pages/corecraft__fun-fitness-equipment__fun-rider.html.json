@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html#product",
+      "name": "Fun Rider Outdoor Gym Equipment",
+      "sku": "FFE023",
+      "mpn": "FFE023",
+      "url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html",
+      "image": [
+        "https://funplaysystems.com/images/fun-rider-product-image.jpg"
+      ],
+      "description": "Discover the joy of outdoor workouts with the \"Fun Fitness\" series. Our robust and versatile gym equipment is designed to bring out your inner strength while making fitness fun and accessible for everyone. Perfect for parks, recreational areas, and community spaces, this series encourages a healthy lifestyle through engaging physical activities in the great outdoors.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Outdoor Gym Equipment",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Orange"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym Equipment",
+          "item": "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fun Rider Outdoor Gym Equipment",
+          "item": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/woody/teton.html#product",
+      "name": "Teton Wooden Play Equipment",
+      "sku": "NXWDTE",
+      "mpn": "NXWDTE",
+      "url": "https://funplaysystems.com/nexlev-series/woody/teton.html",
+      "image": [
+        "https://funplaysystems.com/images/TETON-A.jpg",
+        "https://funplaysystems.com/images/TETON-B.jpg",
+        "https://funplaysystems.com/images/TETON-C.jpg"
+      ],
+      "description": "The \"Woody\" series features robust wooden structures designed to ignite children's adventurous spirits through various climbing challenges. From wooden benches and Woody homes to Woody merry-go-rounds, each element encourages children to explore different heights and angles. The series includes rope walls with sturdy grips, intricate climbing nets, and ladders, all of which promote physical strength, coordination, and spatial awareness as children navigate their way up and down the structures.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Wooden Play Equipment",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "30 - 35"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "29'7\" x 28'7\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications The \"Woody\" series presents sturdy wooden play equipment that sparks children's sense of adventure with diverse climbing opportunities. This series includes everything from wooden benches and charming Woody homes to enchanting merry-go-rounds, designed to inspire exploration at varying heights and perspectives. It features climbing nets, rope walls equipped with solid grips, and ladders, all enhancing physical development, coordination, and spatial understanding as children climb and descend these engaging structures. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 30 - 35 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Strength building Self control Improves motor skills"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Forest Green"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Woody Wooden Playground Equipment",
+          "item": "https://funplaysystems.com/nexlev-series/woody.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Teton Wooden Play Equipment",
+          "item": "https://funplaysystems.com/nexlev-series/woody/teton.html"
+        }
+      ]
+    }
+  ]
+}

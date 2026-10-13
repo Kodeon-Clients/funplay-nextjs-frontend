@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Kerala & Tamil Nadu",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "State",
+          "name": "Kerala"
+        },
+        {
+          "@type": "State",
+          "name": "Tamil Nadu"
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kerala & Tamil Nadu. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kerala & Tamil Nadu",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html"
+        }
+      ]
+    }
+  ]
+}

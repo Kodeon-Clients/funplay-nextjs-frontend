@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh.html#webpage",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh.html",
+      "name": "Nature Sparsh Nature-Inspired Play Stations",
+      "description": "Nature Sparsh play stations by FunPlay Originals: natural-look towers, slides and nets for schools and townships.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html",
+            "name": "Archies Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/aviral.html",
+            "name": "Aviral Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/barrel-barrel.html",
+            "name": "Barrel Barrel Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-cook.html",
+            "name": "Card Cook Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html",
+            "name": "Card Pyramid Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/fun.html",
+            "name": "Fun Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html",
+            "name": "Inframe Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/phula.html",
+            "name": "Phula Nature Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html",
+            "name": "Ulta Ghar Nature Play Station"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        }
+      ]
+    }
+  ]
+}

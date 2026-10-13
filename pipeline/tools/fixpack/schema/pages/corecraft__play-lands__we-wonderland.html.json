@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html#product",
+      "name": "We Wonderland Multi Play Station",
+      "sku": "PLAMPFS10",
+      "mpn": "PLAMPFS10",
+      "url": "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html",
+      "image": [
+        "https://funplaysystems.com/images/play-lands-we-wonderland-1.jpg",
+        "https://funplaysystems.com/images/play-lands-we-wonderland.jpg",
+        "https://funplaysystems.com/images/play-lands-we-wonderland-2.jpg"
+      ],
+      "description": "Jump into a world of grandeur and imagination with the Royal Castle Adventure Series. These designs evoke the splendor of ancient castles and majestic adventures, providing kids with spaces resembling real castles and forts. This series promises a regal play experience filled with swinging, sliding, hanging, and climbing activities fit for young royalty. Adorned with crown-shaped elements and a castle canopy, it provides shade while adding to the royal theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 9 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "35'8\" x 21'1\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "904.24 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "459.74 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Crazy Pink & Play Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Play Lands Large Multi Play Stations",
+          "item": "https://funplaysystems.com/corecraft/play-lands.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "We Wonderland Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html"
+        }
+      ]
+    }
+  ]
+}

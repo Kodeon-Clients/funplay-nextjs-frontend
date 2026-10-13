@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/contact-us.html#webpage",
+      "url": "https://funplaysystems.com/contact-us.html",
+      "name": "Contact FunPlay Systems",
+      "description": "Call +91 902 830 2266 or email sales@funplaysystems.com. FunPlay Systems, Vasai East, Palghar, Maharashtra 401208. Open Mon–Sat, 9:00 AM–6:30 PM.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contact FunPlay Systems",
+          "item": "https://funplaysystems.com/contact-us.html"
+        }
+      ]
+    }
+  ]
+}

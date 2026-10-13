@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html#product",
+      "name": "Ground Hogs Play Pods",
+      "sku": "FOC002",
+      "mpn": "FOC002",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html",
+      "image": [
+        "https://funplaysystems.com/images/Ground-dog-1.jpg",
+        "https://funplaysystems.com/images/Ground-dog-2.jpg"
+      ],
+      "description": "A vibrant and interactive public seating space crafted with keeping guardians and kids both in mind! Here, parents can unwind and relax while their little ones explore and play within a safe distance. Imaginatively designed as cozy ground hog dens, children can peek out into the outside world through window holes and even journey beneath the ground for exciting adventures. This unique setup sparks curiosity, fosters exploration, and adds an element of whimsical fun as kids exchange playful interactions. Ground hogs not only encourages children to engage with their surroundings but also promotes meaningful interaction with their parents and other adults present. It’s the perfect blend of relaxation and entertainment, creating moments of joy and connection for families to cherish. Join us at Ground Hog Den, where every visit promises delightful discoveries and shared experiences!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Play Pods",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sand Beige"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ground Hogs Play Pods",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/impact-of-playground-equipment-on-property-value.html#article",
+      "headline": "The Impact of Playground Equipment on Property Value",
+      "description": "How playgrounds and play zones affect residential property value and buyer appeal, and what builders should include.",
+      "url": "https://funplaysystems.com/blog/impact-of-playground-equipment-on-property-value.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/impact-of-playground-equipment-on-property-value.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-08-14",
+      "image": "https://funplaysystems.com/images/About-us-page-banner.jpg"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Impact of Playground Equipment on Property Value",
+          "item": "https://funplaysystems.com/blog/impact-of-playground-equipment-on-property-value.html"
+        }
+      ]
+    }
+  ]
+}

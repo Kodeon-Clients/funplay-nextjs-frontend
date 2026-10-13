@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html#article",
+      "headline": "Educational Benefits of Outdoor Play in Schools",
+      "description": "How outdoor play improves attention, social skills and learning in school children, with ideas for schools to add more play time.",
+      "url": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-07",
+      "image": "https://funplaysystems.com/images/educational-outdoor-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Educational Benefits of Outdoor Play in Schools",
+          "item": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html"
+        }
+      ]
+    }
+  ]
+}

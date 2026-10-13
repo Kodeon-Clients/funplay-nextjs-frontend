@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html#article",
+      "headline": "Creating Child-Friendly Play Zones in Residential Areas",
+      "description": "How to plan a child-friendly play zone in a housing society: location, age zoning, equipment, surfacing and maintenance.",
+      "url": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-10",
+      "image": "https://funplaysystems.com/images/creating-outdoor-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Creating Child-Friendly Play Zones in Residential Areas",
+          "item": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html"
+        }
+      ]
+    }
+  ]
+}

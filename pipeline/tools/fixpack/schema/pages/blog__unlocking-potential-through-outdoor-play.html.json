@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/unlocking-potential-through-outdoor-play.html#article",
+      "headline": "The Benefits of Outdoor Play and How to Encourage It",
+      "description": "The benefits of outdoor play for children's health, confidence and learning, and simple ways to encourage more of it.",
+      "url": "https://funplaysystems.com/blog/unlocking-potential-through-outdoor-play.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/unlocking-potential-through-outdoor-play.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2024-06-29",
+      "image": "https://funplaysystems.com/images/unlocking-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Benefits of Outdoor Play and How to Encourage It",
+          "item": "https://funplaysystems.com/blog/unlocking-potential-through-outdoor-play.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/forestia/gloracia.html#product",
+      "name": "Gloracia Jungle Multi Play Station",
+      "sku": "F0RMPFS03",
+      "mpn": "F0RMPFS03",
+      "url": "https://funplaysystems.com/corecraft/forestia/gloracia.html",
+      "image": [
+        "https://funplaysystems.com/images/Gloracia-yellow-product-image.jpg",
+        "https://funplaysystems.com/images/Gloracia-yellow2-product-image.jpg",
+        "https://funplaysystems.com/images/Gloracia-orange-product-image.jpg",
+        "https://funplaysystems.com/images/Gloracia-green-product-image.jpg"
+      ],
+      "description": "Get on an adventure into the heart of the jungle with the Forestia Series Playground Equipment. Designed to immerse children in a vibrant and imaginative play environment inspired by the wonders of nature. This features realistic tree-like structures, leafy accessories, earthy tones tree house canopies, creating an authentic jungle atmosphere. Also Includes adventurous features such as vine ropes, log bridges, and treehouse platforms that mimic the experience of navigating through a jungle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Jungle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "29'8\" x 26'1\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "721.36 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "612.14 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Yellow, Play Orange, Lemon Yellow"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "35"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-11-20",
+          "reviewBody": "The Gloracia is an incredible nature-themed playground that inspires creativity and active play. Kids love exploring every corner of it!",
+          "name": "A Playground Inspired by Nature",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Forestia Jungle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/forestia.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Gloracia Jungle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/forestia/gloracia.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/clown-capade/tumble-twin.html#product",
+      "name": "Tumble Twin Circus Multi Play Station",
+      "sku": "CLOMPFS03",
+      "mpn": "CLOMPFS03",
+      "url": "https://funplaysystems.com/corecraft/clown-capade/tumble-twin.html",
+      "image": [
+        "https://funplaysystems.com/images/TumbleTwin-1-product-page.jpg"
+      ],
+      "description": "Step into a world of whimsy and laughter with the Clown Capade Series. The funny looking tilted Clown Canopies brings joy and excitement to children's playtime. This series dazzles with a spectrum of bright colors, creating a cheerful and inviting playground environment reminiscent of a lively circus tent. Includes a variety of entertaining activities such as swinging trapeze bars, spiral slides, hanging rings, and challenging climbing structures.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Circus Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "40' x 22'7\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1036.32 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "535.94 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Crazy Pink & Banana Yellow"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "25"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-11-05",
+          "reviewBody": "The Tumble Twin is a fantastic playground option that combines fun and safety. Kids love its clown-inspired design and interactive features!",
+          "name": "A Playground Full of Laughter",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Clown Capade Circus-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/clown-capade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Tumble Twin Circus Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/clown-capade/tumble-twin.html"
+        }
+      ]
+    }
+  ]
+}

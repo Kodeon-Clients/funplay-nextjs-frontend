@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html#article",
+      "headline": "Using Natural Elements with Play Equipment for Immersive Spaces",
+      "description": "How to combine wood, stone, sand, water and planting with play equipment to create immersive natural play spaces.",
+      "url": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-28",
+      "image": "https://funplaysystems.com/images/using-naturals-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Using Natural Elements with Play Equipment for Immersive Spaces",
+          "item": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html"
+        }
+      ]
+    }
+  ]
+}

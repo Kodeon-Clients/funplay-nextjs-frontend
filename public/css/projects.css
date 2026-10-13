@@ -1,0 +1,557 @@
+.solution-img {
+    height: 200px;
+}
+
+.hero-subtitle {
+    margin: 6px 0 12px;
+}
+
+.btn-r,
+.campaignForm button,
+.rounded-16m-19d {
+    border-radius: 16px;
+}
+
+.st-high-scl-img img {
+    width: 650px;
+    height: 450px;
+}
+
+.products-solution-img {
+    height: 200px;
+}
+
+.sps-products-solution-img {
+    height: 370px;
+}
+
+.at-funplay img {
+    width: 632px;
+    height: 370px;
+}
+
+.card-ti {
+    margin-bottom: 0 !important;
+}
+
+.background-tint {
+    background-color: #00000099;
+    background-blend-mode: multiply;
+}
+
+.box {
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-image: url('/images/campaign/banners/funplay-banner.webp');
+}
+
+/* ==========================================
+   FORM
+========================================== */
+
+.form-group {
+    position: relative;
+    flex: 1;
+    margin-bottom: 16px;
+}
+
+.form-group label,
+.form-group span {
+    position: absolute;
+    top: 50%;
+    color: #727A7E;
+    font-size: 16px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    transition: all 0.2s ease-in-out;
+    background: #fff;
+    padding: 0 5px;
+    margin-left: -5px;
+}
+
+.form-group label {
+    left: 12px;
+}
+
+.form-group span {
+    left: 50px;
+}
+
+.input-field,
+.ph-input-field,
+.select-field {
+    width: 100%;
+    height: 44px;
+    border: 1px solid #DDD2D2;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #727A7E;
+    outline: none;
+    transition: all 0.3s ease;
+    background: transparent;
+    z-index: 2;
+}
+
+.input-field {
+    padding: 6px 40px 6px 12px;
+}
+
+.ph-input-field {
+    padding: 6px 45px;
+}
+
+.select-field {
+    appearance: none;
+    cursor: pointer;
+    line-height: 32px;
+    padding: 6px 40px 6px 12px;
+}
+
+.select-arrow {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    z-index: 2;
+    pointer-events: none;
+    transform: translateY(-50%);
+    transition: transform 0.2s ease-in-out;
+}
+
+/* ==========================================
+   PRODUCTS INSTALLED
+========================================== */
+
+.products-installed-wrapper {
+    display: flex;
+    flex-direction: column;
+    /* gap: 43px; */
+    padding: 0 16px;
+}
+
+.products-installed-header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.products-installed-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+}
+
+/* ==========================================
+   AT FUNPLAY
+========================================== */
+
+.at-funplay-section {
+    gap: 48px;
+    padding: 0 16px;
+}
+
+.at-funplay-content {
+    width: 100%;
+}
+
+.at-funplay-details {
+    margin-top: 32px;
+}
+
+.why-choose-us-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-top: 20px;
+    padding: 20px;
+    height: 338px;
+    border-radius: 20px;
+    background: #F9F9F9;
+}
+
+.at-funplay-footer-text {
+    padding-top: 24px;
+}
+
+.at-funplay-image-wrapper {
+    height: 400px;
+    margin-top: 32px;
+}
+
+.at-funplay-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 46px;
+}
+
+/* ==========================================
+   SCHOOL PLAYGROUND
+========================================== */
+.school-playground-wrapper,
+.products-installed-wrapper,
+.at-funplay-section,
+.solutions-wrapper,
+.cta-section-layout {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.school-playground-wrapper {
+    display: flex;
+    flex-direction: column;
+    /* gap: 43px; */
+    padding: 0 16px;
+}
+
+.school-playground-header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.school-playground-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+}
+
+/* ==========================================
+   CTA SECTION
+========================================== */
+
+.cta-section-wrapper {
+    position: relative;
+    width: 93%;
+    height: calc(100vh - 97px);
+    overflow: hidden;
+    border-radius: 46px;
+}
+
+.cta-section-layout {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 41px;
+}
+
+.cta-content {
+    padding: 32px;
+}
+
+.cta-description {
+    margin-top: 12px;
+    margin-bottom: 31px;
+}
+
+.live-chat-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 41px;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 16px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.live-chat-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.quote-form-wrapper {
+    display: none;
+}
+
+.quote-form-wrapper-mobile {
+    display: block;
+    padding: 0 16px;
+}
+
+/* ==========================================
+   SOLUTIONS
+========================================== */
+
+.solutions-wrapper {
+    display: flex;
+    flex-direction: column;
+    /* gap: 43px; */
+    padding: 0 16px;
+}
+
+.solutions-header {
+    display: flex;
+    justify-content: center;
+}
+
+.solutions-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+}
+
+/* ==========================================
+   COMMON COMPONENTS
+========================================== */
+
+.grid-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 24px;
+}
+
+.why-choose-us-item {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    width: 100%;
+    height: 48px;
+}
+
+.why-choose-us-item-border {
+    border-bottom: 1px solid #C3C3C3;
+}
+
+.why-choose-us-title {
+    color: #616161;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Quicksand, sans-serif;
+    line-height: 1.1;
+}
+
+.solution-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+}
+
+.solution-image-wrapper {
+    width: 100%;
+    height: 270px;
+}
+
+.solution-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.submit-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    width: 247px;
+    height: 57px;
+    padding: 11px 17px;
+
+    background: #EE535C;
+    color: #ffffff;
+
+    font-weight: 600;
+    white-space: nowrap;
+
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+
+    transition: all 0.3s ease-in-out;
+}
+
+.submit-button:hover {
+    background: #E54B2A;
+    transform: translateY(-1px);
+}
+
+.submit-button:active {
+    transform: translateY(0);
+}
+
+.error-text-msg {
+    color: #E54B2A;
+    font-size: 16px;
+    margin-top: 4px;
+    font-weight: bold;
+}
+
+.ph-input-field:focus+span,
+.ph-input-field:not(:placeholder-shown)+span {
+    top: 0;
+    left: 12px;
+    font-size: 11px;
+    line-height: 11px;
+}
+
+.input-field:focus+label,
+.input-field:not(:placeholder-shown)+label,
+.select-field:focus~label,
+.select-field.has-value~label {
+    top: 0;
+    font-size: 11px;
+    line-height: 11px;
+}
+
+/* ==========================================
+   SM ≥ 640px
+========================================== */
+
+@media (min-width: 640px) {
+
+    .products-installed-wrapper,
+    .school-playground-wrapper,
+    .solutions-wrapper,
+    .at-funplay-section {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+    .why-choose-us-list {
+        width: 524px;
+    }
+
+    .live-chat-btn {
+        width: 245px;
+        height: 58px;
+        padding: 11px 17px;
+        border-radius: 19px;
+    }
+
+    .live-chat-icon {
+        width: 24px;
+        height: 24px;
+    }
+
+    .cta-content {
+        padding: 40px 32px;
+    }
+}
+
+/* ==========================================
+   MD ≥ 768px
+========================================== */
+
+@media (min-width: 768px) {
+
+    .products-installed-header,
+    .school-playground-header,
+    .solutions-header {
+        gap: 0;
+    }
+
+    .products-installed-grid,
+    .school-playground-grid,
+    .solutions-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .products-installed-grid,
+    .school-playground-grid {
+        row-gap: 72px;
+    }
+
+    .at-funplay-content {
+        width: 50%;
+    }
+
+    .at-funplay-image-wrapper {
+        height: 616px;
+    }
+
+    .cta-section-wrapper {
+        width: 98%;
+        height: auto;
+    }
+
+    .cta-content {
+        padding: 99px 111px;
+    }
+
+    .solution-card {
+        gap: 25px;
+    }
+}
+
+/* ==========================================
+   LG ≥ 1024px
+========================================== */
+
+@media (min-width: 1024px) {
+
+    .products-installed-wrapper,
+    .school-playground-wrapper,
+    .solutions-wrapper,
+    .at-funplay-section {
+        padding-left: 64px;
+        padding-right: 64px;
+        gap: 43px;
+    }
+
+    .hero-subtitle {
+        margin: 12px 0 24px;
+    }
+
+    .products-installed-header,
+    .school-playground-header,
+    .solutions-header {
+        flex-direction: row;
+    }
+
+    .products-installed-grid,
+    .school-playground-grid,
+    .solutions-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .at-funplay-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .at-funplay-image-wrapper {
+        width: 632px;
+        height: auto;
+        margin-top: 0;
+    }
+
+    .at-funplay img {
+        width: 632px;
+        height: 616px;
+        position: sticky;
+        top: 72px;
+    }
+
+    .cta-section-wrapper {
+        padding: 37px 35px;
+    }
+
+    .cta-content {
+        max-width: 757px;
+    }
+
+    .quote-form-wrapper {
+        display: block;
+        width: 532px;
+        height: 100%;
+        padding: 46px 37px 41px 43px;
+        border-radius: 34px;
+        background: #fff;
+        flex-shrink: 0;
+    }
+
+    .quote-form-wrapper-mobile {
+        display: none;
+    }
+}

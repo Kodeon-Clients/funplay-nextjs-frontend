@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/corecraft/castle-crest.html#webpage",
+      "url": "https://funplaysystems.com/corecraft/castle-crest.html",
+      "name": "Castle Crest Castle-Themed Playground Equipment",
+      "description": "Castle Crest castle-themed multi play stations by FunPlay: towers, slides and climbers for ages 3–12. Made in India. See models and get a quote.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/corecraft/castle-crest/crown-court-3.html",
+            "name": "Crown Court 3 Castle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html",
+            "name": "Crown Court 7 Castle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html",
+            "name": "Fortress Fun Castle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/corecraft/castle-crest/noble-nook.html",
+            "name": "Noble Nook Castle Multi Play Station"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://funplaysystems.com/corecraft/castle-crest/royal-rise.html",
+            "name": "Royal Rise Castle Multi Play Station"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Castle Crest Castle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/castle-crest.html"
+        }
+      ]
+    }
+  ]
+}

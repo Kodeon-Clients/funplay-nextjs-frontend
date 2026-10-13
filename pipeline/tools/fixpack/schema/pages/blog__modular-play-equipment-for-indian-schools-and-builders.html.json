@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html#article",
+      "headline": "Modular Play Equipment for Schools & Builders in India",
+      "description": "Why modular play equipment suits Indian schools and builders: flexible layouts, phased budgets and easy expansion.",
+      "url": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-05",
+      "image": "https://funplaysystems.com/images/modular-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Modular Play Equipment for Schools & Builders in India",
+          "item": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html"
+        }
+      ]
+    }
+  ]
+}

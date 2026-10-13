@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html#product",
+      "name": "Chidiyaan Concept Play Structure",
+      "sku": "FOC004",
+      "mpn": "FOC004",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html",
+      "image": [
+        "https://funplaysystems.com/images/Chidiya-1.jpg",
+        "https://funplaysystems.com/images/Chidiya-2.jpg"
+      ],
+      "description": "Chiddiyaan, where the innate charm of sparrows meets imaginative play, igniting children’s creativity and cognitive skills! Our series blends the natural characteristics of sparrows with simple shapes, inviting kids to explore and embrace their creativity. At the heart of Chiddiyaan lies a unique double seesaw, designed to mimic the movements of sparrows in flight. Children can engage in pretend play, imagining themselves soaring through the skies on the backs of these delightful birds. Join us as we journey into the enchanting world of birds, where every moment is filled with wonder and the joy of discovery. Let your imagination take flight with Chiddiyaan!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Concept Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chidiyaan Concept Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html"
+        }
+      ]
+    }
+  ]
+}

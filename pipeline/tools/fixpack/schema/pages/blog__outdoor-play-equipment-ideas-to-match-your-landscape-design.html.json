@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/outdoor-play-equipment-ideas-to-match-your-landscape-design.html#article",
+      "headline": "Outdoor Play Equipment Ideas to Match Your Landscape Design",
+      "description": "Playground equipment ideas that match modern, natural and themed landscape designs, for architects and developers.",
+      "url": "https://funplaysystems.com/blog/outdoor-play-equipment-ideas-to-match-your-landscape-design.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/outdoor-play-equipment-ideas-to-match-your-landscape-design.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-15",
+      "image": "https://funplaysystems.com/images/outdoor-image.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Outdoor Play Equipment Ideas to Match Your Landscape Design",
+          "item": "https://funplaysystems.com/blog/outdoor-play-equipment-ideas-to-match-your-landscape-design.html"
+        }
+      ]
+    }
+  ]
+}

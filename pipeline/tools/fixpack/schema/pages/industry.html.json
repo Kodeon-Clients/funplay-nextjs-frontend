@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/industry.html#webpage",
+      "url": "https://funplaysystems.com/industry.html",
+      "name": "Playground Solutions by Industry",
+      "description": "FunPlay builds playgrounds for schools, residential builders, hotels and resorts, corporates and government projects. See solutions by industry.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Playground Solutions by Industry",
+          "item": "https://funplaysystems.com/industry.html"
+        }
+      ]
+    }
+  ]
+}

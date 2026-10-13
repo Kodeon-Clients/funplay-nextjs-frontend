@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://funplaysystems.com/funplay-originals/wall-play.html#webpage",
+      "url": "https://funplaysystems.com/funplay-originals/wall-play.html",
+      "name": "Wall Play Interactive Panels",
+      "description": "Wall Play panels by FunPlay Originals: peg boards, figure climbers and play houses for small spaces and pre-schools.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://funplaysystems.com/funplay-originals/wall-play/dahi-handi.html",
+            "name": "Dahi Handi Figure Climber"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://funplaysystems.com/funplay-originals/wall-play/geoboard.html",
+            "name": "Geo Board Play Panel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://funplaysystems.com/funplay-originals/wall-play/ghar-ghar.html",
+            "name": "Ghar Ghar Play Panel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html",
+            "name": "Udanchu Play Panel"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Wall Play Interactive Panels",
+          "item": "https://funplaysystems.com/funplay-originals/wall-play.html"
+        }
+      ]
+    }
+  ]
+}

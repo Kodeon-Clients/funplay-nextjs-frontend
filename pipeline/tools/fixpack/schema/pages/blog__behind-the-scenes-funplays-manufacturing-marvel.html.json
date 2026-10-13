@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html#article",
+      "headline": "How FunPlay Manufactures Playground Equipment",
+      "description": "Inside FunPlay's Vasai factory: how playground equipment is designed, roto-moulded, welded, powder-coated, tested and installed.",
+      "url": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2024-06-15",
+      "image": "https://funplaysystems.com/images/behind-the-scenes-two.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How FunPlay Manufactures Playground Equipment",
+          "item": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html"
+        }
+      ]
+    }
+  ]
+}

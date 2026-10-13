@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-tezpur.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Tezpur",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Tezpur",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Assam"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-tezpur.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Tezpur. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Assam",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-assam.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Tezpur",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-tezpur.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Playground Equipment",
+          "description": "Durable and creative outdoor playground equipment available in Tezpur for schools, parks, and residential areas.",
+          "category": "Playground Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "87"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

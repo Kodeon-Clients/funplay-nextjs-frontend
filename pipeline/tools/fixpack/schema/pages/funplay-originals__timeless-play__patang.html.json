@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/timeless-play/patang.html#product",
+      "name": "Patang Kite Swing Set",
+      "sku": "FOTP01",
+      "mpn": "FOTP01",
+      "url": "https://funplaysystems.com/funplay-originals/timeless-play/patang.html",
+      "image": [
+        "https://funplaysystems.com/images/Patang-1.jpg",
+        "https://funplaysystems.com/images/Patang-2.jpg",
+        "https://funplaysystems.com/images/Patang-3.jpg"
+      ],
+      "description": "Patang is a simple yet captivating equipment, connecting four sections of the kite with a loop climber. When viewed from the front, it resembles a complete kite in full view. Featuring colored acrylic panels, it refracts light, creating a magical play experience for kids as they swing or fly through the loop.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Kite Swing Set",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "24'11\" x 19'9\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "454.66 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "175.26 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Hanging Swinging"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Arm Strength Cognitive Ability Flexibility Concentration"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Timeless Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Patang Kite Swing Set",
+          "item": "https://funplaysystems.com/funplay-originals/timeless-play/patang.html"
+        }
+      ]
+    }
+  ]
+}

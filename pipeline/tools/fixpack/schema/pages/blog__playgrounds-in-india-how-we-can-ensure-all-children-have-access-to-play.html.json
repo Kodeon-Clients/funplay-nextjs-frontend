@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html#article",
+      "headline": "Playgrounds in India: How We Can Ensure All Children Have Access to Play",
+      "description": "Why many Indian children lack safe places to play and what governments, schools, builders and communities can do about it.",
+      "url": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-21",
+      "image": "https://funplaysystems.com/images/playground-india-images.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Playgrounds in India: How We Can Ensure All Children Have Access to Pl",
+          "item": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html"
+        }
+      ]
+    }
+  ]
+}

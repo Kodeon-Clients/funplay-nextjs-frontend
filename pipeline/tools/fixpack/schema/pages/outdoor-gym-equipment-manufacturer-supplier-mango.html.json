@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-mango.html#service",
+      "name": "Outdoor Gym Equipment Manufacturer & Supplier in Mango",
+      "serviceType": "Outdoor gym equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Mango",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Jharkhand"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-mango.html",
+      "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Mango. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "India",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym – Mango",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-mango.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Gym Equipment",
+          "description": "High-quality outdoor fitness equipment for parks, schools, and public spaces in Mango.",
+          "category": "Outdoor Gym Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "90"
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Rahul Sinha"
+              },
+              "datePublished": "2024-10-10",
+              "reviewBody": "The gym setup in our park is excellent. Durable and safe for all age groups. Highly recommended!",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+              }
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Priya Mishra"
+              },
+              "datePublished": "2024-09-20",
+              "reviewBody": "Quick installation and very responsive support team. Highly recommended.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4.5",
+                "bestRating": "5"
+              }
+            }
+          ],
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

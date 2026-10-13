@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/castle/arthur.html#product",
+      "name": "Arthur Wooden Castle Playground",
+      "sku": "NXCAAR",
+      "mpn": "NXCAAR",
+      "url": "https://funplaysystems.com/nexlev-series/castle/arthur.html",
+      "image": [
+        "https://funplaysystems.com/images/ARTHUR-A.jpg",
+        "https://funplaysystems.com/images/ARTHUR-B.jpg",
+        "https://funplaysystems.com/images/ARTHUR-C.jpg"
+      ],
+      "description": "A castle-themed wooden playground, complete with fort-like structures, cannons, and flags to enhance the experience, is designed to provide children with a variety of engaging activities that promote physical, cognitive, and social development. The equipment includes features that encourage sliding, climbing, balancing, and imaginative play, all within the enchanting setting of a medieval castle.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Wooden Castle Playground",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "80 - 99"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "40'4\" x 35'6\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications This castle-themed wooden playground, outfitted with fortress-like elements, cannons, and banners, offers children a range of stimulating activities that support physical, mental, and social growth. The design includes various components that promote climbing, sliding, balancing, and creative play, all set within the magical ambiance of a medieval castle. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 80 - 99 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Focus and Self control Engaged learning"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Brown"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Wooden Castle Playgrounds",
+          "item": "https://funplaysystems.com/nexlev-series/castle.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Arthur Wooden Castle Playground",
+          "item": "https://funplaysystems.com/nexlev-series/castle/arthur.html"
+        }
+      ]
+    }
+  ]
+}

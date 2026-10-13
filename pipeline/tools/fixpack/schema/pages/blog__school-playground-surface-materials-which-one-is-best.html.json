@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html#article",
+      "headline": "School Playground Surface Materials: Which One Is Best?",
+      "description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+      "url": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-06-09",
+      "image": "https://funplaysystems.com/images/school-playground.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "School Playground Surface Materials: Which One Is Best?",
+          "item": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html"
+        }
+      ]
+    }
+  ]
+}

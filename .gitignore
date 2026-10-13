@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+.landing-tmp/
+.vercel
+.DS_Store
+pipeline/tools/extracted/
+pipeline/tools/fixed/

@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Pimpri Chinchwad",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Pimpri Chinchwad",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Maharashtra"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Pimpri Chinchwad. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Maharashtra",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Pimpri Chinchwad",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html"
+        }
+      ]
+    }
+  ]
+}

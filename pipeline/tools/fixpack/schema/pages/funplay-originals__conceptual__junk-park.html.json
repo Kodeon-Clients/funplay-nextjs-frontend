@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html#product",
+      "name": "Junk Park Play Area",
+      "sku": "FOC007",
+      "mpn": "FOC007",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html",
+      "image": [
+        "https://funplaysystems.com/images/Junk-Park-1.jpg"
+      ],
+      "description": "A revolutionary concept designed to raise kids’ awareness about the detrimental effects of junk food on their health. Our innovative park transforms traditional junk food items like ice cream, fries, and Coke into playful forms, educating children about the importance of making healthy choices. Instead of consuming these treats, children can engage with them in a whole new way, exploring their textures, shapes, and characteristics. Step into a world where learning meets fun, and join us in reshaping the narrative around junk food. At Junk Park, health-conscious playtime has never been more exciting!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Play Area",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Junk Park Play Area",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html"
+        }
+      ]
+    }
+  ]
+}

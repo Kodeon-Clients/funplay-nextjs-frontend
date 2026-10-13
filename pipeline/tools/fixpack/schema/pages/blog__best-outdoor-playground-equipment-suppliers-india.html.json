@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/best-outdoor-playground-equipment-suppliers-india.html#article",
+      "headline": "Best Playground Equipment Manufacturers in India",
+      "description": "How to choose a playground equipment manufacturer in India: what to check on materials, safety, warranty, installation and after-sales support.",
+      "url": "https://funplaysystems.com/blog/best-outdoor-playground-equipment-suppliers-india.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/best-outdoor-playground-equipment-suppliers-india.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-08",
+      "image": "https://funplaysystems.com/images/blog12-3.png"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Best Playground Equipment Manufacturers in India",
+          "item": "https://funplaysystems.com/blog/best-outdoor-playground-equipment-suppliers-india.html"
+        }
+      ]
+    }
+  ]
+}

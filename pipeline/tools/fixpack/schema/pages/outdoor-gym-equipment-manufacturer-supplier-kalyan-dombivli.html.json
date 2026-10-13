@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kalyan-dombivli.html#service",
+      "name": "Outdoor Gym Equipment Manufacturer & Supplier in Kalyan Dombivli",
+      "serviceType": "Outdoor gym equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Kalyan Dombivli",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Maharashtra"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kalyan-dombivli.html",
+      "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Kalyan Dombivli. Made in our Vasai factory. Get a."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "India",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Outdoor Gym – Kalyan Dombivli",
+          "item": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-kalyan-dombivli.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Gym Equipment",
+          "description": "High-quality outdoor fitness equipment for parks, schools, and public spaces in Kalyan Dombivli.",
+          "category": "Outdoor Gym Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "130"
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Snehal Deshmukh"
+              },
+              "datePublished": "2024-10-18",
+              "reviewBody": "The outdoor gym installed by Fun Play System in our housing society is fantastic! Very durable and safe for both kids and adults.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+              }
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Rahul Joshi"
+              },
+              "datePublished": "2024-09-26",
+              "reviewBody": "Prompt service and excellent quality products. The team was professional and ensured timely installation in Kalyan Dombivli.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4.6",
+                "bestRating": "5"
+              }
+            }
+          ],
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

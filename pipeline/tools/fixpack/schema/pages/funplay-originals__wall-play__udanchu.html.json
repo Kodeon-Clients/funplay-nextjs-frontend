@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html#product",
+      "name": "Udanchu Play Panel",
+      "sku": "FOWP01",
+      "mpn": "FOWP01",
+      "url": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html",
+      "image": [
+        "https://funplaysystems.com/images/udanchu-product-image1.jpg",
+        "https://funplaysystems.com/images/udanchu-product-image2.jpg"
+      ],
+      "description": "Imagine a giant, scaled-up fly where you can get up close and personal with the patterns on its wings and climb over them. This equipment isn’t just informative and educational—it also lets kids experience what it might be like to fly. The colorful fly sends a powerful message: to notice, observe, and love insects, inspiring today’s generation to find beauty in everything.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Play Panel",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "16' x 17'10\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "304.8 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "452.12 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Hanging Sliding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Upper Body Strength Parallel Play Coordination"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Wall Play Interactive Panels",
+          "item": "https://funplaysystems.com/funplay-originals/wall-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Udanchu Play Panel",
+          "item": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html"
+        }
+      ]
+    }
+  ]
+}

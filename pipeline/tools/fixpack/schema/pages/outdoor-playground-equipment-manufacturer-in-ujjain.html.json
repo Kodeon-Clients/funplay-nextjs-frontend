@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ujjain.html#service",
+      "name": "Outdoor Playground Equipment Manufacturer & Supplier in Ujjain",
+      "serviceType": "Outdoor playground equipment supply and installation",
+      "provider": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Ujjain",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Madhya Pradesh"
+          }
+        }
+      ],
+      "url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ujjain.html",
+      "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Ujjain. Made in our Vasai factory. Get a free quote."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Our Network",
+          "item": "https://funplaysystems.com/our-network.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhya Pradesh",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Ujjain",
+          "item": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ujjain.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://funplaysystems.com/#organization",
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Outdoor Playground Equipment",
+          "description": "Top-quality outdoor play equipment for kids in Ujjain, including school play systems and custom installations.",
+          "category": "Playground Equipment",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "115"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "FunPlay Systems"
+          }
+        }
+      }
+    }
+  ]
+}

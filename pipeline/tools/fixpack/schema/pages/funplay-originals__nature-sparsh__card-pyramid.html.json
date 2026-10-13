@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html#product",
+      "name": "Card Pyramid Nature Play Station",
+      "sku": "FONS06",
+      "mpn": "FONS06",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html",
+      "image": [
+        "https://funplaysystems.com/images/Card-Pyramid.jpg",
+        "https://funplaysystems.com/images/Card-Pyramid-2.jpg",
+        "https://funplaysystems.com/images/Card-Pyramid-3.jpg",
+        "https://funplaysystems.com/images/Card-Pyramid-4.jpg",
+        "https://funplaysystems.com/images/Card-Pyramid-5.jpg",
+        "https://funplaysystems.com/images/Card-Pyramid-6.jpg"
+      ],
+      "description": "Card Pyramid invites kids to bring playing cards to life in a scaled-up adventure within a castle made entirely of cards. This vibrant and challenging climbing structure offers an array of colorful activities, encouraging children to ascend and descend over the cards.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "17'7\" x 8'11\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "383.54 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "119.38 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Climbing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Problem Solving Strategizing Body Strength"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Banana Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Card Pyramid Nature Play Station",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html"
+        }
+      ]
+    }
+  ]
+}

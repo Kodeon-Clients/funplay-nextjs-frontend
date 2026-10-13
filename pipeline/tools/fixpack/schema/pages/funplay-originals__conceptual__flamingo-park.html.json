@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html#product",
+      "name": "Flamingo Park Concept Play Structure",
+      "sku": "FOC008",
+      "mpn": "FOC008",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html",
+      "image": [
+        "https://funplaysystems.com/images/Flamingo-Render-1.jpg",
+        "https://funplaysystems.com/images/Flamingo-Render-2.jpg",
+        "https://funplaysystems.com/images/Flamingo-Render-3.jpg"
+      ],
+      "description": "Welcome to Flamingo Park, where the graceful form and vibrant colors of flamingos inspire a one-of-a-kind experience for kids, adults, and even grandparents! Designed with a blend of fitness and fun, our park invites families to come together and engage in playful activities like balancing exercises and loop and net climbers. At the heart of Flamingo Park lies a family swing and a cozy seating section, encouraging people of all ages to gather, interact, and create lasting memories in a communal atmosphere of relaxation and joy. Our Park isn’t just about play—it’s about bringing generations together, fostering meaningful connections, and promoting active lifestyles. Come, join the flock at Flamingo Park, where every moment is a celebration of togetherness and vitality!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Concept Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Flamingo Park Concept Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/castle-crest/royal-rise.html#product",
+      "name": "Royal Rise Castle Multi Play Station",
+      "sku": "CASMPFS05",
+      "mpn": "CASMPFS05",
+      "url": "https://funplaysystems.com/corecraft/castle-crest/royal-rise.html",
+      "image": [
+        "https://funplaysystems.com/images/castle-crest-royal-rise-pink.jpg",
+        "https://funplaysystems.com/images/castle-crest-royal-rise-pink1.jpg",
+        "https://funplaysystems.com/images/castle-crest-royal-rise-pink2.jpg",
+        "https://funplaysystems.com/images/castle-crest-royal-rise-pink3.jpg"
+      ],
+      "description": "Jump into a world of grandeur and imagination with the Royal Castle Adventure Series. These designs evoke the splendor of ancient castles and majestic adventures, providing kids with spaces resembling real castles and forts. This series promises a regal play experience filled with swinging, sliding, hanging, and climbing activities fit for young royalty. Adorned with crown-shaped elements and a castle canopy, it provides shade while adding to the royal theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Castle Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "48'6\" x 46'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1295.4 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "1231.9 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Crazy Pink & Sky Blue"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "28"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FunPlay"
+          },
+          "datePublished": "2023-11-10",
+          "reviewBody": "The Royal Rise is a stunning addition to any playground. Its castle-inspired design sparks imagination and encourages hours of active play!",
+          "name": "A Playground Fit for Royalty",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Castle Crest Castle-Themed Playground Equipment",
+          "item": "https://funplaysystems.com/corecraft/castle-crest.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Royal Rise Castle Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/castle-crest/royal-rise.html"
+        }
+      ]
+    }
+  ]
+}

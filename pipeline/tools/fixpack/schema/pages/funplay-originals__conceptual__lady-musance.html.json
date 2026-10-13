@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html#product",
+      "name": "Lady Musance Music Play Concept",
+      "sku": "FOC001",
+      "mpn": "FOC001",
+      "url": "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html",
+      "image": [
+        "https://funplaysystems.com/images/Lady-Musance-2.jpg",
+        "https://funplaysystems.com/images/Lady-Musance-3.jpg"
+      ],
+      "description": "A concept named, Lady Musance (a fusion of Music + Dance), serves as a majestic art installation that would stand out as a masterpiece on any piece of land. The lady resembles a guitar, incorporating controls in her mind to evoke a sense of peacefulness. The concept envisions a space that encourages the formation of community heritage, facilitating interactions and hosting small scale singing, dancing and jamming-akin to casual performances in the seating area provided, alongside a playful environment for kids.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Music Play Concept",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multi Color"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Conceptual Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lady Musance Music Play Concept",
+          "item": "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html"
+        }
+      ]
+    }
+  ]
+}

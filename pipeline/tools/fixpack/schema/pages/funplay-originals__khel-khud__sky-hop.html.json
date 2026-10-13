@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html#product",
+      "name": "Sky Hop Hopping Posts",
+      "sku": "FOKK09",
+      "mpn": "FOKK09",
+      "url": "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html",
+      "image": [
+        "https://funplaysystems.com/images/Sky-Hop.jpg"
+      ],
+      "description": "Sky Hop brings a dramatic and dynamic twist to the ordinary seesaw. Say goodbye to sitting back and experiencing boring bumps instead, pull the bars by weight and hop back, flying towards the sky!",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Hopping Posts",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "17'3\" x 6'"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "342.9 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "60.96 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Hopping Hanging Jumping"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Upper Body Strength Proprioception Motor Skills Balance Coordination Flexibility"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Mineral & Sand beige"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Khel Khud Indian Games-Inspired Play Equipment",
+          "item": "https://funplaysystems.com/funplay-originals/khel-khud.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sky Hop Hopping Posts",
+          "item": "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html"
+        }
+      ]
+    }
+  ]
+}

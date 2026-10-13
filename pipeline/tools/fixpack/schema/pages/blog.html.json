@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/blog.html#webpage",
+      "url": "https://funplaysystems.com/blog.html",
+      "name": "Playground Design and Buying Guides",
+      "description": "Guides from FunPlay Systems on playground design, safety surfacing, age zoning, budgets and buying playground equipment in India.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Playground Design and Buying Guides",
+          "item": "https://funplaysystems.com/blog.html"
+        }
+      ]
+    }
+  ]
+}

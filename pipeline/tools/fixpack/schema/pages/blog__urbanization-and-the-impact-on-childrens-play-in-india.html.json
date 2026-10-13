@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/urbanization-and-the-impact-on-childrens-play-in-india.html#article",
+      "headline": "Urbanization and the Impact on Children’s Play in India",
+      "description": "How fast urbanisation is shrinking play space for Indian children and what cities, builders and schools can do.",
+      "url": "https://funplaysystems.com/blog/urbanization-and-the-impact-on-childrens-play-in-india.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/urbanization-and-the-impact-on-childrens-play-in-india.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2024-06-15"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Urbanization and the Impact on Children’s Play in India",
+          "item": "https://funplaysystems.com/blog/urbanization-and-the-impact-on-childrens-play-in-india.html"
+        }
+      ]
+    }
+  ]
+}

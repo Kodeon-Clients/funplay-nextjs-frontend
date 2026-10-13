@@ -1,0 +1,24 @@
+/* Additions for the rebuilt site. Theme variables now point at the self-hosted fonts. */
+:root {
+  --alt-font: "Quicksand Variable", "Quicksand", sans-serif;
+  --primary-font: "Nunito Variable", "Nunito", sans-serif;
+}
+.fp-hp { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; opacity: 0; }
+.form-control.is-invalid, .form-control[aria-invalid="true"] { border-color: #dc3545 !important; }
+.fp-field-error { color: #b42318; font-size: 14px; line-height: 20px; margin-top: 6px; text-align: left; }
+.form-results.alert-success { color: #1f6f43; }
+.form-results.alert-danger { color: #b42318; }
+.suggestions-box a { display: block; padding: 8px 14px; color: var(--dark-gray); }
+.suggestions-box a:hover, .suggestions-box a:focus { background: var(--very-light-gray); }
+@media (prefers-reduced-motion: reduce) { [data-anime] { opacity: 1 !important; transform: none !important; } }
+/* Headings re-levelled for SEO keep their original theme size through .hN classes. */
+.h4 { font-size: 2.375rem; line-height: 2.7rem; }
+.h5 { font-size: 2rem; line-height: 2.2rem; }
+.h6 { font-size: 1.75rem; line-height: 1.95rem; }
+/* New content blocks (city pages, product copy) */
+.fp-rich-text ul, .fp-rich-text ol { padding-left: 1.4rem; margin-bottom: 20px; }
+.fp-rich-text ul li { list-style: disc; margin-bottom: 6px; }
+.fp-rich-text ol li { list-style: decimal; margin-bottom: 6px; }
+.fp-rich-text a, .fp-city-facts dd a, .fp-faq .accordion-body a { color: var(--dark-gray); text-decoration: underline; text-underline-offset: 3px; }
+.fp-rich-text a:hover, .fp-city-facts dd a:hover { color: var(--base-color); }
+.fp-faq .accordion-title h3 { font-family: var(--alt-font); letter-spacing: 0; }

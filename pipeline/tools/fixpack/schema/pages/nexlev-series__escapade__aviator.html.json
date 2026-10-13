@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/nexlev-series/escapade/aviator.html#product",
+      "name": "Aviator Adventure Play Structure",
+      "sku": "NXESAV",
+      "mpn": "NXESAV",
+      "url": "https://funplaysystems.com/nexlev-series/escapade/aviator.html",
+      "image": [
+        "https://funplaysystems.com/images/AVIATOR-A.jpg",
+        "https://funplaysystems.com/images/AVIATOR-B.jpg",
+        "https://funplaysystems.com/images/AVIATOR-C.jpg"
+      ],
+      "description": "Discover the \"Escapade\" series – a premium collection of wooden outdoor playground equipment designed to inspire adventure and foster essential developmental skills in children. Each element in the \"Escapade\" series is thoughtfully crafted to create an engaging and educational play environment, promoting physical, cognitive, and emotional growth. With imaginative play areas including castles, pirate ships, and forts, the \"Escapade\" series sparks creativity and fantasy play. Children can engage in role-playing and storytelling, enriching their imaginative capabilities.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Adventure Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "40 - 45"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "42'8\" x 36'6\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Specifications Explore the \"Escapade\" series, where each piece of wooden playground equipment is expertly designed to encourage adventure and developmental growth. Featuring imaginative play areas like castles and pirate ships, this series enhances physical, cognitive, and creative skills through dynamic role-playing and storytelling. Product details 01 Age Group NA 02 Key User Group NA 03 Capacity 40 - 45 Activities NA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Confidence building Builds Strength Leadership Self control"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Lemon Green"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NexLev Series",
+          "item": "https://funplaysystems.com/nexlev-series.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "NexLev Escapade Adventure Play Structures",
+          "item": "https://funplaysystems.com/nexlev-series/escapade.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Aviator Adventure Play Structure",
+          "item": "https://funplaysystems.com/nexlev-series/escapade/aviator.html"
+        }
+      ]
+    }
+  ]
+}

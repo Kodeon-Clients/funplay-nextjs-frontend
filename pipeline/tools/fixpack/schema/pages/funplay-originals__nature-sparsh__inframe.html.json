@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html#product",
+      "name": "Inframe Nature Play Station",
+      "sku": "FONS09",
+      "mpn": "FONS09",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html",
+      "image": [
+        "https://funplaysystems.com/images/Inframe.jpg"
+      ],
+      "description": "Inframe is a visionary piece of equipment that sparks a child’s imagination by inviting them to envision themselves captured within a frame, with a simple spiral climber providing the exhilarating escape. This unique equipment boasts a geoboard, enabling kids to craft various shapes while doubling as a climber, enhancing arm strength, coordination, and cognitive balance.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "21'9\" x 19'3\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1740 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "824 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Height",
+          "value": "800 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Sliding"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Imagination Hand-eye Coordination Cognitive Ability Arm Strength"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Lemon Yellow"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Inframe Nature Play Station",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/organic-play/toucan.html#product",
+      "name": "Toucan Nature Play Structure",
+      "sku": "FOO02",
+      "mpn": "FOO02",
+      "url": "https://funplaysystems.com/funplay-originals/organic-play/toucan.html",
+      "image": [
+        "https://funplaysystems.com/images/Toucan-1.jpg",
+        "https://funplaysystems.com/images/Toucan-2.jpg",
+        "https://funplaysystems.com/images/Toucan-3.jpg",
+        "https://funplaysystems.com/images/Toucan-4.jpg"
+      ],
+      "description": "With its unique design, it taps into kids’ natural instinct to climb over and onto the slide in reverse, adding an exciting twist to ordinary play. This equipment sparks the same enthusiasm, making playtime more interactive as kids slide down and quickly climb right back up.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Structure",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "25'9\" x 4'8\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "632.46 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "172.72 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Climbing Sliding Jumping"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Social Interaction Observation"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Multiple Colour"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Organic Play Nature Play Structures",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Toucan Nature Play Structure",
+          "item": "https://funplaysystems.com/funplay-originals/organic-play/toucan.html"
+        }
+      ]
+    }
+  ]
+}

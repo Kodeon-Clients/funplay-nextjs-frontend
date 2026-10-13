@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/how-outdoor-play-equipment-enhances-child-development-in-schools.html#article",
+      "headline": "How Outdoor Play Equipment Enhances Child Development in Schools",
+      "description": "The physical, social, emotional and cognitive benefits of outdoor play equipment for school children, and what to install.",
+      "url": "https://funplaysystems.com/blog/how-outdoor-play-equipment-enhances-child-development-in-schools.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/how-outdoor-play-equipment-enhances-child-development-in-schools.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-22",
+      "image": "https://funplaysystems.com/images/outdoor-playground-image.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How Outdoor Play Equipment Enhances Child Development in Schools",
+          "item": "https://funplaysystems.com/blog/how-outdoor-play-equipment-enhances-child-development-in-schools.html"
+        }
+      ]
+    }
+  ]
+}

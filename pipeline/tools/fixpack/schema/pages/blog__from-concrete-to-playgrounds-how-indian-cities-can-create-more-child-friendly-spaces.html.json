@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/from-concrete-to-playgrounds-how-indian-cities-can-create-more-child-friendly-spaces.html#article",
+      "headline": "From Concrete to Playgrounds: How Indian Cities Can Create More Child-Friendly Spaces",
+      "description": "From unused plots to rooftops: practical ways Indian cities, builders and RWAs can create more safe play spaces for children.",
+      "url": "https://funplaysystems.com/blog/from-concrete-to-playgrounds-how-indian-cities-can-create-more-child-friendly-spaces.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/from-concrete-to-playgrounds-how-indian-cities-can-create-more-child-friendly-spaces.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-08-28",
+      "image": "https://funplaysystems.com/images/what-landscape-cover.JPG"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "From Concrete to Playgrounds: How Indian Cities Can Create More Child-",
+          "item": "https://funplaysystems.com/blog/from-concrete-to-playgrounds-how-indian-cities-can-create-more-child-friendly-spaces.html"
+        }
+      ]
+    }
+  ]
+}

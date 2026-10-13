@@ -1,0 +1,16 @@
+/*
+  Layer order: the original theme CSS sits in the "legacy" layer so new Tailwind utilities
+  (prefixed tw:) can override it without !important. Page-specific <style> blocks are
+  unlayered and therefore still win, exactly as they did on the static site.
+*/
+@layer tw-landing, legacy, theme, base, components, utilities;
+
+@import "@fontsource-variable/quicksand/index.css";
+@import "@fontsource-variable/nunito/index.css";
+@import "../styles/legacy/vendors.css" layer(legacy);
+@import "../styles/legacy/icon.css" layer(legacy);
+@import "../styles/legacy/style.css" layer(legacy);
+@import "../styles/legacy/responsive.css" layer(legacy);
+@import "tailwindcss/theme.css" layer(theme) prefix(tw);
+@import "tailwindcss/utilities.css" layer(utilities) prefix(tw);
+@import "../styles/site.css" layer(components);

@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://funplaysystems.com/blog/designing-adventure-playgrounds-for-skill-development.html#article",
+      "headline": "Designing Adventure Playgrounds for Skill Development",
+      "description": "How climbing, balancing and challenge equipment build children's strength, coordination and confidence, and how to plan an adventure playground.",
+      "url": "https://funplaysystems.com/blog/designing-adventure-playgrounds-for-skill-development.html",
+      "mainEntityOfPage": "https://funplaysystems.com/blog/designing-adventure-playgrounds-for-skill-development.html",
+      "dateModified": "2026-10-05",
+      "author": {
+        "@type": "Organization",
+        "name": "FunPlay Systems Design Team",
+        "url": "https://funplaysystems.com/about-us.html"
+      },
+      "publisher": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "inLanguage": "en-IN",
+      "datePublished": "2025-05-26"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://funplaysystems.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Designing Adventure Playgrounds for Skill Development",
+          "item": "https://funplaysystems.com/blog/designing-adventure-playgrounds-for-skill-development.html"
+        }
+      ]
+    }
+  ]
+}

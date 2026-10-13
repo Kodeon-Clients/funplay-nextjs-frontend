@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/play-lands/azure-space.html#product",
+      "name": "Azure Space Multi Play Station",
+      "sku": "PLAMPFS07",
+      "mpn": "PLAMPFS07",
+      "url": "https://funplaysystems.com/corecraft/play-lands/azure-space.html",
+      "image": [
+        "https://funplaysystems.com/images/azure-scape-blue-3.jpg",
+        "https://funplaysystems.com/images/azure-scape-blue-2.jpg",
+        "https://funplaysystems.com/images/azure-scape-blue-1.jpg"
+      ],
+      "description": "Jump into a world of grandeur and imagination with the Royal Castle Adventure Series. These designs evoke the splendor of ancient castles and majestic adventures, providing kids with spaces resembling real castles and forts. This series promises a regal play experience filled with swinging, sliding, hanging, and climbing activities fit for young royalty. Adorned with crown-shaped elements and a castle canopy, it provides shade while adding to the royal theme.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Multi Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "3 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "3+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "39'11\" x 34'8\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "1033.78 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "873.76 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Sky Blue & Knight Blue"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Play Lands Large Multi Play Stations",
+          "item": "https://funplaysystems.com/corecraft/play-lands.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Azure Space Multi Play Station",
+          "item": "https://funplaysystems.com/corecraft/play-lands/azure-space.html"
+        }
+      ]
+    }
+  ]
+}

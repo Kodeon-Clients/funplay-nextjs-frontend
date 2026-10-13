@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/s-slide.html#product",
+      "name": "S Slide (5 ft)",
+      "sku": "FPRS13",
+      "mpn": "FPRS13",
+      "url": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/s-slide.html",
+      "image": [
+        "https://funplaysystems.com/images/Slides-6-5foot.jpg"
+      ],
+      "description": "Now you have the chance to craft your own playground with our diverse range of individual equipment. Our collection features a variety of classic and innovative pieces that will transform any outdoor space into a vibrant and engaging playground. Explore our latest additions, including the merry-go-round, interactive character spring riders, and gazebos, alongside our popular staples.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "5 ft Playground Slide",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Play Red"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CoreCraft",
+          "item": "https://funplaysystems.com/corecraft.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Individual Equipment",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "5 ft Playground Slides",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "S Slide (5 ft)",
+          "item": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/s-slide.html"
+        }
+      ]
+    }
+  ]
+}

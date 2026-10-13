@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html#product",
+      "name": "Archies Nature Play Station",
+      "sku": "FONS04",
+      "mpn": "FONS04",
+      "url": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html",
+      "image": [
+        "https://funplaysystems.com/images/Archies-1.jpg",
+        "https://funplaysystems.com/images/Archies-2.jpg",
+        "https://funplaysystems.com/images/Archies-3.jpg",
+        "https://funplaysystems.com/images/Archies-4.jpg"
+      ],
+      "description": "Archies is a charming and simple play station where kids can climb and slide in two respective ways within a compact multi-play system.",
+      "brand": {
+        "@type": "Brand",
+        "name": "FunPlay Systems"
+      },
+      "manufacturer": {
+        "@id": "https://funplaysystems.com/#organization"
+      },
+      "category": "Nature Play Station",
+      "countryOfOrigin": "IN",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Recommended age",
+          "value": "5 - 12 Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minimum age",
+          "value": "5+ Years"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "User capacity",
+          "value": "15"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safe play area",
+          "value": "30'9\" x 10'5\""
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Length",
+          "value": "754.38 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Width",
+          "value": "226.06 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Activities",
+          "value": "Sliding Climbing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Skills developed",
+          "value": "Simultaneous Play"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Colour options",
+          "value": "Banana Yellow & Baby Blue"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://funplaysystems.com/Products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FunPlay Originals",
+          "item": "https://funplaysystems.com/funplay-originals.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nature Sparsh Nature-Inspired Play Stations",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Archies Nature Play Station",
+          "item": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html"
+        }
+      ]
+    }
+  ]
+}

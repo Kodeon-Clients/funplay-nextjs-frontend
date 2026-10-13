@@ -1,0 +1,10 @@
+Cloudflare → Rules → Redirect Rules (use ONLY if the DNS records show an ORANGE cloud / Proxied).
+Create one 'Single Redirect' rule per line below. Status 301. 'Preserve query string' OFF unless noted.
+
+Rule 1 – Canonical host
+  When: (http.host eq "www.funplaysystems.com") or (http.host eq "mail.funplaysystems.com") or (not ssl)
+  Then: Dynamic → concat("https://funplaysystems.com", http.request.uri.path)   Preserve query string: ON
+
+Rule 2 – Bulk redirects: Cloudflare → Rules → Bulk Redirects → upload 'cloudflare-bulk-redirects.csv' (in this folder).
+
+Also check: Security → Bots → 'Block AI bots' must be OFF, otherwise Cloudflare blocks the AI search bots that robots.txt allows.

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://funplaysystems.com/careers/design-engineer.html#webpage",
+      "url": "https://funplaysystems.com/careers/design-engineer.html",
+      "name": "Design Engineer",
+      "description": "Apply for the Design Engineer role at FunPlay Systems, Vasai. Design playground and outdoor gym equipment for manufacture.",
+      "isPartOf": {
+        "@id": "https://funplaysystems.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://funplaysystems.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Design Engineer",
+          "item": "https://funplaysystems.com/careers/design-engineer.html"
+        }
+      ]
+    }
+  ]
+}
