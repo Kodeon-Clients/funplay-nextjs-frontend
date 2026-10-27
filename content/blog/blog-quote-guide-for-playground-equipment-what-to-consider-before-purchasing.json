@@ -1,0 +1,162 @@
+{
+ "path": "/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Equipment Quote Guide: What to Check",
+  "description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
+  "canonical": "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
+  "robots": null,
+  "og": {
+   "og:title": "Playground Equipment Quote Guide: What to Check",
+   "og:description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
+   "og:image": "https://funplaysystems.com/images/playground-helps-five.jpg",
+   "og:url": "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
+   "og:type": "article",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Playground Equipment Quote Guide: What to Check",
+   "twitter:description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
+   "twitter:image": "https://funplaysystems.com/images/g10.jpg"
+  }
+ },
+ "h1": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/blog-17-cover.jpg')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "15 September 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
+    "h1Text": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent5",
+   "props": {
+    "article": {
+     "slug": "quote-guide-for-playground-equipment-what-to-consider-before-purchasing"
+    },
+    "aHref": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc": "/images/about_us2.jpg",
+    "imgAlt": "Playground Design Ideas for Small Spaces",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref2": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc2": "/images/funplay-innovative-images.JPG",
+    "imgAlt2": "Blending Play Equipment with Green Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+    "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html"
+   ]
+  ],
+  "article": {
+   "headline": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+   "description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
+   "image": "https://funplaysystems.com/images/playground-helps-five.jpg",
+   "datePublished": "2025-09-15",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

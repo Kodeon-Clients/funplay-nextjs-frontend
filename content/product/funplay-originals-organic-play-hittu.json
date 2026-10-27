@@ -1,0 +1,753 @@
+{
+ "path": "/funplay-originals/organic-play/hittu.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Hittu Nature Play Structure | FunPlay Originals | FunPlay",
+  "description": "Hittu Nature Play Structure (FOO04), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/hittu.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Hittu Nature Play Structure | FunPlay Originals | FunPlay",
+   "og:description": "Hittu Nature Play Structure (FOO04), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/hittu.html",
+   "og:image": "https://funplaysystems.com/images/Hittu-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Hittu Nature Play Structure",
+ "data": {
+  "name": "Hittu",
+  "sku": "FOO04",
+  "colours": [
+   {
+    "name": "Sea Green",
+    "swatch": "\n                  background: conic-gradient(\n                    #389622 0% 33.33%,\n                    #b26671 33.33% 66.66%,\n                    #c7c4c5 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Hittu-1.jpg",
+     "/images/Hittu-2.jpg",
+     "/images/Hittu-3.jpg",
+     "/images/Hittu-4.jpg",
+     "/images/Hittu-5.jpg",
+     "/images/Hittu-6.jpg",
+     "/images/Hittu-7.jpg",
+     "/images/Hittu-8.jpg",
+     "/images/Hittu-9.jpg",
+     "/images/Hittu-10.jpg",
+     "/images/Hittu-11.jpg",
+     "/images/Hittu-12.jpg",
+     "/images/Hittu-13.jpg",
+     "/images/Hittu-14.jpg",
+     "/images/Hittu-15.jpg"
+    ],
+    "alts": [
+     "Hittu bird-faced play tower with twin green slides and pink climbing frame",
+     "Front view of Hittu play tower with grey bird face and two green slides",
+     "Hittu bird-themed play station with two green slides on a pink background",
+     "Close view of Hittu bird face tower with rope net and green slides",
+     "Side view of Hittu play tower with net climber and green slides",
+     "Top-angle view of Hittu with two curved green slides",
+     "Hittu bird play tower with ladder frame and green slides",
+     "Front view of Hittu play tower with yellow beak deck and green slides",
+     "Close view of Hittu pink climbing frame, rope net and green slide",
+     "Hittu bird-faced play tower with twin green slides on a peach background",
+     "Side view of Hittu play tower with green climber and slides",
+     "Hittu play tower with bird face, yellow beak and two green slides",
+     "Hittu bird-faced tower with green slides on a pink safety surface",
+     "Side view of Hittu with green leaf climber, net frame and slide",
+     "Hittu sea green bird tower with twin slides on a pink surface"
+    ]
+   }
+  ],
+  "description": "Hittu, also called the Pink Hen, is a bird-faced play tower with its wings spread as two Sea Green slides. Children climb up a rope net and the pink climbing frame behind the grey bird face, then slide down either wing. Two slides mean two children can come down together, which helps at busy times in a school break. It is designed for ages 5 to 12, takes up to 15 children, and covers 20'3\" x 15'4\", with a safe play area of 25'9\" x 20'4\". Play here builds imagination and gross motor skills. It is part of our Organic Play range. The 3-year warranty covers its pipe, moulded parts, laminates and rope. Ask us how Hittu fits your play area.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Hittu"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Hittu-1.jpg",
+  "cardImage": "/images/Hittu-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Hittu ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOO04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sea Green",
+       "swatch": "\n                  background: conic-gradient(\n                    #389622 0% 33.33%,\n                    #b26671 33.33% 66.66%,\n                    #c7c4c5 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Hittu-1.jpg",
+        "/images/Hittu-2.jpg",
+        "/images/Hittu-3.jpg",
+        "/images/Hittu-4.jpg",
+        "/images/Hittu-5.jpg",
+        "/images/Hittu-6.jpg",
+        "/images/Hittu-7.jpg",
+        "/images/Hittu-8.jpg",
+        "/images/Hittu-9.jpg",
+        "/images/Hittu-10.jpg",
+        "/images/Hittu-11.jpg",
+        "/images/Hittu-12.jpg",
+        "/images/Hittu-13.jpg",
+        "/images/Hittu-14.jpg",
+        "/images/Hittu-15.jpg"
+       ],
+       "alts": [
+        "Hittu bird-faced play tower with twin green slides and pink climbing frame",
+        "Front view of Hittu play tower with grey bird face and two green slides",
+        "Hittu bird-themed play station with two green slides on a pink background",
+        "Close view of Hittu bird face tower with rope net and green slides",
+        "Side view of Hittu play tower with net climber and green slides",
+        "Top-angle view of Hittu with two curved green slides",
+        "Hittu bird play tower with ladder frame and green slides",
+        "Front view of Hittu play tower with yellow beak deck and green slides",
+        "Close view of Hittu pink climbing frame, rope net and green slide",
+        "Hittu bird-faced play tower with twin green slides on a peach background",
+        "Side view of Hittu play tower with green climber and slides",
+        "Hittu play tower with bird face, yellow beak and two green slides",
+        "Hittu bird-faced tower with green slides on a pink safety surface",
+        "Side view of Hittu with green leaf climber, net frame and slide",
+        "Hittu sea green bird tower with twin slides on a pink surface"
+       ]
+      }
+     ],
+     "name": "Hittu"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Hittu bird-faced play tower with twin green slides and pink climbing frame\", \"Front view of Hittu play tower with grey bird face and two green slides\", \"Hittu bird-themed play station with two green slides on a pink background\", \"Close view of Hittu bird face tower with rope net and green slides\", \"Side view of Hittu play tower with net climber and green slides\", \"Top-angle view of Hittu with two curved green slides\", \"Hittu bird play tower with ladder frame and green slides\", \"Front view of Hittu play tower with yellow beak deck and green slides\", \"Close view of Hittu pink climbing frame, rope net and green slide\", \"Hittu bird-faced play tower with twin green slides on a peach background\", \"Side view of Hittu play tower with green climber and slides\", \"Hittu play tower with bird face, yellow beak and two green slides\", \"Hittu bird-faced tower with green slides on a pink safety surface\", \"Side view of Hittu with green leaf climber, net frame and slide\", \"Hittu sea green bird tower with twin slides on a pink surface\"]",
+      "divDataImgs": "[\"/images/Hittu-1.jpg\", \"/images/Hittu-2.jpg\", \"/images/Hittu-3.jpg\", \"/images/Hittu-4.jpg\", \"/images/Hittu-5.jpg\", \"/images/Hittu-6.jpg\", \"/images/Hittu-7.jpg\", \"/images/Hittu-8.jpg\", \"/images/Hittu-9.jpg\", \"/images/Hittu-10.jpg\", \"/images/Hittu-11.jpg\", \"/images/Hittu-12.jpg\", \"/images/Hittu-13.jpg\", \"/images/Hittu-14.jpg\", \"/images/Hittu-15.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #389622 0% 33.33%, #b26671 33.33% 66.66%, #c7c4c5 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Sea Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Hittu"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Hittu, also called the Pink Hen, is a bird-faced play tower with its wings spread as two Sea Green slides. Children climb up a rope net and the pink climbing frame behind the grey bird face, then slide down either wing. Two slides mean two children can come down together, which helps at busy times in a school break. It is designed for ages 5 to 12, takes up to 15 children, and covers 20'3\" x 15'4\", with a safe play area of 25'9\" x 20'4\". Play here builds imagination and gross motor skills. It is part of our Organic Play range. The 3-year warranty covers its pipe, moulded parts, laminates and rope. Ask us how Hittu fits your play area."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imagination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Gross Motor Skills"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Hittu play tower with two slides",
+    "imgSrc": "/images/Hittu-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "617.22 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "467.36 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Hittu is built on galvanised pipe with roto-moulded slides and a play rope net, set self-standing or grouted as the ground needs. The two slides exit on opposite sides, so the 25'9\" x 20'4\" zone needs clear ground and impact flooring at both ends. Check the net and the bird face panel fixings regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imagination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Gross Motor Skills"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'3\" x 15'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "25'9\" x 20'4\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Hittu Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/hittu.html"
+   ]
+  ],
+  "product": {
+   "name": "Hittu",
+   "sku": "FOO04",
+   "images": [
+    "/images/Hittu-1.jpg",
+    "/images/Hittu-2.jpg",
+    "/images/Hittu-3.jpg",
+    "/images/Hittu-4.jpg",
+    "/images/Hittu-5.jpg",
+    "/images/Hittu-6.jpg"
+   ],
+   "description": "Hittu, also called the Pink Hen, is a bird-faced play tower with its wings spread as two Sea Green slides. Children climb up a rope net and the pink climbing frame behind the grey bird face, then slide down either wing. Two slides mean two children can come down together, which helps at busy times in a school break. It is designed for ages 5 to 12, takes up to 15 children, and covers 20'3\" x 15'4\", with a safe play area of 25'9\" x 20'4\". Play here builds imagination and gross motor skills. It is part of our Organic Play range. The 3-year warranty covers its pipe, moulded parts, laminates and rope. Ask us how Hittu fits your play area.",
+   "category": "Nature Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Sea Green"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "25'9\" x 20'4\""
+    ],
+    [
+     "Length",
+     "617.22 cm"
+    ],
+    [
+     "Width",
+     "467.36 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Sliding"
+    ],
+    [
+     "Skills developed",
+     "Imagination Gross Motor Skills"
+    ],
+    [
+     "Colour options",
+     "Sea Green"
+    ]
+   ]
+  }
+ }
+}

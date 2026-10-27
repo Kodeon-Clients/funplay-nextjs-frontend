@@ -1,0 +1,352 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-agra.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Agra | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Agra. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-agra.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Agra | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Agra. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-agra.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Agra",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Agra"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Agra receives visitors from across the world because of the Taj Mahal, and many of its hotels, resorts and banquet lawns now want a play area for families who travel with children. FunPlay Systems is an outdoor playground equipment manufacturer and supplier for these sites and for Agra's schools and residential colonies. We build the equipment at our factory in Vasai, about 1,010 km away, and send it by road for installation."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Agra's weather is hard on outdoor equipment from both sides. Summers on the Yamuna plains are extremely hot and dusty, and winter mornings bring cold and fog. Galvanised steel and roto-moulded plastic suit this range well, because neither rusts in the damp months and both are weather-proof. Hotels often ask us for equipment that looks good in photographs and fits the colours of the property. With 15+ roto-moulded shades and design customisation on request, we can usually match a lawn's look without building something from scratch."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Play areas for Agra's hotels and family resorts",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "A hotel play area works best when parents can watch from a seat or a restaurant window. Keep it away from the pool and the driveway, and leave a clear safe play area around each piece. A themed multi play station such as ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/castle-crest.html"
+           },
+           "c": [
+            "Castle Crest"
+           ]
+          },
+          " or a wooden tower from the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev series"
+           ]
+          },
+          " gives the lawn a feature that families notice."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Dust settles on slides and decks through summer, so ask your staff to wipe them down daily in the dry months. Rubber flooring under the equipment is easier to keep clean than grass or soil. Corporate guests may also want our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-agra.html"
+           },
+           "c": [
+            "outdoor gym equipment in Agra"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Agra",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,010 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Agra",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-agra.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you match playground colours to our hotel's look?",
+       "a": "Usually, yes. Our roto-moulded parts come in 15+ shades and we offer design customisation on request. Share photos of the property and we will suggest equipment and colours that sit well with it."
+      },
+      {
+       "q": "How much lawn space does a small hotel play area need?",
+       "a": "It depends on the pieces you choose, because each has its own safe play area. Send us the length and width of the lawn and we will mark a layout that fits, with space for parents to sit."
+      },
+      {
+       "q": "Does the equipment handle Agra's summer heat and winter fog?",
+       "a": "Galvanised steel posts and roto-moulded plastic are weather-proof and do not rust in damp winter months. In summer, place slides away from the afternoon sun so the surfaces stay comfortable to touch."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html",
+    "aText": "Delhi & Uttar Pradesh",
+    "spanText": "Agra",
+    "h2Text": "Playground equipment suppliers near Agra",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-firozabad.html"
+        },
+        "c": [
+         "Playground equipment in Firozabad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mathura.html"
+        },
+        "c": [
+         "Playground equipment in Mathura"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bharatpur.html"
+        },
+        "c": [
+         "Playground equipment in Bharatpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-morena.html"
+        },
+        "c": [
+         "Playground equipment in Morena"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-aligarh.html"
+        },
+        "c": [
+         "Playground equipment in Aligarh"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Agra? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-agra.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Agra"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+        },
+        "c": [
+         "See all cities we serve in Delhi & Uttar Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Delhi & Uttar Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Agra",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-agra.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Agra",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Agra",
+    "state": "Uttar Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Agra. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you match playground colours to our hotel's look?",
+    "Usually, yes. Our roto-moulded parts come in 15+ shades and we offer design customisation on request. Share photos of the property and we will suggest equipment and colours that sit well with it."
+   ],
+   [
+    "How much lawn space does a small hotel play area need?",
+    "It depends on the pieces you choose, because each has its own safe play area. Send us the length and width of the lawn and we will mark a layout that fits, with space for parents to sit."
+   ],
+   [
+    "Does the equipment handle Agra's summer heat and winter fog?",
+    "Galvanised steel posts and roto-moulded plastic are weather-proof and do not rust in damp winter months. In summer, place slides away from the afternoon sun so the surfaces stay comfortable to touch."
+   ]
+  ]
+ }
+}

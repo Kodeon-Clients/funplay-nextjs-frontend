@@ -1,0 +1,329 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-rajahmundry.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Rajahmundry | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajahmundry. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajahmundry.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Rajahmundry | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajahmundry. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajahmundry.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Rajahmundry",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Rajahmundry"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Rajahmundry on the Godavari is often called the cultural capital of Andhra Pradesh, and it has a long tradition of schools, colleges and literary institutions. School principals here tend to ask what children will learn on a playground, as well as whether it is safe and durable. Designs that tell a story or use familiar shapes answer that question well."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems makes outdoor playground equipment at our factory in Vasai, about 970 km away, and brings it to the Godavari districts by road. Installation is done by our own team or by a dealer who works in coastal Andhra. We also supply apartments, function halls with lawns and public parks along the river. Share your site size, the age group and photos, and we will mark the safe play area on a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Play structures with a story",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals.html"
+           },
+           "c": [
+            "Funplay Originals"
+           ]
+          },
+          " are designed by our own team, many inspired by Indian games and nature. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/kagzi.html"
+           },
+           "c": [
+            "Kagzi range"
+           ]
+          },
+          " takes its shapes from paper folding, with pieces such as the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/kagzi/paper-boat.html"
+           },
+           "c": [
+            "Paper Boat"
+           ]
+          },
+          ", which children on the Godavari will recognise at once."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Structures like these give teachers something to talk about and children something to imagine, along with climbing and sliding. The delta's hot, humid summers and heavy monsoon call for weather-proof materials and good drainage. Place the structure where it can be seen from the classrooms, because it often becomes the school's landmark. Children will soon give it a name of their own."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Rajahmundry",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 970 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Rajahmundry",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-rajahmundry.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you make playground designs inspired by Indian themes?",
+       "a": "Yes. Our Funplay Originals range is designed in-house, and many pieces are inspired by Indian games, paper folding and nature."
+      },
+      {
+       "q": "Can a school in Rajahmundry customise a design?",
+       "a": "We offer design customisation on request and more than 15 roto-moulded colour shades. Tell us what you have in mind and we will suggest what is possible."
+      },
+      {
+       "q": "Do you supply Kakinada, Eluru and other Godavari towns?",
+       "a": "Yes. We dispatch by road from Vasai to towns across the Godavari districts, and our team or a dealer installs the equipment."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Rajahmundry Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+    "aText": "Karnataka & Andhra Pradesh",
+    "spanText": "Rajahmundry",
+    "h2Text": "Playground equipment suppliers near Rajahmundry",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tadepalligudem.html"
+        },
+        "c": [
+         "Playground equipment in Tadepalligudem"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kakinada.html"
+        },
+        "c": [
+         "Playground equipment in Kakinada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhimavaram.html"
+        },
+        "c": [
+         "Playground equipment in Bhimavaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-eluru.html"
+        },
+        "c": [
+         "Playground equipment in Eluru"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gudivada.html"
+        },
+        "c": [
+         "Playground equipment in Gudivada"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Karnataka & Andhra Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Karnataka & Andhra Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Rajahmundry",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajahmundry.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Rajahmundry",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Rajahmundry",
+    "state": "Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajahmundry. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you make playground designs inspired by Indian themes?",
+    "Yes. Our Funplay Originals range is designed in-house, and many pieces are inspired by Indian games, paper folding and nature."
+   ],
+   [
+    "Can a school in Rajahmundry customise a design?",
+    "We offer design customisation on request and more than 15 roto-moulded colour shades. Tell us what you have in mind and we will suggest what is possible."
+   ],
+   [
+    "Do you supply Kakinada, Eluru and other Godavari towns?",
+    "Yes. We dispatch by road from Vasai to towns across the Godavari districts, and our team or a dealer installs the equipment."
+   ]
+  ]
+ }
+}

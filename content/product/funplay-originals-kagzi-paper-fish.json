@@ -1,0 +1,709 @@
+{
+ "path": "/funplay-originals/kagzi/paper-fish.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paper Fish Swing Set | FunPlay Originals | FunPlay Systems",
+  "description": "Paper Fish Swing Set (FOK04), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi/paper-fish.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paper Fish Swing Set | FunPlay Originals | FunPlay Systems",
+   "og:description": "Paper Fish Swing Set (FOK04), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi/paper-fish.html",
+   "og:image": "https://funplaysystems.com/images/Paper-fish-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paper Fish Swing Set",
+ "data": {
+  "name": "Paper Fish",
+  "sku": "FOK04",
+  "colours": [
+   {
+    "name": "Mango Yellow",
+    "swatch": "\n                  background: conic-gradient(\n                    #b75d00 0% 33.33%,\n                    #87b3c4 33.33% 66.66%,\n                    #e3dd00 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Paper-fish-1.jpg",
+     "/images/Paper-fish-2.jpg",
+     "/images/Paper-fish-3.jpg",
+     "/images/Paper-fish-4.jpg"
+    ],
+    "alts": [
+     "Paper Fish origami fish-themed swing set in mango yellow",
+     "Side view of Paper Fish fish-shaped swing frame with yellow seat",
+     "Paper Fish origami fish swing with orange fish panels and blue frame",
+     "Paper Fish fish-themed swing set on a blue river-pattern safety surface"
+    ]
+   }
+  ],
+  "description": "Paper Fish is a swing set dressed as an origami fish, with orange fish panels on a blue frame and a Mango Yellow seat. One installation photo shows it on a blue river-pattern safety surface, which completes the theme. The design follows a groove idea, so more than one child can swing together instead of waiting for a turn. It is meant for ages 5 to 12. The product area is 10'9\" x 8'10\" and the safe play area is 15'9\" x 14'10\". Swinging this way works on hand-eye coordination and spatial awareness. Like the rest of the Kagzi range, its galvanised pipes, roto-moulded parts and composite laminates carry a 3-year warranty. Call +91 902 830 2266 to discuss your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "kagzi",
+   "Paper Fish"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/kagzi.html",
+  "image": "/images/Paper-fish-1.jpg",
+  "cardImage": "/images/Paper-fish-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paper Fish ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Swing Set"
+      ]
+     }
+    ],
+    "pText": "FOK04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mango Yellow",
+       "swatch": "\n                  background: conic-gradient(\n                    #b75d00 0% 33.33%,\n                    #87b3c4 33.33% 66.66%,\n                    #e3dd00 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Paper-fish-1.jpg",
+        "/images/Paper-fish-2.jpg",
+        "/images/Paper-fish-3.jpg",
+        "/images/Paper-fish-4.jpg"
+       ],
+       "alts": [
+        "Paper Fish origami fish-themed swing set in mango yellow",
+        "Side view of Paper Fish fish-shaped swing frame with yellow seat",
+        "Paper Fish origami fish swing with orange fish panels and blue frame",
+        "Paper Fish fish-themed swing set on a blue river-pattern safety surface"
+       ]
+      }
+     ],
+     "name": "Paper Fish"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paper Fish origami fish-themed swing set in mango yellow\", \"Side view of Paper Fish fish-shaped swing frame with yellow seat\", \"Paper Fish origami fish swing with orange fish panels and blue frame\", \"Paper Fish fish-themed swing set on a blue river-pattern safety surface\"]",
+      "divDataImgs": "[\"/images/Paper-fish-1.jpg\", \"/images/Paper-fish-2.jpg\", \"/images/Paper-fish-3.jpg\", \"/images/Paper-fish-4.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #b75d00 0% 33.33%, #87b3c4 33.33% 66.66%, #e3dd00 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Mango Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/kagzi.html"
+        },
+        "c": [
+         "kagzi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paper Fish"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paper Fish is a swing set dressed as an origami fish, with orange fish panels on a blue frame and a Mango Yellow seat. One installation photo shows it on a blue river-pattern safety surface, which completes the theme. The design follows a groove idea, so more than one child can swing together instead of waiting for a turn. It is meant for ages 5 to 12. The product area is 10'9\" x 8'10\" and the safe play area is 15'9\" x 14'10\". Swinging this way works on hand-eye coordination and spatial awareness. Like the rest of the Kagzi range, its galvanised pipes, roto-moulded parts and composite laminates carry a 3-year warranty. Call +91 902 830 2266 to discuss your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/kagzi/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hand-eye Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cognitive Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Spatial Awareness"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paper Fish swing set",
+    "imgSrc": "/images/Paper-Fish-Swing-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "327.66 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "269.24 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The fish frame is galvanised pipe with roto-moulded and composite panels. It is installed self-standing or grouted, and the full 15'9\" x 14'10\" zone must stay free of walkways because of the swing arc. Use rubber flooring under the seat. Bearings and spare parts carry a 1-year warranty, so check them at each service visit.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hand-eye Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitive Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Spatial Awareness"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10'9\" x 8'10\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15'9\" x 14'10\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "kagzi",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Paper Fish Swing Set",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-fish.html"
+   ]
+  ],
+  "product": {
+   "name": "Paper Fish",
+   "sku": "FOK04",
+   "images": [
+    "/images/Paper-fish-1.jpg",
+    "/images/Paper-fish-2.jpg",
+    "/images/Paper-fish-3.jpg",
+    "/images/Paper-fish-4.jpg"
+   ],
+   "description": "Paper Fish is a swing set dressed as an origami fish, with orange fish panels on a blue frame and a Mango Yellow seat. One installation photo shows it on a blue river-pattern safety surface, which completes the theme. The design follows a groove idea, so more than one child can swing together instead of waiting for a turn. It is meant for ages 5 to 12. The product area is 10'9\" x 8'10\" and the safe play area is 15'9\" x 14'10\". Swinging this way works on hand-eye coordination and spatial awareness. Like the rest of the Kagzi range, its galvanised pipes, roto-moulded parts and composite laminates carry a 3-year warranty. Call +91 902 830 2266 to discuss your site.",
+   "category": "Swing Set",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/kagzi.html",
+   "colours": [
+    "Mango Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "15'9\" x 14'10\""
+    ],
+    [
+     "Length",
+     "327.66 cm"
+    ],
+    [
+     "Width",
+     "269.24 cm"
+    ],
+    [
+     "Activities",
+     "Swinging"
+    ],
+    [
+     "Skills developed",
+     "Hand-eye Coordination Cognitive Balance Spatial Awareness"
+    ],
+    [
+     "Colour options",
+     "Mango Yellow"
+    ]
+   ]
+  }
+ }
+}

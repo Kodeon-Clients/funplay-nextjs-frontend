@@ -1,0 +1,231 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-korba.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Korba | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Korba. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-korba.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Korba",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Korba",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Korba",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Korba is Chhattisgarh's power and coal town, and much of its housing sits inside plant and mining townships with their own parks and sports grounds. FunPlay Systems is an outdoor gym equipment supplier in Korba for these townships as well as schools, colleges and the municipal corporation. We build the machines at our Vasai factory, about 1070 km away, and send them by road."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Shift work shapes how a township gym is used. People come at odd hours, often alone, so stations that need no partner or adjustment work best. Korba also has fierce summers and a lot of fine dust from mining and ash. We suggest a shaded site where possible and a concrete or paver base rather than bare soil, since a hard base is easy to sweep and stays firm in the rains."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Township gyms for Korba's plant colonies",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "A township with a large ground can take a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/6-station-multi-gym.html"
+           },
+           "c": [
+            "6 Station Multi Gym"
+           ]
+          },
+          ", which puts six exercises on one hexagonal frame and keeps the whole gym in one place for supervision. Smaller colony parks can use separate stations instead. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html"
+           },
+           "c": [
+            "Chest Press Cum Shoulder Press"
+           ]
+          },
+          " covers the upper body on one footing, and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/leg-press-double.html"
+           },
+           "c": [
+            "Leg Press Double"
+           ]
+          },
+          " lets two people train at once after a shift. Wipe the moving parts every few weeks to clear dust."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Townships often want a play area for children too, so see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-korba.html"
+           },
+           "c": [
+            "playground equipment in Korba"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Korba",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,070 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Korba",
+       "href": "/outdoor-playground-equipment-manufacturer-in-korba.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you supply an outdoor gym for a plant or mining township in Korba?",
+       "a": "Yes. We work from the township's site plan or photos and suggest machines for the space and the expected number of users. You approve a layout drawing and a quote before we manufacture."
+      },
+      {
+       "q": "How do we deal with dust on outdoor gym machines?",
+       "a": "Sweep the base regularly and wipe the handles, seats and moving joints every few weeks. If a joint feels stiff, report it early to our after-sales team on +91 738 530 0921."
+      },
+      {
+       "q": "Which installation method suits Korba's ground?",
+       "a": "Grouting into a concrete footing suits most township grounds and open plots. Where a firm paved base already exists, self-standing fixing may be possible. We confirm the method after seeing photos."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Korba Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Korba",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-korba.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Korba",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Korba",
+    "state": "Chhattisgarh"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Korba. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you supply an outdoor gym for a plant or mining township in Korba?",
+    "Yes. We work from the township's site plan or photos and suggest machines for the space and the expected number of users. You approve a layout drawing and a quote before we manufacture."
+   ],
+   [
+    "How do we deal with dust on outdoor gym machines?",
+    "Sweep the base regularly and wipe the handles, seats and moving joints every few weeks. If a joint feels stiff, report it early to our after-sales team on +91 738 530 0921."
+   ],
+   [
+    "Which installation method suits Korba's ground?",
+    "Grouting into a concrete footing suits most township grounds and open plots. Where a firm paved base already exists, self-standing fixing may be possible. We confirm the method after seeing photos."
+   ]
+  ]
+ }
+}

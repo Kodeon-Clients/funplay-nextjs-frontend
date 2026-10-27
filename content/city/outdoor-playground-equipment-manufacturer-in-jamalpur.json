@@ -1,0 +1,319 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-jamalpur.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Jamalpur | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jamalpur. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jamalpur.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Jamalpur | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jamalpur. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jamalpur.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Jamalpur",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Jamalpur"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Jamalpur, beside Munger on the Ganga, is home to one of India's oldest railway workshops, and the town has a long history of working with steel. Buyers here tend to ask detailed questions about how equipment is made, and we are glad to answer them. FunPlay Systems designs and fabricates playground equipment at our own factory in Vasai, about 1,540 km away, and sends it to Bihar by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Two materials do most of the work in our equipment. Frames are made from galvanised steel pipe, while slides, panels, seats and roofs are roto-moulded plastic. Both are shaped in-house, and our raw materials are tested and certified before use. Knowing how each one behaves helps you look after it properly through Bihar's hot summers and humid monsoon. Our in-house quality inspection checks each piece before it leaves the factory, and we can explain any part of the process you want to understand."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "How our main materials hold up outdoors",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Galvanising bonds a layer of zinc to the steel pipe, and that layer goes on protecting the steel even where the surface gets scratched. Our galvanised pipes carry a 3-year warranty against manufacturing defects. Roto-moulding forms plastic parts in a heated, rotating mould, which gives a hollow one-piece shape with rounded edges and no joints to open up. Composite laminates and play rope, used on some ranges, are also covered for 3 years."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "See our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft.html"
+           },
+           "c": [
+            "CoreCraft"
+           ]
+          },
+          " range, or ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-munger.html"
+           },
+           "c": [
+            "playground equipment in Munger"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Jamalpur",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,540 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Jamalpur",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-jamalpur.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What is the difference between galvanised and painted steel?",
+       "a": "Galvanised steel has a zinc coating bonded to it, which keeps protecting the steel when scratched. Painted steel starts to rust as soon as the paint chips, especially in a humid monsoon."
+      },
+      {
+       "q": "Why are slides and panels roto-moulded?",
+       "a": "Roto-moulding makes strong, hollow, one-piece parts with rounded edges and colour right through the plastic. They do not rust, and they clean easily with water and a soft cloth."
+      },
+      {
+       "q": "Do you supply Jamalpur and Munger?",
+       "a": "Yes. We deliver from our Vasai factory to Jamalpur, Munger and nearby towns by road, and install through our own team or a dealer in eastern India."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Jamalpur Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-bihar.html",
+    "aText": "Bihar",
+    "spanText": "Jamalpur",
+    "h2Text": "Playground equipment suppliers near Jamalpur",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-munger.html"
+        },
+        "c": [
+         "Playground equipment in Munger"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ballia.html"
+        },
+        "c": [
+         "Playground equipment in Ballia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-begusarai.html"
+        },
+        "c": [
+         "Playground equipment in Begusarai"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhagalpur.html"
+        },
+        "c": [
+         "Playground equipment in Bhagalpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-saharsa.html"
+        },
+        "c": [
+         "Playground equipment in Saharsa"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bihar.html"
+        },
+        "c": [
+         "See all cities we serve in Bihar"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Bihar",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bihar.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Jamalpur",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jamalpur.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Jamalpur",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Jamalpur",
+    "state": "Bihar"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jamalpur. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What is the difference between galvanised and painted steel?",
+    "Galvanised steel has a zinc coating bonded to it, which keeps protecting the steel when scratched. Painted steel starts to rust as soon as the paint chips, especially in a humid monsoon."
+   ],
+   [
+    "Why are slides and panels roto-moulded?",
+    "Roto-moulding makes strong, hollow, one-piece parts with rounded edges and colour right through the plastic. They do not rust, and they clean easily with water and a soft cloth."
+   ],
+   [
+    "Do you supply Jamalpur and Munger?",
+    "Yes. We deliver from our Vasai factory to Jamalpur, Munger and nearby towns by road, and install through our own team or a dealer in eastern India."
+   ]
+  ]
+ }
+}

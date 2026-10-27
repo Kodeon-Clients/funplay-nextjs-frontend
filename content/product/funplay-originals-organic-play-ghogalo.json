@@ -1,0 +1,839 @@
+{
+ "path": "/funplay-originals/organic-play/ghogalo.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Ghogalo Barrel Roller Climber | FunPlay Originals | FunPlay",
+  "description": "Ghogalo Barrel Roller Climber (FOO01), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/ghogalo.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Ghogalo Barrel Roller Climber | FunPlay Originals | FunPlay",
+   "og:description": "Ghogalo Barrel Roller Climber (FOO01), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/ghogalo.html",
+   "og:image": "https://funplaysystems.com/images/Ghogalo-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Ghogalo Barrel Roller Climber",
+ "data": {
+  "name": "Ghogalo",
+  "sku": "FOO01",
+  "colours": [
+   {
+    "name": "Mineral",
+    "swatch": "background-color: #388482",
+    "images": [
+     "/images/Ghogalo-1.jpg",
+     "/images/Ghogalo-2.jpg",
+     "/images/Ghogalo-3.jpg",
+     "/images/Ghogalo-4.jpg",
+     "/images/Ghogalo-5.jpg",
+     "/images/Ghogalo-6.jpg"
+    ],
+    "alts": [
+     "Ghogalo snail-shaped play structure with wooden rolling barrel and net climber",
+     "Close view of Ghogalo wooden rolling barrel shell with orange spiral",
+     "Side view of Ghogalo snail climber with barrel shell and rope net",
+     "Ghogalo snail-themed barrel roller with antenna net climber",
+     "Front view of Ghogalo snail with spiral shell and wavy balance trail",
+     "Top-angle view of Ghogalo snail barrel roller with rope net and balance trail"
+    ]
+   },
+   {
+    "name": "Royal Turquoise",
+    "swatch": "background-color: #0d2f41",
+    "images": [
+     "/images/Ghogalo-green1.jpg",
+     "/images/Ghogalo-green2.jpg",
+     "/images/Ghogalo-green3.jpg",
+     "/images/Ghogalo-green4.jpg"
+    ],
+    "alts": [
+     "Ghogalo snail-shaped climber in royal turquoise with wooden spiral shell",
+     "Close view of Ghogalo wooden barrel roller with yellow spiral detail",
+     "Ghogalo turquoise snail play structure with wooden barrel and net climber",
+     "Side view of Ghogalo snail barrel roller with rope net antenna"
+    ]
+   }
+  ],
+  "description": "Ghogalo is a snail with a quirky face and a wooden rolling barrel for a shell. Inside the barrel children can run and roll, and an orange spiral marks the shell from outside. Antenna-shaped net climbers stand at the head and a wavy balance trail runs along the body. Children aged 5 to 12 use it, up to 15 at a time. The snail is long and slim, 31'1\" x 6'9\", with a safe play area of 35'1\" x 11'9\". Climbing, crawling, rolling, sitting and balancing build arm strength, hand-eye coordination and imaginative play. It is offered in Mineral and Royal Turquoise. Our 3-year warranty covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Ghogalo"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Ghogalo-1.jpg",
+  "cardImage": "/images/Ghogalo-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#a2dcd0",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Ghogalo ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Barrel Roller Climber"
+      ]
+     }
+    ],
+    "pText": "FOO01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mineral",
+       "swatch": "background-color: #388482",
+       "images": [
+        "/images/Ghogalo-1.jpg",
+        "/images/Ghogalo-2.jpg",
+        "/images/Ghogalo-3.jpg",
+        "/images/Ghogalo-4.jpg",
+        "/images/Ghogalo-5.jpg",
+        "/images/Ghogalo-6.jpg"
+       ],
+       "alts": [
+        "Ghogalo snail-shaped play structure with wooden rolling barrel and net climber",
+        "Close view of Ghogalo wooden rolling barrel shell with orange spiral",
+        "Side view of Ghogalo snail climber with barrel shell and rope net",
+        "Ghogalo snail-themed barrel roller with antenna net climber",
+        "Front view of Ghogalo snail with spiral shell and wavy balance trail",
+        "Top-angle view of Ghogalo snail barrel roller with rope net and balance trail"
+       ]
+      },
+      {
+       "name": "Royal Turquoise",
+       "swatch": "background-color: #0d2f41",
+       "images": [
+        "/images/Ghogalo-green1.jpg",
+        "/images/Ghogalo-green2.jpg",
+        "/images/Ghogalo-green3.jpg",
+        "/images/Ghogalo-green4.jpg"
+       ],
+       "alts": [
+        "Ghogalo snail-shaped climber in royal turquoise with wooden spiral shell",
+        "Close view of Ghogalo wooden barrel roller with yellow spiral detail",
+        "Ghogalo turquoise snail play structure with wooden barrel and net climber",
+        "Side view of Ghogalo snail barrel roller with rope net antenna"
+       ]
+      }
+     ],
+     "name": "Ghogalo"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Ghogalo snail-shaped play structure with wooden rolling barrel and net climber\", \"Close view of Ghogalo wooden rolling barrel shell with orange spiral\", \"Side view of Ghogalo snail climber with barrel shell and rope net\", \"Ghogalo snail-themed barrel roller with antenna net climber\", \"Front view of Ghogalo snail with spiral shell and wavy balance trail\", \"Top-angle view of Ghogalo snail barrel roller with rope net and balance trail\"]",
+      "divDataImgs": "[\"/images/Ghogalo-1.jpg\", \"/images/Ghogalo-2.jpg\", \"/images/Ghogalo-3.jpg\", \"/images/Ghogalo-4.jpg\", \"/images/Ghogalo-5.jpg\", \"/images/Ghogalo-6.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#388482"
+      },
+      "divText": "",
+      "spanText": "Mineral"
+     },
+     {
+      "divDataAlts": "[\"Ghogalo snail-shaped climber in royal turquoise with wooden spiral shell\", \"Close view of Ghogalo wooden barrel roller with yellow spiral detail\", \"Ghogalo turquoise snail play structure with wooden barrel and net climber\", \"Side view of Ghogalo snail barrel roller with rope net antenna\"]",
+      "divDataImgs": "[\"/images/Ghogalo-green1.jpg\", \"/images/Ghogalo-green2.jpg\", \"/images/Ghogalo-green3.jpg\", \"/images/Ghogalo-green4.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#0d2f41"
+      },
+      "divText": "",
+      "spanText": "Royal Turquoise"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Ghogalo"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Ghogalo is a snail with a quirky face and a wooden rolling barrel for a shell. Inside the barrel children can run and roll, and an orange spiral marks the shell from outside. Antenna-shaped net climbers stand at the head and a wavy balance trail runs along the body. Children aged 5 to 12 use it, up to 15 at a time. The snail is long and slim, 31'1\" x 6'9\", with a safe play area of 35'1\" x 11'9\". Climbing, crawling, rolling, sitting and balancing build arm strength, hand-eye coordination and imaginative play. It is offered in Mineral and Royal Turquoise. Our 3-year warranty covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imaginative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cognitve Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Arm Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hand-eye Coordination"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Ghogalo snail climber",
+    "imgSrc": "/images/snail-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "948.23 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "205.74 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Ghogalo's barrel roller turns on bearings, which carry a 1-year warranty, and should be checked for free movement at each service. The frame is galvanised pipe with composite and rope parts. It is installed self-standing or grouted. Keep the full 35'1\" x 11'9\" zone clear, with impact flooring under the climbers.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Rolling",
+      "imgSrc": "/images/Rolling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Rolling"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sitting",
+      "imgSrc": "/images/Sitting.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sitting"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imaginative Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitve Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Arm Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hand-eye Coordination"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "31'1\" x 6'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "35'1\" x 11'9\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Ghogalo Barrel Roller Climber",
+    "https://funplaysystems.com/funplay-originals/organic-play/ghogalo.html"
+   ]
+  ],
+  "product": {
+   "name": "Ghogalo",
+   "sku": "FOO01",
+   "images": [
+    "/images/Ghogalo-1.jpg",
+    "/images/Ghogalo-2.jpg",
+    "/images/Ghogalo-3.jpg",
+    "/images/Ghogalo-4.jpg",
+    "/images/Ghogalo-5.jpg",
+    "/images/Ghogalo-6.jpg"
+   ],
+   "description": "Ghogalo is a snail with a quirky face and a wooden rolling barrel for a shell. Inside the barrel children can run and roll, and an orange spiral marks the shell from outside. Antenna-shaped net climbers stand at the head and a wavy balance trail runs along the body. Children aged 5 to 12 use it, up to 15 at a time. The snail is long and slim, 31'1\" x 6'9\", with a safe play area of 35'1\" x 11'9\". Climbing, crawling, rolling, sitting and balancing build arm strength, hand-eye coordination and imaginative play. It is offered in Mineral and Royal Turquoise. Our 3-year warranty covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a quote.",
+   "category": "Barrel Roller Climber",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Mineral",
+    "Royal Turquoise"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "35'1\" x 11'9\""
+    ],
+    [
+     "Length",
+     "948.23 cm"
+    ],
+    [
+     "Width",
+     "205.74 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Crawling Rolling Sitting Balancing"
+    ],
+    [
+     "Colour options",
+     "Mineral, Royal Turquoise"
+    ]
+   ]
+  }
+ }
+}

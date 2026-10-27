@@ -1,0 +1,371 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-agartala.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Agartala | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Agartala. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-agartala.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "Outdoor Gym Equipment Supplier in Agartala | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Agartala. Made in our Vasai factory. Get a free quote.",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-agartala.html",
+   "og:type": "website",
+   "og:site_name": "Fun Play Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Outdoor Gym Equipment Supplier in Agartala | FunPlay Systems",
+   "twitter:description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Agartala. Made in our Vasai factory. Get a free quote.",
+   "twitter:image": "https://funplaysystems.com/images/logo-black.png",
+   "twitter:site": "@funplayindia",
+   "twitter:creator": "@funplayindia"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Agartala",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityDownSection2",
+   "props": {
+    "h1Text": "Outdoor Gym Equipment Manufacturer & Supplier in Agartala"
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Agartala",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "FunPlay Systems supplies outdoor gym equipment to municipal parks, schools, colleges and housing complexes in Agartala, the capital of Tripura. Our Fun Fitness machines are built at our factory in Vasai, about 1,960 km from Agartala, which makes this one of the longest road routes we handle. That distance changes how a project should be planned, so we keep the process simple."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Send us the site size, a few photos and the number of machines you have in mind. We send back a layout drawing, and once you approve it and the quote, we manufacture the full order and dispatch it in one consignment. Agartala gets heavy rain through the monsoon and stays humid for much of the year, so it helps to have the base work done before the truck arrives. A level, well-drained platform means the installers can fix every station in one visit instead of waiting for wet ground to dry out."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Planning an open air gym for Tripura's wet months",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Long periods of rain and humidity are hard on painted mild steel. Our frames use galvanised pipe, which carries a 3-year warranty, and the seats, footplates and handles are roto-moulded plastic that does not rust. For an Agartala park we would look at the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/leg-press-double.html"
+           },
+           "c": [
+            "Leg Press Double"
+           ]
+          },
+          ", the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+           },
+           "c": [
+            "Seating Twister Three Way"
+           ]
+          },
+          " and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/ski-trainer.html"
+           },
+           "c": [
+            "Ski Trainer"
+           ]
+          },
+          ". Together they cover legs, waist and cardio, and the twister lets three people use it at once during busy evening hours."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For children's equipment, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-agartala.html"
+           },
+           "c": [
+            "playground equipment in Agartala"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Agartala",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,960 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Agartala",
+       "href": "/outdoor-playground-equipment-manufacturer-in-agartala.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Is it worth ordering outdoor gym equipment from Vasai for a site in Agartala?",
+       "a": "It works well when the whole order goes in one consignment. We manufacture everything after approval, dispatch it together by road and install it with our team or a dealer covering the northeast."
+      },
+      {
+       "q": "What base should we prepare before installation?",
+       "a": "A firm, level area with a slight slope for rainwater. We tell you whether each machine will be grouted or self-standing, so your contractor can prepare the right base before dispatch."
+      },
+      {
+       "q": "Who handles repairs after installation in Tripura?",
+       "a": "Call our after-sales team on +91 738 530 0921 or write to aftersales@funplaysystems.com. Springs, bearings and spare parts are covered for 1 year against manufacturing defects."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories2",
+   "props": {}
+  },
+  {
+   "component": "CityOurPanIndiaNetwork",
+   "props": {}
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-gym-equipment-manufacturer-supplier-india.html",
+    "aText": "Outdoor gym equipment across India",
+    "spanText": "Agartala",
+    "h2Text": "Outdoor gym equipment suppliers near Agartala",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-shillong.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Shillong"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-barasat.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Barasat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-chinsurah.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Chinsurah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-south-dumdum.html"
+        },
+        "c": [
+         "Outdoor gym equipment in South Dum Dum"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-kolkata.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Kolkata"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for playground equipment in Agartala? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-agartala.html"
+        },
+        "c": [
+         "Playground equipment in Agartala"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        "c": [
+         "See all cities we serve in Outdoor gym equipment across India"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "India",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Agartala",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-agartala.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Agartala",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Agartala",
+    "state": "Tripura"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Agartala. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Is it worth ordering outdoor gym equipment from Vasai for a site in Agartala?",
+    "It works well when the whole order goes in one consignment. We manufacture everything after approval, dispatch it together by road and install it with our team or a dealer covering the northeast."
+   ],
+   [
+    "What base should we prepare before installation?",
+    "A firm, level area with a slight slope for rainwater. We tell you whether each machine will be grouted or self-standing, so your contractor can prepare the right base before dispatch."
+   ],
+   [
+    "Who handles repairs after installation in Tripura?",
+    "Call our after-sales team on +91 738 530 0921 or write to aftersales@funplaysystems.com. Springs, bearings and spare parts are covered for 1 year against manufacturing defects."
+   ]
+  ]
+ }
+}

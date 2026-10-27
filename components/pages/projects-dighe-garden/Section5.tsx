@@ -1,0 +1,9 @@
+import Img from "@/components/ui/Img";
+
+export type Section5Props = { pText: string };
+
+export default function Section5(p: Section5Props) {
+  return (
+    <section><div className="school-playground-wrapper"><div className="school-playground-header"><p className="heading-text-para text-dark-gray fw-700" style={{"fontSize": "2.375rem", "lineHeight": "2.7rem"}}>{p.pText}</p></div><div className="school-playground-grid" id="schoolPlayGroundSetup-grid"><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 1" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/1.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 2" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/2.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 3" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/3.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 4" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/4.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 5" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/5.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 6" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/6.jpg" /></div><div className="sps-products-solution-img"><Img alt="Dighe Garden playground project, photo 7" className="grid-image" loading="lazy" src="/images/projects/dighe-garden-thane/7.jpg" /></div></div></div></section>
+  );
+}

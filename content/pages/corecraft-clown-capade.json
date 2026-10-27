@@ -1,0 +1,223 @@
+{
+ "path": "/corecraft/clown-capade.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Circus Playground Equipment | Clown Capade | FunPlay",
+  "description": "Clown Capade circus-themed multi play stations by FunPlay: colourful towers, slides and climbers for schools and parks. See models and get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/clown-capade.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Circus Playground Equipment | Clown Capade | FunPlay",
+   "og:description": "Clown Capade circus-themed multi play stations by FunPlay: colourful towers, slides and climbers for schools and parks. See models and get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/clown-capade.html",
+   "og:image": "https://funplaysystems.com/images/Jamboree-5-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Clown Capade Circus-Themed Playground Equipment",
+ "data": {
+  "cardImage": "/images/Jamboree-5-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "ClownCapadeCircusThemedPlayground",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Joyful adventures"
+      ]
+     }
+    ],
+    "h1Text": "Clown Capade Circus-Themed Playground Equipment"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Jamboree 5 circus play station with spiral slide, trapeze bars and climbing net",
+      "imgSrc": "/images/Jamboree-5-product-catalogue.jpg",
+      "aHref": "/corecraft/clown-capade/jambore-5.html",
+      "aText": " View Product ",
+      "spanText": "Jambore 5",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "12.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff385c 50%, #77c6ff 50% )"
+      }
+     },
+     {
+      "imgAlt": "Jamboree clown-themed play station with jester-hat canopy and slide",
+      "imgSrc": "/images/Jamboree-product-catalogue.jpg",
+      "aHref": "/corecraft/clown-capade/Jambore-3.html",
+      "aText": " View Product ",
+      "spanText": "Jambore 3",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "37.7M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff385c 50%, #77c6ff 50% )"
+      }
+     },
+     {
+      "imgAlt": "Tumble Twin twin-tower clown playground in pink and yellow with rope bridge",
+      "imgSrc": "/images/TumbleTwin-product-catalogue.jpg",
+      "aHref": "/corecraft/clown-capade/tumble-twin.html",
+      "aText": " View Product ",
+      "spanText": "Tumble Twin",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "55.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff385c 50%, #d0d508 50% )"
+      }
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Chuckle Chums circus play station with net tunnel bridge and slides",
+      "imgSrc": "/images/chuckle-chums--product-catalogue.jpg",
+      "aHref": "/corecraft/clown-capade/chuckle-chums.html",
+      "aText": " View Product ",
+      "spanText": "Chuckle Chums",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "63.3M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #e01a48 50%, #d3c3a8 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #df1647 50%, #c2cddf 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #e01547 50%, #44847e 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Jumbo Jive multi-colour circus playground with towers, slides and swings",
+      "imgSrc": "/images/Jumbo-Jive-product-catalogue.jpg",
+      "aHref": "/corecraft/clown-capade/jumbo-jive.html",
+      "aText": " View Product ",
+      "spanText": "Jumbo Jive",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "131.7M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "conic-gradient( #d5010b 0% 33.33%, #60c2e9 33.33% 66.66%, #dac800 66.66% 100% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Clown Capade Circus-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/clown-capade.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Jambore 3 Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/Jambore-3.html"
+   ],
+   [
+    "Chuckle Chums Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/chuckle-chums.html"
+   ],
+   [
+    "Jambore 5 Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/jambore-5.html"
+   ],
+   [
+    "Jumbo Jive Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html"
+   ],
+   [
+    "Tumble Twin Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/tumble-twin.html"
+   ]
+  ]
+ }
+}

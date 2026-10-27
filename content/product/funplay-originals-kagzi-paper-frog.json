@@ -1,0 +1,678 @@
+{
+ "path": "/funplay-originals/kagzi/paper-frog.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paper Frog | FunPlay Originals | FunPlay Systems",
+  "description": "Paper Frog (FOK06), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi/paper-frog.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paper Frog | FunPlay Originals | FunPlay Systems",
+   "og:description": "Paper Frog (FOK06), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi/paper-frog.html",
+   "og:image": "https://funplaysystems.com/images/Paper-Frog-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paper Frog",
+ "data": {
+  "name": "Paper Frog",
+  "sku": "FOK06",
+  "colours": [
+   {
+    "name": "Mineral",
+    "swatch": "\n                  background: conic-gradient(\n                    #224f47 0% 33.33%,\n                    #ffc900 33.33% 66.66%,\n                    #030304 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Paper-Frog-1.jpg",
+     "/images/Paper-Frog-2.jpg",
+     "/images/Paper-Frog-3.jpg"
+    ],
+    "alts": [
+     "Paper Frog origami frog-shaped spring rider in dark green with yellow handles",
+     "Side view of Paper Frog green frog spring rider on a black spring",
+     "Paper Frog dark green origami frog spring rider with yellow handles"
+    ]
+   }
+  ],
+  "description": "Paper Frog is a spring rider shaped like a folded paper frog, in a dark green Mineral shade with yellow handles. A child can rock it alone by jumping gently on the rear legs or pressing down, so nobody has to push. A friend or parent can join in from the back. It suits ages 3 to 12 and fits small corners easily, with a product area of 2'6\" x 1'6\" and a safe play area of 6'6\" x 5'6\". Riding it builds balance and imaginative play. The roto-moulded body carries our 3-year warranty, and the spring is covered for 1 year. Add it beside a larger Kagzi structure and we will mark both on one layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "kagzi",
+   "Paper Frog"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/kagzi.html",
+  "image": "/images/Paper-Frog-1.jpg",
+  "cardImage": "/images/Paper-Frog-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paper Frog"
+    ],
+    "pText": "FOK06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mineral",
+       "swatch": "\n                  background: conic-gradient(\n                    #224f47 0% 33.33%,\n                    #ffc900 33.33% 66.66%,\n                    #030304 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Paper-Frog-1.jpg",
+        "/images/Paper-Frog-2.jpg",
+        "/images/Paper-Frog-3.jpg"
+       ],
+       "alts": [
+        "Paper Frog origami frog-shaped spring rider in dark green with yellow handles",
+        "Side view of Paper Frog green frog spring rider on a black spring",
+        "Paper Frog dark green origami frog spring rider with yellow handles"
+       ]
+      }
+     ],
+     "name": "Paper Frog"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paper Frog origami frog-shaped spring rider in dark green with yellow handles\", \"Side view of Paper Frog green frog spring rider on a black spring\", \"Paper Frog dark green origami frog spring rider with yellow handles\"]",
+      "divDataImgs": "[\"/images/Paper-Frog-1.jpg\", \"/images/Paper-Frog-2.jpg\", \"/images/Paper-Frog-3.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #224f47 0% 33.33%, #ffc900 33.33% 66.66%, #030304 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Mineral"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/kagzi.html"
+        },
+        "c": [
+         "kagzi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paper Frog"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paper Frog is a spring rider shaped like a folded paper frog, in a dark green Mineral shade with yellow handles. A child can rock it alone by jumping gently on the rear legs or pressing down, so nobody has to push. A friend or parent can join in from the back. It suits ages 3 to 12 and fits small corners easily, with a product area of 2'6\" x 1'6\" and a safe play area of 6'6\" x 5'6\". Riding it builds balance and imaginative play. The roto-moulded body carries our 3-year warranty, and the spring is covered for 1 year. Add it beside a larger Kagzi structure and we will mark both on one layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/kagzi/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imaginative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paper Frog spring rider",
+    "imgSrc": "/images/PAPER-FROG-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "76.2 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "45.72 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The frog body is roto-moulded and mounted on a steel spring, fixed self-standing or grouted to suit the ground. Leave the 6'6\" x 5'6\" zone clear on every side, since the rider tilts in all directions. Springs are a wear item with a 1-year warranty, so check the spring and handle fixings at regular intervals.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Riding",
+      "imgSrc": "/images/riding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Riding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imaginative Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2'6\" x 1'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6'6\" x 5'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "kagzi",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Paper Frog",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-frog.html"
+   ]
+  ],
+  "product": {
+   "name": "Paper Frog",
+   "sku": "FOK06",
+   "images": [
+    "/images/Paper-Frog-1.jpg",
+    "/images/Paper-Frog-2.jpg",
+    "/images/Paper-Frog-3.jpg"
+   ],
+   "description": "Paper Frog is a spring rider shaped like a folded paper frog, in a dark green Mineral shade with yellow handles. A child can rock it alone by jumping gently on the rear legs or pressing down, so nobody has to push. A friend or parent can join in from the back. It suits ages 3 to 12 and fits small corners easily, with a product area of 2'6\" x 1'6\" and a safe play area of 6'6\" x 5'6\". Riding it builds balance and imaginative play. The roto-moulded body carries our 3-year warranty, and the spring is covered for 1 year. Add it beside a larger Kagzi structure and we will mark both on one layout drawing.",
+   "category": "Spring Rider",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/kagzi.html",
+   "colours": [
+    "Mineral"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "6'6\" x 5'6\""
+    ],
+    [
+     "Length",
+     "76.2 cm"
+    ],
+    [
+     "Width",
+     "45.72 cm"
+    ],
+    [
+     "Activities",
+     "Riding"
+    ],
+    [
+     "Skills developed",
+     "Imaginative Play Balancing"
+    ],
+    [
+     "Colour options",
+     "Mineral"
+    ]
+   ]
+  }
+ }
+}

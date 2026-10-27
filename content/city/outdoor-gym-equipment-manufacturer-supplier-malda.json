@@ -1,0 +1,231 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-malda.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Malda | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Malda. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-malda.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Malda",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Malda",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Malda",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Malda is known across India for its mangoes, and its orchards and river plains shape much of the district. English Bazar, the main town, has schools, colleges, government offices and a growing number of apartment buildings. FunPlay Systems is an outdoor gym equipment supplier in Malda for all of these. We make every machine at our Vasai factory, about 1690 km away."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Equipment comes by road to north Bengal and is installed by our team or a dealer in eastern India. Malda sits between the Ganga and the Mahananda, and the monsoon months can bring flooding to low ground. We plan every outdoor gym on a raised, well-drained base. Summers are hot and humid and winters are short and cool, so a site with some shade from existing trees works through the year."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Choosing a first set for a government campus or college",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "A campus used by staff of all ages needs a balanced set. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/chest-press.html"
+           },
+           "c": [
+            "Chest Press"
+           ]
+          },
+          " builds upper-body strength for younger staff and students. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html"
+           },
+           "c": [
+            "Tai Chi Cum Standing Twister"
+           ]
+          },
+          " loosens the shoulders and waist with very little effort. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/fun-walker-double.html"
+           },
+           "c": [
+            "Fun Walker Double"
+           ]
+          },
+          " lets two people walk side by side, which is how most people prefer to exercise. These three fit along one side of a campus lawn. Pick the side nearest the office entrance, so staff can use them before work or during a lunch break without walking across wet grass in the rains."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For children's equipment in Malda, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-malda.html"
+           },
+           "c": [
+            "outdoor playground equipment in Malda"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Malda",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,690 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Malda",
+       "href": "/outdoor-playground-equipment-manufacturer-in-malda.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What if our ground in Malda floods during the monsoon?",
+       "a": "Choose the highest part of the site and build a raised concrete base. After the water goes down, check bolts and moving parts and clear silt from the footings before use."
+      },
+      {
+       "q": "Can government offices in Malda order outdoor gym equipment?",
+       "a": "Yes. We prepare a layout drawing and a detailed quote that your department can review. After approval we manufacture, dispatch and install through our team or a regional dealer."
+      },
+      {
+       "q": "How many people can use a set of three machines at once?",
+       "a": "It depends on the models. Single machines take one person and double machines take two. Tell us how many people come at peak time and we will plan around it."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Malda Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Malda",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-malda.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Malda",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Malda",
+    "state": "West Bengal"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Malda. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What if our ground in Malda floods during the monsoon?",
+    "Choose the highest part of the site and build a raised concrete base. After the water goes down, check bolts and moving parts and clear silt from the footings before use."
+   ],
+   [
+    "Can government offices in Malda order outdoor gym equipment?",
+    "Yes. We prepare a layout drawing and a detailed quote that your department can review. After approval we manufacture, dispatch and install through our team or a regional dealer."
+   ],
+   [
+    "How many people can use a set of three machines at once?",
+    "It depends on the models. Single machines take one person and double machines take two. Tell us how many people come at peak time and we will plan around it."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,751 @@
+{
+ "path": "/funplay-originals/timeless-play/patang.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Patang Kite Swing Set | FunPlay Originals | FunPlay Systems",
+  "description": "Patang Kite Swing Set (FOTP01), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/timeless-play/patang.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Patang Kite Swing Set | FunPlay Originals | FunPlay Systems",
+   "og:description": "Patang Kite Swing Set (FOTP01), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/timeless-play/patang.html",
+   "og:image": "https://funplaysystems.com/images/Patang-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Patang Kite Swing Set",
+ "data": {
+  "name": "Patang",
+  "sku": "FOTP01",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+    "images": [
+     "/images/Patang-1.jpg",
+     "/images/Patang-2.jpg",
+     "/images/Patang-3.jpg"
+    ],
+    "alts": [
+     "Patang kite-themed swing set with arched frame and colourful kite panels",
+     "Side view of Patang kite swings with orange seats and ring climbers",
+     "Patang kite-shaped arch frame with swing seat and hanging rings"
+    ]
+   }
+  ],
+  "description": "Patang is a kite swing set. An arched frame joins four kite sections with a loop climber, and from the front the whole thing reads as one kite. Coloured kite panels catch the light as children swing on the orange seats or climb through the hanging rings. It suits ages 5 to 12. The product area is 14'11\" x 5'9\", but the safe play area is much larger at 24'11\" x 19'9\", because swings need clear space front and back. Swinging, climbing and hanging build arm strength, flexibility and concentration. The colours are multi-colour. Its galvanised pipes, roto-moulded parts and composite laminates are covered for 3 years. Ask us for a layout that shows the full swing zone.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Timeless Play",
+   "Patang"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/timeless-play.html",
+  "image": "/images/Patang-1.jpg",
+  "cardImage": "/images/Patang-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Patang ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Kite Swing Set"
+      ]
+     }
+    ],
+    "pText": "FOTP01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+       "images": [
+        "/images/Patang-1.jpg",
+        "/images/Patang-2.jpg",
+        "/images/Patang-3.jpg"
+       ],
+       "alts": [
+        "Patang kite-themed swing set with arched frame and colourful kite panels",
+        "Side view of Patang kite swings with orange seats and ring climbers",
+        "Patang kite-shaped arch frame with swing seat and hanging rings"
+       ]
+      }
+     ],
+     "name": "Patang"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Patang kite-themed swing set with arched frame and colourful kite panels\", \"Side view of Patang kite swings with orange seats and ring climbers\", \"Patang kite-shaped arch frame with swing seat and hanging rings\"]",
+      "divDataImgs": "[\"/images/Patang-1.jpg\", \"/images/Patang-2.jpg\", \"/images/Patang-3.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/timeless-play.html"
+        },
+        "c": [
+         "Timeless Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Patang"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Patang is a kite swing set. An arched frame joins four kite sections with a loop climber, and from the front the whole thing reads as one kite. Coloured kite panels catch the light as children swing on the orange seats or climb through the hanging rings. It suits ages 5 to 12. The product area is 14'11\" x 5'9\", but the safe play area is much larger at 24'11\" x 19'9\", because swings need clear space front and back. Swinging, climbing and hanging build arm strength, flexibility and concentration. The colours are multi-colour. Its galvanised pipes, roto-moulded parts and composite laminates are covered for 3 years. Ask us for a layout that shows the full swing zone."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/timeless-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Arm Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cognitive Ability"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Flexibility"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Concentration"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Patang kite swing set",
+    "imgSrc": "/images/PATANG-Top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "454.66 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "175.26 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Patang's arch frame is galvanised pipe with composite kite panels and roto-moulded seats. It is installed self-standing or grouted. The swing arc sets the 24'11\" x 19'9\" zone, so keep paths and other equipment outside it. Bearings and spare parts carry a 1-year warranty and should be checked at each visit.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Arm Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitive Ability"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Flexibility"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Concentration"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "14'11\" x 5'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "24'11\" x 19'9\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Timeless Play",
+    "https://funplaysystems.com/funplay-originals/timeless-play.html"
+   ],
+   [
+    "Patang Kite Swing Set",
+    "https://funplaysystems.com/funplay-originals/timeless-play/patang.html"
+   ]
+  ],
+  "product": {
+   "name": "Patang",
+   "sku": "FOTP01",
+   "images": [
+    "/images/Patang-1.jpg",
+    "/images/Patang-2.jpg",
+    "/images/Patang-3.jpg"
+   ],
+   "description": "Patang is a kite swing set. An arched frame joins four kite sections with a loop climber, and from the front the whole thing reads as one kite. Coloured kite panels catch the light as children swing on the orange seats or climb through the hanging rings. It suits ages 5 to 12. The product area is 14'11\" x 5'9\", but the safe play area is much larger at 24'11\" x 19'9\", because swings need clear space front and back. Swinging, climbing and hanging build arm strength, flexibility and concentration. The colours are multi-colour. Its galvanised pipes, roto-moulded parts and composite laminates are covered for 3 years. Ask us for a layout that shows the full swing zone.",
+   "category": "Kite Swing Set",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/timeless-play.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "24'11\" x 19'9\""
+    ],
+    [
+     "Length",
+     "454.66 cm"
+    ],
+    [
+     "Width",
+     "175.26 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Hanging Swinging"
+    ],
+    [
+     "Skills developed",
+     "Arm Strength Cognitive Ability Flexibility Concentration"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,12 @@
+import type React from "react";
+import Icon from "@/components/ui/Icon";
+import Img from "@/components/ui/Img";
+import R, { type Rich } from "@/components/ui/Rich";
+
+export type DownSectionProps = { items: { imgAlt: React.ComponentProps<typeof Img>["alt"]; imgSrc: React.ComponentProps<typeof Img>["src"]; imgHeight?: React.ComponentProps<typeof Img>["height"]; imgWidth?: React.ComponentProps<typeof Img>["width"]; imgDecoding?: React.ComponentProps<typeof Img>["decoding"]; aHref: React.ComponentProps<"a">["href"]; aHref2: React.ComponentProps<"a">["href"]; aText: string; aHref3: React.ComponentProps<"a">["href"]; aText2: string; divStyle?: React.ComponentProps<"div">["style"]; divText: Rich }[]; buttonText: string };
+
+export default function DownSection(p: DownSectionProps) {
+  return (
+    <section className="pt-50 ps-7 pe-7 xl-ps-2 xl-pe-2 xs-px-0" id="down-section"><div className="container-fluid"><div className="row"><div className="col-12"><ul className="blog-simple" id="blog-list">{p.items.map((px, i) => (<li key={i} className="grid-item"><figure className="position-relative mb-0 box-hover"><div className="blog-image"><Img alt={px.imgAlt} loading="lazy" src={px.imgSrc} height={px.imgHeight} width={px.imgWidth} decoding={px.imgDecoding} />{" "}<span className="box-overlay bg-dark-slate-blue"></span>{" "}<span className="bg-gradient-gray-light-dark-transparent position-absolute opacity-6 top-0px left-0px w-100 h-100 overflow-hidden" style={{"top": "0", "left": "0"}}></span></div><figcaption className="d-flex flex-column h-100"><div className="my-auto w-100 text-center blog-hover-icon"><a aria-label="link" className="d-inline-block" href={px.aHref}><Icon className="line-icon-Arrow-OutRight icon-extra-large text-white" /></a></div><div className="position-relative post-content p-10 text-center last-paragraph-no-margin"><div className="position-relative z-index-2 overflow-hidden"><a className="d-inline-block fs-15 text-white mb-5px text-uppercase fw-600" href={px.aHref2}>{px.aText}</a>{" "}<a className="card-title fs-20 alt-font fw-500 text-white mb-0 d-block" href={px.aHref3}>{px.aText2}</a>{" "}<div className="hover-text" style={px.divStyle}><R v={px.divText} /></div></div><div className="box-overlay bg-dark-slate-blue"></div></div></figcaption></figure></li>))}</ul><div className="d-flex justify-content-center mt-5"><button className="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge submit" id="load-more-btn">{p.buttonText}</button></div></div></div></div></section>
+  );
+}

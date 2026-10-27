@@ -1,0 +1,489 @@
+{
+ "path": "/outdoor-play-equipment.html",
+ "type": "page",
+ "header": "light",
+ "seo": {
+  "title": "Outdoor Playground Equipment for Kids | FunPlay Systems",
+  "description": "Explore FunPlay's range of outdoor playground equipment: play stations, slides, swings and climbers for schools, societies and parks across India. Enquire now.",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "data": {
+  "cardImage": "/images/about_us.jpg"
+ },
+ "sections": [
+  {
+   "component": "HeroSection",
+   "props": {
+    "h1Text": "Discover the Thrill of Outdoor Play",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-20 w-70 md-w-85 mb-25px fw-300 d-inline-block"
+      },
+      "c": [
+       "Explore our premium range of outdoor play equipment that promises endless fun and adventure for kids of all ages."
+      ]
+     }
+    ],
+    "spanText": "Enquire Now",
+    "h2Text": "Enquire Now",
+    "items": [
+     {
+      "inputClass": "box-shadow-quadruple-large input-name form-control required",
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "email",
+      "inputPlaceholder": "Your email address*",
+      "inputType": "email",
+      "inputAriaLabel": "Your email address"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputRequired": true,
+      "inputTitle": "Please enter a valid 10 digit phone number only."
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "location",
+      "inputPlaceholder": "Your location*",
+      "inputType": "text",
+      "inputAriaLabel": "Your location"
+     }
+    ],
+    "items2": [
+     {
+      "selectName": "state",
+      "selectAriaLabel": "State",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Please select your state*"
+       },
+       {
+        "optionValue": "Andaman and Nicobar Islands",
+        "optionText": "Andaman and Nicobar Islands"
+       },
+       {
+        "optionValue": "Andhra Pradesh",
+        "optionText": "Andhra Pradesh"
+       },
+       {
+        "optionValue": "Arunachal Pradesh",
+        "optionText": "Arunachal Pradesh"
+       },
+       {
+        "optionValue": "Assam",
+        "optionText": "Assam"
+       },
+       {
+        "optionValue": "Bihar",
+        "optionText": "Bihar"
+       },
+       {
+        "optionValue": "Chandigarh",
+        "optionText": "Chandigarh"
+       },
+       {
+        "optionValue": "Chhattisgarh",
+        "optionText": "Chhattisgarh"
+       },
+       {
+        "optionValue": "Dadra and Nagar Haveli",
+        "optionText": "Dadra and Nagar Haveli"
+       },
+       {
+        "optionValue": "Daman and Diu",
+        "optionText": "Daman and Diu"
+       },
+       {
+        "optionValue": "Delhi",
+        "optionText": "Delhi"
+       },
+       {
+        "optionValue": "Goa",
+        "optionText": "Goa"
+       },
+       {
+        "optionValue": "Gujarat",
+        "optionText": "Gujarat"
+       },
+       {
+        "optionValue": "Haryana",
+        "optionText": "Haryana"
+       },
+       {
+        "optionValue": "Himachal Pradesh",
+        "optionText": "Himachal Pradesh"
+       },
+       {
+        "optionValue": "Jammu and Kashmir",
+        "optionText": "Jammu and Kashmir"
+       },
+       {
+        "optionValue": "Jharkhand",
+        "optionText": "Jharkhand"
+       },
+       {
+        "optionValue": "Karnataka",
+        "optionText": "Karnataka"
+       },
+       {
+        "optionValue": "Kerala",
+        "optionText": "Kerala"
+       },
+       {
+        "optionValue": "Ladakh",
+        "optionText": "Ladakh"
+       },
+       {
+        "optionValue": "Lakshadweep",
+        "optionText": "Lakshadweep"
+       },
+       {
+        "optionValue": "Madhya Pradesh",
+        "optionText": "Madhya Pradesh"
+       },
+       {
+        "optionValue": "Maharashtra",
+        "optionText": "Maharashtra"
+       },
+       {
+        "optionValue": "Manipur",
+        "optionText": "Manipur"
+       },
+       {
+        "optionValue": "Meghalaya",
+        "optionText": "Meghalaya"
+       },
+       {
+        "optionValue": "Mizoram",
+        "optionText": "Mizoram"
+       },
+       {
+        "optionValue": "Nagaland",
+        "optionText": "Nagaland"
+       },
+       {
+        "optionValue": "Odisha",
+        "optionText": "Odisha"
+       },
+       {
+        "optionValue": "Puducherry",
+        "optionText": "Puducherry"
+       },
+       {
+        "optionValue": "Punjab",
+        "optionText": "Punjab"
+       },
+       {
+        "optionValue": "Rajasthan",
+        "optionText": "Rajasthan"
+       },
+       {
+        "optionValue": "Sikkim",
+        "optionText": "Sikkim"
+       },
+       {
+        "optionValue": "Tamil Nadu",
+        "optionText": "Tamil Nadu"
+       },
+       {
+        "optionValue": "Telangana",
+        "optionText": "Telangana"
+       },
+       {
+        "optionValue": "Tripura",
+        "optionText": "Tripura"
+       },
+       {
+        "optionValue": "Uttar Pradesh",
+        "optionText": "Uttar Pradesh"
+       },
+       {
+        "optionValue": "Uttarakhand",
+        "optionText": "Uttarakhand"
+       },
+       {
+        "optionValue": "West Bengal",
+        "optionText": "West Bengal"
+       }
+      ]
+     },
+     {
+      "selectName": "customerType",
+      "selectAriaLabel": "Category",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Select your category"
+       },
+       {
+        "optionValue": "Architect",
+        "optionText": "Architect"
+       },
+       {
+        "optionValue": "Builder",
+        "optionText": "Builder"
+       },
+       {
+        "optionValue": "Clubs and Resort",
+        "optionText": "Clubs and Resort"
+       },
+       {
+        "optionValue": "Corporate",
+        "optionText": "Corporate"
+       },
+       {
+        "optionValue": "Dealer",
+        "optionText": "Dealer"
+       },
+       {
+        "optionValue": "Government",
+        "optionText": "Government"
+       },
+       {
+        "optionValue": "Hotels",
+        "optionText": "Hotels"
+       },
+       {
+        "optionValue": "Society",
+        "optionText": "Society"
+       },
+       {
+        "optionValue": "School",
+        "optionText": "School"
+       },
+       {
+        "optionValue": "Others",
+        "optionText": "Others"
+       }
+      ]
+     }
+    ],
+    "buttonText": "Submit"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "divClass": "col last-paragraph-no-margin sm-mb-40px",
+      "h2Text": "21+",
+      "pText": "Years Of Experiences"
+     },
+     {
+      "divClass": "col last-paragraph-no-margin sm-mb-40px",
+      "h2Text": "150+",
+      "pText": "Employees"
+     },
+     {
+      "divClass": "col last-paragraph-no-margin xs-mb-40px",
+      "h2Text": "15,000+",
+      "pText": "Installations Nationwide"
+     },
+     {
+      "divClass": "col last-paragraph-no-margin",
+      "h2Text": "45,000",
+      "pText": "Sq. ft. Manufacturing Facility"
+     }
+    ]
+   }
+  },
+  {
+   "component": "AboutUs",
+   "props": {
+    "h3Text": "Who We Are",
+    "pText": "As an innovative designer, manufacturer, and supplier of playground equipment, Funplay is dedicated towards creating safe and enjoyable play experiences for children. We take pride in our focus on safety, speed, and adding value to enrich kids' lives. Our mission goes beyond structures to nurture life skills for a well-rounded future.",
+    "aText": "Enquire Now"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "h3Text": "Outdoor Play Systems",
+    "pText": "Child Safety is our biggest driving force. We have put in years of research to understand what really appeals to children and developed products to engage every child.",
+    "aText": "Enquire Now"
+   }
+  },
+  {
+   "component": "Products",
+   "props": {
+    "h3Text": "Our Products",
+    "aText": " Enquire Now"
+   }
+  },
+  {
+   "component": "WhatTheySayAbout",
+   "props": {
+    "h3Text": "What they say about us",
+    "items": [
+     {
+      "imgSrc": "/images/dmlogo.jpg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "mb-10px fw-500 d-table fs-18 lh-28 text-dark-gray"
+        },
+        "c": [
+         "Fun Play Systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive."
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fs-15 text-uppercase fw-700 text-dark-gray ls-1px"
+        },
+        "c": [
+         "Nayan Shah, Damji Shamji Shah Group"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/logo-dark.png",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "mb-10px fw-500 d-table fs-18 lh-28 text-dark-gray"
+        },
+        "c": [
+         "We at Jaideep Construction have been using Fun Play Systems’ equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional. We highly recommend Fun Play Systems."
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fs-15 text-uppercase fw-700 text-dark-gray ls-1px"
+        },
+        "c": [
+         "Jaideep Construction"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/Aditya_Birla_Group_Logo.jpg",
+      "imgDecoding": "async",
+      "imgLoading": "lazy",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "mb-10px fw-500 d-table fs-18 lh-28 text-dark-gray"
+        },
+        "c": [
+         "The Multi-activity design from Fun Play Systems has been a huge hit. The children enjoy the spacious, well-designed play area, which has positively impacted their outdoor play."
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fs-15 text-uppercase fw-700 text-dark-gray ls-1px"
+        },
+        "c": [
+         "Sanjay, Aditya Birl Group"
+        ]
+       }
+      ]
+     }
+    ],
+    "aText": " Enquire Now",
+    "items2": [
+     {
+      "divClass": "swiper-button-previous-nav swiper-button-prev md-left-0px",
+      "iClass": "feather icon-feather-arrow-left icon-extra-medium text-dark-gray"
+     },
+     {
+      "divClass": "swiper-button-next-nav swiper-button-next md-right-0px",
+      "iClass": "feather icon-feather-arrow-right icon-extra-medium text-dark-gray"
+     }
+    ],
+    "h3Text2": "Clientele",
+    "aText2": " Enquire Now"
+   }
+  },
+  {
+   "component": "WhyChooseUs",
+   "props": {
+    "h3Text": "Why choose us?",
+    "items": [
+     {
+      "iClass": "bi bi-chat-quote icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We Design Original Concepts",
+      "pText": "We have dedicated R&D Team to work upon innovative concepts. Mostt of our products are also protected by design registration."
+     },
+     {
+      "iClass": "bi bi-bar-chart-line icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We Craft Unique Play Experiences",
+      "pText": "All our products are crafted with play as the central character, emphasizing the importance of creating enjoyable experiences."
+     },
+     {
+      "iClass": "bi bi-megaphone icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We Develop Inhouse",
+      "pText": "Inhouse Roto Molding Plant, Tested and Certified Raw Materials, Weather proof and Corrosion Resistant Materials, Customization Options Available"
+     },
+     {
+      "iClass": "bi bi-gear icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We provide After-Sales Service",
+      "pText": "Post that we have an Annual Maintenance Contract (AMC) that includes servicing of moving parts, inspection of wooden parts, and refinishing if required."
+     },
+     {
+      "iClass": "bi bi-gear icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We Prioritize Safety and Quality",
+      "pText": "Our products meet the highest safety standards and undergo rigorous quality checks to ensure durability and reliability. We are committed to providing safe play environments for children of all ages."
+     },
+     {
+      "iClass": "bi bi-gear icon-extra-large text-gradient-emerald-blue-emerald-green mb-20px",
+      "spanText": "We Support Sustainable Practices",
+      "pText": "Our manufacturing processes incorporate eco-friendly practices, using recyclable materials and minimizing waste. We believe in contributing positively to the environment while delivering top-notch play equipment."
+     }
+    ],
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer & Supplier of Outdoor Play Equipment"
+      ]
+     }
+    ],
+    "aText": " Enquire Now"
+   }
+  }
+ ],
+ "h1": "Discover the Thrill of Outdoor Play",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Discover the Thrill of Outdoor Play",
+    "https://funplaysystems.com/outdoor-play-equipment.html"
+   ]
+  ]
+ }
+}

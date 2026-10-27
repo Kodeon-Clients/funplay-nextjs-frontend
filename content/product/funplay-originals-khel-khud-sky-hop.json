@@ -1,0 +1,771 @@
+{
+ "path": "/funplay-originals/khel-khud/sky-hop.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Sky Hop Hopping Posts | FunPlay Originals | FunPlay Systems",
+  "description": "Sky Hop Hopping Posts (FOKK09), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Sky Hop Hopping Posts | FunPlay Originals | FunPlay Systems",
+   "og:description": "Sky Hop Hopping Posts (FOKK09), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html",
+   "og:image": "https://funplaysystems.com/images/Sky-Hop.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Sky Hop Hopping Posts",
+ "data": {
+  "name": "Sky Hop",
+  "sku": "FOKK09",
+  "colours": [
+   {
+    "name": "Mineral & Sand beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #405057 50%,\n                    #f5caa0 50%\n                  );\n                ",
+    "images": [
+     "/images/Sky-Hop.jpg"
+    ],
+    "alts": [
+     "Sky Hop wooden crane-shaped hopping post with stepping pads"
+    ]
+   }
+  ],
+  "description": "Sky Hop gives the old seesaw a new action. Instead of sitting and bumping, a child holds the bars, pulls with their body weight and hops upward off the stepping pads. The frame is crane-shaped and finished in Mineral with Sand Beige. It suits ages 5 to 12 and is slim, with a product area of 11'3\" x 2' and a safe play area of 17'3\" x 6'. That narrow footprint lets it sit along a path or between larger play pieces. Hopping, hanging and jumping work on upper body strength, coordination, balance and body awareness. The structure carries a 3-year warranty on galvanised pipe and roto-moulded parts. Call us on +91 902 830 2266 and we will check whether it suits your age group.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Khel Khud",
+   "Sky Hop"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/khel-khud.html",
+  "image": "/images/Sky-Hop.jpg",
+  "cardImage": "/images/Sky-Hop.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Sky Hop ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Hopping Posts"
+      ]
+     }
+    ],
+    "pText": "FOKK09",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mineral & Sand beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #405057 50%,\n                    #f5caa0 50%\n                  );\n                ",
+       "images": [
+        "/images/Sky-Hop.jpg"
+       ],
+       "alts": [
+        "Sky Hop wooden crane-shaped hopping post with stepping pads"
+       ]
+      }
+     ],
+     "name": "Sky Hop"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Sky Hop wooden crane-shaped hopping post with stepping pads\"]",
+      "divDataImgs": "[\"/images/Sky-Hop.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #405057 50%, #f5caa0 50% )"
+      },
+      "divText": "",
+      "spanText": "Mineral & Sand beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/khel-khud.html"
+        },
+        "c": [
+         "Khel Khud"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Sky Hop"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Sky Hop gives the old seesaw a new action. Instead of sitting and bumping, a child holds the bars, pulls with their body weight and hops upward off the stepping pads. The frame is crane-shaped and finished in Mineral with Sand Beige. It suits ages 5 to 12 and is slim, with a product area of 11'3\" x 2' and a safe play area of 17'3\" x 6'. That narrow footprint lets it sit along a path or between larger play pieces. Hopping, hanging and jumping work on upper body strength, coordination, balance and body awareness. The structure carries a 3-year warranty on galvanised pipe and roto-moulded parts. Call us on +91 902 830 2266 and we will check whether it suits your age group."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/khel-khud/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Upper Body Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Proprioception"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Motor Skills"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Flexibility"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Sky Hop stepping pads",
+    "imgSrc": "/images/SkyHop-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "342.9 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "60.96 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Sky Hop is fixed self-standing or grouted, and because children push off hard, the base must be set firmly before use. Keep the 17'3\" x 6' zone clear at both ends and lay rubber flooring beneath the stepping pads. Moving parts such as bearings carry a 1-year warranty, so include them in routine checks.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Hopping",
+      "imgSrc": "/images/hoping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hopping"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Jumping",
+      "imgSrc": "/images/Jumping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Jumping"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Upper Body Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Proprioception"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Motor Skills"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Flexibility"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "11'3\" x 2'"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'3\" x 6'"
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Sky Hop Hopping Posts",
+    "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html"
+   ]
+  ],
+  "product": {
+   "name": "Sky Hop",
+   "sku": "FOKK09",
+   "images": [
+    "/images/Sky-Hop.jpg"
+   ],
+   "description": "Sky Hop gives the old seesaw a new action. Instead of sitting and bumping, a child holds the bars, pulls with their body weight and hops upward off the stepping pads. The frame is crane-shaped and finished in Mineral with Sand Beige. It suits ages 5 to 12 and is slim, with a product area of 11'3\" x 2' and a safe play area of 17'3\" x 6'. That narrow footprint lets it sit along a path or between larger play pieces. Hopping, hanging and jumping work on upper body strength, coordination, balance and body awareness. The structure carries a 3-year warranty on galvanised pipe and roto-moulded parts. Call us on +91 902 830 2266 and we will check whether it suits your age group.",
+   "category": "Hopping Posts",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/khel-khud.html",
+   "colours": [
+    "Mineral & Sand beige"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "17'3\" x 6'"
+    ],
+    [
+     "Length",
+     "342.9 cm"
+    ],
+    [
+     "Width",
+     "60.96 cm"
+    ],
+    [
+     "Activities",
+     "Hopping Hanging Jumping"
+    ],
+    [
+     "Colour options",
+     "Mineral & Sand beige"
+    ]
+   ]
+  }
+ }
+}

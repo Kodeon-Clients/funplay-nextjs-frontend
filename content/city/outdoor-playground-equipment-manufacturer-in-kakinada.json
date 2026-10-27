@@ -1,0 +1,329 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-kakinada.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Kakinada | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kakinada. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kakinada.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Kakinada | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kakinada. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kakinada.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Kakinada",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Kakinada"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Kakinada is a port city on the Godavari delta coast, with fertiliser plants, a planned layout and a hot, humid climate shaped by the Bay of Bengal. Schools, colleges, housing societies and municipal parks here ask us for playground equipment. FunPlay Systems makes it at our factory in Vasai, about 1,020 km away, and sends it to Andhra Pradesh by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Some schools and parks ask for play areas that children with disabilities can enjoy alongside their friends. A few simple choices make a big difference: a smooth path to the equipment, play panels at ground level and swings with proper support. Our design team can customise structures on request, so tell us about the children who will use the space. We will suggest pieces and a layout that let more of them join in."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Making a play area easier for every child to use",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Lay a firm, level path from the gate to the play area, with no steps, and run rubber flooring right up to it so a wheelchair or walker can reach the equipment. Choose some activities that work from the ground, such as play panels and low climbers. A mother-and-child swing lets a parent or carer swing together with a child who needs support. Keep quieter pieces away from busy ones for children who find crowds hard. In Kakinada's coastal air, galvanised frames resist rust."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "See our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/swing/mother-child-swing.html"
+           },
+           "c": [
+            "Mother Child Swing"
+           ]
+          },
+          " and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/wall-play.html"
+           },
+           "c": [
+            "Wall Play"
+           ]
+          },
+          " range, or ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-rajahmundry.html"
+           },
+           "c": [
+            "playground equipment in Rajahmundry"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Kakinada",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,020 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Kakinada",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-kakinada.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you plan a playground that children with disabilities can use?",
+       "a": "Yes. Tell us about the children who will use it. We suggest ground-level activities, supportive swings and a step-free path, and our design team can customise structures on request."
+      },
+      {
+       "q": "Which surface works for wheelchairs?",
+       "a": "Rubber flooring laid on a firm, level base gives a smooth surface that wheels can cross, unlike sand or loose soil. Join it to a step-free path from the gate."
+      },
+      {
+       "q": "Do you deliver to Kakinada?",
+       "a": "Yes. We send equipment from Vasai to Kakinada by road and install it through our own team or a dealer in Andhra Pradesh. We can also suggest pieces for a mixed group of children when you share their ages and needs."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Kakinada Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+    "aText": "Karnataka & Andhra Pradesh",
+    "spanText": "Kakinada",
+    "h2Text": "Playground equipment suppliers near Kakinada",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-rajahmundry.html"
+        },
+        "c": [
+         "Playground equipment in Rajahmundry"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tadepalligudem.html"
+        },
+        "c": [
+         "Playground equipment in Tadepalligudem"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhimavaram.html"
+        },
+        "c": [
+         "Playground equipment in Bhimavaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-eluru.html"
+        },
+        "c": [
+         "Playground equipment in Eluru"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html"
+        },
+        "c": [
+         "Playground equipment in Visakhapatnam"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Karnataka & Andhra Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Karnataka & Andhra Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Kakinada",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kakinada.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Kakinada",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Kakinada",
+    "state": "Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kakinada. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you plan a playground that children with disabilities can use?",
+    "Yes. Tell us about the children who will use it. We suggest ground-level activities, supportive swings and a step-free path, and our design team can customise structures on request."
+   ],
+   [
+    "Which surface works for wheelchairs?",
+    "Rubber flooring laid on a firm, level base gives a smooth surface that wheels can cross, unlike sand or loose soil. Join it to a step-free path from the gate."
+   ],
+   [
+    "Do you deliver to Kakinada?",
+    "Yes. We send equipment from Vasai to Kakinada by road and install it through our own team or a dealer in Andhra Pradesh. We can also suggest pieces for a mixed group of children when you share their ages and needs."
+   ]
+  ]
+ }
+}

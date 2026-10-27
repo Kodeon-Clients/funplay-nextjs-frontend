@@ -1,0 +1,333 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-kohima.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Kohima | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kohima. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kohima.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Kohima | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kohima. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kohima.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Kohima",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Kohima"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Very little flat land exists in Kohima. Schools, churches, colonies and offices in the Nagaland capital sit along ridges and slopes. A playground here usually has to be planned around a terrace or a cut in the hillside. FunPlay Systems designs and manufactures outdoor playground equipment at Vasai, near Mumbai, roughly 2,300 km away, and supplies sites across the north-east by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Because the distance is long, we spend more time on planning before anything is made. Send us photos of the site taken from a few angles, the measurements of the flat area you have and the age group of the children. We will suggest equipment that fits a terrace and mark the safe play area on a layout drawing. Installation is handled by our team or a dealer in the region."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Building a playground on a hillside site",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "On sloping ground, the play area must sit on a level, well-drained terrace with a retaining edge. Children must never run off a slide exit towards a drop, so we face slides into the site. The layout drawing shows the clear zone around each piece. Grouting into a concrete base suits most hill sites better than a self-standing installation."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Kohima is cool for much of the year and very wet from roughly May to September. Galvanised frames and roto-moulded parts handle rain and moss without rusting. ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/climber.html"
+           },
+           "c": [
+            "Climbers"
+           ]
+          },
+          " give children plenty of activity on a small footprint, and you can compare options on our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-nagaland.html"
+           },
+           "c": [
+            "Nagaland page"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Kohima",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 2,280 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Kohima",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-kohima.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you install playground equipment on a sloping site in Kohima?",
+       "a": "Yes, once you have a level terrace for the play area. We mark the safe zone on the layout drawing and usually recommend grouting the equipment into a concrete base on hill sites."
+      },
+      {
+       "q": "Is it practical to order from Vasai for a site in Nagaland?",
+       "a": "It is. We send equipment across India by road and install it with our own team or a regional dealer. Good photos and accurate measurements at the start help avoid changes later."
+      },
+      {
+       "q": "Which pieces suit a narrow terrace?",
+       "a": "Climbers, a single slide and spring riders take little width. A compact multi play system can also work if the terrace is deep enough for its safe play area."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Kohima Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-nagaland.html",
+    "aText": "Nagaland",
+    "spanText": "Kohima",
+    "h2Text": "Playground equipment suppliers near Kohima",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-imphal.html"
+        },
+        "c": [
+         "Playground equipment in Imphal"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jorhat.html"
+        },
+        "c": [
+         "Playground equipment in Jorhat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-silchar.html"
+        },
+        "c": [
+         "Playground equipment in Silchar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-itanagar.html"
+        },
+        "c": [
+         "Playground equipment in Itanagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tezpur.html"
+        },
+        "c": [
+         "Playground equipment in Tezpur"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Kohima? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-kohima.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Kohima"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-nagaland.html"
+        },
+        "c": [
+         "See all cities we serve in Nagaland"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Nagaland",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-nagaland.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Kohima",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kohima.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Kohima",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Kohima",
+    "state": "Nagaland"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kohima. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you install playground equipment on a sloping site in Kohima?",
+    "Yes, once you have a level terrace for the play area. We mark the safe zone on the layout drawing and usually recommend grouting the equipment into a concrete base on hill sites."
+   ],
+   [
+    "Is it practical to order from Vasai for a site in Nagaland?",
+    "It is. We send equipment across India by road and install it with our own team or a regional dealer. Good photos and accurate measurements at the start help avoid changes later."
+   ],
+   [
+    "Which pieces suit a narrow terrace?",
+    "Climbers, a single slide and spring riders take little width. A compact multi play system can also work if the terrace is deep enough for its safe play area."
+   ]
+  ]
+ }
+}

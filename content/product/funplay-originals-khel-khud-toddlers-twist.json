@@ -1,0 +1,717 @@
+{
+ "path": "/funplay-originals/khel-khud/toddlers-twist.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Toddlers Twist Indian Games Play Equipment | FunPlay Systems",
+  "description": "Toddlers Twist Indian Games Play Equipment (FOKK07), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud/toddlers-twist.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Toddlers Twist Indian Games Play Equipment | FunPlay Systems",
+   "og:description": "Toddlers Twist Indian Games Play Equipment (FOKK07), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud/toddlers-twist.html",
+   "og:image": "https://funplaysystems.com/images/Todlers-Twist-2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Toddlers Twist Indian Games Play Equipment",
+ "data": {
+  "name": "Toddlers Twist",
+  "sku": "FOKK07",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #3c6159 50%,\n                    #dd1366 50%\n                  );\n                ",
+    "images": [
+     "/images/Todlers-Twist-2.jpg",
+     "/images/Todlers-Twist.jpg",
+     "/images/Todlers-Twist-3.jpg"
+    ],
+    "alts": [
+     "Toddlers Twist toddler play cube in pink and green with slide, swing and climbing bars",
+     "Close view of Toddlers Twist green slide and red climbing bars",
+     "Toddlers Twist toddler play cube with green slide and swing on a pink safety surface"
+    ]
+   }
+  ],
+  "description": "Toddlers Twist is a play cube for the youngest group in a playground, ages 3 to 8. Inside one pink and green frame there is a green slide, a swing and red climbing bars, so small children can try three kinds of play without leaving the cube. The scale is kept low and the challenges are gentle. Its product area is 17'3\" x 12'11\", the safe play area is 22'3\" x 17'11\", and it takes up to 15 children. Climbing, sliding and swinging build balance and upper body strength in early years. Preschools, day-care centres and the toddler corner of a society park are the usual buyers. It carries a 3-year warranty on its main materials. Ask us for a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Khel Khud",
+   "Toddlers Twist"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/khel-khud.html",
+  "image": "/images/Todlers-Twist-2.jpg",
+  "cardImage": "/images/Todlers-Twist-2.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Toddlers Twist ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Indian Games Play Equipment"
+      ]
+     }
+    ],
+    "pText": "FOKK07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #3c6159 50%,\n                    #dd1366 50%\n                  );\n                ",
+       "images": [
+        "/images/Todlers-Twist-2.jpg",
+        "/images/Todlers-Twist.jpg",
+        "/images/Todlers-Twist-3.jpg"
+       ],
+       "alts": [
+        "Toddlers Twist toddler play cube in pink and green with slide, swing and climbing bars",
+        "Close view of Toddlers Twist green slide and red climbing bars",
+        "Toddlers Twist toddler play cube with green slide and swing on a pink safety surface"
+       ]
+      }
+     ],
+     "name": "Toddlers Twist"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Toddlers Twist toddler play cube in pink and green with slide, swing and climbing bars\", \"Close view of Toddlers Twist green slide and red climbing bars\", \"Toddlers Twist toddler play cube with green slide and swing on a pink safety surface\"]",
+      "divDataImgs": "[\"/images/Todlers-Twist-2.jpg\", \"/images/Todlers-Twist.jpg\", \"/images/Todlers-Twist-3.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #3c6159 50%, #dd1366 50% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/khel-khud.html"
+        },
+        "c": [
+         "Khel Khud"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Toddlers Twist"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Toddlers Twist is a play cube for the youngest group in a playground, ages 3 to 8. Inside one pink and green frame there is a green slide, a swing and red climbing bars, so small children can try three kinds of play without leaving the cube. The scale is kept low and the challenges are gentle. Its product area is 17'3\" x 12'11\", the safe play area is 22'3\" x 17'11\", and it takes up to 15 children. Climbing, sliding and swinging build balance and upper body strength in early years. Preschools, day-care centres and the toddler corner of a society park are the usual buyers. It carries a 3-year warranty on its main materials. Ask us for a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/khel-khud/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-8 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Upper Body Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Toddlers Twist play cube with slide",
+    "imgSrc": "/images/Toddlers-Twist-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "525.78 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "393.7 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Toddlers Twist uses galvanised pipe for the cube frame and roto-moulded parts for the slide and panels. It is installed self-standing or grouted. With toddlers on it, a soft surface across the whole 22'3\" x 17'11\" zone matters, as one installation shows on a pink safety surface. Check the swing fittings and bar grips often.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 8 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Upper Body Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'3\" x 12'11\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "22'3\" x 17'11\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Toddlers Twist Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/toddlers-twist.html"
+   ]
+  ],
+  "product": {
+   "name": "Toddlers Twist",
+   "sku": "FOKK07",
+   "images": [
+    "/images/Todlers-Twist-2.jpg",
+    "/images/Todlers-Twist.jpg",
+    "/images/Todlers-Twist-3.jpg"
+   ],
+   "description": "Toddlers Twist is a play cube for the youngest group in a playground, ages 3 to 8. Inside one pink and green frame there is a green slide, a swing and red climbing bars, so small children can try three kinds of play without leaving the cube. The scale is kept low and the challenges are gentle. Its product area is 17'3\" x 12'11\", the safe play area is 22'3\" x 17'11\", and it takes up to 15 children. Climbing, sliding and swinging build balance and upper body strength in early years. Preschools, day-care centres and the toddler corner of a society park are the usual buyers. It carries a 3-year warranty on its main materials. Ask us for a layout drawing.",
+   "category": "Indian Games Play Equipment",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/khel-khud.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 8 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "22'3\" x 17'11\""
+    ],
+    [
+     "Length",
+     "525.78 cm"
+    ],
+    [
+     "Width",
+     "393.7 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Swinging"
+    ],
+    [
+     "Skills developed",
+     "Balance Upper Body Strength"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

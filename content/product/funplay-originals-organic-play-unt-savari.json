@@ -1,0 +1,673 @@
+{
+ "path": "/funplay-originals/organic-play/unt-savari.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Unt Savari | FunPlay Originals | FunPlay Systems",
+  "description": "Unt Savari (FOO07), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Unt Savari | FunPlay Originals | FunPlay Systems",
+   "og:description": "Unt Savari (FOO07), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html",
+   "og:image": "https://funplaysystems.com/images/Unt-Savari-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Unt Savari",
+ "data": {
+  "name": "Unt Savari",
+  "sku": "FOO07",
+  "colours": [
+   {
+    "name": "Mango Yellow",
+    "swatch": "\n                  background: conic-gradient(\n                    #c58227 0% 33.33%,\n                    #c58227 33.33% 66.66%,\n                    #c58227 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Unt-Savari-1.jpg",
+     "/images/Unt-Savari-2.jpg"
+    ],
+    "alts": [
+     "Unt Savari camel-shaped spring rider in mango yellow",
+     "Side view of Unt Savari yellow camel spring rider"
+    ]
+   }
+  ],
+  "description": "Unt Savari is a camel spring rider in Mango Yellow that brings a desert ride into the play park. The hump at the back pops up as the camel rocks, which makes the ride feel closer to sitting on a real camel. It is designed for ages 3 to 8. The rider is small, with a product area of 3'9\" x 1'6\" and a safe play area of 7'9\" x 5'6\". Two or three can sit in a row beside a toddler area. Riding it builds imagination and creativity in the youngest children. Like Kukura, it comes from our Organic Play collection. The roto-moulded body has our 3-year warranty, and the spring has a 1-year warranty. Ask us for a drawing with riders placed on your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Unt Savari"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Unt-Savari-1.jpg",
+  "cardImage": "/images/Unt-Savari-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Unt Savari"
+    ],
+    "pText": "FOO07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mango Yellow",
+       "swatch": "\n                  background: conic-gradient(\n                    #c58227 0% 33.33%,\n                    #c58227 33.33% 66.66%,\n                    #c58227 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Unt-Savari-1.jpg",
+        "/images/Unt-Savari-2.jpg"
+       ],
+       "alts": [
+        "Unt Savari camel-shaped spring rider in mango yellow",
+        "Side view of Unt Savari yellow camel spring rider"
+       ]
+      }
+     ],
+     "name": "Unt Savari"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Unt Savari camel-shaped spring rider in mango yellow\", \"Side view of Unt Savari yellow camel spring rider\"]",
+      "divDataImgs": "[\"/images/Unt-Savari-1.jpg\", \"/images/Unt-Savari-2.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #c58227 0% 33.33%, #c58227 33.33% 66.66%, #c58227 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Mango Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Unt Savari"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Unt Savari is a camel spring rider in Mango Yellow that brings a desert ride into the play park. The hump at the back pops up as the camel rocks, which makes the ride feel closer to sitting on a real camel. It is designed for ages 3 to 8. The rider is small, with a product area of 3'9\" x 1'6\" and a safe play area of 7'9\" x 5'6\". Two or three can sit in a row beside a toddler area. Riding it builds imagination and creativity in the youngest children. Like Kukura, it comes from our Organic Play collection. The roto-moulded body has our 3-year warranty, and the spring has a 1-year warranty. Ask us for a drawing with riders placed on your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-8 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Interaction"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Creativity"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Unt Savari spring rider",
+    "imgSrc": "/images/Unt-Savari-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "114.3 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "45.72 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Unt Savari sits on a steel spring that is installed self-standing or grouted. Leave the full 7'9\" x 5'6\" zone clear, and do not place two riders so close that their safe zones overlap. The spring and moving hump should be checked at every service, since springs and moving parts carry a 1-year warranty.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 8 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Icon",
+      "imgSrc": "/images/riding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Riding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imagination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creativity"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3'9\" x 1'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "7'9\" x 5'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Unt Savari",
+    "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html"
+   ]
+  ],
+  "product": {
+   "name": "Unt Savari",
+   "sku": "FOO07",
+   "images": [
+    "/images/Unt-Savari-1.jpg",
+    "/images/Unt-Savari-2.jpg"
+   ],
+   "description": "Unt Savari is a camel spring rider in Mango Yellow that brings a desert ride into the play park. The hump at the back pops up as the camel rocks, which makes the ride feel closer to sitting on a real camel. It is designed for ages 3 to 8. The rider is small, with a product area of 3'9\" x 1'6\" and a safe play area of 7'9\" x 5'6\". Two or three can sit in a row beside a toddler area. Riding it builds imagination and creativity in the youngest children. Like Kukura, it comes from our Organic Play collection. The roto-moulded body has our 3-year warranty, and the spring has a 1-year warranty. Ask us for a drawing with riders placed on your site.",
+   "category": "Spring Rider",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Mango Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 8 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "7'9\" x 5'6\""
+    ],
+    [
+     "Length",
+     "114.3 cm"
+    ],
+    [
+     "Width",
+     "45.72 cm"
+    ],
+    [
+     "Activities",
+     "Riding"
+    ],
+    [
+     "Skills developed",
+     "Imagination Creativity"
+    ],
+    [
+     "Colour options",
+     "Mango Yellow"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "path": "/projects/st-andrews-school.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "St. Andrews High School, Telangana: School Playground | FunPlay",
+  "description": "Photos of the school playground FunPlay Systems designed and installed at St. Andrews High School in Telangana. Safe play equipment for students of all ages.",
+  "canonical": "https://funplaysystems.com/projects/st-andrews-school.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/GROOVY-Img.jpg",
+  "project": {
+   "title": "St. Andrews High School",
+   "location": "TELANGANA"
+  }
+ },
+ "sections": [
+  {
+   "component": "StAndrewsHighSchool",
+   "props": {
+    "h1Text": "St. Andrews High School",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "TELANGANA"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A school playground at St. Andrews High School in Telangana, built for learning, climbing and active breaks."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "items": [
+     {
+      "imgAlt": "Groovy rotating tepee net climber in red on a black round base",
+      "imgSrc": "/images/GROOVY-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/groovy.html",
+      "aText": " View Product ",
+      "spanText": "Groovy",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "2.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "8 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #1b1c1e 0% 33.33%, #3d110e 33.33% 66.66%, #fe3322 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Toss wooden see saw with mango yellow seats and tyre stops",
+      "imgSrc": "/images/TOSS-Img.jpg",
+      "aHref": "/nexlev-series/woody/toss.html",
+      "aText": " View Product ",
+      "spanText": "Toss",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "1.0M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "02 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #f6a74b 0% 33.33%, #5a2f1e 33.33% 66.66%, #86878b 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Teton wooden play tower with green roof, double slide and monkey bars",
+      "imgSrc": "/images/TETON-Img.jpg",
+      "aHref": "/nexlev-series/woody/teton.html",
+      "aText": " View Product ",
+      "spanText": "Teton",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "49.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "25 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #38572b 0% 33.33%, #c6ff50 33.33% 66.66%, #441f16 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Skuhoom wooden play frame with climbing walls, slide, swings and monkey bars",
+      "imgSrc": "/images/SKUHOOM-Img.jpg",
+      "aHref": "/nexlev-series/woody/skuhoom.html",
+      "aText": " View Product ",
+      "spanText": "Skuhoom",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "101.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "45 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #452111 0% 33.33%, #452111 33.33% 66.66%, #452111 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Hopping Pod set of colourful stepping pods on posts",
+      "imgSrc": "/images/hopping-pod-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/climber/hopping-pod.html",
+      "aText": " View Product ",
+      "spanText": "Hopping pod",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "0.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "St. Andrews High School",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "St. Andrews High School",
+    "https://funplaysystems.com/projects/st-andrews-school.html"
+   ]
+  ],
+  "project": {
+   "name": "St. Andrews High School",
+   "location": "TELANGANA"
+  }
+ }
+}

@@ -1,0 +1,226 @@
+{
+ "path": "/blog/school-playground-surface-materials-which-one-is-best.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Best School Playground Surface Materials in India",
+  "description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+  "canonical": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "Best School Playground Surface Materials in India",
+   "og:description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
+   "og:image": "https://funplaysystems.com/images/school-playground.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Best School Playground Surface Materials in India",
+   "twitter:description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+   "twitter:image": "https://funplaysystems.com/images/school-playground-cover.JPG"
+  }
+ },
+ "h1": "School Playground Surface Materials: Which One Is Best?",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/school-playground-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "09 June 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "School Playground Surface Materials: Which One Is Best?",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent",
+   "props": {
+    "article": {
+     "slug": "school-playground-surface-materials-which-one-is-best"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Playground Flooring"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "School Playgrounds India"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Rubber Tiles"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Artificial Grass"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Safe Play Surfaces"
+      ]
+     }
+    ],
+    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+    "imgSrc": "/images/g2.jpg",
+    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "11 October 2026"
+     }
+    ],
+    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc2": "/images/about_us2.jpg",
+    "imgAlt2": "Playground Design Ideas for Small Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc3": "/images/funplay-innovative-images.JPG",
+    "imgAlt3": "Blending Play Equipment with Green Spaces",
+    "items3": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "School Playground Surface Materials: Which One Is Best?",
+    "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html"
+   ]
+  ],
+  "article": {
+   "headline": "School Playground Surface Materials: Which One Is Best?",
+   "description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+   "image": "https://funplaysystems.com/images/school-playground.JPG",
+   "datePublished": "2025-06-09",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

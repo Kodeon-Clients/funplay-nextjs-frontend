@@ -1,0 +1,742 @@
+{
+ "path": "/funplay-originals/timeless-play/paheli.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paheli Play Structure | FunPlay Originals | FunPlay Systems",
+  "description": "Paheli Play Structure (FOTP03), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paheli Play Structure | FunPlay Originals | FunPlay Systems",
+   "og:description": "Paheli Play Structure (FOTP03), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html",
+   "og:image": "https://funplaysystems.com/images/Paheli-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paheli Play Structure",
+ "data": {
+  "name": "Paheli",
+  "sku": "FOTP03",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #cc5306 0% 20%,\n                    #dbd900 20% 40%,\n                    #584ba9 40% 60%,\n                    #2e85b3 60% 80%,\n                    #2d7eac 80% 100%\n                  );\n                ",
+    "images": [
+     "/images/Paheli-1.jpg",
+     "/images/Paheli-2.jpg"
+    ],
+    "alts": [
+     "Paheli puzzle-themed play structure with purple puzzle tower and two slides",
+     "Side view of Paheli with jigsaw-shaped climbers, yellow and orange slides"
+    ]
+   }
+  ],
+  "description": "Paheli is a puzzle-themed play structure where jigsaw pieces become the climbing route. A purple puzzle tower stands at the centre, puzzle-shaped climbers lead up its sides, and a huge puzzle piece at the back gives another way to the top. Two slides, one yellow and one orange, bring children down. Working out which piece to climb next builds problem solving and concentration. It is meant for ages 5 to 12 and takes up to 15 children. The product area is 21'7\" x 12'10\" and the safe play area is 27'7\" x 17'10\". Climbing, hanging and sliding also build upper body strength. It comes in a multi-colour finish. The structure has a 3-year warranty on its main materials. Send us your site photos.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Timeless Play",
+   "Paheli"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/timeless-play.html",
+  "image": "/images/Paheli-1.jpg",
+  "cardImage": "/images/Paheli-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paheli ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOTP03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #cc5306 0% 20%,\n                    #dbd900 20% 40%,\n                    #584ba9 40% 60%,\n                    #2e85b3 60% 80%,\n                    #2d7eac 80% 100%\n                  );\n                ",
+       "images": [
+        "/images/Paheli-1.jpg",
+        "/images/Paheli-2.jpg"
+       ],
+       "alts": [
+        "Paheli puzzle-themed play structure with purple puzzle tower and two slides",
+        "Side view of Paheli with jigsaw-shaped climbers, yellow and orange slides"
+       ]
+      }
+     ],
+     "name": "Paheli"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paheli puzzle-themed play structure with purple puzzle tower and two slides\", \"Side view of Paheli with jigsaw-shaped climbers, yellow and orange slides\"]",
+      "divDataImgs": "[\"/images/Paheli-1.jpg\", \"/images/Paheli-2.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #cc5306 0% 20%, #dbd900 20% 40%, #584ba9 40% 60%, #2e85b3 60% 80%, #2d7eac 80% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/timeless-play.html"
+        },
+        "c": [
+         "Timeless Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paheli"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paheli is a puzzle-themed play structure where jigsaw pieces become the climbing route. A purple puzzle tower stands at the centre, puzzle-shaped climbers lead up its sides, and a huge puzzle piece at the back gives another way to the top. Two slides, one yellow and one orange, bring children down. Working out which piece to climb next builds problem solving and concentration. It is meant for ages 5 to 12 and takes up to 15 children. The product area is 21'7\" x 12'10\" and the safe play area is 27'7\" x 17'10\". Climbing, hanging and sliding also build upper body strength. It comes in a multi-colour finish. The structure has a 3-year warranty on its main materials. Send us your site photos."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/timeless-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Concentration"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cognitive Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Upper Body Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Problem Solving"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paheli puzzle play structure",
+    "imgSrc": "/images/Paheli-Top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "657.86 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "391.16 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Paheli's puzzle climbers are composite and roto-moulded parts on a galvanised pipe frame. It is fixed self-standing or grouted. Children hang from the puzzle edges, so keep impact flooring beneath every climber, not only at the slides. Inspect the puzzle panel fixings and the two slide joints regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Concentration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitive Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Upper Body Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Problem Solving"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "21'7\" x 12'10\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "27'7\" x 17'10\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Timeless Play",
+    "https://funplaysystems.com/funplay-originals/timeless-play.html"
+   ],
+   [
+    "Paheli Play Structure",
+    "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html"
+   ]
+  ],
+  "product": {
+   "name": "Paheli",
+   "sku": "FOTP03",
+   "images": [
+    "/images/Paheli-1.jpg",
+    "/images/Paheli-2.jpg"
+   ],
+   "description": "Paheli is a puzzle-themed play structure where jigsaw pieces become the climbing route. A purple puzzle tower stands at the centre, puzzle-shaped climbers lead up its sides, and a huge puzzle piece at the back gives another way to the top. Two slides, one yellow and one orange, bring children down. Working out which piece to climb next builds problem solving and concentration. It is meant for ages 5 to 12 and takes up to 15 children. The product area is 21'7\" x 12'10\" and the safe play area is 27'7\" x 17'10\". Climbing, hanging and sliding also build upper body strength. It comes in a multi-colour finish. The structure has a 3-year warranty on its main materials. Send us your site photos.",
+   "category": "Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/timeless-play.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "27'7\" x 17'10\""
+    ],
+    [
+     "Length",
+     "657.86 cm"
+    ],
+    [
+     "Width",
+     "391.16 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Hanging Sliding"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

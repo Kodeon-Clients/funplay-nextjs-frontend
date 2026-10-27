@@ -1,0 +1,230 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-akola.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Akola | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Akola. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-akola.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Akola",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Akola",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Akola",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Akola, in western Vidarbha, has some of the hottest summer afternoons in Maharashtra. That single fact decides a lot about an open gym here. FunPlay Systems supplies outdoor gym equipment in Akola to municipal gardens, schools, colleges, housing societies and agricultural institutions. We manufacture the Fun Fitness range at our Vasai factory, about 450 km away, and install it by road through our team."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "In April and May, an outdoor gym in full sun stands empty from late morning until the evening. If you want people to use it, shade comes first. Place the machines under mature trees, beside a building that throws an afternoon shadow, or under a simple shade structure. Choose lighter colours for seats and footplates, since dark plastic heats up faster. Our 15+ roto-moulded colour shades give you room to pick. The frames are galvanised steel, which handles both the dry heat and the monsoon months that follow it."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Machines Akola walkers use in the early morning",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Early risers are the main users of any Vidarbha open gym, and many of them are middle-aged or older. Gentle, rhythmic machines suit them best. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/pendulum.html"
+           },
+           "c": [
+            "Pendulum"
+           ]
+          },
+          " swings the legs side to side and loosens the hips. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/tai-chi.html"
+           },
+           "c": [
+            "Tai Chi"
+           ]
+          },
+          " wheel works the shoulders and arms. A ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/seating-twister-single.html"
+           },
+           "c": [
+            "Seating Twister Single"
+           ]
+          },
+          " gives a seated waist twist. All three are low-impact and easy to learn without help. For gardens that also need a children's area, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-akola.html"
+           },
+           "c": [
+            "playground equipment in Akola"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Akola",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 450 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Maharashtra",
+       "value": "Raymond, Thane",
+       "href": "/projects/raymond-thane.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Akola",
+       "href": "/outdoor-playground-equipment-manufacturer-in-akola.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What is the best place for an outdoor gym in an Akola garden?",
+       "a": "The shadiest firm ground you have, close to the walking track. Morning shade matters most. Send us photos and a rough sketch of where trees and buildings are, and we will plan around them."
+      },
+      {
+       "q": "Can we choose colours for the machines?",
+       "a": "Yes. We offer 15+ roto-moulded colour shades. Lighter colours stay cooler in strong sun, so they are worth considering for seats and footplates in Akola."
+      },
+      {
+       "q": "Do you also supply playground equipment in Akola?",
+       "a": "Yes. Many gardens combine an open gym with a children's area. See our playground equipment in Akola page, or ask our sales team for a combined layout."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Akola Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Akola",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-akola.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Akola",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Akola",
+    "state": "Maharashtra"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Akola. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What is the best place for an outdoor gym in an Akola garden?",
+    "The shadiest firm ground you have, close to the walking track. Morning shade matters most. Send us photos and a rough sketch of where trees and buildings are, and we will plan around them."
+   ],
+   [
+    "Can we choose colours for the machines?",
+    "Yes. We offer 15+ roto-moulded colour shades. Lighter colours stay cooler in strong sun, so they are worth considering for seats and footplates in Akola."
+   ],
+   [
+    "Do you also supply playground equipment in Akola?",
+    "Yes. Many gardens combine an open gym with a children's area. See our playground equipment in Akola page, or ask our sales team for a combined layout."
+   ]
+  ]
+ }
+}

@@ -354,7 +354,7 @@ export default function DownloadPopup() {
                   <p className="fs-16 text-center text-md-start">We are committed to protecting your privacy. We will never collect information about you without your explicit consent.</p>
                 </div>
                 <div className="col-md-5 text-center text-md-end sm-mt-20px">
-                  <input type="text" name="website" tabIndex={-1} autoComplete="off" className="fp-hp" aria-hidden="true" />
+                  <div className="fp-hp" aria-hidden="true"><input type="text" name="website" tabIndex={-1} autoComplete="off" aria-label="Leave this field empty" /></div>
                   {step === "form" ? (
                     <button className="btn btn-dark" id="send-verify-button" type="submit" disabled={busy} aria-busy={busy || undefined}>
                       {busy ? "sending..." : "verify email"}

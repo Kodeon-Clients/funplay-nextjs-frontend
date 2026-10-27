@@ -1,0 +1,285 @@
+{
+ "path": "/corecraft.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "CoreCraft Playground Equipment Range | FunPlay Systems",
+  "description": "CoreCraft by FunPlay: themed multi play stations, slides, swings, climbers, spring riders, outdoor gym equipment and garden furniture.",
+  "canonical": "https://funplaysystems.com/corecraft.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "CoreCraft Playground Equipment Range | FunPlay Systems",
+   "og:description": "CoreCraft by FunPlay: themed multi play stations, slides, swings, climbers, spring riders, outdoor gym equipment and garden furniture.",
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/corecraft.html",
+   "og:image": "https://funplaysystems.com/images/Castle-Crest-thumb-image.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "CoreCraft Strength Redefined Playground Equipment",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "CoreCraft Playground Equipment Range | FunPlay Systems",
+   "twitter:description": "CoreCraft by FunPlay: themed multi play stations, slides, swings, climbers, spring riders, outdoor gym equipment and garden furniture.",
+   "twitter:image": "https://funplaysystems.com/images/CoreCraft-Cover-Image.jpg",
+   "twitter:image:alt": "CoreCraft Strength Redefined Playground Equipment"
+  }
+ },
+ "h1": "CoreCraft Playground Equipment",
+ "data": {
+  "cardImage": "/images/Castle-Crest-thumb-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "CorecraftPlaygroundEquipment",
+   "props": {
+    "h1Text": "CoreCraft Playground Equipment"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "h2Text": "Explore Our Durable CoreCraft Collections",
+    "pText": "Every piece in the CoreCraft series is engineered for strength and built to last, providing safe and engaging play experiences that stand the test of time.",
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-base-color me-10px",
+       "href": "/blog.html"
+      },
+      "c": [
+       "Read Our Blog"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-outline-dark-gray",
+       "href": "/contact-us.html"
+      },
+      "c": [
+       "Get Quote"
+      ]
+     }
+    ],
+    "items": [
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px position-relative z-index-1",
+      "aHref": "/corecraft/castle-crest.html",
+      "aAriaLabel": "Castle Crest",
+      "imgAlt": "Crown Court castle-themed play station with spire canopy and slide",
+      "imgClass": "w-100",
+      "imgSrc": "/images/Castle-Crest-thumb-image.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Castle Crest",
+      "pText": "Royal themed playground equipment for majestic adventures",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 sm-mb-30px position-relative z-index-1",
+      "aHref": "/corecraft/forestia.html",
+      "aAriaLabel": "Forestia",
+      "imgAlt": "Forestia jungle-themed play station with flower canopy, slide and swing",
+      "imgClass": "w-100",
+      "imgSrc": "/images/Forestia-thumb-image.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Forestia",
+      "pText": "Nature inspired playground equipment for outdoor adventures",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 position-relative z-index-1",
+      "aHref": "/corecraft/play-lands.html",
+      "aAriaLabel": "Play Lands",
+      "imgAlt": "Golden Hour orange and yellow play station, Play Lands series",
+      "imgClass": "w-100",
+      "imgSrc": "/images/Play-Lands-thumb-image.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Play Lands",
+      "pText": "Imaginative playground equipment for creative adventures",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mb-2 position-relative z-index-1",
+      "aHref": "/corecraft/robo-romp.html",
+      "aAriaLabel": "Robo Romp",
+      "imgAlt": "Dual Bot robot-themed play station in red and blue, Robo Romp series",
+      "imgClass": "w-100 h-100",
+      "imgSrc": "/images/Robo-Romp-img.png",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Robo Romp",
+      "pText": "Futuristic robotic themed playground equipment",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/corecraft/clown-capade.html",
+      "aAriaLabel": "Clown Capade",
+      "imgAlt": "Clown Capade circus-themed play station with jester-hat canopy",
+      "imgClass": "w-100",
+      "imgSrc": "/images/Clown-Cascade-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Clown Capade",
+      "pText": "Joyful circus themed playground equipment for happy adventures",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/corecraft/individual-equipment.html",
+      "aAriaLabel": "Individual Equipment",
+      "imgAlt": "Red and yellow straight tunnel slide, 5 ft height",
+      "imgClass": "w-100",
+      "imgSrc": "/images/slide5-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Individual Equipment",
+      "pText": "Customizable playground equipment to craft your own playground",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/corecraft/fun-fitness-equipment.html",
+      "aAriaLabel": "Fun Fitness Equipment",
+      "imgAlt": "Fun fitness outdoor gym station with orange seat",
+      "imgClass": "w-100",
+      "imgSrc": "/images/fun-fitness-equipment-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Fun Fitness Equipment",
+      "pText": "Active playground equipment for fitness and fun",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/corecraft/garden-decor.html",
+      "aAriaLabel": "Garden Decor",
+      "imgAlt": "Garden Decor swing seat with red canopy on a black steel frame",
+      "imgClass": "w-100",
+      "imgSrc": "/images/Garden-Decor-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Garden Decor",
+      "pText": "Elegant outdoor decorative structures for beautiful playgrounds",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft Playground Equipment",
+    "https://funplaysystems.com/corecraft.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Castle Crest Castle-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ],
+   [
+    "Clown Capade Circus-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/clown-capade.html"
+   ],
+   [
+    "Forestia Jungle-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "Outdoor Gym Equipment: Fun Fitness Range",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Garden Decor: Benches, Gazebos and Pergolas",
+    "https://funplaysystems.com/corecraft/garden-decor.html"
+   ],
+   [
+    "Individual Playground Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ],
+   [
+    "Play Lands Large Multi Play Stations",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Robo Romp Robot-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/robo-romp.html"
+   ]
+  ]
+ }
+}

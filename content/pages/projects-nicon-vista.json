@@ -1,0 +1,89 @@
+{
+ "path": "/projects/nicon-vista.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Nicon Vista, Mumbai: Society Playground Project | FunPlay",
+  "description": "Photos of the playground FunPlay Systems designed and installed for Nicon Vista, a residential project in Mumbai. Modern play units for a housing society.",
+  "canonical": "https://funplaysystems.com/projects/nicon-vista.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/Thrill-Trail-product-catalogue.jpg",
+  "project": {
+   "title": "Nicon Vista",
+   "location": "MUMBAI"
+  }
+ },
+ "sections": [
+  {
+   "component": "NiconVista",
+   "props": {
+    "h1Text": "Nicon Vista",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "MUMBAI"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A modern, child-friendly play zone for the residents of Nicon Vista in Mumbai."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "aText": " View Product ",
+    "spanText": "Thrill trail",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "143.1M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS"
+   }
+  }
+ ],
+ "h1": "Nicon Vista",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Nicon Vista",
+    "https://funplaysystems.com/projects/nicon-vista.html"
+   ]
+  ],
+  "project": {
+   "name": "Nicon Vista",
+   "location": "MUMBAI"
+  }
+ }
+}

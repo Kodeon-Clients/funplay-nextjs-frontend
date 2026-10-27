@@ -1,0 +1,230 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-chandigarh.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Chandigarh | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Chandigarh. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-chandigarh.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Chandigarh | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Chandigarh. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-chandigarh.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Chandigarh",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Chandigarh"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems designs and builds outdoor playground equipment for Chandigarh's sector parks, schools, residents' welfare associations and group housing societies. The city was planned with a park in nearly every sector, which gives children more open space than most Indian cities. The question for most buyers is which equipment will hold up to daily use and both of the city's extreme seasons."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We make everything at our 45,000 sq ft factory in Vasai, Maharashtra, and send it to Chandigarh by road. Our team or a dealer in north India installs it, self-standing or grouted. We also cover the rest of the tricity, including Panchkula and Mohali, where newer societies plan a play area beside the clubhouse. Send us the size of your park or garden, the age group of the children and a few photos. We will then suggest equipment and draw a layout with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Planning a sector park playground",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Chandigarh summers are hot and dry, and winter brings fog and near-freezing mornings. Galvanised steel and roto-moulded plastic cope with both, and they keep their colour well. Place slides so they do not face the afternoon sun, and keep the play area near the path but away from parking."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Most sector parks are used by children of very different ages, so split the space. A ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands/tiny-tot.html"
+           },
+           "c": [
+            "Tiny Tot"
+           ]
+          },
+          " station or spring riders suit toddlers, while older children want a multi play system with climbers, such as one from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/castle-crest.html"
+           },
+           "c": [
+            "Castle Crest"
+           ]
+          },
+          " range. Panchkula buyers can see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-panchkula.html"
+           },
+           "c": [
+            "playground page for Panchkula"
+           ]
+          },
+          ", and for adults see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-chandigarh.html"
+           },
+           "c": [
+            "outdoor gym equipment in Chandigarh"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Chandigarh",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Chandigarh",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-chandigarh.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can a residents' welfare association buy playground equipment directly?",
+       "a": "Yes. Associations deal with us directly. Share the park size and photos, approve the layout and quote, and we manufacture, dispatch and install the equipment."
+      },
+      {
+       "q": "How should a park playground be split between toddlers and older children?",
+       "a": "Keep a separate zone for children under five, with low equipment such as spring riders and small slides. Older children get the taller structures, with enough clear space between the two zones."
+      },
+      {
+       "q": "Do you install playgrounds in Mohali?",
+       "a": "Yes. Mohali, Panchkula and Zirakpur are all covered. Equipment comes by road from our Vasai factory and is installed by our own team or a dealer close to the tricity."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Chandigarh Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn2",
+   "props": {
+    "aText": "Home",
+    "text": " › ",
+    "aText2": "Our Network",
+    "text2": " › ",
+    "spanText": "Chandigarh",
+    "h2Text": "Cities we supply in Chandigarh"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Chandigarh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-chandigarh.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Chandigarh",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Chandigarh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Chandigarh. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can a residents' welfare association buy playground equipment directly?",
+    "Yes. Associations deal with us directly. Share the park size and photos, approve the layout and quote, and we manufacture, dispatch and install the equipment."
+   ],
+   [
+    "How should a park playground be split between toddlers and older children?",
+    "Keep a separate zone for children under five, with low equipment such as spring riders and small slides. Older children get the taller structures, with enough clear space between the two zones."
+   ],
+   [
+    "Do you install playgrounds in Mohali?",
+    "Yes. Mohali, Panchkula and Zirakpur are all covered. Equipment comes by road from our Vasai factory and is installed by our own team or a dealer close to the tricity."
+   ]
+  ]
+ }
+}

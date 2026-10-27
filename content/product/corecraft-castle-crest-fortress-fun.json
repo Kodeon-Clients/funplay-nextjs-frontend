@@ -1,0 +1,725 @@
+{
+ "path": "/corecraft/castle-crest/fortress-fun.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fortress Fun Castle Multi Play Station | CoreCraft | FunPlay",
+  "description": "Fortress Fun Castle Multi Play Station (CASMPFS03) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fortress Fun Castle Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Fortress Fun Castle Multi Play Station (CASMPFS03) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html",
+   "og:image": "https://funplaysystems.com/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fortress Fun Castle Multi Play Station",
+ "data": {
+  "name": "Fortress Fun",
+  "sku": "CASMPFS03",
+  "colours": [
+   {
+    "name": "Cherry Red & Baby Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb0e0e 50%,\n                    #79c4d9 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+     "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg"
+    ],
+    "alts": [
+     "Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall",
+     "Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall"
+    ]
+   },
+   {
+    "name": "Mnago Yellow & Forst Green",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c98c0f 50%,\n                    #3a6e69 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg",
+     "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg"
+    ],
+    "alts": [
+     "Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets",
+     "Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets"
+    ]
+   },
+   {
+    "name": "Baby Blue & Knight Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #212c55 50%,\n                    #7bc4d9 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-Crest-Fortress-Fun-Blue-1-product-image.jpg",
+     "/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg"
+    ],
+    "alts": [
+     "Fortress Fun castle playground in baby blue and knight blue with tube slide and twin towers",
+     "Top view of Fortress Fun castle playground layout with two towers, slides and activity arms"
+    ]
+   }
+  ],
+  "description": "Fortress Fun is a twin-tower castle with a tube slide and a climbing wall. It comes in three colour pairs: Cherry Red and Baby Blue, Mango Yellow and Forest Green, or Baby Blue and Knight Blue. That choice helps if you want the play area to match a building facade or a school's colours. It is built for children aged 3 to 12, so younger and older siblings can use it together, with play focused on climbing and sliding. The footprint is close to square at 25'5\" x 25'2\", and it needs a safe play area of 30'5\" x 30'2\". Capacity is listed as 15 children. The galvanised pipes, roto-moulded parts, composite laminates and play rope on Fortress Fun are covered for 3 years. Ask us for a layout drawing in the colour pair you prefer.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Castle Crest",
+   "Fortress Fun"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/castle-crest.html",
+  "image": "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+  "cardImage": "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fortress Fun ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Castle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "CASMPFS03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Cherry Red & Baby Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb0e0e 50%,\n                    #79c4d9 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+        "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg"
+       ],
+       "alts": [
+        "Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall",
+        "Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall"
+       ]
+      },
+      {
+       "name": "Mnago Yellow & Forst Green",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c98c0f 50%,\n                    #3a6e69 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg",
+        "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg"
+       ],
+       "alts": [
+        "Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets",
+        "Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets"
+       ]
+      },
+      {
+       "name": "Baby Blue & Knight Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #212c55 50%,\n                    #7bc4d9 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-Crest-Fortress-Fun-Blue-1-product-image.jpg",
+        "/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg"
+       ],
+       "alts": [
+        "Fortress Fun castle playground in baby blue and knight blue with tube slide and twin towers",
+        "Top view of Fortress Fun castle playground layout with two towers, slides and activity arms"
+       ]
+      }
+     ],
+     "name": "Fortress Fun"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall\", \"Fortress Fun castle playground in cherry red and baby blue with tube slide, twin towers and climbing wall\"]",
+      "divDataImgs": "[\"/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg\", \"/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #bb0e0e 50%, #79c4d9 50% )"
+      },
+      "divText": "",
+      "spanText": "Cherry Red & Baby Blue"
+     },
+     {
+      "divDataAlts": "[\"Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets\", \"Fortress Fun castle playground in mango yellow and forest green with tube slide and twin turrets\"]",
+      "divDataImgs": "[\"/images/castle-Crest-Fortress-Fun-Green-product-image.jpg\", \"/images/castle-Crest-Fortress-Fun-Green-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #c98c0f 50%, #3a6e69 50% )"
+      },
+      "divText": "",
+      "spanText": "Mnago Yellow & Forst Green"
+     },
+     {
+      "divDataAlts": "[\"Fortress Fun castle playground in baby blue and knight blue with tube slide and twin towers\", \"Top view of Fortress Fun castle playground layout with two towers, slides and activity arms\"]",
+      "divDataImgs": "[\"/images/castle-Crest-Fortress-Fun-Blue-1-product-image.jpg\", \"/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #212c55 50%, #7bc4d9 50% )"
+      },
+      "divText": "",
+      "spanText": "Baby Blue & Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/castle-crest.html"
+        },
+        "c": [
+         "Castle Crest"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fortress Fun"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Fortress Fun is a twin-tower castle with a tube slide and a climbing wall. It comes in three colour pairs: Cherry Red and Baby Blue, Mango Yellow and Forest Green, or Baby Blue and Knight Blue. That choice helps if you want the play area to match a building facade or a school's colours. It is built for children aged 3 to 12, so younger and older siblings can use it together, with play focused on climbing and sliding. The footprint is close to square at 25'5\" x 25'2\", and it needs a safe play area of 30'5\" x 30'2\". Capacity is listed as 15 children. The galvanised pipes, roto-moulded parts, composite laminates and play rope on Fortress Fun are covered for 3 years. Ask us for a layout drawing in the colour pair you prefer."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/castle-crest/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Fortress Fun castle playground",
+    "imgSrc": "/images/Fortress-Fun.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "774.7 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "767.08 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Fortress Fun is a larger structure, so most sites will need it grouted rather than self-standing; we decide this after seeing your ground. The towers are galvanised pipe with roto-moulded slide and wall panels. A square safe zone of about 30' on each side should stay free of trees, benches and drain covers, with an impact-absorbing surface throughout.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "25'5\" x 25'2\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30'5\" x 30'2\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Castle Crest",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ],
+   [
+    "Fortress Fun Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html"
+   ]
+  ],
+  "product": {
+   "name": "Fortress Fun",
+   "sku": "CASMPFS03",
+   "images": [
+    "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+    "/images/castle-Crest-Fortress-Fun-Pink-product-image.jpg",
+    "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg",
+    "/images/castle-Crest-Fortress-Fun-Green-product-image.jpg",
+    "/images/castle-Crest-Fortress-Fun-Blue-1-product-image.jpg",
+    "/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg"
+   ],
+   "description": "Fortress Fun is a twin-tower castle with a tube slide and a climbing wall. It comes in three colour pairs: Cherry Red and Baby Blue, Mango Yellow and Forest Green, or Baby Blue and Knight Blue. That choice helps if you want the play area to match a building facade or a school's colours. It is built for children aged 3 to 12, so younger and older siblings can use it together, with play focused on climbing and sliding. The footprint is close to square at 25'5\" x 25'2\", and it needs a safe play area of 30'5\" x 30'2\". Capacity is listed as 15 children. The galvanised pipes, roto-moulded parts, composite laminates and play rope on Fortress Fun are covered for 3 years. Ask us for a layout drawing in the colour pair you prefer.",
+   "category": "Castle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/castle-crest.html",
+   "colours": [
+    "Cherry Red & Baby Blue",
+    "Mnago Yellow & Forst Green",
+    "Baby Blue & Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "30'5\" x 30'2\""
+    ],
+    [
+     "Length",
+     "774.7 cm"
+    ],
+    [
+     "Width",
+     "767.08 cm"
+    ]
+   ]
+  }
+ }
+}

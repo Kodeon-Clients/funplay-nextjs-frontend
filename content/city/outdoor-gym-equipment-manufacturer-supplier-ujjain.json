@@ -1,0 +1,231 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-ujjain.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Ujjain | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Ujjain. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-ujjain.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Ujjain",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Ujjain",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Ujjain",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Ujjain is one of India's oldest pilgrimage cities, on the Kshipra river in the Malwa region, and its ghats, temple surroundings and city gardens see crowds from early morning. FunPlay Systems is an outdoor gym equipment supplier in Ujjain for municipal gardens, schools, colleges, temple trusts, government campuses and residential colonies. Our factory in Vasai, Maharashtra, is about 520 km away, so the machines reach Madhya Pradesh by road over a fairly short distance."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Malwa summers are hot and dry, the monsoon is moderate and winter mornings are pleasantly cool. That makes the cooler months and the early hours the busiest time for any outdoor gym. We suggest machines for the people who will use them, send a layout drawing with the clear space marked, and install with our team or a dealer in central India. Grouted bases suit the black cotton soil here better than loose footing."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Building on black cotton soil",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Black cotton soil swells when wet and shrinks and cracks in summer. A frame set straight into it can tilt over a few seasons. We recommend a proper concrete pad with grouted posts, laid on a compacted base, so the movement of the soil does not reach the machines."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For a riverside garden or temple trust ground, the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/standing-twister-single.html"
+           },
+           "c": [
+            "Standing Twister Single"
+           ]
+          },
+          " and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html"
+           },
+           "c": [
+            "Seating Twister Cum Tai Chi"
+           ]
+          },
+          " give gentle movement for older visitors. A ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/step-trainer.html"
+           },
+           "c": [
+            "Step Trainer"
+           ]
+          },
+          " suits younger walkers. For the children's area, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-ujjain.html"
+           },
+           "c": [
+            "playground equipment in Ujjain"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Ujjain",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 520 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Ujjain",
+       "href": "/outdoor-playground-equipment-manufacturer-in-ujjain.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Why does black cotton soil need a concrete pad?",
+       "a": "It expands when wet and shrinks when dry, which can tilt posts set directly in the ground. A compacted base and concrete pad with grouted posts keeps the machines level."
+      },
+      {
+       "q": "Can a temple trust in Ujjain set up an open gym?",
+       "a": "Yes. A few low-impact machines in a shaded, quiet part of the trust's land suit older devotees and local residents. We plan the layout away from crowd routes."
+      },
+      {
+       "q": "How far is Ujjain from your factory?",
+       "a": "About 520 km. We manufacture in Vasai, Maharashtra, and send the order by road, then install through our team or a dealer in central India."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Ujjain Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Ujjain",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-ujjain.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Ujjain",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Ujjain",
+    "state": "Madhya Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Ujjain. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Why does black cotton soil need a concrete pad?",
+    "It expands when wet and shrinks when dry, which can tilt posts set directly in the ground. A compacted base and concrete pad with grouted posts keeps the machines level."
+   ],
+   [
+    "Can a temple trust in Ujjain set up an open gym?",
+    "Yes. A few low-impact machines in a shaded, quiet part of the trust's land suit older devotees and local residents. We plan the layout away from crowd routes."
+   ],
+   [
+    "How far is Ujjain from your factory?",
+    "About 520 km. We manufacture in Vasai, Maharashtra, and send the order by road, then install through our team or a dealer in central India."
+   ]
+  ]
+ }
+}

@@ -44,7 +44,7 @@ export default function Footer() {
               <form action="/api/newsletter" method="post" className="position-relative w-100" data-fp-form="newsletter" noValidate>
                 <label htmlFor="footer-newsletter-email" className="visually-hidden">Email address</label>
                 <input id="footer-newsletter-email" className="input-small bg-transparent-white-light fs-14 border-color-transparent w-100 form-control pe-50px ps-20px lg-ps-15px required" type="email" name="email" placeholder="Enter your email" required maxLength={120} autoComplete="email" />
-                <input type="text" name="website" tabIndex={-1} autoComplete="off" className="fp-hp" aria-hidden="true" />
+                <div className="fp-hp" aria-hidden="true"><input type="text" name="website" tabIndex={-1} autoComplete="off" aria-label="Leave this field empty" /></div>
                 <button className="btn pe-20px submit" aria-label="Subscribe" type="submit"><i className="icon bi bi-envelope icon-small text-dark-gray"></i></button>
                 <div className="form-results border-radius-4px pt-5px pb-5px ps-15px pe-15px fs-14 lh-22 mt-10px w-100 text-center position-absolute d-none" role="status" aria-live="polite"></div>
               </form>

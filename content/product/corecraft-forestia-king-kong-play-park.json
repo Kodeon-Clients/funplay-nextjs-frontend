@@ -1,0 +1,724 @@
+{
+ "path": "/corecraft/forestia/king-kong-play-park.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "King Kong Play Park Jungle Multi Play Station | FunPlay",
+  "description": "King Kong Play Park Jungle Multi Play Station (F0RMPFS05) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "King Kong Play Park Jungle Multi Play Station | FunPlay",
+   "og:description": "King Kong Play Park Jungle Multi Play Station (F0RMPFS05) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html",
+   "og:image": "https://funplaysystems.com/images/King-Kong-Play-Park-1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "King Kong Play Park Jungle Multi Play Station",
+ "data": {
+  "name": "King Kong Play Park",
+  "sku": "F0RMPFS05",
+  "colours": [
+   {
+    "name": "Forest Green & Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #417c72 50%,\n                    #bfae93 50%\n                  );\n                ",
+    "images": [
+     "/images/King-Kong-Play-Park-1-product-image.jpg",
+     "/images/King-Kong-Play-Park-2-product-image.jpg",
+     "/images/King-Kong-Play-Park-3-product-image.jpg",
+     "/images/King-Kong-Play-Park-4-product-image.jpg"
+    ],
+    "alts": [
+     "King Kong Play Park large jungle-themed playground in forest green with towers, tube slides and bridges",
+     "Top view of King Kong Play Park showing central tower with radiating slides and bridges",
+     "King Kong Play Park jungle playground with central tower, climbing walls, nets and tube slides",
+     "Aerial view of King Kong Play Park jungle-themed play park on a circular safety surface"
+    ]
+   }
+  ],
+  "description": "King Kong Play Park is the biggest structure in our Forestia series. A central tower in Forest Green and Sand Beige carries tube slides and bridges outward in several directions, with climbing walls and nets around it. The aerial view shows it on a circular safety surface, which is how we suggest laying it out. Children aged 3 to 12 can climb, slide, balance, hop and crawl across it, so a whole class or a crowd at a park can use it together. The product area is 50'1\" x 42'5\" and the safe play area is 56'1\" x 48'5\". Capacity is listed as 15 children. King Kong Play Park has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Talk to us about it for a municipal park, resort or large township.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Forestia",
+   "King Kong Play Park/li>"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/forestia.html",
+  "image": "/images/King-Kong-Play-Park-1-product-image.jpg",
+  "cardImage": "/images/King-Kong-Play-Park-1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "King Kong Play Park ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Jungle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "F0RMPFS05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Forest Green & Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #417c72 50%,\n                    #bfae93 50%\n                  );\n                ",
+       "images": [
+        "/images/King-Kong-Play-Park-1-product-image.jpg",
+        "/images/King-Kong-Play-Park-2-product-image.jpg",
+        "/images/King-Kong-Play-Park-3-product-image.jpg",
+        "/images/King-Kong-Play-Park-4-product-image.jpg"
+       ],
+       "alts": [
+        "King Kong Play Park large jungle-themed playground in forest green with towers, tube slides and bridges",
+        "Top view of King Kong Play Park showing central tower with radiating slides and bridges",
+        "King Kong Play Park jungle playground with central tower, climbing walls, nets and tube slides",
+        "Aerial view of King Kong Play Park jungle-themed play park on a circular safety surface"
+       ]
+      }
+     ],
+     "name": "King Kong Play Park"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"King Kong Play Park large jungle-themed playground in forest green with towers, tube slides and bridges\", \"Top view of King Kong Play Park showing central tower with radiating slides and bridges\", \"King Kong Play Park jungle playground with central tower, climbing walls, nets and tube slides\", \"Aerial view of King Kong Play Park jungle-themed play park on a circular safety surface\"]",
+      "divDataImgs": "[\"/images/King-Kong-Play-Park-1-product-image.jpg\", \"/images/King-Kong-Play-Park-2-product-image.jpg\", \"/images/King-Kong-Play-Park-3-product-image.jpg\", \"/images/King-Kong-Play-Park-4-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #417c72 50%, #bfae93 50% )"
+      },
+      "divText": "",
+      "spanText": "Forest Green & Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/forestia.html"
+        },
+        "c": [
+         "Forestia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "King Kong Play Park/li>"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "King Kong Play Park is the biggest structure in our Forestia series. A central tower in Forest Green and Sand Beige carries tube slides and bridges outward in several directions, with climbing walls and nets around it. The aerial view shows it on a circular safety surface, which is how we suggest laying it out. Children aged 3 to 12 can climb, slide, balance, hop and crawl across it, so a whole class or a crowd at a park can use it together. The product area is 50'1\" x 42'5\" and the safe play area is 56'1\" x 48'5\". Capacity is listed as 15 children. King Kong Play Park has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Talk to us about it for a municipal park, resort or large township."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/forestia/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hopping"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Crawling"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of King Kong Play Park layout",
+    "imgSrc": "/images/King-Kong-Play-Park.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1526.54 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1292.86 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "A play park of this size is grouted on a prepared base, with the safe zone of 56'1\" x 48'5\" covered in rubber flooring. It uses galvanised pipe, roto-moulded tube slides, composite laminate walls and play rope nets. Plan maintenance access around the edge and check bridges, nets and slide joints on a set schedule.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hopping",
+      "imgSrc": "/images/hoping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hopping"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "50'1\" x 42'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "56'1\" x 48'5\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "King Kong Play Park Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html"
+   ]
+  ],
+  "product": {
+   "name": "King Kong Play Park",
+   "sku": "F0RMPFS05",
+   "images": [
+    "/images/King-Kong-Play-Park-1-product-image.jpg",
+    "/images/King-Kong-Play-Park-2-product-image.jpg",
+    "/images/King-Kong-Play-Park-3-product-image.jpg",
+    "/images/King-Kong-Play-Park-4-product-image.jpg"
+   ],
+   "description": "King Kong Play Park is the biggest structure in our Forestia series. A central tower in Forest Green and Sand Beige carries tube slides and bridges outward in several directions, with climbing walls and nets around it. The aerial view shows it on a circular safety surface, which is how we suggest laying it out. Children aged 3 to 12 can climb, slide, balance, hop and crawl across it, so a whole class or a crowd at a park can use it together. The product area is 50'1\" x 42'5\" and the safe play area is 56'1\" x 48'5\". Capacity is listed as 15 children. King Kong Play Park has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Talk to us about it for a municipal park, resort or large township.",
+   "category": "Jungle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/forestia.html",
+   "colours": [
+    "Forest Green & Sand Beige"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "56'1\" x 48'5\""
+    ],
+    [
+     "Length",
+     "1526.54 cm"
+    ],
+    [
+     "Width",
+     "1292.86 cm"
+    ],
+    [
+     "Colour options",
+     "Forest Green & Sand Beige"
+    ]
+   ]
+  }
+ }
+}

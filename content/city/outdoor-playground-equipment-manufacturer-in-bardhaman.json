@@ -1,0 +1,339 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-bardhaman.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Bardhaman | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bardhaman. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bardhaman.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Bardhaman | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bardhaman. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bardhaman.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Bardhaman",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Bardhaman"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Bardhaman is a university town in the middle of one of West Bengal's main rice-growing districts. Its schools, colleges and residential neighbourhoods have more open ground than the Kolkata suburbs, and buyers here often ask for something different from the usual swing-and-slide set. FunPlay Systems makes outdoor playground equipment at our Vasai factory, about 1,610 km away, and delivers it by road for installation by our team or a dealer."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Our own design team created the Funplay Originals range, and several of its collections draw on games Indian children have always played. A school can put a familiar game like hopscotch or a board game into a sturdy outdoor structure, with no instructions needed. These pieces get groups of children playing together, which teachers usually want during break time. We also make the standard CoreCraft pieces, so a school can mix both on one layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Play equipment based on Indian games",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " collection turns traditional games into outdoor play stations, and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/timeless-play.html"
+           },
+           "c": [
+            "Timeless Play"
+           ]
+          },
+          " range includes structures such as ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/timeless-play/chausar.html"
+           },
+           "c": [
+            "Chausar"
+           ]
+          },
+          ". Children recognise these games, so they start playing straight away, and older students often join in."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Bardhaman's summers are hot and the monsoon is heavy, so plan the base well. A raised, sloped area with rubber flooring keeps the ground usable after rain. If you have an open ground beside the school building, we can place a group game structure where teachers can watch from the corridor. See our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-bardhaman.html"
+           },
+           "c": [
+            "outdoor gym equipment in Bardhaman"
+           ]
+          },
+          " for staff and parents."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Bardhaman",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,610 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Bardhaman",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-bardhaman.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What are Funplay Originals?",
+       "a": "Play structures designed by our own team, many inspired by Indian games and nature. They are made at our Vasai factory with the same materials and warranty as our CoreCraft range."
+      },
+      {
+       "q": "Can a school mix Originals and standard equipment?",
+       "a": "Yes. Many schools pair one Originals structure with swings, slides and see-saws from CoreCraft. We plan all the pieces on one layout drawing with the safe play area marked."
+      },
+      {
+       "q": "Do you install playground equipment in Bardhaman?",
+       "a": "Yes. We send the equipment by road from Vasai and install it with our team or a West Bengal dealer, grouted or self-standing depending on the ground."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Bardhaman Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-westbengal.html",
+    "aText": "West Bengal",
+    "spanText": "Bardhaman",
+    "h2Text": "Playground equipment suppliers near Bardhaman",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-durgapur.html"
+        },
+        "c": [
+         "Playground equipment in Durgapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-chinsurah.html"
+        },
+        "c": [
+         "Playground equipment in Chinsurah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-naihati.html"
+        },
+        "c": [
+         "Playground equipment in Naihati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhatpara.html"
+        },
+        "c": [
+         "Playground equipment in Bhatpara"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-serampore.html"
+        },
+        "c": [
+         "Playground equipment in Serampore"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-westbengal.html"
+        },
+        "c": [
+         "See all cities we serve in West Bengal"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "West Bengal",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-westbengal.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Bardhaman",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bardhaman.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Bardhaman",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Bardhaman",
+    "state": "West Bengal"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bardhaman. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What are Funplay Originals?",
+    "Play structures designed by our own team, many inspired by Indian games and nature. They are made at our Vasai factory with the same materials and warranty as our CoreCraft range."
+   ],
+   [
+    "Can a school mix Originals and standard equipment?",
+    "Yes. Many schools pair one Originals structure with swings, slides and see-saws from CoreCraft. We plan all the pieces on one layout drawing with the safe play area marked."
+   ],
+   [
+    "Do you install playground equipment in Bardhaman?",
+    "Yes. We send the equipment by road from Vasai and install it with our team or a West Bengal dealer, grouted or self-standing depending on the ground."
+   ]
+  ]
+ }
+}

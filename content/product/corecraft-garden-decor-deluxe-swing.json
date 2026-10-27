@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/deluxe-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Deluxe Swing | CoreCraft | FunPlay Systems",
+  "description": "Deluxe Swing (FPGD012) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/deluxe-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Deluxe Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Deluxe Swing (FPGD012) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/deluxe-swing.html",
+   "og:image": "https://funplaysystems.com/images/deluxe-swing-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Deluxe Swing",
+ "data": {
+  "name": "Deluxe Swing",
+  "sku": "FPGD012",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/deluxe-swing-product-image.jpg"
+    ],
+    "alts": [
+     "Deluxe Swing garden swing seat for two with red canopy and steel frame"
+    ]
+   }
+  ],
+  "description": "Families who sit out in the evening usually head for a covered swing first, and the Deluxe Swing is made for that. A wooden-slat seat for two hangs on chains from a black steel frame, with a red canopy overhead against sun and light rain. At each side the frame curves outward into low rails, which give a handhold when getting on or off. It suits society gardens, resort lawns, farmhouses and the parents' corner beside a play area. The Deluxe Swing is part of our CoreCraft garden decor range and is listed in Sand Beige. We confirm its size and warranty terms with each quote. Send us a photo of the spot and we will mark it on a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Deluxe Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/deluxe-swing-product-image.jpg",
+  "cardImage": "/images/deluxe-swing-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Deluxe Swing"
+    ],
+    "pText": "FPGD012",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/deluxe-swing-product-image.jpg"
+       ],
+       "alts": [
+        "Deluxe Swing garden swing seat for two with red canopy and steel frame"
+       ]
+      }
+     ],
+     "name": "Deluxe Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Deluxe Swing garden swing seat for two with red canopy and steel frame\"]",
+      "divDataImgs": "[\"/images/deluxe-swing-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Deluxe Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Families who sit out in the evening usually head for a covered swing first, and the Deluxe Swing is made for that. A wooden-slat seat for two hangs on chains from a black steel frame, with a red canopy overhead against sun and light rain. At each side the frame curves outward into low rails, which give a handhold when getting on or off. It suits society gardens, resort lawns, farmhouses and the parents' corner beside a play area. The Deluxe Swing is part of our CoreCraft garden decor range and is listed in Sand Beige. We confirm its size and warranty terms with each quote. Send us a photo of the spot and we will mark it on a layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The seat hangs on chains, so the hanging points and chain links take the wear. Check them, along with the seat fixings, at every service visit. The frame is installed self-standing on a paved base or grouted into soil, depending on your ground. Leave a clear zone in front of and behind the seat so the swing never reaches a path or wall."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Deluxe Swing",
+    "https://funplaysystems.com/corecraft/garden-decor/deluxe-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Deluxe Swing",
+   "sku": "FPGD012",
+   "images": [
+    "/images/deluxe-swing-product-image.jpg"
+   ],
+   "description": "Families who sit out in the evening usually head for a covered swing first, and the Deluxe Swing is made for that. A wooden-slat seat for two hangs on chains from a black steel frame, with a red canopy overhead against sun and light rain. At each side the frame curves outward into low rails, which give a handhold when getting on or off. It suits society gardens, resort lawns, farmhouses and the parents' corner beside a play area. The Deluxe Swing is part of our CoreCraft garden decor range and is listed in Sand Beige. We confirm its size and warranty terms with each quote. Send us a photo of the spot and we will mark it on a layout drawing.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

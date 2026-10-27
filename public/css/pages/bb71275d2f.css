@@ -1,0 +1,14 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+.cards-container-3cols {
+      display: grid;
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+      column-gap: 30px !important;
+    }
+
+    @media (min-width: 992px) {
+      .cards-container-3cols {
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+      }
+    }
+}

@@ -1,0 +1,402 @@
+{
+ "path": "/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Deluxe Multi See Saw | CoreCraft | FunPlay Systems",
+  "description": "Deluxe Multi See Saw (FPSS02) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Deluxe Multi See Saw | CoreCraft | FunPlay Systems",
+   "og:description": "Deluxe Multi See Saw (FPSS02) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html",
+   "og:image": "https://funplaysystems.com/images/DX-MULTI-SEE-SAW-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Deluxe Multi See Saw",
+ "data": {
+  "name": "Deluxe Multi See Saw",
+  "sku": "FPSS02",
+  "colours": [
+   {
+    "name": "Knight Blue",
+    "swatch": "background-color: #2b3d6f",
+    "images": [
+     "/images/DX-MULTI-SEE-SAW-Product-Image.jpg"
+    ],
+    "alts": [
+     "Deluxe Multi See Saw four-seat see saw with blue seats for group play"
+    ]
+   }
+  ],
+  "description": "Four children can ride the Deluxe Multi See Saw at once, two at each end, on Knight Blue seats. That doubles the number of children a single see saw can keep busy, which matters on a school ground at break time or a society garden in the evening. It suits the 3 to 9 years Key User Group. Children at the same end learn to push together, which adds a teamwork element to a familiar ride. The see saw measures 9'8\" x 2'3\", with a safe play area of 13'8\" x 6'3\". Our 3-year warranty covers galvanised pipe and roto-moulded parts, and bearings carry a 1-year warranty. Send us your site size and we will mark it on a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "See Saw",
+   "Deluxe Multi See Saw"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/see-saw.html",
+  "image": "/images/DX-MULTI-SEE-SAW-Product-Image.jpg",
+  "cardImage": "/images/DX-MULTI-SEE-SAW-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Deluxe Multi See Saw"
+    ],
+    "pText": "FPSS02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue",
+       "swatch": "background-color: #2b3d6f",
+       "images": [
+        "/images/DX-MULTI-SEE-SAW-Product-Image.jpg"
+       ],
+       "alts": [
+        "Deluxe Multi See Saw four-seat see saw with blue seats for group play"
+       ]
+      }
+     ],
+     "name": "Deluxe Multi See Saw"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Deluxe Multi See Saw four-seat see saw with blue seats for group play\"]",
+      "divDataImgs": "[\"/images/DX-MULTI-SEE-SAW-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2b3d6f"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/see-saw.html"
+        },
+        "c": [
+         "See Saw"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Deluxe Multi See Saw"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Four children can ride the Deluxe Multi See Saw at once, two at each end, on Knight Blue seats. That doubles the number of children a single see saw can keep busy, which matters on a school ground at break time or a society garden in the evening. It suits the 3 to 9 years Key User Group. Children at the same end learn to push together, which adds a teamwork element to a familiar ride. The see saw measures 9'8\" x 2'3\", with a safe play area of 13'8\" x 6'3\". Our 3-year warranty covers galvanised pipe and roto-moulded parts, and bearings carry a 1-year warranty. Send us your site size and we will mark it on a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "A longer galvanised beam carries four roto-moulded seats on the Deluxe Multi See Saw. Our installers grout it in or fix it self-standing, depending on the base. With four riders, check the central pivot more often than on a two-seat model, and keep a soft surface under both ends.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 9'8\" x 2'3\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 13'8\" x 6'3\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw.html"
+   ],
+   [
+    "Deluxe Multi See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html"
+   ]
+  ],
+  "product": {
+   "name": "Deluxe Multi See Saw",
+   "sku": "FPSS02",
+   "images": [
+    "/images/DX-MULTI-SEE-SAW-Product-Image.jpg"
+   ],
+   "description": "Four children can ride the Deluxe Multi See Saw at once, two at each end, on Knight Blue seats. That doubles the number of children a single see saw can keep busy, which matters on a school ground at break time or a society garden in the evening. It suits the 3 to 9 years Key User Group. Children at the same end learn to push together, which adds a teamwork element to a familiar ride. The see saw measures 9'8\" x 2'3\", with a safe play area of 13'8\" x 6'3\". Our 3-year warranty covers galvanised pipe and roto-moulded parts, and bearings carry a 1-year warranty. Send us your site size and we will mark it on a layout drawing.",
+   "category": "See Saw",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/see-saw.html",
+   "colours": [
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "Diameter 13'8\" x 6'3\""
+    ],
+    [
+     "Colour options",
+     "Knight Blue"
+    ]
+   ]
+  }
+ }
+}

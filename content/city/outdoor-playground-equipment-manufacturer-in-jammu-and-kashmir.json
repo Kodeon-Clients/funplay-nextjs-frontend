@@ -1,0 +1,197 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-jammu-and-kashmir.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment in Jammu and Kashmir | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jammu and Kashmir. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jammu-and-kashmir.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Playground Equipment Manufacturers & Suppliers in Jammu And Kashmir",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturers & Suppliers in Jammu And Kashmir",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Jammu and Kashmir asks more of outdoor play equipment than most of India. Jammu and the plains around it get hot summers, while the Kashmir valley has snow for weeks in winter and frozen ground for longer. FunPlay Systems designs and manufactures playground equipment that handles both, using galvanised steel and roto-moulded plastic that do not rust or crack in wet cold."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Our factory is in Vasai, near Mumbai, about 1,640 km away by road. We dispatch the finished equipment by truck, and our installation team or a dealer in north India installs it, self-standing or grouted. Buyers in the region are mostly schools, municipal parks, hotels and resorts in Srinagar and the hill stations, and government departments. Share the site size, the age group of the children and a few photos, and we will send a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Planning around snow and the installation season",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "In the valley, grouting and concrete work are hard once the ground freezes, so plan installation for the months between spring and late autumn. Order early in the year if you want the play area ready for summer visitors. Snow sliding off slides and roofs is heavy, so clear it from decks and keep children off the equipment until it is dry. Check bolts and swing hangers after each winter."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For hotels and resorts, wooden structures from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series/woody.html"
+           },
+           "c": [
+            "NexLev Woody"
+           ]
+          },
+          " range suit the hill setting. Schools often prefer the low upkeep of roto-moulded equipment. Srinagar buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-srinagar.html"
+           },
+           "c": [
+            "playground page for Srinagar"
+           ]
+          },
+          " and our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-srinagar.html"
+           },
+           "c": [
+            "outdoor gym page for Srinagar"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Jammu and Kashmir",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can playground equipment stay outdoors through a Kashmir winter?",
+       "a": "Yes. Galvanised steel and roto-moulded plastic are weather-proof. Clear heavy snow from decks, keep children off wet or icy surfaces, and check fittings when the snow melts."
+      },
+      {
+       "q": "When should we install a playground in the valley?",
+       "a": "Between spring and late autumn, when the ground is not frozen and grouting can set properly. In Jammu, installation is possible for most of the year outside the heaviest monsoon rain."
+      },
+      {
+       "q": "Do you deliver equipment all the way to Jammu and Kashmir?",
+       "a": "Yes. We send it by road from our Vasai factory, about 1,640 km away, and install it with our own team or a dealer in the north."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Jammu And Kashmir Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturers & Suppliers in Jammu And Kashmir",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jammu-and-kashmir.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturers & Suppliers in Jammu And Kashmir",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Jammu And Kashmir"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jammu and Kashmir. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can playground equipment stay outdoors through a Kashmir winter?",
+    "Yes. Galvanised steel and roto-moulded plastic are weather-proof. Clear heavy snow from decks, keep children off wet or icy surfaces, and check fittings when the snow melts."
+   ],
+   [
+    "When should we install a playground in the valley?",
+    "Between spring and late autumn, when the ground is not frozen and grouting can set properly. In Jammu, installation is possible for most of the year outside the heaviest monsoon rain."
+   ],
+   [
+    "Do you deliver equipment all the way to Jammu and Kashmir?",
+    "Yes. We send it by road from our Vasai factory, about 1,640 km away, and install it with our own team or a dealer in the north."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "path": "/corecraft/individual-equipment/swing.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Swings & Swing Sets | FunPlay Systems",
+  "description": "Playground swings by FunPlay: double, toddler, mother-child, nest and arc swing sets for parks and schools. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Swings & Swing Sets | FunPlay Systems",
+   "og:description": "Playground swings by FunPlay: double, toddler, mother-child, nest and arc swing sets for parks and schools. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/swing.html",
+   "og:image": "https://funplaysystems.com/images/double-arc-swing-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Playground Swings and Swing Sets",
+ "data": {
+  "cardImage": "/images/double-arc-swing-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "PlaygroundSwingsAndSwing",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Soaring fun"
+      ]
+     }
+    ],
+    "h1Text": "Playground Swings and Swing Sets"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Double arc swing with yellow seats and bird figure",
+        "imgSrc": "/images/double-arc-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/double-arc-swing.html",
+        "aText": " View Product ",
+        "spanText": "Double Arc Swing",
+        "spanText2": "6+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       },
+       {
+        "imgAlt": "Curve post two-seat swing in teal with yellow seats",
+        "imgSrc": "/images/curve-post-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/curve-post-swing.html",
+        "aText": " View Product ",
+        "spanText": "Curve post Swing",
+        "spanText2": "6+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       },
+       {
+        "imgAlt": "Double post swing with yellow seats and bird figure",
+        "imgSrc": "/images/double-post-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/double-post-swing.html",
+        "aText": " View Product ",
+        "spanText": "Double Post Swing",
+        "spanText2": "6+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Two-seat swing with curved teal posts and bird figure on the beam",
+        "imgSrc": "/images/crest-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/in-curve-post-swing.html",
+        "aText": " View Product ",
+        "spanText": "In-Curve Post Swing",
+        "spanText2": "6+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       },
+       {
+        "imgAlt": "Toddler swing with twin yellow bucket seats on a palm-tree post",
+        "imgSrc": "/images/toddler-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/toddler-swing.html",
+        "aText": " View Product ",
+        "spanText": "Toddler Swing",
+        "spanText2": "2+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       },
+       {
+        "imgAlt": "Mother and child swing with yellow parent-child seat",
+        "imgSrc": "/images/mother-child-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/swing/mother-child-swing.html",
+        "aText": " View Product ",
+        "spanText": "Mother Child Swing",
+        "spanText2": "2+ YEARS",
+        "spanText3": [
+         "70.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "2 USERS"
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Giraffe swing with curved teal frame and orange nest seat",
+      "imgSrc": "/images/girrafe-swing-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/swing/giraffe-swing.html",
+      "aText": " View Product ",
+      "spanText": "Giraffe Swing",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "70.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "1 USERS"
+     },
+     {
+      "imgAlt": "A-frame double swing set with yellow seats",
+      "imgSrc": "/images/double-swing-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/swing/double-swing.html",
+      "aText": " View Product ",
+      "spanText": "Double Swing",
+      "spanText2": "6+ YEARS",
+      "spanText3": [
+       "70.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "2 USERS"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Individual Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ],
+   [
+    "Playground Swings and Swing Sets",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Curve Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/curve-post-swing.html"
+   ],
+   [
+    "Double Arc Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-arc-swing.html"
+   ],
+   [
+    "Double Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-post-swing.html"
+   ],
+   [
+    "Double Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-swing.html"
+   ],
+   [
+    "Giraffe Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/giraffe-swing.html"
+   ],
+   [
+    "In-Curve Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/in-curve-post-swing.html"
+   ],
+   [
+    "Mother Child Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/mother-child-swing.html"
+   ],
+   [
+    "Toddler Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/toddler-swing.html"
+   ]
+  ]
+ }
+}

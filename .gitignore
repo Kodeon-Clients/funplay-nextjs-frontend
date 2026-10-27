@@ -10,3 +10,4 @@ out/
 .DS_Store
 pipeline/tools/extracted/
 pipeline/tools/fixed/
+.sheet-sync/

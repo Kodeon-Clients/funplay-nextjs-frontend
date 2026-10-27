@@ -4,6 +4,8 @@
   toggle the same classes the original CSS expects.
 */
 
+import type { SwiperOptions } from "swiper/types";
+
 type Cleanup = () => void;
 
 const qs = <T extends Element = HTMLElement>(s: string, r: ParentNode = document) => r.querySelector<T>(s);
@@ -129,7 +131,7 @@ function search(): Cleanup {
   const onInput = async () => {
     if (!input || !box) return;
     const items = searchItems(await loadIndex(), input.value);
-    box.innerHTML = "";
+    box.replaceChildren();
     for (const it of items) {
       const a = document.createElement("a");
       a.href = it.u;
@@ -147,6 +149,14 @@ function search(): Cleanup {
     document.removeEventListener("keydown", onKey);
     input?.removeEventListener("input", onInput);
   };
+}
+
+/** Build an element tree without HTML strings: el("div", { class: "x" }, child, "text"). */
+function el(tag: string, attrs: Record<string, string> = {}, ...kids: (Node | string)[]): HTMLElement {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+  n.append(...kids);
+  return n;
 }
 
 /* ---------------------------------------------------------------- popup (Magnific markup) */
@@ -174,7 +184,7 @@ function popups(): Cleanup {
     wrap.className = "mfp-wrap mfp-close-btn-in mfp-auto-cursor mfp-ready";
     wrap.tabIndex = -1;
     wrap.style.cssText = "overflow-x:hidden;overflow-y:auto;";
-    wrap.innerHTML = '<div class="mfp-container mfp-s-ready mfp-inline-holder"><div class="mfp-content"></div><div class="mfp-preloader">Loading...</div></div>';
+    wrap.append(el("div", { class: "mfp-container mfp-s-ready mfp-inline-holder" }, el("div", { class: "mfp-content" }), el("div", { class: "mfp-preloader" }, "Loading...")));
     const content = qs<HTMLElement>(".mfp-content", wrap)!;
     target.classList.remove("mfp-hide");
     content.appendChild(target);
@@ -252,7 +262,7 @@ function collapse(): Cleanup {
     };
     if (parentSel && opening) {
       const parent = document.querySelector(parentSel);
-      parent && qsa<HTMLElement>(".collapse.show", parent).forEach((p) => p !== panel && setState(p, false));
+      if (parent) qsa<HTMLElement>(".collapse.show", parent).forEach((p) => { if (p !== panel) setState(p, false); });
     }
     setState(panel, opening);
   };
@@ -263,7 +273,7 @@ function collapse(): Cleanup {
     const sel = t.getAttribute("data-bs-target") || t.getAttribute("href");
     const pane = sel ? document.querySelector<HTMLElement>(sel) : null;
     const list = t.closest(".nav");
-    list && qsa(".active", list).forEach((x) => x.classList.remove("active"));
+    if (list) qsa(".active", list).forEach((x) => x.classList.remove("active"));
     t.classList.add("active");
     if (pane?.parentElement) {
       qsa(":scope > .tab-pane", pane.parentElement).forEach((p) => p.classList.remove("active", "show"));
@@ -321,7 +331,7 @@ function carousels(): Cleanup {
     try { imgs = JSON.parse(opt.dataset.imgs || "[]"); } catch {}
     try { alts = JSON.parse(opt.dataset.alts || "[]"); } catch {}
     if (!imgs.length) return;
-    inner.innerHTML = "";
+    inner.replaceChildren();
     imgs.forEach((src, i) => {
       const d = document.createElement("div");
       d.className = i === 0 ? "carousel-item active" : "carousel-item";
@@ -363,8 +373,10 @@ function reveal(): Cleanup {
   return () => io.disconnect();
 }
 
+type AnimeOptions = { el?: string; duration?: number; staggervalue?: number; delay?: number; translateX?: number[]; translateY?: number[]; scale?: number[]; opacity?: number[] };
+
 function animate(el: HTMLElement) {
-  let opts: any = {};
+  let opts: AnimeOptions = {};
   try { opts = JSON.parse(el.dataset.anime || "{}"); } catch {}
   const targets: HTMLElement[] = opts.el === "childs" ? (Array.from(el.children) as HTMLElement[]) : [el];
   const dur = Math.min(Number(opts.duration) || 600, 1200);
@@ -413,11 +425,11 @@ async function sliders(): Promise<Cleanup> {
   const els = qsa<HTMLElement>("[data-slider-options]");
   if (!els.length) return () => {};
   const [{ default: Swiper }, mods] = await Promise.all([import("swiper"), import("swiper/modules")]);
-  const instances: any[] = [];
+  const instances: InstanceType<typeof Swiper>[] = [];
   for (const el of els) {
-    let opts: any = {};
+    let opts: SwiperOptions & { navigation?: Record<string, unknown>; pagination?: Record<string, unknown> } = {};
     try { opts = JSON.parse(el.getAttribute("data-slider-options") || "{}"); } catch { continue; }
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches && opts.autoplay && opts.speed > 3000) {
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches && opts.autoplay && (opts.speed ?? 0) > 3000) {
       opts.autoplay = false;
     }
     if (opts.navigation && typeof opts.navigation === "object") opts.navigation.addIcons = false;
@@ -514,7 +526,7 @@ function forms(): Cleanup {
     }
     const btn = qs<HTMLButtonElement | HTMLInputElement>("button[type=submit], button.submit, input[type=submit]", form);
     const isInput = btn instanceof HTMLInputElement;
-    const label = btn ? (isInput ? btn.value : btn.innerHTML) : undefined;
+    const label = btn ? (isInput ? btn.value : Array.from(btn.childNodes, (n) => n.cloneNode(true))) : undefined;
     if (btn) {
       btn.disabled = true;
       btn.setAttribute("aria-busy", "true");
@@ -564,8 +576,8 @@ function forms(): Cleanup {
         btn.disabled = false;
         btn.removeAttribute("aria-busy");
         if (label !== undefined) {
-          if (btn instanceof HTMLInputElement) btn.value = label;
-          else btn.innerHTML = label;
+          if (btn instanceof HTMLInputElement) btn.value = label as string;
+          else btn.replaceChildren(...(label as Node[]));
         }
       }
     }
@@ -582,7 +594,7 @@ function forms(): Cleanup {
 export async function recaptchaToken(action: string): Promise<string | null> {
   const key = document.documentElement.dataset.recaptcha;
   if (!key) return null;
-  const w = window as any;
+  const w = window as Window & { grecaptcha?: { ready(cb: () => void): void; execute(key: string, o: { action: string }): Promise<string> } };
   if (!w.grecaptcha) {
     await new Promise<void>((resolve) => {
       const s = document.createElement("script");
@@ -593,8 +605,9 @@ export async function recaptchaToken(action: string): Promise<string | null> {
       document.head.appendChild(s);
     });
   }
-  if (!w.grecaptcha?.execute) return null;
-  return new Promise((resolve) => w.grecaptcha.ready(() => w.grecaptcha.execute(key, { action }).then(resolve, () => resolve(null))));
+  const g = w.grecaptcha;
+  if (!g?.execute) return null;
+  return new Promise((resolve) => g.ready(() => g.execute(key, { action }).then(resolve, () => resolve(null))));
 }
 
 /* ---------------------------------------------------------------- simple grid filters (gallery / projects) */
@@ -619,6 +632,19 @@ function filters(): Cleanup {
 }
 
 /* ---------------------------------------------------------------- scroll-top */
+/** Fields marked data-fp-digits accept digits only (was an inline oninput handler). */
+function digitsOnly(): Cleanup {
+  const onInput = (e: Event) => {
+    const el = e.target as HTMLInputElement | null;
+    if (el && el.matches?.("[data-fp-digits]")) {
+      const v = el.value.replace(/[^0-9]/g, "");
+      if (v !== el.value) el.value = v;
+    }
+  };
+  document.addEventListener("input", onInput);
+  return () => document.removeEventListener("input", onInput);
+}
+
 function scrollTop(): Cleanup {
   const btn = qs<HTMLElement>(".scroll-top-arrow");
   if (!btn) return () => {};
@@ -703,7 +729,18 @@ function lightbox(): Cleanup {
     wrap.setAttribute("role", "dialog");
     wrap.setAttribute("aria-modal", "true");
     wrap.tabIndex = -1;
-    wrap.innerHTML = '<div class="mfp-container mfp-s-ready mfp-image-holder"><div class="mfp-content"><div class="mfp-figure"><button title="Close (Esc)" type="button" class="mfp-close" aria-label="Close">×</button><figure><img class="mfp-img" alt=""/><figcaption><div class="mfp-bottom-bar"><div class="mfp-title"></div><div class="mfp-counter"></div></div></figcaption></figure></div></div><button title="Previous" type="button" class="mfp-arrow mfp-arrow-left" aria-label="Previous"></button><button title="Next" type="button" class="mfp-arrow mfp-arrow-right" aria-label="Next"></button></div>';
+    const btnAttrs = (title: string, cls: string, label: string) => ({ title, type: "button", class: cls, "aria-label": label });
+    wrap.append(
+      el("div", { class: "mfp-container mfp-s-ready mfp-image-holder" },
+        el("div", { class: "mfp-content" },
+          el("div", { class: "mfp-figure" },
+            el("button", btnAttrs("Close (Esc)", "mfp-close", "Close"), "\u00d7"),
+            el("figure", {},
+              el("img", { class: "mfp-img", alt: "" }),
+              el("figcaption", {}, el("div", { class: "mfp-bottom-bar" }, el("div", { class: "mfp-title" }), el("div", { class: "mfp-counter" })))))),
+        el("button", btnAttrs("Previous", "mfp-arrow mfp-arrow-left", "Previous")),
+        el("button", btnAttrs("Next", "mfp-arrow mfp-arrow-right", "Next"))),
+    );
     const img = qs<HTMLImageElement>(".mfp-img", wrap)!;
     const show = () => {
       const cur = group[idx];
@@ -751,7 +788,7 @@ function clientRotator(): Cleanup {
 function liveChat(): Cleanup {
   const onClick = (e: MouseEvent) => {
     const a = (e.target as Element | null)?.closest?.("a[data-tawk]");
-    const tawk = (window as any).Tawk_API;
+    const tawk = (window as Window & { Tawk_API?: { toggle?: () => void } }).Tawk_API;
     if (a && tawk && typeof tawk.toggle === "function") {
       e.preventDefault();
       tawk.toggle();
@@ -762,7 +799,7 @@ function liveChat(): Cleanup {
 }
 
 export function initBehaviors(): Cleanup {
-  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat()];
+  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat(), digitsOnly()];
   let swiperCleanup: Cleanup | null = null;
   sliders().then((c) => (swiperCleanup = c)).catch(() => {});
   return () => {

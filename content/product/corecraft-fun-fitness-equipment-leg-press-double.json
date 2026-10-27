@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-press-double.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Press Double Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Leg Press Double Outdoor Gym Equipment (FFE008D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-double.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Press Double Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Leg Press Double Outdoor Gym Equipment (FFE008D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-double.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Press-Double-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Press Double Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Press Double",
+  "sku": "FFE008D",
+  "colours": [
+   {
+    "name": "Lavender",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #7c8ca0 50%,\n                    #7c8ca0 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Press-Double-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Press Double two-user outdoor leg press machine in lavender with orange seats"
+    ]
+   }
+  ],
+  "description": "The Leg Press Double gives two people a seated leg press each, on one frame finished in lavender with orange seats. Users sit back, place their feet on the plates and push them away, working the thighs, hips and calves against their own weight. The lavender frame stands apart from the orange and grey machines in our Fun Fitness range, which helps if you want the gym corner to match a society's colour scheme. A double unit is useful on walking tracks where people arrive in pairs. Sales can share the exact size and warranty cover on request. Our standard cover is 3 years on galvanised pipes and 1 year on bearings, and the Leg Press Double warranty will be confirmed in your quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Press"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Press-Double-product-image.jpg",
+  "cardImage": "/images/Leg-Press-Double-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Press Double ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE008D",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Lavender",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #7c8ca0 50%,\n                    #7c8ca0 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Press-Double-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Press Double two-user outdoor leg press machine in lavender with orange seats"
+       ]
+      }
+     ],
+     "name": "Leg Press Double"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Press Double two-user outdoor leg press machine in lavender with orange seats\"]",
+      "divDataImgs": "[\"/images/Leg-Press-Double-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #7c8ca0 50%, #7c8ca0 50% )"
+      },
+      "divText": "",
+      "spanText": "Lavender"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Press"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Leg Press Double gives two people a seated leg press each, on one frame finished in lavender with orange seats. Users sit back, place their feet on the plates and push them away, working the thighs, hips and calves against their own weight. The lavender frame stands apart from the orange and grey machines in our Fun Fitness range, which helps if you want the gym corner to match a society's colour scheme. A double unit is useful on walking tracks where people arrive in pairs. Sales can share the exact size and warranty cover on request. Our standard cover is 3 years on galvanised pipes and 1 year on bearings, and the Leg Press Double warranty will be confirmed in your quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Each seat moves on a pivoting arm, so there are two sets of bearings to inspect and grease. On a double machine, uneven ground puts the frame under twist, so we grout it on soft soil and only use self-standing fixing on a firm, level base. Keep the space in front of both footplates clear."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-double.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Press Double",
+   "sku": "FFE008D",
+   "images": [
+    "/images/Leg-Press-Double-product-image.jpg"
+   ],
+   "description": "The Leg Press Double gives two people a seated leg press each, on one frame finished in lavender with orange seats. Users sit back, place their feet on the plates and push them away, working the thighs, hips and calves against their own weight. The lavender frame stands apart from the orange and grey machines in our Fun Fitness range, which helps if you want the gym corner to match a society's colour scheme. A double unit is useful on walking tracks where people arrive in pairs. Sales can share the exact size and warranty cover on request. Our standard cover is 3 years on galvanised pipes and 1 year on bearings, and the Leg Press Double warranty will be confirmed in your quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Lavender"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Lavender"
+    ]
+   ]
+  }
+ }
+}

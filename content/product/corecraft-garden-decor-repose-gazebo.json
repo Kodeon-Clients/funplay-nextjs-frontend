@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/repose-gazebo.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Repose Gazebo | CoreCraft | FunPlay Systems",
+  "description": "Repose Gazebo (FPGD002) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/repose-gazebo.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Repose Gazebo | CoreCraft | FunPlay Systems",
+   "og:description": "Repose Gazebo (FPGD002) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/repose-gazebo.html",
+   "og:image": "https://funplaysystems.com/images/repose-gazebo-1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Repose Gazebo",
+ "data": {
+  "name": "Repose Gazebo",
+  "sku": "FPGD002",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/repose-gazebo-1-product-image.jpg"
+    ],
+    "alts": [
+     "Repose Gazebo wooden garden gazebo with pyramid roof and railing"
+    ]
+   }
+  ],
+  "description": "A square wooden deck, railings on all sides and a pyramid roof make up the Repose Gazebo. The roof is wood, with coloured triangles in blue, green and yellow set into its upper part, and the front view shows an open entry between the railings. It gives a resort, school garden or society lawn a shaded sitting area that parents can use while their children play nearby. Compared with our eight-sided Comfy Gazebo, the square plan is easier to fit into a corner or along a straight boundary wall. Repose Gazebo is part of our CoreCraft garden decor range and is listed in Sand Beige. Ask for size, seating and warranty terms with your quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Repose Gazebo"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/repose-gazebo-1-product-image.jpg",
+  "cardImage": "/images/repose-gazebo-1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Repose Gazebo"
+    ],
+    "pText": "FPGD002",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/repose-gazebo-1-product-image.jpg"
+       ],
+       "alts": [
+        "Repose Gazebo wooden garden gazebo with pyramid roof and railing"
+       ]
+      }
+     ],
+     "name": "Repose Gazebo"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Repose Gazebo wooden garden gazebo with pyramid roof and railing\"]",
+      "divDataImgs": "[\"/images/repose-gazebo-1-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Repose Gazebo"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "A square wooden deck, railings on all sides and a pyramid roof make up the Repose Gazebo. The roof is wood, with coloured triangles in blue, green and yellow set into its upper part, and the front view shows an open entry between the railings. It gives a resort, school garden or society lawn a shaded sitting area that parents can use while their children play nearby. Compared with our eight-sided Comfy Gazebo, the square plan is easier to fit into a corner or along a straight boundary wall. Repose Gazebo is part of our CoreCraft garden decor range and is listed in Sand Beige. Ask for size, seating and warranty terms with your quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The Repose Gazebo sits on its own raised deck, so the base under it must be level and drain well. We grout or fix it according to the ground and how exposed the site is to wind. Check deck boards and railing joints for loose screws, keep the floor clear of leaves and recoat the wood as part of regular upkeep."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Repose Gazebo",
+    "https://funplaysystems.com/corecraft/garden-decor/repose-gazebo.html"
+   ]
+  ],
+  "product": {
+   "name": "Repose Gazebo",
+   "sku": "FPGD002",
+   "images": [
+    "/images/repose-gazebo-1-product-image.jpg"
+   ],
+   "description": "A square wooden deck, railings on all sides and a pyramid roof make up the Repose Gazebo. The roof is wood, with coloured triangles in blue, green and yellow set into its upper part, and the front view shows an open entry between the railings. It gives a resort, school garden or society lawn a shaded sitting area that parents can use while their children play nearby. Compared with our eight-sided Comfy Gazebo, the square plan is easier to fit into a corner or along a straight boundary wall. Repose Gazebo is part of our CoreCraft garden decor range and is listed in Sand Beige. Ask for size, seating and warranty terms with your quote.",
+   "category": "Garden Gazebo",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

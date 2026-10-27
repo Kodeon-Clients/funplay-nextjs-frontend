@@ -1,0 +1,430 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-vijayawada.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Vijayawada | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Vijayawada. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-vijayawada.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Vijayawada | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Vijayawada. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-vijayawada.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Vijayawada",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Vijayawada"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Vijayawada lies on the Krishna river, a busy commercial and education city in coastal Andhra Pradesh, with Guntur and the state capital region close by. Its schools, apartment projects and public gardens need play equipment that copes with fierce summer heat and the heavy rain that cyclones from the Bay of Bengal can bring. FunPlay Systems supplies them from our factory in Vasai East, about 880 km away."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We have designed and manufactured outdoor playground equipment since 2002. For Vijayawada, the equipment goes by road and is installed by our own team or a dealer in south India. You tell us the site size and the children's age group and send photos, and we reply with suggested equipment, a layout drawing with the safe play area marked and a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Summer heat and cyclone rain",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Vijayawada's summer, from March to June, is one of the hottest in south India, and the air stays humid. Place the play area where it gets shade in the afternoon, and plan a shade structure over the main deck. Roto-moulded plastic in lighter shades stays cooler and holds its colour."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Later in the year, depressions and cyclones over the Bay of Bengal can bring days of heavy rain. Galvanised posts and plastic parts do not rust, but the base needs to drain. A raised platform with rubber flooring dries quickly once the rain stops."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Schools with large enrolments",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Vijayawada is known for its schools and coaching institutions, and many campuses have hundreds of young children on the ground at break time. Equipment that takes groups at once helps. Multi-seat swings, see-saws and merry-go-rounds keep the queue short."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For kindergarten and primary sections, our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/kagzi.html"
+           },
+           "c": [
+            "Kagzi"
+           ]
+          },
+          " structures, based on paper folding shapes such as boats and planes, give younger children something to climb and crawl through. Keep the nursery zone separate from older pupils."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Apartments, gardens and the capital region",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Builders across the city and on the roads towards Guntur plan play areas for new apartment blocks. A compact multi play station near the clubhouse suits most of them. Gardens maintained by the Vijayawada Municipal Corporation need sturdy pieces grouted firmly into concrete."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "We also supply ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-guntur.html"
+           },
+           "c": [
+            "Guntur"
+           ]
+          },
+          " and other towns in the Krishna and Guntur districts. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+           },
+           "c": [
+            "Karnataka and Andhra Pradesh page"
+           ]
+          },
+          " covers the wider region."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Exercise equipment beside the play area",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Many Vijayawada families use society gardens and riverside walkways in the early morning and late evening, when the heat eases. An outdoor gym next to the children's area lets parents and grandparents exercise while they keep an eye on the children."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-vijayawada.html"
+           },
+           "c": [
+            "outdoor gym equipment in Vijayawada"
+           ]
+          },
+          " page lists stations that fit beside a playground. We can show both on one layout drawing with the safe areas marked."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Vijayawada",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 880 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Vijayawada",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-vijayawada.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you install playground equipment in Vijayawada?",
+       "a": "Yes. We manufacture at our factory in Vasai East, about 880 km away, send the equipment by road and install it with our own team or a dealer in south India. We plan dispatch once your base is ready."
+      },
+      {
+       "q": "How can children use the equipment in Vijayawada's summer?",
+       "a": "Shade is the key. Place the play area where buildings or trees cover it in the afternoon, add a shade structure over the main deck and use lighter colours. Most children will play in the morning and evening in any case."
+      },
+      {
+       "q": "Will heavy cyclone rain damage the equipment?",
+       "a": "Galvanised steel and roto-moulded plastic handle long spells of rain well. The bigger risk is standing water around the posts, so build a raised, well-drained base and check the bolts once the weather clears."
+      },
+      {
+       "q": "What warranty comes with your equipment?",
+       "a": "Galvanised pipes, roto-moulded parts, composite laminates and play rope carry three years, and springs, bearings and spare parts carry one year. The cover is for manufacturing defects, with installation and maintenance done as we instruct."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+    "aText": "Karnataka & Andhra Pradesh",
+    "spanText": "Vijayawada",
+    "h2Text": "Playground equipment suppliers near Vijayawada",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tenali.html"
+        },
+        "c": [
+         "Playground equipment in Tenali"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-guntur.html"
+        },
+        "c": [
+         "Playground equipment in Guntur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gudivada.html"
+        },
+        "c": [
+         "Playground equipment in Gudivada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-eluru.html"
+        },
+        "c": [
+         "Playground equipment in Eluru"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-machilipatnam.html"
+        },
+        "c": [
+         "Playground equipment in Machilipatnam"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Vijayawada? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-vijayawada.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Vijayawada"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Karnataka & Andhra Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Karnataka & Andhra Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Vijayawada",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-vijayawada.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Vijayawada",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Vijayawada. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you install playground equipment in Vijayawada?",
+    "Yes. We manufacture at our factory in Vasai East, about 880 km away, send the equipment by road and install it with our own team or a dealer in south India. We plan dispatch once your base is ready."
+   ],
+   [
+    "How can children use the equipment in Vijayawada's summer?",
+    "Shade is the key. Place the play area where buildings or trees cover it in the afternoon, add a shade structure over the main deck and use lighter colours. Most children will play in the morning and evening in any case."
+   ],
+   [
+    "Will heavy cyclone rain damage the equipment?",
+    "Galvanised steel and roto-moulded plastic handle long spells of rain well. The bigger risk is standing water around the posts, so build a raised, well-drained base and check the bolts once the weather clears."
+   ],
+   [
+    "What warranty comes with your equipment?",
+    "Galvanised pipes, roto-moulded parts, composite laminates and play rope carry three years, and springs, bearings and spare parts carry one year. The cover is for manufacturing defects, with installation and maintenance done as we instruct."
+   ]
+  ]
+ }
+}

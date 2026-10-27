@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-press.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Press Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Leg Press Outdoor Gym Equipment (FFE008) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Press Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Leg Press Outdoor Gym Equipment (FFE008) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Press-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Press Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Press",
+  "sku": "FFE008",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Press-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Press single-user outdoor leg press machine with orange seat and footplates"
+    ]
+   }
+  ],
+  "description": "Our single Leg Press has one orange seat and two footplates on a swinging arm. The user leans back, pushes the plates forward until the legs are nearly straight and lets them return slowly. It strengthens the large leg muscles that help with walking, climbing stairs and getting up from a chair, so it suits older residents as well as younger users. One-seat machines are easy to place in a small society garden or along a jogging track. It is finished in Play Orange. The measured drawing and warranty terms are sent with each quote. Under our standard terms, galvanised pipes are covered for 3 years and bearings for 1 year, which we will confirm in writing. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Press"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Press-product-image.jpg",
+  "cardImage": "/images/Leg-Press-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Press ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE008",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Press-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Press single-user outdoor leg press machine with orange seat and footplates"
+       ]
+      }
+     ],
+     "name": "Leg Press"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Press single-user outdoor leg press machine with orange seat and footplates\"]",
+      "divDataImgs": "[\"/images/Leg-Press-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Press"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Our single Leg Press has one orange seat and two footplates on a swinging arm. The user leans back, pushes the plates forward until the legs are nearly straight and lets them return slowly. It strengthens the large leg muscles that help with walking, climbing stairs and getting up from a chair, so it suits older residents as well as younger users. One-seat machines are easy to place in a small society garden or along a jogging track. It is finished in Play Orange. The measured drawing and warranty terms are sent with each quote. Under our standard terms, galvanised pipes are covered for 3 years and bearings for 1 year, which we will confirm in writing. Ask us for a quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "On the single Leg Press, the seat arm and its pivot carry most of the load, so these are the first parts to check during maintenance. It can go in self-standing on a firm slab or be grouted into soil. Keep the seat out of direct puddles by placing it on slightly raised ground."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Press Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Press",
+   "sku": "FFE008",
+   "images": [
+    "/images/Leg-Press-product-image.jpg"
+   ],
+   "description": "Our single Leg Press has one orange seat and two footplates on a swinging arm. The user leans back, pushes the plates forward until the legs are nearly straight and lets them return slowly. It strengthens the large leg muscles that help with walking, climbing stairs and getting up from a chair, so it suits older residents as well as younger users. One-seat machines are easy to place in a small society garden or along a jogging track. It is finished in Play Orange. The measured drawing and warranty terms are sent with each quote. Under our standard terms, galvanised pipes are covered for 3 years and bearings for 1 year, which we will confirm in writing. Ask us for a quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Tai Chi Cum Standing Twister | Outdoor Gym | FunPlay Systems",
+  "description": "Tai Chi Cum Standing Twister Outdoor Gym Equipment (FFE017) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Tai Chi Cum Standing Twister | Outdoor Gym | FunPlay Systems",
+   "og:description": "Tai Chi Cum Standing Twister Outdoor Gym Equipment (FFE017) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html",
+   "og:image": "https://funplaysystems.com/images/Tai-chi-Cum-Standing-Twister-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Tai Chi Cum Standing Twister Outdoor Gym Equipment",
+ "data": {
+  "name": "Tai Chi Cum Standing Twister",
+  "sku": "FFE017",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Tai-chi-Cum-Standing-Twister-product-image.jpg"
+    ],
+    "alts": [
+     "Tai Chi Cum Standing Twister outdoor tai chi spinner wheels combined with standing twister"
+    ]
+   }
+  ],
+  "description": "The Tai Chi Cum Standing Twister joins two standing stations. On one side, the user turns a pair of tai chi spinner wheels with both hands in slow circles, which loosens the shoulders and upper back. On the other side, a standing twister turns the hips and waist. Together they give a gentle routine for the upper and lower body that older residents can do in a few minutes after their walk. This combination is part of our Fun Fitness range, and its listed colour is Play Orange. Its footprint and warranty terms come with your quotation. On the Tai Chi Cum Standing Twister, we will confirm cover in the quote; our standard terms give 3 years on galvanised pipes and 1 year on bearings.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Tai Chi Cum Standing Twister"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Tai-chi-Cum-Standing-Twister-product-image.jpg",
+  "cardImage": "/images/Tai-chi-Cum-Standing-Twister-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Tai Chi Cum Standing Twister ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE017",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Tai-chi-Cum-Standing-Twister-product-image.jpg"
+       ],
+       "alts": [
+        "Tai Chi Cum Standing Twister outdoor tai chi spinner wheels combined with standing twister"
+       ]
+      }
+     ],
+     "name": "Tai Chi Cum Standing Twister"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Tai Chi Cum Standing Twister outdoor tai chi spinner wheels combined with standing twister\"]",
+      "divDataImgs": "[\"/images/Tai-chi-Cum-Standing-Twister-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Tai Chi Cum Standing Twister"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Tai Chi Cum Standing Twister joins two standing stations. On one side, the user turns a pair of tai chi spinner wheels with both hands in slow circles, which loosens the shoulders and upper back. On the other side, a standing twister turns the hips and waist. Together they give a gentle routine for the upper and lower body that older residents can do in a few minutes after their walk. This combination is part of our Fun Fitness range, and its listed colour is Play Orange. Its footprint and warranty terms come with your quotation. On the Tai Chi Cum Standing Twister, we will confirm cover in the quote; our standard terms give 3 years on galvanised pipes and 1 year on bearings."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The spinner wheels and the twister platform all run on bearings, so check each one for free movement at every service visit. The frame is fixed self-standing or grouted. Place it so the two users face away from each other and neither stands in a walkway."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Tai Chi Cum Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html"
+   ]
+  ],
+  "product": {
+   "name": "Tai Chi Cum Standing Twister",
+   "sku": "FFE017",
+   "images": [
+    "/images/Tai-chi-Cum-Standing-Twister-product-image.jpg"
+   ],
+   "description": "The Tai Chi Cum Standing Twister joins two standing stations. On one side, the user turns a pair of tai chi spinner wheels with both hands in slow circles, which loosens the shoulders and upper back. On the other side, a standing twister turns the hips and waist. Together they give a gentle routine for the upper and lower body that older residents can do in a few minutes after their walk. This combination is part of our Fun Fitness range, and its listed colour is Play Orange. Its footprint and warranty terms come with your quotation. On the Tai Chi Cum Standing Twister, we will confirm cover in the quote; our standard terms give 3 years on galvanised pipes and 1 year on bearings.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

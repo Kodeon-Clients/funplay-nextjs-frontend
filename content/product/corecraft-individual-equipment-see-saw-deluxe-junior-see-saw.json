@@ -1,0 +1,398 @@
+{
+ "path": "/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Deluxe Junior See Saw | CoreCraft | FunPlay Systems",
+  "description": "Deluxe Junior See Saw (FPSS01) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Deluxe Junior See Saw | CoreCraft | FunPlay Systems",
+   "og:description": "Deluxe Junior See Saw (FPSS01) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html",
+   "og:image": "https://funplaysystems.com/images/DX-JR-SEE-SAW-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Deluxe Junior See Saw",
+ "data": {
+  "name": "Deluxe Junior See Saw",
+  "sku": "FPSS01",
+  "colours": [
+   {
+    "name": "Knight Blue",
+    "swatch": "background-color: #2b3d6f",
+    "images": [
+     "/images/DX-JR-SEE-SAW-Product-Image.jpg"
+    ],
+    "alts": [
+     "Deluxe Junior See Saw two-seat see saw with blue seats on a safety surface"
+    ]
+   }
+  ],
+  "description": "The Deluxe Junior See Saw is a two-seat see saw with Knight Blue seats, built for one pair of children. It suits the 3 to 9 years Key User Group, so a pre-primary child and an older sibling can share it comfortably. Children take turns pushing off the ground, and they soon learn to match each other's timing, which makes it a good first lesson in cooperative play. The see saw measures 7' x 2'3\" and needs a safe play area of 11' x 6'3\". It is a sensible starting piece for a small society garden or a school play corner. Galvanised pipes and roto-moulded seats carry a 3-year warranty, and the pivot bearing is covered for 1 year. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "See Saw",
+   "Deluxe Junior See Saw"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/see-saw.html",
+  "image": "/images/DX-JR-SEE-SAW-Product-Image.jpg",
+  "cardImage": "/images/DX-JR-SEE-SAW-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Deluxe Junior See Saw"
+    ],
+    "pText": "FPSS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue",
+       "swatch": "background-color: #2b3d6f",
+       "images": [
+        "/images/DX-JR-SEE-SAW-Product-Image.jpg"
+       ],
+       "alts": [
+        "Deluxe Junior See Saw two-seat see saw with blue seats on a safety surface"
+       ]
+      }
+     ],
+     "name": "Deluxe Junior See Saw"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Deluxe Junior See Saw two-seat see saw with blue seats on a safety surface\"]",
+      "divDataImgs": "[\"/images/DX-JR-SEE-SAW-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2b3d6f"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/see-saw.html"
+        },
+        "c": [
+         "See Saw"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Deluxe Junior See Saw"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Deluxe Junior See Saw is a two-seat see saw with Knight Blue seats, built for one pair of children. It suits the 3 to 9 years Key User Group, so a pre-primary child and an older sibling can share it comfortably. Children take turns pushing off the ground, and they soon learn to match each other's timing, which makes it a good first lesson in cooperative play. The see saw measures 7' x 2'3\" and needs a safe play area of 11' x 6'3\". It is a sensible starting piece for a small society garden or a school play corner. Galvanised pipes and roto-moulded seats carry a 3-year warranty, and the pivot bearing is covered for 1 year. Ask us for a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "This see saw has a galvanised steel beam and roto-moulded seats, so it handles monsoon rain without rusting. We set it up self-standing or grouted to suit your site. Lay rubber flooring under both seat ends where children land, and check the pivot and handle grips at every maintenance round.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Year"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 7' x 2'3\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 11' x 6'3\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw.html"
+   ],
+   [
+    "Deluxe Junior See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html"
+   ]
+  ],
+  "product": {
+   "name": "Deluxe Junior See Saw",
+   "sku": "FPSS01",
+   "images": [
+    "/images/DX-JR-SEE-SAW-Product-Image.jpg"
+   ],
+   "description": "The Deluxe Junior See Saw is a two-seat see saw with Knight Blue seats, built for one pair of children. It suits the 3 to 9 years Key User Group, so a pre-primary child and an older sibling can share it comfortably. Children take turns pushing off the ground, and they soon learn to match each other's timing, which makes it a good first lesson in cooperative play. The see saw measures 7' x 2'3\" and needs a safe play area of 11' x 6'3\". It is a sensible starting piece for a small society garden or a school play corner. Galvanised pipes and roto-moulded seats carry a 3-year warranty, and the pivot bearing is covered for 1 year. Ask us for a quote.",
+   "category": "See Saw",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/see-saw.html",
+   "colours": [
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "User capacity",
+     "2"
+    ],
+    [
+     "Safe play area",
+     "Diameter 11' x 6'3\""
+    ],
+    [
+     "Colour options",
+     "Knight Blue"
+    ]
+   ]
+  }
+ }
+}

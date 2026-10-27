@@ -1,0 +1,231 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-amritsar.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Amritsar | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Amritsar. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-amritsar.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Amritsar",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Amritsar",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Amritsar",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "FunPlay Systems supplies outdoor gym equipment in Amritsar to colony parks, schools, colleges, gurdwara and trust grounds, housing societies and municipal gardens. We build our Fun Fitness machines at our factory in Vasai, about 1,380 km away, and send them to Punjab by road. Our installation team or a north India dealer fixes them on site."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Amritsar's year has two hard seasons for outdoor equipment. Summers are very hot and dusty, and winters bring cold and thick fog. Neighbourhood parks here are busy early, with walkers, groups doing yoga and older men and women who meet every day. An open gym fits into that routine if it sits beside the walking path and does not take the open lawn people use for group exercise. Body-weight machines suit mixed age groups, and galvanised frames with roto-moulded parts handle the swing between heat and damp winter mornings."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Fitting an open gym beside a park's morning groups",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Many Amritsar parks already have a yoga or walking group every morning. Put the machines along the edge of the lawn so both can go on at once. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/leg-lift-post.html"
+           },
+           "c": [
+            "Leg Lift Post"
+           ]
+          },
+          " works the legs and core from a seated position. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/tai-chi.html"
+           },
+           "c": [
+            "Tai Chi"
+           ]
+          },
+          " wheel suits older users who want gentle shoulder movement. A ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/fun-rower.html"
+           },
+           "c": [
+            "Fun Rower"
+           ]
+          },
+          " gives younger users a full-body workout. All three sit on bases that need little space beyond their own footprint and clear zone."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "See also our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-amritsar.html"
+           },
+           "c": [
+            "playground equipment in Amritsar"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Amritsar",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,380 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Amritsar",
+       "href": "/outdoor-playground-equipment-manufacturer-in-amritsar.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can an RWA in Amritsar order a small open gym?",
+       "a": "Yes. Many start with three or four machines. Send us the park size and photos, and we will send a layout drawing that keeps the lawn free for group exercise."
+      },
+      {
+       "q": "Do you deliver outdoor gym equipment to Punjab?",
+       "a": "Yes. Everything is made at our Vasai factory and sent by road. Installation is by our team or a dealer in north India, grouted or self-standing to suit the ground."
+      },
+      {
+       "q": "How do the machines cope with Amritsar's fog and cold?",
+       "a": "Galvanised steel and roto-moulded plastic resist moisture. Wipe the machines down after foggy spells and keep moving parts clean, as described in the maintenance steps we share."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Amritsar Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Amritsar",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-amritsar.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Amritsar",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Amritsar",
+    "state": "Punjab"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Amritsar. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can an RWA in Amritsar order a small open gym?",
+    "Yes. Many start with three or four machines. Send us the park size and photos, and we will send a layout drawing that keeps the lawn free for group exercise."
+   ],
+   [
+    "Do you deliver outdoor gym equipment to Punjab?",
+    "Yes. Everything is made at our Vasai factory and sent by road. Installation is by our team or a dealer in north India, grouted or self-standing to suit the ground."
+   ],
+   [
+    "How do the machines cope with Amritsar's fog and cold?",
+    "Galvanised steel and roto-moulded plastic resist moisture. Wipe the machines down after foggy spells and keep moving parts clean, as described in the maintenance steps we share."
+   ]
+  ]
+ }
+}

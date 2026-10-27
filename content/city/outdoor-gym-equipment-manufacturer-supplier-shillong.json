@@ -1,0 +1,357 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-shillong.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Shillong | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Shillong. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-shillong.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Outdoor Gym Equipment Supplier in Shillong | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Shillong. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-shillong.html",
+   "og:image": "https://funplaysystems.com/images/Fun-Walker-Single-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Shillong",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Shillong"
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Shillong",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Flat ground is scarce in Shillong, and that is usually the first thing we discuss with a buyer here. As an outdoor gym equipment supplier in Shillong, FunPlay Systems works with schools, colleges, church and community grounds, government offices and housing colonies across the Meghalaya capital. Our Fun Fitness machines are made at our factory in Vasai, Maharashtra, about 2,060 km away, and reach you by road."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Shillong is cool for most of the year and gets very heavy rain from the southwest monsoon. People still walk a great deal, on steep roads and around the few open grounds the town has. A small open air gym on a levelled pad lets them add strength work to that walking. Installation is handled by our own team or a dealer in the northeast, and you approve a layout drawing before anything is made."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Building an outdoor gym on a hill site",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "On a slope, we suggest cutting one or two terraced pads rather than spreading machines along the gradient. Each pad needs a retaining edge and a drain on the uphill side, because run-off in the monsoon is fast and carries soil with it. Grouting the posts into a concrete pad holds the frames firm through months of wet weather."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Where space is tight, combination frames save a pad. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/leg-press-cum-pendulum.html"
+           },
+           "c": [
+            "Leg Press Cum Pendulum"
+           ]
+          },
+          " gives two exercises on one base, and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+           },
+           "c": [
+            "Seating Twister Three Way"
+           ]
+          },
+          " lets three people work at once. Galvanised pipe and moulded parts cope with damp air. For a children's area on the same ground, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-shillong.html"
+           },
+           "c": [
+            "playground equipment in Shillong"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Shillong",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 2,060 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Shillong",
+       "href": "/outdoor-playground-equipment-manufacturer-in-shillong.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can outdoor gym equipment be installed on sloping ground in Shillong?",
+       "a": "Yes, once the ground is levelled into a firm pad. We mark the pad size and clear space on the layout drawing so your civil contractor knows exactly how much flat area to prepare."
+      },
+      {
+       "q": "Is delivery to Meghalaya possible from Vasai?",
+       "a": "Yes. We send equipment by road to any part of India, including the northeast, and installation is done by our team or a dealer in that region."
+      },
+      {
+       "q": "How should the machines be looked after in heavy rain?",
+       "a": "Keep drains around the pad clear, wipe seats and handles after long wet spells and check bolts and bearings every few months. Our after-sales team can guide your caretaker on the phone."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Shillong Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-gym-equipment-manufacturer-supplier-india.html",
+    "aText": "Outdoor gym equipment across India",
+    "spanText": "Shillong",
+    "h2Text": "Outdoor gym equipment suppliers near Shillong",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-agartala.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Agartala"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-kohima.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Kohima"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-chinsurah.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Chinsurah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-barasat.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Barasat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-south-dumdum.html"
+        },
+        "c": [
+         "Outdoor gym equipment in South Dum Dum"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for playground equipment in Shillong? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-shillong.html"
+        },
+        "c": [
+         "Playground equipment in Shillong"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        "c": [
+         "See all cities we serve in Outdoor gym equipment across India"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "India",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Shillong",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-shillong.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Shillong",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Shillong",
+    "state": "Meghalaya"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Shillong. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can outdoor gym equipment be installed on sloping ground in Shillong?",
+    "Yes, once the ground is levelled into a firm pad. We mark the pad size and clear space on the layout drawing so your civil contractor knows exactly how much flat area to prepare."
+   ],
+   [
+    "Is delivery to Meghalaya possible from Vasai?",
+    "Yes. We send equipment by road to any part of India, including the northeast, and installation is done by our team or a dealer in that region."
+   ],
+   [
+    "How should the machines be looked after in heavy rain?",
+    "Keep drains around the pad clear, wipe seats and handles after long wet spells and check bolts and bearings every few months. Our after-sales team can guide your caretaker on the phone."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,494 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-mumbai.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Mumbai | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mumbai. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mumbai.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Mumbai | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mumbai. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mumbai.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Mumbai",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Mumbai"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Our factory in Vasai East sits just north of Mumbai, so the city is home ground for us. FunPlay Systems has designed and manufactured outdoor playground equipment since 2002, and everything we supply to Mumbai is made in our own 45,000 sq ft unit, then delivered by road and installed by our team."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Mumbai sites are rarely simple. Gardens are small, podium play areas sit on top of parking levels, the monsoon is heavy and long, and in the western suburbs the sea air is never far away. We plan equipment, materials and layouts around those limits, for housing societies, schools, builders and municipal gardens across the city and suburbs."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Our projects in Mumbai",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "We have built play areas for residential projects in the city, including ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/nicon-vista.html"
+           },
+           "c": [
+            "Nicon Vista"
+           ]
+          },
+          " and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/royal-mangalam.html"
+           },
+           "c": [
+            "Royal Mangalam"
+           ]
+          },
+          ". Both pages show the finished equipment, so a committee or developer can see what a FunPlay installation looks like before asking for a quote."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Close by, we have also worked on ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/raymond-thane.html"
+           },
+           "c": [
+            "Raymond in Thane"
+           ]
+          },
+          " and the public gardens at ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/dighe-garden.html"
+           },
+           "c": [
+            "Dighe Garden"
+           ]
+          },
+          ". Ask us for a site visit if you want to see equipment that has been through a few Mumbai monsoons."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Podium and terrace play areas",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Many new towers in Mumbai put the children's area on a podium or terrace rather than at ground level. That changes the brief. Footings cannot be dug deep, so we choose a fixing method that suits the slab and check load and waterproofing with your consultant before anything is drilled."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Height also matters on a podium. Compact play stations from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft.html"
+           },
+           "c": [
+            "CoreCraft range"
+           ]
+          },
+          " keep fall heights modest and fit tight footprints, and rubber safety flooring protects both the children and the slab below."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Built for the monsoon and sea air",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Four months of rain and salty air from the coast are hard on steel. Our posts are protected by a zinc coating along their whole length, and the slides and panels are roto-moulded from UV-protected plastic, so the steel resists rust and the colour holds in strong sun."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Drainage is the other half of the job. On ground-level sites we leave a slope under the safety surface so water does not pool, and we place swings and slide exits away from low corners where water collects. Our guide to ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/blog/school-playground-surface-materials-which-one-is-best.html"
+           },
+           "c": [
+            "playground surface materials"
+           ]
+          },
+          " compares the options."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Schools, societies and nearby cities",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Mumbai schools often have one shared ground for assembly, sport and play, so we design units that sit along the edge and leave the centre open. For societies, two or three well-chosen pieces usually do more than one large set squeezed into a small garden."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "We also supply ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-navi-mumbai.html"
+           },
+           "c": [
+            "Navi Mumbai"
+           ]
+          },
+          ", ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-thane.html"
+           },
+           "c": [
+            "Thane"
+           ]
+          },
+          " and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-mira-bhayandar.html"
+           },
+           "c": [
+            "Mira Bhayandar"
+           ]
+          },
+          ". For exercise stations next to a play area, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-mumbai.html"
+           },
+           "c": [
+            "outdoor gym equipment in Mumbai"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Mumbai",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 33 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Maharashtra",
+       "value": "Raymond, Thane",
+       "href": "/projects/raymond-thane.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Mumbai",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-mumbai.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Where is your factory, and do you install in Mumbai yourselves?",
+       "a": "Our factory is in Vasai East, just north of Mumbai. We manufacture the equipment there, deliver it by road and install it with our own team, which also makes spare parts and service visits simple to arrange."
+      },
+      {
+       "q": "Can you install playground equipment on a podium or terrace?",
+       "a": "Yes, in most cases. We choose equipment with modest fall heights and a fixing method that suits the slab, and we confirm load and waterproofing details with your structural consultant before installation."
+      },
+      {
+       "q": "Will the equipment rust near the sea?",
+       "a": "Our steel posts are protected by a zinc coating along their whole length and the plastic parts are UV-protected, so they are made for Mumbai's coastal air and heavy rain. Regular cleaning and a yearly check keep them in good shape."
+      },
+      {
+       "q": "How do we get a quote for our society or school?",
+       "a": "Send us the garden or ground size, a few photos and the age groups you expect. Call +91 902 830 2266 or email sales@funplaysystems.com, Monday to Saturday, 9:00 AM to 6:30 PM, and we will suggest a layout and a quote."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html",
+    "aText": "Maharashtra",
+    "spanText": "Mumbai",
+    "h2Text": "Playground equipment suppliers near Mumbai",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-panvel.html"
+        },
+        "c": [
+         "Playground equipment in Panvel"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-thane.html"
+        },
+        "c": [
+         "Playground equipment in Thane"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ambarnath.html"
+        },
+        "c": [
+         "Playground equipment in Ambarnath"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ulhasnagar.html"
+        },
+        "c": [
+         "Playground equipment in Ulhasnagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kalyan-dombivli.html"
+        },
+        "c": [
+         "Playground equipment in Kalyan Dombivli"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Mumbai? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-mumbai.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Mumbai"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+        },
+        "c": [
+         "See all cities we serve in Maharashtra"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Maharashtra",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Mumbai",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mumbai.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Mumbai",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Mumbai"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mumbai. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Where is your factory, and do you install in Mumbai yourselves?",
+    "Our factory is in Vasai East, just north of Mumbai. We manufacture the equipment there, deliver it by road and install it with our own team, which also makes spare parts and service visits simple to arrange."
+   ],
+   [
+    "Can you install playground equipment on a podium or terrace?",
+    "Yes, in most cases. We choose equipment with modest fall heights and a fixing method that suits the slab, and we confirm load and waterproofing details with your structural consultant before installation."
+   ],
+   [
+    "Will the equipment rust near the sea?",
+    "Our steel posts are protected by a zinc coating along their whole length and the plastic parts are UV-protected, so they are made for Mumbai's coastal air and heavy rain. Regular cleaning and a yearly check keep them in good shape."
+   ],
+   [
+    "How do we get a quote for our society or school?",
+    "Send us the garden or ground size, a few photos and the age groups you expect. Call +91 902 830 2266 or email sales@funplaysystems.com, Monday to Saturday, 9:00 AM to 6:30 PM, and we will suggest a layout and a quote."
+   ]
+  ]
+ }
+}

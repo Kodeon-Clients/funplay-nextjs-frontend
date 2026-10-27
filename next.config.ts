@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import createMDX from "@next/mdx";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -12,6 +13,7 @@ function literal(p: string) {
 const redirects: Redirect[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), "content", "redirects.json"), "utf8"));
 
 const nextConfig: NextConfig = {
+  pageExtensions: ["ts", "tsx", "md", "mdx"],
   // Images are pre-optimised by scripts/optimize-images.mjs (WebP variants + compressed originals).
   images: { unoptimized: true },
   poweredByHeader: false,
@@ -41,4 +43,6 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+const withMDX = createMDX({});
+
+export default withMDX(nextConfig);

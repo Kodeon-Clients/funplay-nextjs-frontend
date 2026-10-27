@@ -1,0 +1,362 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-kanpur.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Kanpur | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kanpur. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kanpur.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Kanpur | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kanpur. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kanpur.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Kanpur",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Kanpur"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Kanpur is one of the largest industrial cities in Uttar Pradesh, known for leather, textiles and its institutes of higher education, with old schools, new housing societies and large public parks. Buyers here have many options, so we are often asked how our own ranges differ. FunPlay Systems designs and makes all of them at our factory in Vasai, about 1,100 km away, and sends orders to Kanpur by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We sell three families of play equipment. CoreCraft is our core range of multi play systems, themed stations, individual pieces, outdoor gym equipment and garden decor. Funplay Originals are structures designed by our own team, many inspired by Indian games and nature. The NexLev series covers our newer, larger play towers and wooden structures. Knowing which family to start with saves time when you share your site details."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Which range suits your site",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "For a school or housing society on a fixed budget, CoreCraft is the usual starting point, since you can mix individual swings, slides and see-saws with one multi play system. If you want a play area with a clear identity, such as a school drawn to the idea of Indian games, look at Funplay Originals. For a large park or a premium project that wants a striking centrepiece, the NexLev towers are worth a look. Whichever range you choose, we talk through materials for Kanpur's hot summers and cold winters."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Browse ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft.html"
+           },
+           "c": [
+            "CoreCraft"
+           ]
+          },
+          ", ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals.html"
+           },
+           "c": [
+            "Funplay Originals"
+           ]
+          },
+          " and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev series"
+           ]
+          },
+          ", or see ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-lucknow.html"
+           },
+           "c": [
+            "playground equipment in Lucknow"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Kanpur",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,100 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Kanpur",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-kanpur.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What is the difference between CoreCraft, Funplay Originals and NexLev?",
+       "a": "CoreCraft is our core range of play systems, individual pieces, outdoor gym and garden decor. Funplay Originals are designs by our own team, and NexLev covers newer, larger towers and wooden structures."
+      },
+      {
+       "q": "Can we mix products from different ranges?",
+       "a": "Yes. Many layouts combine a centrepiece from one range with individual pieces from CoreCraft. We plan them together on one layout drawing with the safe play area marked."
+      },
+      {
+       "q": "Do you supply housing societies in Kanpur?",
+       "a": "Yes. Societies, schools and parks across Kanpur can order from us. We deliver from Vasai by road and install with our own team or a dealer in North India."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html",
+    "aText": "Delhi & Uttar Pradesh",
+    "spanText": "Kanpur",
+    "h2Text": "Playground equipment suppliers near Kanpur",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-unnao.html"
+        },
+        "c": [
+         "Playground equipment in Unnao"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-lucknow.html"
+        },
+        "c": [
+         "Playground equipment in Lucknow"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-fatehpur.html"
+        },
+        "c": [
+         "Playground equipment in Fatehpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-raebareli.html"
+        },
+        "c": [
+         "Playground equipment in Raebareli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-orai.html"
+        },
+        "c": [
+         "Playground equipment in Orai"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Kanpur? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-kanpur.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Kanpur"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+        },
+        "c": [
+         "See all cities we serve in Delhi & Uttar Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Delhi & Uttar Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Kanpur",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kanpur.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Kanpur",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kanpur. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What is the difference between CoreCraft, Funplay Originals and NexLev?",
+    "CoreCraft is our core range of play systems, individual pieces, outdoor gym and garden decor. Funplay Originals are designs by our own team, and NexLev covers newer, larger towers and wooden structures."
+   ],
+   [
+    "Can we mix products from different ranges?",
+    "Yes. Many layouts combine a centrepiece from one range with individual pieces from CoreCraft. We plan them together on one layout drawing with the safe play area marked."
+   ],
+   [
+    "Do you supply housing societies in Kanpur?",
+    "Yes. Societies, schools and parks across Kanpur can order from us. We deliver from Vasai by road and install with our own team or a dealer in North India."
+   ]
+  ]
+ }
+}

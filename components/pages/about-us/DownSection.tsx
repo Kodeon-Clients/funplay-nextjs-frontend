@@ -1,0 +1,11 @@
+import type React from "react";
+import Img from "@/components/ui/Img";
+import R, { type Rich } from "@/components/ui/Rich";
+
+export type DownSectionProps = { items: { pClass: React.ComponentProps<"p">["className"]; pDataAnimationDelay?: string; pDataShadowAnimation?: string; pStyle?: React.ComponentProps<"p">["style"]; pText: Rich }[]; items2: { divClass: React.ComponentProps<"div">["className"]; items: { pClass?: React.ComponentProps<"p">["className"]; pStyle?: React.ComponentProps<"p">["style"]; pText: string }[] }[] };
+
+export default function DownSection(p: DownSectionProps) {
+  return (
+    <section className="object-fit-contain background-position-center-top" id="down-section" style={{"backgroundColor": "#E6F5FC", "backgroundImage": "url('/images/pat1.svg')", "backgroundPosition": "center", "backgroundSize": "contain"}}><div className="container"><div className="row align-items-center justify-content-center mb-8 xs-mb-50px"><div className="col-lg-5 col-md-10 position-relative md-mb-50px sm-mb-30px" data-anime={"{ \"effect\": \"slide\", \"direction\": \"tb\", \"color\": \"#252840\", \"duration\": 1000, \"delay\": 0 }"}><Img alt="Suraj Shetty, Director of FunPlay Systems, at his office" className="w-100 border-radius-5px" decoding="async" height="770" loading="lazy" src="/images/sir-image.png" width="800" /></div><div className="col-xl-6 offset-lg-1 col-lg-5 col-md-10 text-center text-lg-start" data-anime={"{ \"el\": \"childs\", \"translateY\": [50, 0], \"opacity\": [0,1], \"duration\": 600, \"delay\": 0, \"staggervalue\": 300, \"easing\": \"easeOutQuad\" }"}>{p.items.map((px, i) => (<p key={i} className={px.pClass} data-animation-delay={px.pDataAnimationDelay} data-shadow-animation={px.pDataShadowAnimation} style={px.pStyle}><R v={px.pText} /></p>))}</div></div><div className="row row-cols-1 row-cols-md-4 row-cols-sm-2 justify-content-center text-center" data-anime={"{\"el\": \"childs\", \"opacity\": [0,1], \"translateX\": [50, 0], \"duration\": 800, \"delay\":300, \"staggervalue\": 300, \"easing\": \"easeOutQuad\" }"}>{p.items2.map((px, i) => (<div key={i} className={px.divClass}>{px.items.map((pxx, i) => (<p key={i} className={pxx.pClass} style={pxx.pStyle}>{pxx.pText}</p>))}</div>))}</div></div></section>
+  );
+}

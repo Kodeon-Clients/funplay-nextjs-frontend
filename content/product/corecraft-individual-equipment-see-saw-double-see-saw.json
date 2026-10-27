@@ -1,0 +1,402 @@
+{
+ "path": "/corecraft/individual-equipment/see-saw/double-see-saw.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Double See Saw | CoreCraft | FunPlay Systems",
+  "description": "Double See Saw (FPSS03) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/double-see-saw.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Double See Saw | CoreCraft | FunPlay Systems",
+   "og:description": "Double See Saw (FPSS03) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/double-see-saw.html",
+   "og:image": "https://funplaysystems.com/images/DOUBLE-SEE-SAW-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Double See Saw",
+ "data": {
+  "name": "Double See Saw",
+  "sku": "FPSS03",
+  "colours": [
+   {
+    "name": "Knight Blue",
+    "swatch": "background-color: #2b3d6f",
+    "images": [
+     "/images/DOUBLE-SEE-SAW-Product-Image.jpg"
+    ],
+    "alts": [
+     "Double See Saw cross-shaped see saw with four blue seats"
+    ]
+   }
+  ],
+  "description": "The Double See Saw is cross-shaped, with four Knight Blue seats on two beams that meet at a central pivot. Two pairs of children can rock at the same time, each pair facing the other across the cross. It suits the 3 to 9 years Key User Group and carries four. The cross layout takes up 8'2\" x 6'9\" and needs a safe play area of 12'2\" x 10'9\". Because it is more square than long, it fits a corner of a garden where a straight four-seat see saw would not. The galvanised frame and roto-moulded seats come with a 3-year warranty, and bearings with 1 year. Ask us to plan it into your layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "See Saw",
+   "Double See Saw"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/see-saw.html",
+  "image": "/images/DOUBLE-SEE-SAW-Product-Image.jpg",
+  "cardImage": "/images/DOUBLE-SEE-SAW-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Double See Saw"
+    ],
+    "pText": "FPSS03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue",
+       "swatch": "background-color: #2b3d6f",
+       "images": [
+        "/images/DOUBLE-SEE-SAW-Product-Image.jpg"
+       ],
+       "alts": [
+        "Double See Saw cross-shaped see saw with four blue seats"
+       ]
+      }
+     ],
+     "name": "Double See Saw"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Double See Saw cross-shaped see saw with four blue seats\"]",
+      "divDataImgs": "[\"/images/DOUBLE-SEE-SAW-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2b3d6f"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/see-saw.html"
+        },
+        "c": [
+         "See Saw"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Double See Saw"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Double See Saw is cross-shaped, with four Knight Blue seats on two beams that meet at a central pivot. Two pairs of children can rock at the same time, each pair facing the other across the cross. It suits the 3 to 9 years Key User Group and carries four. The cross layout takes up 8'2\" x 6'9\" and needs a safe play area of 12'2\" x 10'9\". Because it is more square than long, it fits a corner of a garden where a straight four-seat see saw would not. The galvanised frame and roto-moulded seats come with a 3-year warranty, and bearings with 1 year. Ask us to plan it into your layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Both beams are galvanised steel, joined at a central pivot, with roto-moulded seats at each end. Grouting or a self-standing base is chosen to match your ground. Keep impact-absorbing flooring under all four seats and check the central pivot and seat bolts during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 8'2\" x 6'9\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 12'2\" x 10'9\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw.html"
+   ],
+   [
+    "Double See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/double-see-saw.html"
+   ]
+  ],
+  "product": {
+   "name": "Double See Saw",
+   "sku": "FPSS03",
+   "images": [
+    "/images/DOUBLE-SEE-SAW-Product-Image.jpg"
+   ],
+   "description": "The Double See Saw is cross-shaped, with four Knight Blue seats on two beams that meet at a central pivot. Two pairs of children can rock at the same time, each pair facing the other across the cross. It suits the 3 to 9 years Key User Group and carries four. The cross layout takes up 8'2\" x 6'9\" and needs a safe play area of 12'2\" x 10'9\". Because it is more square than long, it fits a corner of a garden where a straight four-seat see saw would not. The galvanised frame and roto-moulded seats come with a 3-year warranty, and bearings with 1 year. Ask us to plan it into your layout.",
+   "category": "See Saw",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/see-saw.html",
+   "colours": [
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "Diameter 12'2\" x 10'9\""
+    ],
+    [
+     "Colour options",
+     "Knight Blue"
+    ]
+   ]
+  }
+ }
+}

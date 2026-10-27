@@ -1,0 +1,411 @@
+{
+ "path": "/corecraft/garden-decor.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Garden Benches, Gazebos & Pergolas | FunPlay Systems",
+  "description": "Outdoor benches, gazebos, pergolas, swing seats and dustbins for parks, societies and resorts. Made in India by FunPlay. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Garden Benches, Gazebos & Pergolas | FunPlay Systems",
+   "og:description": "Outdoor benches, gazebos, pergolas, swing seats and dustbins for parks, societies and resorts. Made in India by FunPlay. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor.html",
+   "og:image": "https://funplaysystems.com/images/comfy-gazebo-1-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Garden Decor: Benches, Gazebos and Pergolas",
+ "data": {
+  "cardImage": "/images/comfy-gazebo-1-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "GardenDecorBenchesGazebos",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Elegant outdoors"
+      ]
+     }
+    ],
+    "h1Text": "Garden Decor: Benches, Gazebos and Pergolas"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Comfy Gazebo hexagonal wooden garden gazebo with coloured windows",
+        "imgSrc": "/images/comfy-gazebo-1-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/comfy-gazebo.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Comfy Gazebo"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Repose Gazebo wooden garden gazebo with pyramid roof",
+        "imgSrc": "/images/repose-gazebo-1-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/repose-gazebo.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Repose Gazebo"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "DNA Pergola wavy wooden walkway pergola with figures for scale",
+        "imgSrc": "/images/dna-pergola-1-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/dna-pergola.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "DNA Pergola"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Pyramid Pergola wooden garden pergola with pyramid roof",
+        "imgSrc": "/images/pyramid-pergola-1-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/pyramid-pergola.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Pyramid Pergola"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Stand Out Bench wooden-slat bench with angular steel frame",
+        "imgSrc": "/images/stand-out-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/stand-out-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Stand Out Bench"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Relaxed Bench wooden-slat outdoor bench with black steel frame",
+        "imgSrc": "/images/relaxed-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/relaxed-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Relaxed Bench"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Bastion outdoor bench with wooden slats and black steel frame",
+        "imgSrc": "/images/bastion-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/bastion-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Bastion Bench"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Curve Bench curved wooden-slat outdoor bench",
+        "imgSrc": "/images/curve-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/curve-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Curve Bench"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Eco Bench wooden-slat park bench with black steel legs",
+        "imgSrc": "/images/eco-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/eco-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Eco Bench"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Maestro Bench wooden park bench with curved black armrests",
+        "imgSrc": "/images/maestro-bench-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/maestro-bench.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Maestro Bench"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Luxury Swing garden swing bench with red canopy",
+        "imgSrc": "/images/luxury-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/luxury-swing.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Luxury Swing"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Deluxe Swing garden swing seat with red canopy",
+        "imgSrc": "/images/deluxe-swing-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/deluxe-swing.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Deluxe Swing"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Crevice Cube colourful cube seating blocks on steel bases",
+        "imgSrc": "/images/crevice-cube-1-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/crevice-cube.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Crevice Cube"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Grin Barrel barrel-shaped wooden outdoor dustbin on a yellow stand",
+        "imgSrc": "/images/grinbarrel-bin-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/grin-barrel-bin.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Grin barrel Bin"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Atypical outdoor dustbin with wooden slats on a black stand",
+        "imgSrc": "/images/atypical-bin-product-catalogue.jpg",
+        "aHref": "/corecraft/garden-decor/atypical-bin.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Atypical Bin"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Garden Decor: Benches, Gazebos and Pergolas",
+    "https://funplaysystems.com/corecraft/garden-decor.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Atypical Bin",
+    "https://funplaysystems.com/corecraft/garden-decor/atypical-bin.html"
+   ],
+   [
+    "Bastion Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html"
+   ],
+   [
+    "Comfy Gazebo",
+    "https://funplaysystems.com/corecraft/garden-decor/comfy-gazebo.html"
+   ],
+   [
+    "Crevice Cube",
+    "https://funplaysystems.com/corecraft/garden-decor/crevice-cube.html"
+   ],
+   [
+    "Curve Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/curve-bench.html"
+   ],
+   [
+    "Deluxe Swing",
+    "https://funplaysystems.com/corecraft/garden-decor/deluxe-swing.html"
+   ],
+   [
+    "DNA Pergola",
+    "https://funplaysystems.com/corecraft/garden-decor/dna-pergola.html"
+   ],
+   [
+    "Eco Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/eco-bench.html"
+   ],
+   [
+    "Grin Barrel Bin",
+    "https://funplaysystems.com/corecraft/garden-decor/grin-barrel-bin.html"
+   ],
+   [
+    "Luxury Swing",
+    "https://funplaysystems.com/corecraft/garden-decor/luxury-swing.html"
+   ],
+   [
+    "Maestro Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/maestro-bench.html"
+   ],
+   [
+    "Pyramid Pergola",
+    "https://funplaysystems.com/corecraft/garden-decor/pyramid-pergola.html"
+   ],
+   [
+    "Relaxed Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/relaxed-bench.html"
+   ],
+   [
+    "Repose Gazebo",
+    "https://funplaysystems.com/corecraft/garden-decor/repose-gazebo.html"
+   ],
+   [
+    "Stand Out Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html"
+   ]
+  ]
+ }
+}

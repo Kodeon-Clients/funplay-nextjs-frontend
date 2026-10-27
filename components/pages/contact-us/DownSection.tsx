@@ -1,0 +1,10 @@
+import Icon from "@/components/ui/Icon";
+import R, { type Rich } from "@/components/ui/Rich";
+
+export type DownSectionProps = { spanText: string; pText: Rich; spanText2: string; divText: Rich; spanText3: string; divText2: Rich };
+
+export default function DownSection(p: DownSectionProps) {
+  return (
+    <section id="down-section"><div className="container"><div className="row row-cols-1 row-cols-md-3 row-cols-sm-2 justify-content-center" data-anime={"{ \"el\": \"childs\", \"translateY\": [50, 0], \"opacity\": [0,1], \"duration\": 600, \"delay\": 0, \"staggervalue\": 150, \"easing\": \"easeOutQuad\" }"}><div className="col icon-with-text-style-04 sm-mb-60px sm-mt-60px"><div className="feature-box last-paragraph-no-margin"><div className="feature-box-icon"><Icon className="line-icon-Geo2-Love icon-extra-large text-base-color mb-25px" /></div><div className="feature-box-content last-paragraph-no-margin"><span className="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">{p.spanText}</span>{" "}<p><R v={p.pText} /></p></div></div></div><div className="col icon-with-text-style-04 sm-mb-60px"><div className="feature-box last-paragraph-no-margin"><div className="feature-box-icon"><Icon className="line-icon-Headset icon-extra-large text-base-color mb-25px" /></div><div className="feature-box-content last-paragraph-no-margin"><span className="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">{p.spanText2}</span>{" "}<div className="w-100 d-block"><R v={p.divText} /></div></div></div></div><div className="col icon-with-text-style-04 sm-mb-60px"><div className="feature-box last-paragraph-no-margin"><div className="feature-box-icon"><Icon className="line-icon-Mail-Read icon-extra-large text-base-color mb-25px" /></div><div className="feature-box-content last-paragraph-no-margin"><span className="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">{p.spanText3}</span>{" "}<div className="w-100 d-block"><div className="w-100 d-block"><R v={p.divText2} /></div></div></div></div></div></div></div></section>
+  );
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Zig Zag Slide (7 ft) | CoreCraft | FunPlay Systems",
+  "description": "Zig Zag Slide (7 ft) (FPRS23) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Zig Zag Slide (7 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Zig Zag Slide (7 ft) (FPRS23) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-1-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Zig Zag Slide (7 ft)",
+ "data": {
+  "name": "Zig Zag Slide",
+  "sku": "FPRS23",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Slides-1-5foot.jpg"
+    ],
+    "alts": [
+     "Zig Zag Slide red and yellow zig zag slide with steel ladder"
+    ]
+   }
+  ],
+  "description": "Sharp turns from a 7 ft start make this Zig Zag Slide one of the liveliest rides in our individual equipment range. Children climb a steel ladder and then switch direction several times in a red and yellow chute on the way down. The height and the turns together suit older children who find low slides too easy. The zig zag shape also means the slide covers its drop in less length than a straight slide, which helps on a narrow school or society plot. Galvanised steel and roto-moulded parts on the Zig Zag are covered for 3 years. Ask us for a layout drawing showing the slide and its exit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-7foot-height",
+   "Zig Zag Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+  "image": "/images/Slides-1-5foot.jpg",
+  "cardImage": "/images/Slides-1-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Zig Zag Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(7 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS23",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Slides-1-5foot.jpg"
+       ],
+       "alts": [
+        "Zig Zag Slide red and yellow zig zag slide with steel ladder"
+       ]
+      }
+     ],
+     "name": "Zig Zag Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Zig Zag Slide red and yellow zig zag slide with steel ladder\"]",
+      "divDataImgs": "[\"/images/Slides-1-5foot.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e20e35 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-7foot-height.html"
+        },
+        "c": [
+         "Slide-7foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Zig Zag Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Sharp turns from a 7 ft start make this Zig Zag Slide one of the liveliest rides in our individual equipment range. Children climb a steel ladder and then switch direction several times in a red and yellow chute on the way down. The height and the turns together suit older children who find low slides too easy. The zig zag shape also means the slide covers its drop in less length than a straight slide, which helps on a narrow school or society plot. Galvanised steel and roto-moulded parts on the Zig Zag are covered for 3 years. Ask us for a layout drawing showing the slide and its exit."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "This slide stands on a galvanised steel ladder and frame with a moulded zig zag bed. Our team grouts it or installs it self-standing. Keep an impact-absorbing surface under the full footprint, since the turns pass close to the ground on both sides, and check each bend for cracks during maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-7foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html"
+   ],
+   [
+    "Zig Zag Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Zig Zag Slide",
+   "sku": "FPRS23",
+   "images": [
+    "/images/Slides-1-5foot.jpg"
+   ],
+   "description": "Sharp turns from a 7 ft start make this Zig Zag Slide one of the liveliest rides in our individual equipment range. Children climb a steel ladder and then switch direction several times in a red and yellow chute on the way down. The height and the turns together suit older children who find low slides too easy. The zig zag shape also means the slide covers its drop in less length than a straight slide, which helps on a narrow school or society plot. Galvanised steel and roto-moulded parts on the Zig Zag are covered for 3 years. Ask us for a layout drawing showing the slide and its exit.",
+   "category": "7 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

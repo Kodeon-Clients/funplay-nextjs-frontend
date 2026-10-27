@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/net-rock-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Net Rock Climber | CoreCraft | FunPlay Systems",
+  "description": "Net Rock Climber (FPCL02) from the CoreCraft Climbers range: 15 kids at a time, safe play area 10'3\" x 9'7\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/net-rock-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Net Rock Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Net Rock Climber (FPCL02) from the CoreCraft Climbers range: 15 kids at a time, safe play area 10'3\" x 9'7\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/net-rock-climber.html",
+   "og:image": "https://funplaysystems.com/images/Net-Rock-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Net Rock Climber",
+ "data": {
+  "name": "Net Rock Climber",
+  "sku": "FPCL02",
+  "colours": [
+   {
+    "name": "Lavender",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #7c8ca0 50%,\n                    #7c8ca0 50%\n                  );\n                ",
+    "images": [
+     "/images/Net-Rock-Product-Image.jpg"
+    ],
+    "alts": [
+     "Net Rock Climber A-frame climber with green rock wall on one side and rope net on the other"
+    ]
+   }
+  ],
+  "description": "Two ways up, one compact frame. The Net Rock Climber is an A-frame with a green rock wall on one face and a rope net on the other. Children pick the route that suits their confidence. The rock wall asks for careful foot placement on fixed holds, while the net moves under their weight and tests balance. Many children go up one side and down the other. Its footprint is only 5'3\" x 4'7\", with a safe play area of 10'3\" x 9'7\", which makes it a good fit for a society garden with limited space. The frame is finished in Lavender. Our warranty gives 3 years on galvanised pipe, composite laminates and play rope. Share your site photos and we will suggest where it goes.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Net Rock Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/Net-Rock-Product-Image.jpg",
+  "cardImage": "/images/Net-Rock-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Net Rock Climber"
+    ],
+    "pText": "FPCL02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Lavender",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #7c8ca0 50%,\n                    #7c8ca0 50%\n                  );\n                ",
+       "images": [
+        "/images/Net-Rock-Product-Image.jpg"
+       ],
+       "alts": [
+        "Net Rock Climber A-frame climber with green rock wall on one side and rope net on the other"
+       ]
+      }
+     ],
+     "name": "Net Rock Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Net Rock Climber A-frame climber with green rock wall on one side and rope net on the other\"]",
+      "divDataImgs": "[\"/images/Net-Rock-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #7c8ca0 50%, #7c8ca0 50% )"
+      },
+      "divText": "",
+      "spanText": "Lavender"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Net Rock Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Two ways up, one compact frame. The Net Rock Climber is an A-frame with a green rock wall on one face and a rope net on the other. Children pick the route that suits their confidence. The rock wall asks for careful foot placement on fixed holds, while the net moves under their weight and tests balance. Many children go up one side and down the other. Its footprint is only 5'3\" x 4'7\", with a safe play area of 10'3\" x 9'7\", which makes it a good fit for a society garden with limited space. The frame is finished in Lavender. Our warranty gives 3 years on galvanised pipe, composite laminates and play rope. Share your site photos and we will suggest where it goes."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The A-frame is galvanised pipe, the climbing net is play rope and the rock face carries fixed holds. All of these sit under our 3-year warranty against manufacturing defects. Installation is self-standing or grouted. Check the net for wear and the holds for tightness as part of regular maintenance, and keep a soft surface on both sides of the frame.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5'3\" x 4'7\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10'3\" x 9'7\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Net Rock Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/net-rock-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Net Rock Climber",
+   "sku": "FPCL02",
+   "images": [
+    "/images/Net-Rock-Product-Image.jpg"
+   ],
+   "description": "Two ways up, one compact frame. The Net Rock Climber is an A-frame with a green rock wall on one face and a rope net on the other. Children pick the route that suits their confidence. The rock wall asks for careful foot placement on fixed holds, while the net moves under their weight and tests balance. Many children go up one side and down the other. Its footprint is only 5'3\" x 4'7\", with a safe play area of 10'3\" x 9'7\", which makes it a good fit for a society garden with limited space. The frame is finished in Lavender. Our warranty gives 3 years on galvanised pipe, composite laminates and play rope. Share your site photos and we will suggest where it goes.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Lavender"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "10'3\" x 9'7\""
+    ],
+    [
+     "Colour options",
+     "Lavender"
+    ]
+   ]
+  }
+ }
+}

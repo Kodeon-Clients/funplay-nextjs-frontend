@@ -1,0 +1,676 @@
+{
+ "path": "/corecraft/castle-crest/crown-court-7.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Crown Court 7 Castle Multi Play Station | FunPlay Systems",
+  "description": "Crown Court 7 Castle Multi Play Station (CASMPFS02) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Crown Court 7 Castle Multi Play Station | FunPlay Systems",
+   "og:description": "Crown Court 7 Castle Multi Play Station (CASMPFS02) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html",
+   "og:image": "https://funplaysystems.com/images/Crown-Court-7-product-image2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Crown Court 7 Castle Multi Play Station",
+ "data": {
+  "name": "Crown Court 7",
+  "sku": "CASMPFS02",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ce601f 50%,\n                    #85c4d4 50%\n                  );\n                ",
+    "images": [
+     "/images/Crown-Court-7-product-image2.jpg",
+     "/images/Crown-Court-7-product-image.jpg"
+    ],
+    "alts": [
+     "Crown Court 7 castle playground in play orange with spiral slide, swing and rock climbing wall",
+     "Top view of Crown Court 7 multi play station with spiral slide, swing beam and climbing panel"
+    ]
+   }
+  ],
+  "description": "Crown Court 7 takes the castle theme up a level for older children. Built in Play Orange, it combines a spiral slide, a swing beam and a climbing panel, so a group of children can split between three activities. The key user group is 5 to 12 years, and play covers climbing, sliding and swinging. The product area is 16'6\" x 14'9\", and the listed safe play area is 20'6\" x 20'9\", which suits a school ground or a mid-sized society play area. Capacity is listed as 15 children. Like the rest of the Castle Crest series, it has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Tell us how much open ground you have and we will check whether Crown Court 7 fits with room to spare.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Castle Crest",
+   "Crown Court 7"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/castle-crest.html",
+  "image": "/images/Crown-Court-7-product-image2.jpg",
+  "cardImage": "/images/Crown-Court-7-product-image2.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Crown Court 7 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Castle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "CASMPFS02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ce601f 50%,\n                    #85c4d4 50%\n                  );\n                ",
+       "images": [
+        "/images/Crown-Court-7-product-image2.jpg",
+        "/images/Crown-Court-7-product-image.jpg"
+       ],
+       "alts": [
+        "Crown Court 7 castle playground in play orange with spiral slide, swing and rock climbing wall",
+        "Top view of Crown Court 7 multi play station with spiral slide, swing beam and climbing panel"
+       ]
+      }
+     ],
+     "name": "Crown Court 7"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Crown Court 7 castle playground in play orange with spiral slide, swing and rock climbing wall\", \"Top view of Crown Court 7 multi play station with spiral slide, swing beam and climbing panel\"]",
+      "divDataImgs": "[\"/images/Crown-Court-7-product-image2.jpg\", \"/images/Crown-Court-7-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ce601f 50%, #85c4d4 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/castle-crest.html"
+        },
+        "c": [
+         "Castle Crest"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Crown Court 7"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Crown Court 7 takes the castle theme up a level for older children. Built in Play Orange, it combines a spiral slide, a swing beam and a climbing panel, so a group of children can split between three activities. The key user group is 5 to 12 years, and play covers climbing, sliding and swinging. The product area is 16'6\" x 14'9\", and the listed safe play area is 20'6\" x 20'9\", which suits a school ground or a mid-sized society play area. Capacity is listed as 15 children. Like the rest of the Castle Crest series, it has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Tell us how much open ground you have and we will check whether Crown Court 7 fits with room to spare."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/castle-crest/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Crown Court 7 ft height play station",
+    "imgSrc": "/images/Crown-Court-7ft-ht.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "502.92 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "449.58 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Because this unit has a swing, the area in front of and behind the seats needs to stay completely clear of other equipment and walkways. The frame is galvanised pipe with roto-moulded slide and panels, installed self-standing or by grouting. Lay rubber flooring under the swing and slide exit, and inspect the swing chains on a fixed schedule.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'6\" x 14'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'6\" x 20'9\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Castle Crest",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ],
+   [
+    "Crown Court 7 Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html"
+   ]
+  ],
+  "product": {
+   "name": "Crown Court 7",
+   "sku": "CASMPFS02",
+   "images": [
+    "/images/Crown-Court-7-product-image2.jpg",
+    "/images/Crown-Court-7-product-image.jpg"
+   ],
+   "description": "Crown Court 7 takes the castle theme up a level for older children. Built in Play Orange, it combines a spiral slide, a swing beam and a climbing panel, so a group of children can split between three activities. The key user group is 5 to 12 years, and play covers climbing, sliding and swinging. The product area is 16'6\" x 14'9\", and the listed safe play area is 20'6\" x 20'9\", which suits a school ground or a mid-sized society play area. Capacity is listed as 15 children. Like the rest of the Castle Crest series, it has a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Tell us how much open ground you have and we will check whether Crown Court 7 fits with room to spare.",
+   "category": "Castle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/castle-crest.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "20'6\" x 20'9\""
+    ],
+    [
+     "Length",
+     "502.92 cm"
+    ],
+    [
+     "Width",
+     "449.58 cm"
+    ],
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

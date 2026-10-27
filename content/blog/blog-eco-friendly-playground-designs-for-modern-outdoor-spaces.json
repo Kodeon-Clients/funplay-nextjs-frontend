@@ -1,0 +1,224 @@
+{
+ "path": "/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Eco-Friendly Playground Designs | FunPlay Systems",
+  "description": "Eco-friendly playground design ideas: recycled and recyclable materials, natural elements, shade and long-life equipment.",
+  "canonical": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html",
+  "robots": null,
+  "og": {
+   "og:title": "Eco-Friendly Playground Designs | FunPlay Systems",
+   "og:description": "Eco-friendly playground design ideas: recycled and recyclable materials, natural elements, shade and long-life equipment.",
+   "og:image": "https://funplaysystems.com/images/eco-friendly-images.JPG",
+   "og:url": "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html",
+   "og:type": "article",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Eco-Friendly Playground Designs | FunPlay Systems",
+   "twitter:description": "Eco-friendly playground design ideas: recycled and recyclable materials, natural elements, shade and long-life equipment.",
+   "twitter:image": "https://funplaysystems.com/images/eco-friendly-cover.JPG"
+  }
+ },
+ "h1": "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/eco-friendly-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "04 August 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent",
+   "props": {
+    "article": {
+     "slug": "eco-friendly-playground-designs-for-modern-outdoor-spaces"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "eco friendly playground design india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "sustainable outdoor play areas"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "green playground ideas"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "recycled materials playgrounds"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "nature inspired play spaces"
+      ]
+     }
+    ],
+    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+    "imgSrc": "/images/g2.jpg",
+    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "11 October 2026"
+     }
+    ],
+    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc2": "/images/about_us2.jpg",
+    "imgAlt2": "Playground Design Ideas for Small Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc3": "/images/funplay-innovative-images.JPG",
+    "imgAlt3": "Blending Play Equipment with Green Spaces",
+    "items3": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+    "https://funplaysystems.com/blog/eco-friendly-playground-designs-for-modern-outdoor-spaces.html"
+   ]
+  ],
+  "article": {
+   "headline": "Eco-Friendly Playground Designs for Modern Outdoor Spaces",
+   "description": "Eco-friendly playground design ideas: recycled and recyclable materials, natural elements, shade and long-life equipment.",
+   "image": "https://funplaysystems.com/images/eco-friendly-images.JPG",
+   "datePublished": "2025-08-04",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

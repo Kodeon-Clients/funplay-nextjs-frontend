@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Spiral Tunnel Slide (5 ft) | CoreCraft | FunPlay Systems",
+  "description": "Spiral Tunnel Slide (5 ft) (FPRS16) from the CoreCraft 5 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Spiral Tunnel Slide (5 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Spiral Tunnel Slide (5 ft) (FPRS16) from the CoreCraft 5 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-4-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Spiral Tunnel Slide (5 ft)",
+ "data": {
+  "name": "Spiral Tunnel Slide",
+  "sku": "FPRS16",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Slides-4-5foot.jpg"
+    ],
+    "alts": [
+     "Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower"
+    ]
+   }
+  ],
+  "description": "The 5 ft Spiral Tunnel Slide is a red and yellow enclosed tube that spirals down from a steel tower. Children climb the tower, step into the tunnel and disappear from view for a moment before they come out at the bottom. The enclosed tube keeps children inside the slide all the way round, and the hidden ride is a big draw for the 5 ft age group. It needs less ground than a straight tunnel slide, so it suits compact play areas in schools and societies. The tower and tube come with a 3-year warranty against manufacturing defects. Ask us for a layout drawing showing the tower, tunnel and exit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-5foot-height",
+   "Spiral Tunnel Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+  "image": "/images/Slides-4-5foot.jpg",
+  "cardImage": "/images/Slides-4-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Spiral Tunnel Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(5 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS16",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Slides-4-5foot.jpg"
+       ],
+       "alts": [
+        "Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower"
+       ]
+      }
+     ],
+     "name": "Spiral Tunnel Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower\"]",
+      "divDataImgs": "[\"/images/Slides-4-5foot.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e20e35 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-5foot-height.html"
+        },
+        "c": [
+         "Slide-5foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Spiral Tunnel Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The 5 ft Spiral Tunnel Slide is a red and yellow enclosed tube that spirals down from a steel tower. Children climb the tower, step into the tunnel and disappear from view for a moment before they come out at the bottom. The enclosed tube keeps children inside the slide all the way round, and the hidden ride is a big draw for the 5 ft age group. It needs less ground than a straight tunnel slide, so it suits compact play areas in schools and societies. The tower and tube come with a 3-year warranty against manufacturing defects. Ask us for a layout drawing showing the tower, tunnel and exit."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The tower is galvanised steel and the spiral tunnel is a weather-proof moulding. It can stand on its own base or be grouted in. Adults cannot see inside the tube, so place the exit where supervisors can watch it, keep a soft surface there, and check the tunnel joints during maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-5foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height.html"
+   ],
+   [
+    "Spiral Tunnel Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Spiral Tunnel Slide",
+   "sku": "FPRS16",
+   "images": [
+    "/images/Slides-4-5foot.jpg"
+   ],
+   "description": "The 5 ft Spiral Tunnel Slide is a red and yellow enclosed tube that spirals down from a steel tower. Children climb the tower, step into the tunnel and disappear from view for a moment before they come out at the bottom. The enclosed tube keeps children inside the slide all the way round, and the hidden ride is a big draw for the 5 ft age group. It needs less ground than a straight tunnel slide, so it suits compact play areas in schools and societies. The tower and tube come with a 3-year warranty against manufacturing defects. Ask us for a layout drawing showing the tower, tunnel and exit.",
+   "category": "5 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

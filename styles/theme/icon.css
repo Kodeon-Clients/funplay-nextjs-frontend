@@ -1,0 +1,23 @@
+/*!
+    Font Awesome
+    Version: 6.5.1
+    Plugin URL: https://fontawesome.com
+    License: Copyright 2023 Fonticons, Inc. | https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+!*/.fa-brands,.far{font-weight:400}.fa-brands,.fa-solid,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:var(--fa-display,inline-block);font-style:normal;font-variant:normal;line-height:1;text-rendering:auto}.fa-solid,.far,.fas{font-family:"Font Awesome 6 Free"}.fa-brands{font-family:"Font Awesome 6 Brands"}.fa-arrow-right::before{content:"\f061"}.fa-arrow-left::before{content:"\f060"}.fa-angle-down::before{content:"\f107"}.fa-chevron-right::before{content:"\f054"}.fa-note-sticky::before,.fa-sticky-note::before{content:"\f249"}:root{--fa-style-family-brands:"Font Awesome 6 Brands";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands";--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Free";--fa-style-family-classic:"Font Awesome 6 Free";--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Free"}.fa-facebook-f:before{content:"\f39e"}.fa-linkedin:before{content:"\f08c"}.fa-instagram:before{content:"\f16d"}.fa-youtube:before{content:"\f167"}.fa-solid,.fas{font-weight:900}.feather,[class*=" ti-"],[class*=" line-icon-"],[class^=line-icon-]{speak:none;font-weight:400;font-style:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}/*!
+    Themify
+    Version: 1.0.1
+    Plugin URL: https://themify.me/themify-icons
+    License: Themify Icons font licensed under: http://scripts.sil.org/OFL
+!*/[class*=" ti-"]{font-family:themify}/*!
+    Icons mind
+    Plugin URI: https://iconsmind.com/view_icons/
+!*/[class*=" line-icon-"],[class^=line-icon-]{font-family:icomoon}.line-icon-Archery-2:before{content:"\e634"}.line-icon-Arrow-OutRight:before{content:"\e658"}.line-icon-Bar-Chart3:before{content:"\e68e"}.line-icon-Coins:before{content:"\e79d"}.line-icon-Financial:before{content:"\e8c0"}.line-icon-Geo2-Love:before{content:"\e957"}.line-icon-Headset:before{content:"\e99e"}.line-icon-Mail-Read:before{content:"\ea82"}.line-icon-Medal-2:before{content:"\eaa5"}.line-icon-Money-Bag:before{content:"\eac7"}/*!
+    Feather
+    Plugin URL: https://feathericons.com/
+!*/.feather{font-family:feather!important}.icon-feather-arrow-left:before{content:"\e828"}.icon-feather-arrow-right:before{content:"\e829"}.icon-feather-briefcase:before{content:"\e838"}.icon-feather-chevron-down:before{content:"\e842"}.icon-feather-chevron-left:before{content:"\e843"}.icon-feather-chevron-right:before{content:"\e844"}.icon-feather-chevron-up:before{content:"\e845"}.icon-feather-minus:before{content:"\e897"}.icon-feather-plus:before{content:"\e8b1"}.icon-feather-search:before{content:"\e8bd"}.icon-feather-users:before{content:"\e8ea"}.icon-feather-send:before{content:"\e924"}/*!
+    Bootstrap Icons
+    Version: 1.11.3
+    Plugin URL: (https://icons.getbootstrap.com/)
+    License: Copyright 2019-2024 The Bootstrap Authors | Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE)
+!*/.bi::before,[class*=" bi-"]::before,[class^=bi-]::before{display:inline-block;font-family:bootstrap-icons!important;font-style:normal;font-weight:400!important;font-variant:normal;text-transform:none;line-height:1;vertical-align:-.125em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.bi-arrow-right-short::before{content:"\f135"}.bi-arrows-collapse::before{content:"\f14b"}.bi-award::before{content:"\f154"}.bi-bag-plus::before{content:"\f176"}.bi-bar-chart-line::before{content:"\f17c"}.bi-chat-quote::before{content:"\f255"}.bi-credit-card-2-back::before{content:"\f2d8"}.bi-envelope::before{content:"\f32f"}.bi-file-text::before{content:"\f3b9"}.bi-gear::before{content:"\f3e5"}.bi-geo-alt-fill::before{content:"\f3e7"}.bi-info-square::before{content:"\f433"}.bi-megaphone::before{content:"\f484"}.bi-mouse::before{content:"\f499"}.bi-sticky-fill::before{content:"\f58c"}.bi-sticky::before{content:"\f58d"}.bi-1-circle::before{content:"\f797"}.bi-2-circle::before{content:"\f79d"}.bi-3-circle::before{content:"\f7a3"}.bi-4-circle::before{content:"\f7a9"}.bi-5-circle::before{content:"\f7af"}.bi-6-circle::before{content:"\f7b5"}.bi-7-circle::before{content:"\f7bb"}.bi-8-circle::before{content:"\f7c1"}.bi-9-circle::before{content:"\f7c7"}.bi-arrows-collapse-vertical::before{content:"\f690"}
+

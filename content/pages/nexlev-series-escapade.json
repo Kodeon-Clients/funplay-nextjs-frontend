@@ -1,0 +1,276 @@
+{
+ "path": "/nexlev-series/escapade.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Adventure Play Structures | NexLev Escapade | FunPlay",
+  "description": "NexLev Escapade adventure structures: net climbers, obstacle courses and towers for ages 5–14. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/escapade.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Adventure Play Structures | NexLev Escapade | FunPlay",
+   "og:description": "NexLev Escapade adventure structures: net climbers, obstacle courses and towers for ages 5–14. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/escapade.html",
+   "og:image": "https://funplaysystems.com/images/AVIATOR-img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Escapade Adventure Play Structures",
+ "data": {
+  "cardImage": "/images/AVIATOR-img.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevEscapadeAdventurePlay",
+   "props": {
+    "h1Text": "NexLev Escapade Adventure Play Structures",
+    "h2Text": "Escapade"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Aviator aeroplane-shaped net climber with purple slides",
+        "imgSrc": "/images/AVIATOR-img.jpg",
+        "aHref": "/nexlev-series/escapade/aviator.html",
+        "aText": " View Product ",
+        "spanText": "Aviator",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "103.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "45 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #794c73 0% 33.33%, #acf33f 33.33% 66.66%, #21528d 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Combat obstacle-course play structure with climbing wall, rings and slide",
+        "imgSrc": "/images/COMBAT-img.jpg",
+        "aHref": "/nexlev-series/escapade/combat.html",
+        "aText": " View Product ",
+        "spanText": "Combat",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "59.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #288896 0% 33.33%, #b85279 33.33% 66.66%, #2d589d 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Crossette adventure play structure with wavy net bridge, tunnel and yellow slide",
+        "imgSrc": "/images/CROSSETTE-img.jpg",
+        "aHref": "/nexlev-series/escapade/crossette.html",
+        "aText": " View Product ",
+        "spanText": "Crossette",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "59.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #f04742 0% 33.33%, #ffbd04 33.33% 66.66%, #9a6caa 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Frolic adventure circuit with net climbers, stepping pods and balance beams",
+        "imgSrc": "/images/FROLIC-img.jpg",
+        "aHref": "/nexlev-series/escapade/frolic.html",
+        "aText": " View Product ",
+        "spanText": "Frolic",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "27.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #2b80d0 0% 33.33%, #2bd4eb 33.33% 66.66%, #5b9348 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "\"Image coming soon\" graphic, replace with a real product photo",
+        "imgSrc": "/images/Image-coming-soon.jpg",
+        "aHref": "/nexlev-series/escapade/frisk.html",
+        "aText": " View Product ",
+        "spanText": "Frisk",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "18.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "20 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #ff0000 0% 33.33%, #0000ff 33.33% 66.66%, #00ff00 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Tidal coastal-themed playground with climbing panels, net climber and slides",
+        "imgSrc": "/images/TIDAL-Img.jpg",
+        "aHref": "/nexlev-series/escapade/tidal.html",
+        "aText": " View Product ",
+        "spanText": "Tidal",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "61.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #ea7b74 0% 33.33%, #255a8e 33.33% 66.66%, #340c04 66.66% 100% )"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Thunder Bolt climbing course with climbing wall, ring traverse and red slide",
+      "imgSrc": "/images/THUNDER-BOLT-img.jpg",
+      "aHref": "/nexlev-series/escapade/thunder-bolt.html",
+      "aText": " View Product ",
+      "spanText": "Thunder Bolt",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "39.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "35 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #e22819 0% 33.33%, #325125 33.33% 66.66%, #000000 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Tri Trap triangle climbing frame with climbing wall, ring climber and pink slide",
+      "imgSrc": "/images/TRI-TRAP-img.jpg",
+      "aHref": "/nexlev-series/escapade/tri-trap.html",
+      "aText": " View Product ",
+      "spanText": "Tri Trap",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "13.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "20 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #e68d89 0% 33.33%, #216452 33.33% 66.66%, #d7352a 66.66% 100% )"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Escapade Adventure Play Structures",
+    "https://funplaysystems.com/nexlev-series/escapade.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Aviator Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/aviator.html"
+   ],
+   [
+    "Combat Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/combat.html"
+   ],
+   [
+    "Crossette Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/crossette.html"
+   ],
+   [
+    "Frisk Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/frisk.html"
+   ],
+   [
+    "Frolic Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/frolic.html"
+   ],
+   [
+    "Thunder Bolt Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/thunder-bolt.html"
+   ],
+   [
+    "Tidal Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/tidal.html"
+   ],
+   [
+    "Tri Trap Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/tri-trap.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,276 @@
+{
+ "path": "/funplay-originals/conceptual.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Concept Play Structures | FunPlay Originals",
+  "description": "One-of-a-kind concept play structures designed in-house by FunPlay Originals for parks, townships and landmark projects.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Concept Play Structures | FunPlay Originals",
+   "og:description": "One-of-a-kind concept play structures designed in-house by FunPlay Originals for parks, townships and landmark projects.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual.html",
+   "og:image": "https://funplaysystems.com/images/Lady-Musance-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Conceptual Play Structures",
+ "data": {
+  "cardImage": "/images/Lady-Musance-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "ConceptualPlayStructures",
+   "props": {
+    "h1Text": "Conceptual Play Structures",
+    "h2Text": "Conceptual"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Lady Musance concept illustration of a music-themed play area in a park",
+        "imgSrc": "/images/Lady-Musance-product-catalogue.jpg",
+        "aHref": "/funplay-originals/conceptual/lady-musance.html",
+        "aText": " View Product ",
+        "spanText": "Lady Musance",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d74951 0% 16.66%, #fede51 16.66% 33.33%, #7c8ca0 33.33% 50%, #134d5b 50% 66.66%, #99bebf 66.66% 83.33%, #313238 83.33% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Ground Hogs play pods on raised green platforms with child figures for scale",
+        "imgSrc": "/images/Ground-Hogs-product-catalogue.jpg",
+        "aHref": "/funplay-originals/conceptual/ground-hogs.html",
+        "aText": " View Product ",
+        "spanText": "Ground Hogs",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #5d361e 0% 33.33%, #c7bb88 33.33% 66.66%, #8d976b 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "City Strange concept illustration with tube slides, cage tower and house panels",
+        "imgSrc": "/images/City-Strange-product-catalogue2.jpg",
+        "aHref": "/funplay-originals/conceptual/city-strange.html",
+        "aText": " View Product ",
+        "spanText": "City Strange",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #4cb2d6 0% 33.33%, #b9152e 33.33% 66.66%, #354777 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Chidiyaan concept illustration with bird-faced dome climber and slides",
+        "imgSrc": "/images/Chidiyaan-product-catalogue.jpg",
+        "aHref": "/funplay-originals/conceptual/chidiyaan.html",
+        "aText": " View Product ",
+        "spanText": "Chidiyaan",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d5003e 0% 33.33%, #2765c9 33.33% 66.66%, #e0ca47 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Witchs Enchantment concept illustration with cauldron climber, lantern tower and slides",
+        "imgSrc": "/images/Witchs-Enchantment-product-catalogue.jpg",
+        "aHref": "/funplay-originals/conceptual/witchs-enchantment.html",
+        "aText": " View Product ",
+        "spanText": "Witchs Enchantment",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #317162 0% 20%, #59b7c9 20% 40%, #3a28b6 40% 60%, #cf3301 60% 80%, #23170d 80% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Limlet play cluster with arch climber, slide, nest swing and spinner on a purple surface",
+        "imgSrc": "/images/Limlet-product-catalogue2.jpg",
+        "aHref": "/funplay-originals/conceptual/limlet.html",
+        "aText": " View Product ",
+        "spanText": "Limlet",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #e0b24a 50%, #d83609 50% )"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Junk Park ice-cream-themed play area with cone climber and cup slide",
+      "imgSrc": "/images/Junk-Park-product-catalogue.jpg",
+      "aHref": "/funplay-originals/conceptual/junk-park.html",
+      "aText": " View Product ",
+      "spanText": "Junk Park",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "NA",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #c8687b 0% 25%, #5cc6e4 25% 50%, #8f94cd 50% 75%, #d2cc00 75% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Flamingo Park concept sketch with red curved climbers, net and seating on a blue base",
+      "imgSrc": "/images/Flamingo-Park-product-catalogue2.jpg",
+      "aHref": "/funplay-originals/conceptual/flamingo-park.html",
+      "aText": " View Product ",
+      "spanText": "Flamingo Park",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "NA",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #d40726 0% 33.33%, #416d71 33.33% 66.66%, #ba6d18 66.66% 100% )"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual Play Structures",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Chidiyaan Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html"
+   ],
+   [
+    "City Strange Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html"
+   ],
+   [
+    "Flamingo Park Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html"
+   ],
+   [
+    "Ground Hogs Play Pods",
+    "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html"
+   ],
+   [
+    "Junk Park Play Area",
+    "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html"
+   ],
+   [
+    "Lady Musance Music Play Concept",
+    "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html"
+   ],
+   [
+    "Limlet Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/limlet.html"
+   ],
+   [
+    "Witchs Enchantment Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/witchs-enchantment.html"
+   ]
+  ]
+ }
+}

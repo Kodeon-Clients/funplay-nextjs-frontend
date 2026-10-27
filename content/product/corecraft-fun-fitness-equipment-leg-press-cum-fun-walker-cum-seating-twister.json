@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Press Cum Fun Walker Cum Seating Twister | Outdoor Gym",
+  "description": "Leg Press Cum Fun Walker Cum Seating Twister Outdoor Gym Equipment (FFE013) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Press Cum Fun Walker Cum Seating Twister | Outdoor Gym",
+   "og:description": "Leg Press Cum Fun Walker Cum Seating Twister Outdoor Gym Equipment (FFE013) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Press Cum Fun Walker Cum Seating Twister Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Press Cum Fun Walker Cum Seating Twister",
+  "sku": "FFE013",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Press Cum Fun Walker Cum Seating Twister outdoor gym combo with leg press, air walker and seating station"
+    ]
+   }
+  ],
+  "description": "This three-in-one frame puts a leg press, an air walker and a seated twister together. One person pushes the footplates away on the leg press, another walks on the swinging pedals, and a third turns the hips on the seating station. Three users of different strength levels can train at once, which suits a society or park that has room for only one machine. The Leg Press Cum Fun Walker Cum Seating Twister comes in Play Orange and is part of our Fun Fitness range. We share its dimensions with the quote. Our usual cover for this kind of machine is 3 years on galvanised pipes and 1 year on bearings, and we will confirm it in your quote. Ask us for a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Press Cum fun Walker Cum Seating Twister"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg",
+  "cardImage": "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Press Cum Fun Walker Cum Seating Twister ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE013",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Press Cum Fun Walker Cum Seating Twister outdoor gym combo with leg press, air walker and seating station"
+       ]
+      }
+     ],
+     "name": "Leg Press Cum Fun Walker Cum Seating Twister"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Press Cum Fun Walker Cum Seating Twister outdoor gym combo with leg press, air walker and seating station\"]",
+      "divDataImgs": "[\"/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Press Cum fun Walker Cum Seating Twister"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "This three-in-one frame puts a leg press, an air walker and a seated twister together. One person pushes the footplates away on the leg press, another walks on the swinging pedals, and a third turns the hips on the seating station. Three users of different strength levels can train at once, which suits a society or park that has room for only one machine. The Leg Press Cum Fun Walker Cum Seating Twister comes in Play Orange and is part of our Fun Fitness range. We share its dimensions with the quote. Our usual cover for this kind of machine is 3 years on galvanised pipes and 1 year on bearings, and we will confirm it in your quote. Ask us for a layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Three moving stations on one frame means three sets of bearings to check, so put this combination on a regular service schedule. The frame is usually grouted. Leave enough space around each station that the walker's swing and the leg press arm do not reach into each other's users."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Press Cum Fun Walker Cum Seating Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Press Cum Fun Walker Cum Seating Twister",
+   "sku": "FFE013",
+   "images": [
+    "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-image.jpg"
+   ],
+   "description": "This three-in-one frame puts a leg press, an air walker and a seated twister together. One person pushes the footplates away on the leg press, another walks on the swinging pedals, and a third turns the hips on the seating station. Three users of different strength levels can train at once, which suits a society or park that has room for only one machine. The Leg Press Cum Fun Walker Cum Seating Twister comes in Play Orange and is part of our Fun Fitness range. We share its dimensions with the quote. Our usual cover for this kind of machine is 3 years on galvanised pipes and 1 year on bearings, and we will confirm it in your quote. Ask us for a layout.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

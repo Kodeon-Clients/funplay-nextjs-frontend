@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/pendulum.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Pendulum Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Pendulum Outdoor Gym Equipment (FFE021S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/pendulum.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Pendulum Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Pendulum Outdoor Gym Equipment (FFE021S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/pendulum.html",
+   "og:image": "https://funplaysystems.com/images/Pendulum-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Pendulum Outdoor Gym Equipment",
+ "data": {
+  "name": "Pendulum",
+  "sku": "FFE021S",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Pendulum-product-image.jpg"
+    ],
+    "alts": [
+     "Pendulum single-user outdoor pendulum swing exerciser with orange footplate"
+    ]
+   }
+  ],
+  "description": "Our single Pendulum is a one-person swing step with an orange footplate. The user holds the handlebar, keeps the feet together on the plate and swings the lower body from side to side. It is a gentle mobility exercise for the waist and hips that many older users like after a walk. Because it takes up little space, a single Pendulum suits a terrace garden, a hospital campus or the edge of a jogging track. It is finished in Play Orange. Its footprint and warranty terms come with your quotation. Our usual terms are 3 years on galvanised pipes and 1 year on bearings and spare parts, and we will confirm them for this machine. Send us your site photos for a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Pendulum"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Pendulum-product-image.jpg",
+  "cardImage": "/images/Pendulum-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Pendulum ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE021S",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Pendulum-product-image.jpg"
+       ],
+       "alts": [
+        "Pendulum single-user outdoor pendulum swing exerciser with orange footplate"
+       ]
+      }
+     ],
+     "name": "Pendulum"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Pendulum single-user outdoor pendulum swing exerciser with orange footplate\"]",
+      "divDataImgs": "[\"/images/Pendulum-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Pendulum"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Our single Pendulum is a one-person swing step with an orange footplate. The user holds the handlebar, keeps the feet together on the plate and swings the lower body from side to side. It is a gentle mobility exercise for the waist and hips that many older users like after a walk. Because it takes up little space, a single Pendulum suits a terrace garden, a hospital campus or the edge of a jogging track. It is finished in Play Orange. Its footprint and warranty terms come with your quotation. Our usual terms are 3 years on galvanised pipes and 1 year on bearings and spare parts, and we will confirm them for this machine. Send us your site photos for a layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "One bearing carries the swing, so it should be greased and checked for wobble at each service. The Pendulum can be fixed self-standing on a firm slab or grouted into soil. Keep a clear zone on both sides for the swing."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Pendulum Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/pendulum.html"
+   ]
+  ],
+  "product": {
+   "name": "Pendulum",
+   "sku": "FFE021S",
+   "images": [
+    "/images/Pendulum-product-image.jpg"
+   ],
+   "description": "Our single Pendulum is a one-person swing step with an orange footplate. The user holds the handlebar, keeps the feet together on the plate and swings the lower body from side to side. It is a gentle mobility exercise for the waist and hips that many older users like after a walk. Because it takes up little space, a single Pendulum suits a terrace garden, a hospital campus or the edge of a jogging track. It is finished in Play Orange. Its footprint and warranty terms come with your quotation. Our usual terms are 3 years on galvanised pipes and 1 year on bearings and spare parts, and we will confirm them for this machine. Send us your site photos for a layout.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

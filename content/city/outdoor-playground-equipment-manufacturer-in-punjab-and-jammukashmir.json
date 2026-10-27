@@ -1,0 +1,300 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-punjab-and-jammukashmir.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment in Punjab & Jammu and Kashmir | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Punjab & Jammu and Kashmir. Made in our Vasai factory. Get a free.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-punjab-and-jammukashmir.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Punjab & Jammu and Kashmir. Made in our Vasai factory. Get a free.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-punjab-and-jammukashmir.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Punjab & Jammu and Kashmir",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Punjab & Jammu and Kashmir"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Punjab is flat, fertile and well connected by road, which makes it a straightforward state for us to supply. FunPlay Systems designs and manufactures outdoor playground equipment for schools, housing societies, municipal parks, gurdwara and temple trusts, farmhouses and hotels in Punjab, and for sites in Jammu and Kashmir further north."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Ludhiana is an industrial city with many private schools and new housing colonies. Amritsar has the Golden Temple, a steady flow of visitors and hotels that want a play area for families. Jalandhar is known for sports goods and has schools with large playing fields, and Patiala and Mohali have colleges and planned residential areas. We build all equipment at our factory in Vasai, near Mumbai, and send it by road. Our installation team or a dealer in north India installs it, grouted or self-standing. For Jammu and Kashmir, where snow and the short building season change the plan, we have a separate page, linked below."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Heat, winter fog and school grounds",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Punjab summers are very hot and dry, and winters are cold with dense fog. Metal slides heat up quickly in May and June, so roto-moulded slides and decks are a better choice for open school grounds. Plant trees on the west side of the play area if you can. In winter, fog leaves surfaces damp in the morning, so rubber flooring under swings and climbers helps."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Schools here often want equipment that a whole class can use at once. A multi play system from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands.html"
+           },
+           "c": [
+            "Play Lands range"
+           ]
+          },
+          " combines slides, climbers and decks in one structure. Ludhiana buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-ludhiana.html"
+           },
+           "c": [
+            "playground page for Ludhiana"
+           ]
+          },
+          ", Amritsar buyers our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-amritsar.html"
+           },
+           "c": [
+            "playground page for Amritsar"
+           ]
+          },
+          ", and buyers in the north our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-jammu-and-kashmir.html"
+           },
+           "c": [
+            "playground page for Jammu and Kashmir"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Punjab & Jammu and Kashmir",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can a gurdwara or temple trust order playground equipment?",
+       "a": "Yes. Trusts often add a small play area in the garden or near the community hall. Share the space available and photos, and we will suggest equipment and send a layout drawing."
+      },
+      {
+       "q": "Is roto-moulded plastic better than metal in Punjab's summer?",
+       "a": "For slides and decks in full sun, yes. Roto-moulded plastic does not get as hot to the touch as bare metal. Our posts and frames are galvanised steel for strength."
+      },
+      {
+       "q": "Do you install playgrounds in smaller Punjab towns?",
+       "a": "Yes. Punjab has good road links, so we can reach most towns and villages. Our team or a dealer in north India installs the equipment after dispatch from Vasai."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Punjab And Jammukashmir Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Punjab & Jammu and Kashmir",
+    "h2Text": "Cities we supply in Punjab & Jammu and Kashmir",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-amritsar.html"
+        },
+        "c": [
+         "Playground equipment in Amritsar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jalandhar.html"
+        },
+        "c": [
+         "Playground equipment in Jalandhar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ludhiana.html"
+        },
+        "c": [
+         "Playground equipment in Ludhiana"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-patiala.html"
+        },
+        "c": [
+         "Playground equipment in Patiala"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-phagwara.html"
+        },
+        "c": [
+         "Playground equipment in Phagwara"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-srinagar.html"
+        },
+        "c": [
+         "Playground equipment in Srinagar"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Playground Equipment in Punjab & Jammu and Kashmir",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-punjab-and-jammukashmir.html"
+   ]
+  ],
+  "service": {
+   "name": "Playground Equipment in Punjab & Jammu and Kashmir",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Punjab & Jammu and Kashmir"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Punjab & Jammu and Kashmir. Made in our Vasai factory. Get a free."
+  },
+  "faq": [
+   [
+    "Can a gurdwara or temple trust order playground equipment?",
+    "Yes. Trusts often add a small play area in the garden or near the community hall. Share the space available and photos, and we will suggest equipment and send a layout drawing."
+   ],
+   [
+    "Is roto-moulded plastic better than metal in Punjab's summer?",
+    "For slides and decks in full sun, yes. Roto-moulded plastic does not get as hot to the touch as bare metal. Our posts and frames are galvanised steel for strength."
+   ],
+   [
+    "Do you install playgrounds in smaller Punjab towns?",
+    "Yes. Punjab has good road links, so we can reach most towns and villages. Our team or a dealer in north India installs the equipment after dispatch from Vasai."
+   ]
+  ]
+ }
+}

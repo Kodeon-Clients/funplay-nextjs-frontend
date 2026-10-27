@@ -1,0 +1,333 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Visakhapatnam | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Visakhapatnam. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Visakhapatnam | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Visakhapatnam. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Visakhapatnam",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection3",
+   "props": {}
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Visakhapatnam"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Visakhapatnam's beach road parks and hillside viewpoints draw large crowds of families every evening, and a single small slide gets lost in spaces that size. Larger parks here need a feature structure that children can spot from across the lawn. FunPlay Systems makes outdoor playground equipment for such parks, and for schools, townships and housing projects in Vizag, at our factory in Vasai East, about 1,110 km away."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Vizag is a port and naval city with a steel plant and a growing residential belt, set between the Eastern Ghats and the Bay of Bengal. It is warm and humid all year, with salt air along the coast and cyclones in some years. We ship by road from Vasai, and installation is by our own team or a south Indian dealer. Send the size of the park and photos, and we will propose a layout with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Feature play towers for large public parks",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "For a big park, one large structure from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev Series"
+           ]
+          },
+          ", such as an ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series/escapade.html"
+           },
+           "c": [
+            "Escapade"
+           ]
+          },
+          " adventure structure, can serve as the centrepiece, with smaller stations around it for younger children. A large structure gives many children something to do at once and is easy for parents to keep in view."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "On a site exposed to sea winds, grout the posts and choose galvanised steel and roto-moulded parts, which do not rust in salt air. Rinse the equipment with fresh water after windy spells. Keep beach sand out of the play zone where you can, since sand wears moving parts. For park walkers, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-visakhapatnam.html"
+           },
+           "c": [
+            "Visakhapatnam outdoor gym page"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Visakhapatnam",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,110 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Visakhapatnam",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-visakhapatnam.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "What equipment works for a large public park?",
+       "a": "A large feature structure, such as one from our NexLev Series, with smaller play stations, swings and spring riders around it. This spreads the crowd and gives each age group its own space."
+      },
+      {
+       "q": "How do we protect equipment near the beach?",
+       "a": "Choose galvanised steel and roto-moulded parts, grout the posts and rinse with fresh water from time to time. Keep loose beach sand out of the play zone where possible."
+      },
+      {
+       "q": "Do you install in Visakhapatnam?",
+       "a": "Yes. We deliver by road from Vasai East and install with our own team or a dealer in south India."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+    "aText": "Karnataka & Andhra Pradesh",
+    "spanText": "Visakhapatnam",
+    "h2Text": "Playground equipment suppliers near Visakhapatnam",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-vijayanagaram.html"
+        },
+        "c": [
+         "Playground equipment in Vijayanagaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-srikakulam.html"
+        },
+        "c": [
+         "Playground equipment in Srikakulam"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kakinada.html"
+        },
+        "c": [
+         "Playground equipment in Kakinada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-rajahmundry.html"
+        },
+        "c": [
+         "Playground equipment in Rajahmundry"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tadepalligudem.html"
+        },
+        "c": [
+         "Playground equipment in Tadepalligudem"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Karnataka & Andhra Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Karnataka & Andhra Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Visakhapatnam",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Visakhapatnam",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Visakhapatnam. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "What equipment works for a large public park?",
+    "A large feature structure, such as one from our NexLev Series, with smaller play stations, swings and spring riders around it. This spreads the crowd and gives each age group its own space."
+   ],
+   [
+    "How do we protect equipment near the beach?",
+    "Choose galvanised steel and roto-moulded parts, grout the posts and rinse with fresh water from time to time. Keep loose beach sand out of the play zone where possible."
+   ],
+   [
+    "Do you install in Visakhapatnam?",
+    "Yes. We deliver by road from Vasai East and install with our own team or a dealer in south India."
+   ]
+  ]
+ }
+}

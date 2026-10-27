@@ -1,0 +1,187 @@
+{
+ "path": "/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playgrounds in India: Access to Play for Every Child",
+  "description": "Why many Indian children lack safe places to play and what governments, schools, builders and communities can do about it.",
+  "canonical": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "Playgrounds in India: Access to Play for Every Child",
+   "og:description": "Why many Indian children lack safe places to play and what governments, schools, builders and communities can do about it.",
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html",
+   "og:image": "https://funplaysystems.com/images/playground-india-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Playgrounds in India: Access to Play for Every Child",
+   "twitter:description": "Why many Indian children lack safe places to play and what governments, schools, builders and communities can do about it.",
+   "twitter:image": "https://funplaysystems.com/images/playgrounds-india-cover.JPG"
+  }
+ },
+ "h1": "Playgrounds in India: How We Can Ensure All Children Have Access to Play",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/playgrounds-india-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "21 July 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Playgrounds in India: How We Can Ensure All Children Have Access to Play",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent2",
+   "props": {
+    "article": {
+     "slug": "playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "playgrounds in india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "safe play areas for children"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "inclusive playground design india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "urban and rural play spaces"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "access to playgrounds for all"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Playgrounds in India: How We Can Ensure All Children Have Access to Play",
+    "https://funplaysystems.com/blog/playgrounds-in-india-how-we-can-ensure-all-children-have-access-to-play.html"
+   ]
+  ],
+  "article": {
+   "headline": "Playgrounds in India: How We Can Ensure All Children Have Access to Play",
+   "description": "Why many Indian children lack safe places to play and what governments, schools, builders and communities can do about it.",
+   "image": "https://funplaysystems.com/images/playground-india-images.JPG",
+   "datePublished": "2025-07-21",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

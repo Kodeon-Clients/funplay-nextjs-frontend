@@ -1,0 +1,89 @@
+{
+ "path": "/projects/turquoise-grandeure.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Turquoise Grandeure, Gujarat: Playground Project | FunPlay",
+  "description": "Photos of the outdoor play and leisure area FunPlay Systems built for Turquoise Grandeure in Gujarat. Playground equipment for a residential project.",
+  "canonical": "https://funplaysystems.com/projects/turquoise-grandeure.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/JungleJive-Level1-product-catalogue.jpg",
+  "project": {
+   "title": "Turquoise Grandeure",
+   "location": "GUJARAT"
+  }
+ },
+ "sections": [
+  {
+   "component": "TurquoiseGrandeure",
+   "props": {
+    "h1Text": "Turquoise Grandeure",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "GUJARAT"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "An outdoor play and leisure space that brings families together at Turquoise Grandeure in Gujarat."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "aText": " View Product ",
+    "spanText": "Jungle Jive l1",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "18.3M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS"
+   }
+  }
+ ],
+ "h1": "Turquoise Grandeure",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Turquoise Grandeure",
+    "https://funplaysystems.com/projects/turquoise-grandeure.html"
+   ]
+  ],
+  "project": {
+   "name": "Turquoise Grandeure",
+   "location": "GUJARAT"
+  }
+ }
+}

@@ -1,0 +1,382 @@
+{
+ "path": "/nexlev-series/woody.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Wooden Playground Equipment | NexLev Woody | FunPlay",
+  "description": "NexLev Woody wooden playground equipment: play houses, swings, see saws, benches and merry-go-rounds. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/woody.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Wooden Playground Equipment | NexLev Woody | FunPlay",
+   "og:description": "NexLev Woody wooden playground equipment: play houses, swings, see saws, benches and merry-go-rounds. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/woody.html",
+   "og:image": "https://funplaysystems.com/images/BAOBAB-Img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Woody Wooden Playground Equipment",
+ "data": {
+  "cardImage": "/images/BAOBAB-Img.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevWoodyWoodenPlayground",
+   "props": {
+    "h1Text": "NexLev Woody Wooden Playground Equipment",
+    "h2Text": "Woody"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Baobab wooden park bench with brown slats and black steel legs",
+        "imgSrc": "/images/BAOBAB-Img.jpg",
+        "aHref": "/nexlev-series/woody/baobab.html",
+        "aText": " View Product ",
+        "spanText": "Baobab",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "1.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "04 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #491a10 0% 33.33%, #491a10 33.33% 66.66%, #491a10 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Beaber wooden play houses with green and purple tube slides and rope bridge",
+        "imgSrc": "/images/BEABER-Img.jpg",
+        "aHref": "/nexlev-series/woody/beaber.html",
+        "aText": " View Product ",
+        "spanText": "Beaber",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "58.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "40 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #714882 0% 33.33%, #48d332 33.33% 66.66%, #6f3424 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Colga wooden tower playground with climbing panels, slides and swing set",
+        "imgSrc": "/images/COLGA-Img.jpg",
+        "aHref": "/nexlev-series/woody/colga.html",
+        "aText": " View Product ",
+        "spanText": "Colga",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "65.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #a9f806 0% 33.33%, #37d9f2 33.33% 66.66%, #8b5938 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Conifer wooden play station with slides, climbing panel and rope bridge",
+        "imgSrc": "/images/CONIFER-Img.jpg",
+        "aHref": "/nexlev-series/woody/conifer.html",
+        "aText": " View Product ",
+        "spanText": "Conifer",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "31.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "25 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #0d69b2 0% 33.33%, #c22214 33.33% 66.66%, #431b11 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "El Dorado play frame with red slide, rope net and ring climbers",
+        "imgSrc": "/images/EL-DORADO-img.jpg",
+        "aHref": "/nexlev-series/woody/el-dorado.html",
+        "aText": " View Product ",
+        "spanText": "El Dorado",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "34.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "25 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #c3271a 0% 33.33%, #c3271a 33.33% 66.66%, #c3271a 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Montana wooden play tower with tube slide, net climber, climbing wall and swing",
+        "imgSrc": "/images/MONTANA-Img.jpg",
+        "aHref": "/nexlev-series/woody/montana.html",
+        "aText": " View Product ",
+        "spanText": "Montana",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "59.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "45 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #2369a5 0% 33.33%, #ed9a00 33.33% 66.66%, #e4d498 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Skuhoom wooden play frame with climbing walls, slide, swings and monkey bars",
+        "imgSrc": "/images/SKUHOOM-Img.jpg",
+        "aHref": "/nexlev-series/woody/skuhoom.html",
+        "aText": " View Product ",
+        "spanText": "Skuhoom",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "101.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "45 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #452111 0% 33.33%, #452111 33.33% 66.66%, #452111 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Sundarban wooden play house with green slide, climbing wall and nest swing",
+        "imgSrc": "/images/SUNDARBAN-Img.jpg",
+        "aHref": "/nexlev-series/woody/sundarban.html",
+        "aText": " View Product ",
+        "spanText": "Sundarban",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "21.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "25 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #5a2215 0% 33.33%, #335c24 33.33% 66.66%, #e09721 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Teton wooden play tower with green roof, double slide and monkey bars",
+        "imgSrc": "/images/TETON-Img.jpg",
+        "aHref": "/nexlev-series/woody/teton.html",
+        "aText": " View Product ",
+        "spanText": "Teton",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "49.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "25 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #38572b 0% 33.33%, #c6ff50 33.33% 66.66%, #441f16 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Toss wooden see saw with mango yellow seats and tyre stops",
+        "imgSrc": "/images/TOSS-Img.jpg",
+        "aHref": "/nexlev-series/woody/toss.html",
+        "aText": " View Product ",
+        "spanText": "Toss",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "1.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "02 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #f6a74b 0% 33.33%, #5a2f1e 33.33% 66.66%, #86878b 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Woody Go Round wooden merry-go-round with red and yellow hand rails",
+        "imgSrc": "/images/WOODY-GO-ROUND-Img.jpg",
+        "aHref": "/nexlev-series/woody/woody-go-round.html",
+        "aText": " View Product ",
+        "spanText": "Woody Go Round",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "3.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "08 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #ffbf1f 0% 33.33%, #d61917 33.33% 66.66%, #481c11 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Wiggle wooden A-frame swing with two nest seats",
+        "imgSrc": "/images/Wiggle-product-cat.jpg",
+        "aHref": "/nexlev-series/woody/wiggle.html",
+        "aText": " View Product ",
+        "spanText": "Wiggle",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "18.8M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "02 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #ff5f19 0% 33.33%, #5f3122 33.33% 66.66%, #292929 66.66% 100% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Woody Wooden Playground Equipment",
+    "https://funplaysystems.com/nexlev-series/woody.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Baobab Park Bench",
+    "https://funplaysystems.com/nexlev-series/woody/baobab.html"
+   ],
+   [
+    "Beaber Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/beaber.html"
+   ],
+   [
+    "Colga Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/colga.html"
+   ],
+   [
+    "Conifer Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/conifer.html"
+   ],
+   [
+    "El Dorado Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/el-dorado.html"
+   ],
+   [
+    "Montana Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/montana.html"
+   ],
+   [
+    "Skuhoom Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/skuhoom.html"
+   ],
+   [
+    "Sundarban Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/sundarban.html"
+   ],
+   [
+    "Teton Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/teton.html"
+   ],
+   [
+    "Toss See Saw",
+    "https://funplaysystems.com/nexlev-series/woody/toss.html"
+   ],
+   [
+    "Wiggle Swing",
+    "https://funplaysystems.com/nexlev-series/woody/wiggle.html"
+   ],
+   [
+    "Woody Go Round Merry-Go-Round",
+    "https://funplaysystems.com/nexlev-series/woody/woody-go-round.html"
+   ]
+  ]
+ }
+}

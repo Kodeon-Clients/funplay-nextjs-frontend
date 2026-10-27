@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/dino-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Dino Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Dino Spring Rider (FPSR04) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dino-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Dino Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Dino Spring Rider (FPSR04) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dino-rider.html",
+   "og:image": "https://funplaysystems.com/images/Spring-Riders-4.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Dino Spring Rider",
+ "data": {
+  "name": "Dino Spring Rider",
+  "sku": "FPSR04",
+  "colours": [
+   {
+    "name": "Forest Green",
+    "swatch": "background-color: #325d54",
+    "images": [
+     "/images/Spring-Riders-4.jpg"
+    ],
+    "alts": [
+     "Dino Rider green dinosaur-shaped spring rider for kids"
+    ]
+   }
+  ],
+  "description": "A Forest Green dinosaur sits on a spring in the Dino Spring Rider. Children climb on its back, hold on and bounce or rock, often roaring along as they go. Dinosaurs are a favourite theme with young children, so the Dino Rider is popular in play schools and society toddler areas. Like our other spring riders, it gives small children a gentle way to practise balance close to the ground. It pairs well with our Aeroplane Rider, which shares the same Forest Green colour, if you want a matching set. The roto-moulded dinosaur comes with a 3-year warranty, and the spring with 1 year. Ask us to add it to your layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Dino Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/Spring-Riders-4.jpg",
+  "cardImage": "/images/Spring-Riders-4.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Dino Spring Rider"
+    ],
+    "pText": "FPSR04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Forest Green",
+       "swatch": "background-color: #325d54",
+       "images": [
+        "/images/Spring-Riders-4.jpg"
+       ],
+       "alts": [
+        "Dino Rider green dinosaur-shaped spring rider for kids"
+       ]
+      }
+     ],
+     "name": "Dino Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Dino Rider green dinosaur-shaped spring rider for kids\"]",
+      "divDataImgs": "[\"/images/Spring-Riders-4.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#325d54"
+      },
+      "divText": "",
+      "spanText": "Forest Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Dino Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "A Forest Green dinosaur sits on a spring in the Dino Spring Rider. Children climb on its back, hold on and bounce or rock, often roaring along as they go. Dinosaurs are a favourite theme with young children, so the Dino Rider is popular in play schools and society toddler areas. Like our other spring riders, it gives small children a gentle way to practise balance close to the ground. It pairs well with our Aeroplane Rider, which shares the same Forest Green colour, if you want a matching set. The roto-moulded dinosaur comes with a 3-year warranty, and the spring with 1 year. Ask us to add it to your layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The dinosaur body is roto-moulded and does not rust in wet weather. Its spring is fixed to the ground by grouting or a self-standing base. Leave room around the rider for its movement, use rubber flooring underneath, and inspect the spring and handholds regularly."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Dino Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dino-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Dino Spring Rider",
+   "sku": "FPSR04",
+   "images": [
+    "/images/Spring-Riders-4.jpg"
+   ],
+   "description": "A Forest Green dinosaur sits on a spring in the Dino Spring Rider. Children climb on its back, hold on and bounce or rock, often roaring along as they go. Dinosaurs are a favourite theme with young children, so the Dino Rider is popular in play schools and society toddler areas. Like our other spring riders, it gives small children a gentle way to practise balance close to the ground. It pairs well with our Aeroplane Rider, which shares the same Forest Green colour, if you want a matching set. The roto-moulded dinosaur comes with a 3-year warranty, and the spring with 1 year. Ask us to add it to your layout.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Forest Green"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Forest Green"
+    ]
+   ]
+  }
+ }
+}

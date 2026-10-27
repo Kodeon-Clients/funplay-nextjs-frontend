@@ -1,0 +1,70 @@
+{
+ "path": "/projects/dindigul-resorts-tamil-nadu.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Resort Playground Project in Dindigul, Tamil Nadu | FunPlay",
+  "description": "Photos of the outdoor playground FunPlay Systems supplied and installed for a resort in Dindigul, Tamil Nadu. Play units chosen for guests of every age.",
+  "canonical": "https://funplaysystems.com/projects/dighe-garden.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": null,
+  "project": {
+   "title": "Dindigul Resorts",
+   "location": "TAMIL NADU"
+  }
+ },
+ "sections": [
+  {
+   "component": "DindigulResorts",
+   "props": {
+    "h1Text": "Dindigul Resorts",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "TAMIL NADU"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "An outdoor play area for a resort in Dindigul, built to keep young guests busy while families relax."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  }
+ ],
+ "h1": "Dindigul Resorts",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Dindigul Resorts",
+    "https://funplaysystems.com/projects/dindigul-resorts-tamil-nadu.html"
+   ]
+  ],
+  "project": {
+   "name": "Dindigul Resorts",
+   "location": "TAMIL NADU"
+  }
+ }
+}

@@ -1,7 +1,7 @@
 """Keyword map: one primary keyword per indexable page, plus the Search Console queries (last 12
 months) assigned to the page that should rank for them. Output: docs/keyword-map.xlsx (+ .csv)
 
-Usage: python3 -I tools/keyword_map.py <site-content-dir> <out-dir>"""
+Usage: python3 -I tools/keyword_map.py tools/records <out-dir>   (the page records, which keep the full page text)"""
 import csv, glob, json, os, re, sys, collections
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment

@@ -1,14 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
-import { imageInfo, srcSetFor } from "@/lib/render";
+import { imageInfo, srcSetFor } from "@/components/ui/Img";
 
 type Project = { title: string; location: string; image: string; link: string; map: string };
 
 /** Project cards for /Projects.html (the original built these in the browser from a script). */
-export default function ProjectsGrid({ className }: { className?: string }) {
+export default function ProjectsGrid({ className, id = "projects-container" }: { className?: string; id?: string }) {
   const projects: Project[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), "content", "projects-grid.json"), "utf8"));
   return (
-    <div className={className || "row"} id="projects-container">
+    <div className={className || "row"} id={id}>
       {projects.map((p) => {
         const info = imageInfo(p.image);
         return (

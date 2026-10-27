@@ -1,0 +1,759 @@
+{
+ "path": "/funplay-originals/nature-sparsh/card-pyramid.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Card Pyramid Nature Play Station | FunPlay Systems",
+  "description": "Card Pyramid Nature Play Station (FONS06), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Card Pyramid Nature Play Station | FunPlay Systems",
+   "og:description": "Card Pyramid Nature Play Station (FONS06), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html",
+   "og:image": "https://funplaysystems.com/images/Card-Pyramid.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Card Pyramid Nature Play Station",
+ "data": {
+  "name": "Card Pyramid",
+  "sku": "FONS06",
+  "colours": [
+   {
+    "name": "Banana Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ecd217 50%,\n                    #ce0c40 50%\n                  );\n                ",
+    "images": [
+     "/images/Card-Pyramid.jpg",
+     "/images/Card-Pyramid-2.jpg",
+     "/images/Card-Pyramid-3.jpg",
+     "/images/Card-Pyramid-4.jpg",
+     "/images/Card-Pyramid-5.jpg",
+     "/images/Card-Pyramid-6.jpg",
+     "/images/Card-Pyramid-7.jpg",
+     "/images/Card-Pyramid-8.jpg",
+     "/images/Card-Pyramid-9.jpg",
+     "/images/Card-Pyramid-10.jpg",
+     "/images/Card-Pyramid-11.jpg"
+    ],
+    "alts": [
+     "Card Pyramid A-frame pyramid climbing structure with rope nets",
+     "Card Pyramid triangular card-house play tower in banana yellow and red",
+     "Card Pyramid A-shaped card pyramid climber with climbing wall and wavy holds",
+     "Front view of Card Pyramid yellow and red triangular climbing tower",
+     "Top view of Card Pyramid on a round purple safety surface",
+     "Rear view of Card Pyramid A-frame with rope net climbers and red triangle panel",
+     "Card Pyramid card-house pyramid climber on a round safety surface",
+     "Close view of Card Pyramid climbing wall with wavy holds and red panels",
+     "Inside view of Card Pyramid yellow panel with climbing holds and handle",
+     "Front view of Card Pyramid triangular play tower in yellow and red",
+     "Close view of Card Pyramid yellow climbing wall with blue wavy handholds"
+    ]
+   }
+  ],
+  "description": "Card Pyramid builds a house of playing cards at child scale. The triangular A-frame tower is Banana Yellow and red, with rope nets, a climbing wall and wavy holds on its faces. Children climb up one side, work out a route over the top and come down the other, which builds problem solving, strategy and body strength. There is sliding as well as climbing. The tower is narrow, with a product area of 12'7\" x 3'11\" and a safe play area of 17'7\" x 8'11\", and it takes up to 15 children aged 5 to 12. That slim shape lets a school fit it along a corridor of open ground. Its pipes, laminates and rope carry our 3-year warranty. Send us photos of the space.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Card Pyramind"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Card-Pyramid.jpg",
+  "cardImage": "/images/Card-Pyramid.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#c7c7df",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Card Pyramid ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ecd217 50%,\n                    #ce0c40 50%\n                  );\n                ",
+       "images": [
+        "/images/Card-Pyramid.jpg",
+        "/images/Card-Pyramid-2.jpg",
+        "/images/Card-Pyramid-3.jpg",
+        "/images/Card-Pyramid-4.jpg",
+        "/images/Card-Pyramid-5.jpg",
+        "/images/Card-Pyramid-6.jpg",
+        "/images/Card-Pyramid-7.jpg",
+        "/images/Card-Pyramid-8.jpg",
+        "/images/Card-Pyramid-9.jpg",
+        "/images/Card-Pyramid-10.jpg",
+        "/images/Card-Pyramid-11.jpg"
+       ],
+       "alts": [
+        "Card Pyramid A-frame pyramid climbing structure with rope nets",
+        "Card Pyramid triangular card-house play tower in banana yellow and red",
+        "Card Pyramid A-shaped card pyramid climber with climbing wall and wavy holds",
+        "Front view of Card Pyramid yellow and red triangular climbing tower",
+        "Top view of Card Pyramid on a round purple safety surface",
+        "Rear view of Card Pyramid A-frame with rope net climbers and red triangle panel",
+        "Card Pyramid card-house pyramid climber on a round safety surface",
+        "Close view of Card Pyramid climbing wall with wavy holds and red panels",
+        "Inside view of Card Pyramid yellow panel with climbing holds and handle",
+        "Front view of Card Pyramid triangular play tower in yellow and red",
+        "Close view of Card Pyramid yellow climbing wall with blue wavy handholds"
+       ]
+      }
+     ],
+     "name": "Card Pyramid"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Card Pyramid A-frame pyramid climbing structure with rope nets\", \"Card Pyramid triangular card-house play tower in banana yellow and red\", \"Card Pyramid A-shaped card pyramid climber with climbing wall and wavy holds\", \"Front view of Card Pyramid yellow and red triangular climbing tower\", \"Top view of Card Pyramid on a round purple safety surface\", \"Rear view of Card Pyramid A-frame with rope net climbers and red triangle panel\", \"Card Pyramid card-house pyramid climber on a round safety surface\", \"Close view of Card Pyramid climbing wall with wavy holds and red panels\", \"Inside view of Card Pyramid yellow panel with climbing holds and handle\", \"Front view of Card Pyramid triangular play tower in yellow and red\", \"Close view of Card Pyramid yellow climbing wall with blue wavy handholds\"]",
+      "divDataImgs": "[\"/images/Card-Pyramid.jpg\", \"/images/Card-Pyramid-2.jpg\", \"/images/Card-Pyramid-3.jpg\", \"/images/Card-Pyramid-4.jpg\", \"/images/Card-Pyramid-5.jpg\", \"/images/Card-Pyramid-6.jpg\", \"/images/Card-Pyramid-7.jpg\", \"/images/Card-Pyramid-8.jpg\", \"/images/Card-Pyramid-9.jpg\", \"/images/Card-Pyramid-10.jpg\", \"/images/Card-Pyramid-11.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ecd217 50%, #ce0c40 50% )"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Card Pyramind"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Card Pyramid builds a house of playing cards at child scale. The triangular A-frame tower is Banana Yellow and red, with rope nets, a climbing wall and wavy holds on its faces. Children climb up one side, work out a route over the top and come down the other, which builds problem solving, strategy and body strength. There is sliding as well as climbing. The tower is narrow, with a product area of 12'7\" x 3'11\" and a safe play area of 17'7\" x 8'11\", and it takes up to 15 children aged 5 to 12. That slim shape lets a school fit it along a corridor of open ground. Its pipes, laminates and rope carry our 3-year warranty. Send us photos of the space."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Problem Solving"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Strategizing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Body Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Card Pyramid climbing structure",
+    "imgSrc": "/images/Card-Pyramid-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "383.54 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "119.38 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Card Pyramid's A-frame is galvanised pipe with composite card faces and play rope nets. It is installed self-standing or grouted. Children may fall from either sloping face, so the 17'7\" x 8'11\" zone needs impact flooring on both long sides. One installation uses a round purple surface. Check the holds and net fixings regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Problem Solving"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Strategizing"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Body Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "12'7\" x 3'11\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'7\" x 8'11\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Card Pyramid Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html"
+   ]
+  ],
+  "product": {
+   "name": "Card Pyramid",
+   "sku": "FONS06",
+   "images": [
+    "/images/Card-Pyramid.jpg",
+    "/images/Card-Pyramid-2.jpg",
+    "/images/Card-Pyramid-3.jpg",
+    "/images/Card-Pyramid-4.jpg",
+    "/images/Card-Pyramid-5.jpg",
+    "/images/Card-Pyramid-6.jpg"
+   ],
+   "description": "Card Pyramid builds a house of playing cards at child scale. The triangular A-frame tower is Banana Yellow and red, with rope nets, a climbing wall and wavy holds on its faces. Children climb up one side, work out a route over the top and come down the other, which builds problem solving, strategy and body strength. There is sliding as well as climbing. The tower is narrow, with a product area of 12'7\" x 3'11\" and a safe play area of 17'7\" x 8'11\", and it takes up to 15 children aged 5 to 12. That slim shape lets a school fit it along a corridor of open ground. Its pipes, laminates and rope carry our 3-year warranty. Send us photos of the space.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Banana Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "17'7\" x 8'11\""
+    ],
+    [
+     "Length",
+     "383.54 cm"
+    ],
+    [
+     "Width",
+     "119.38 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Problem Solving Strategizing Body Strength"
+    ],
+    [
+     "Colour options",
+     "Banana Yellow"
+    ]
+   ]
+  }
+ }
+}

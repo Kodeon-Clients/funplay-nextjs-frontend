@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/grin-barrel-bin.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Grin Barrel Bin | CoreCraft | FunPlay Systems",
+  "description": "Grin Barrel Bin (FPGD014) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/grin-barrel-bin.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Grin Barrel Bin | CoreCraft | FunPlay Systems",
+   "og:description": "Grin Barrel Bin (FPGD014) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/grin-barrel-bin.html",
+   "og:image": "https://funplaysystems.com/images/grinbarrel-bin-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Grin Barrel Bin",
+ "data": {
+  "name": "Grin Barrel Bin",
+  "sku": "FPGD014",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/grinbarrel-bin-product-image.jpg"
+    ],
+    "alts": [
+     "Grin Barrel Bin barrel-shaped wooden outdoor dustbin on yellow stand"
+    ]
+   }
+  ],
+  "description": "Litter is the first complaint in any busy park, and a bin that is easy to spot is more likely to be used. The Grin Barrel Bin is a barrel-shaped dustbin clad in wooden slats, held at a tilt by a looping yellow steel stand. Its angled mouth faces the user, so children can drop wrappers in without reaching over a high rim. It fits a play area entrance, a school courtyard or a resort pool deck, and its slats match our benches. The Grin Barrel Bin is in our CoreCraft garden decor range with Sand Beige as the listed colour, although the stand in the photo is yellow. Capacity, size and warranty terms come with the quote, and we can place bins on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Grin Barrel Bin"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/grinbarrel-bin-product-image.jpg",
+  "cardImage": "/images/grinbarrel-bin-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Grin Barrel Bin"
+    ],
+    "pText": "FPGD014",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/grinbarrel-bin-product-image.jpg"
+       ],
+       "alts": [
+        "Grin Barrel Bin barrel-shaped wooden outdoor dustbin on yellow stand"
+       ]
+      }
+     ],
+     "name": "Grin Barrel Bin"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Grin Barrel Bin barrel-shaped wooden outdoor dustbin on yellow stand\"]",
+      "divDataImgs": "[\"/images/grinbarrel-bin-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Grin Barrel Bin"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Litter is the first complaint in any busy park, and a bin that is easy to spot is more likely to be used. The Grin Barrel Bin is a barrel-shaped dustbin clad in wooden slats, held at a tilt by a looping yellow steel stand. Its angled mouth faces the user, so children can drop wrappers in without reaching over a high rim. It fits a play area entrance, a school courtyard or a resort pool deck, and its slats match our benches. The Grin Barrel Bin is in our CoreCraft garden decor range with Sand Beige as the listed colour, although the stand in the photo is yellow. Capacity, size and warranty terms come with the quote, and we can place bins on your layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The yellow stand is anchored to the ground, self-standing on a slab or grouted, so the barrel cannot be knocked over. Keep bins outside the safe play area of nearby equipment. Empty and rinse the barrel often during the monsoon, and check that the fixings holding the barrel to the stand stay tight."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Grin Barrel Bin",
+    "https://funplaysystems.com/corecraft/garden-decor/grin-barrel-bin.html"
+   ]
+  ],
+  "product": {
+   "name": "Grin Barrel Bin",
+   "sku": "FPGD014",
+   "images": [
+    "/images/grinbarrel-bin-product-image.jpg"
+   ],
+   "description": "Litter is the first complaint in any busy park, and a bin that is easy to spot is more likely to be used. The Grin Barrel Bin is a barrel-shaped dustbin clad in wooden slats, held at a tilt by a looping yellow steel stand. Its angled mouth faces the user, so children can drop wrappers in without reaching over a high rim. It fits a play area entrance, a school courtyard or a resort pool deck, and its slats match our benches. The Grin Barrel Bin is in our CoreCraft garden decor range with Sand Beige as the listed colour, although the stand in the photo is yellow. Capacity, size and warranty terms come with the quote, and we can place bins on your layout drawing.",
+   "category": "Outdoor Dustbin",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

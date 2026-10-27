@@ -1,0 +1,416 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-rajasthan.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Rajasthan | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajasthan. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajasthan.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Rajasthan | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajasthan. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajasthan.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Rajasthan",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Rajasthan"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Rajasthan asks more of outdoor equipment than most states. Summer afternoons in the Thar are among the hottest in India, dust storms sweep across the west before the monsoon, and desert nights in winter turn cold. FunPlay Systems designs and manufactures playground equipment that is chosen and placed with these conditions in mind. We supply schools, resorts, housing projects and public gardens across the state from our factory in Vasai, Maharashtra."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "The equipment travels north by road through Gujarat and is installed by our own team or a dealer in the region. We have been making play equipment since 2002, with design, roto-moulding and fabrication done in-house. Our galvanised steel and roto-moulded plastic stand up to heat, dust and the short, heavy rains. Every project begins with your site size, the age group and photos, and a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Desert, Aravallis and the eastern plains",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Western Rajasthan, around ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-jodhpur.html"
+           },
+           "c": [
+            "Jodhpur"
+           ]
+          },
+          ", Bikaner and Jaisalmer, is dry desert country. Here the questions are heat, glare and blowing sand, and the sun is strong for most of the year. Place slides and decks away from the afternoon sun, choose lighter colours and wash the equipment often so sand does not grind the surfaces."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "The Aravalli belt around ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-udaipur.html"
+           },
+           "c": [
+            "Udaipur"
+           ]
+          },
+          " is greener and hilly, with rocky ground that often suits grouting. Jaipur and the eastern plains around Kota have very hot summers, a stronger monsoon and cold winter mornings, so drainage and a raised base matter more there."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Who buys play equipment in Rajasthan",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Heritage hotels, palace resorts and wedding venues want a play corner that looks at home on a lawn or in a courtyard. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/timeless-play.html"
+           },
+           "c": [
+            "Timeless Play"
+           ]
+          },
+          " structures, based on traditional games, sit well in such settings."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Schools are a large share of buyers, from city schools in Jaipur to residential schools in smaller towns. ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-kota.html"
+           },
+           "c": [
+            "Kota"
+           ]
+          },
+          ", with its many students and families, has steady demand for society and school play areas. Industrial colonies in textile towns such as Bhilwara and Pali, and municipal gardens across the state, need durable pieces that take daily use with little upkeep."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Rajasthan",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you deliver playground equipment anywhere in Rajasthan?",
+       "a": "Yes. We manufacture at our factory in Vasai, send the equipment by road and install it with our own team or a dealer in the region. Share your town, site photos and access details so we can plan the dispatch."
+      },
+      {
+       "q": "How do we stop the equipment getting too hot in a Rajasthan summer?",
+       "a": "Place slides and decks where buildings or trees shade them in the afternoon, add a shade sail over the main structure and choose lighter colours. Rubber flooring stays more comfortable than bare stone or concrete."
+      },
+      {
+       "q": "Does dust damage playground equipment?",
+       "a": "Sand and dust wear down slide surfaces and get into moving parts if left for long. Wash the equipment with plain water regularly, more often after a dust storm, and have springs and bearings checked every few months."
+      },
+      {
+       "q": "Can you design a play area for a heritage hotel or resort?",
+       "a": "Yes. We can customise designs and colours from more than 15 roto-moulded shades, and some of our ranges use wooden and composite parts. Send us photos of the lawn or courtyard and we will suggest pieces that suit the setting."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Rajasthan",
+    "h2Text": "Cities we supply in Rajasthan",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ajmer.html"
+        },
+        "c": [
+         "Playground equipment in Ajmer"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-alwar.html"
+        },
+        "c": [
+         "Playground equipment in Alwar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bharatpur.html"
+        },
+        "c": [
+         "Playground equipment in Bharatpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhilwara.html"
+        },
+        "c": [
+         "Playground equipment in Bhilwara"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bikaner.html"
+        },
+        "c": [
+         "Playground equipment in Bikaner"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jaipur.html"
+        },
+        "c": [
+         "Playground equipment in Jaipur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jodhpur.html"
+        },
+        "c": [
+         "Playground equipment in Jodhpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kota.html"
+        },
+        "c": [
+         "Playground equipment in Kota"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-pali.html"
+        },
+        "c": [
+         "Playground equipment in Pali"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-sikar.html"
+        },
+        "c": [
+         "Playground equipment in Sikar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-sri-ganganagar.html"
+        },
+        "c": [
+         "Playground equipment in Sri Ganganagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-udaipur.html"
+        },
+        "c": [
+         "Playground equipment in Udaipur"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Rajasthan",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-rajasthan.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Rajasthan",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Rajasthan"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Rajasthan. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you deliver playground equipment anywhere in Rajasthan?",
+    "Yes. We manufacture at our factory in Vasai, send the equipment by road and install it with our own team or a dealer in the region. Share your town, site photos and access details so we can plan the dispatch."
+   ],
+   [
+    "How do we stop the equipment getting too hot in a Rajasthan summer?",
+    "Place slides and decks where buildings or trees shade them in the afternoon, add a shade sail over the main structure and choose lighter colours. Rubber flooring stays more comfortable than bare stone or concrete."
+   ],
+   [
+    "Does dust damage playground equipment?",
+    "Sand and dust wear down slide surfaces and get into moving parts if left for long. Wash the equipment with plain water regularly, more often after a dust storm, and have springs and bearings checked every few months."
+   ],
+   [
+    "Can you design a play area for a heritage hotel or resort?",
+    "Yes. We can customise designs and colours from more than 15 roto-moulded shades, and some of our ranges use wooden and composite parts. Send us photos of the lawn or courtyard and we will suggest pieces that suit the setting."
+   ]
+  ]
+ }
+}

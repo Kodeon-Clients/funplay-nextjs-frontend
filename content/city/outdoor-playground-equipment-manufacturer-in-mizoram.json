@@ -1,0 +1,240 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-mizoram.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Mizoram | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mizoram. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mizoram.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Mizoram | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mizoram. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mizoram.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Mizoram",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Mizoram"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Most playgrounds we plan for Mizoram sit inside a school, church or community compound, because that is where level ground and supervision already exist. FunPlay Systems designs and manufactures outdoor playground equipment for these sites in Aizawl, Lunglei, Champhai and the smaller district towns. A compound playground is usually shared by toddlers after church, schoolchildren at recess and older children in the evening, so the equipment list has to work for all three groups."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We make every piece at our factory in Vasai, Palghar district, Maharashtra, and send it to Mizoram by road. Our installation team or a local dealer installs it, grouted into concrete on firm ground or self-standing on a prepared base. Start by sending us the length and width of the open space, photos taken from two or three corners and the ages of the children who will use it. We reply with suggested equipment and a layout drawing that shows the safe play area for each piece."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Splitting a small compound between age groups",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "On a narrow site, keep the toddler corner nearest the building and the entrance, where parents and teachers can see it. Spring riders and a low slide from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/slide-3foot-height.html"
+           },
+           "c": [
+            "3 ft slide range"
+           ]
+          },
+          " are enough for children under five. Put swings at the far end, since they need the most clear space in front and behind, and older children use them hardest."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Mizoram's monsoon is long and the hills shed water quickly onto flat compounds. Lay rubber flooring on a base that slopes slightly away from the building, and keep a drain along the lower edge. Aizawl buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-aizawl.html"
+           },
+           "c": [
+            "playground page for Aizawl"
+           ]
+          },
+          ", and for adults there is our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-mizoram.html"
+           },
+           "c": [
+            "outdoor gym equipment in Mizoram"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Mizoram",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Mizoram",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-mizoram.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can one playground serve toddlers and older children together?",
+       "a": "Yes, if the site is zoned. We keep low equipment for young children in one area and swings and climbers in another, with clear space between them. The layout drawing shows each zone so you can check it before ordering."
+      },
+      {
+       "q": "Do we need rubber flooring under the equipment?",
+       "a": "We recommend it under swings, slides and climbers. In Mizoram's long monsoon, bare earth turns soft and muddy, while rubber flooring on a drained base dries faster and softens falls. We can supply it with the equipment."
+      },
+      {
+       "q": "Can you deliver to towns outside Aizawl?",
+       "a": "Yes, wherever a truck can reach the site. Tell us the town and describe the last stretch of road, and we will plan dispatch from Vasai and installation with you."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Mizoram",
+    "h2Text": "Cities we supply in Mizoram",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-aizawl.html"
+        },
+        "c": [
+         "Playground equipment in Aizawl"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Mizoram",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-mizoram.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Mizoram",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Mizoram"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Mizoram. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can one playground serve toddlers and older children together?",
+    "Yes, if the site is zoned. We keep low equipment for young children in one area and swings and climbers in another, with clear space between them. The layout drawing shows each zone so you can check it before ordering."
+   ],
+   [
+    "Do we need rubber flooring under the equipment?",
+    "We recommend it under swings, slides and climbers. In Mizoram's long monsoon, bare earth turns soft and muddy, while rubber flooring on a drained base dries faster and softens falls. We can supply it with the equipment."
+   ],
+   [
+    "Can you deliver to towns outside Aizawl?",
+    "Yes, wherever a truck can reach the site. Tell us the town and describe the last stretch of road, and we will plan dispatch from Vasai and installation with you."
+   ]
+  ]
+ }
+}

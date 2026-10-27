@@ -1,0 +1,700 @@
+{
+ "path": "/corecraft/play-lands/azure-space.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Azure Space Multi Play Station | CoreCraft | FunPlay Systems",
+  "description": "Azure Space Multi Play Station (PLAMPFS07) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/azure-space.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Azure Space Multi Play Station | CoreCraft | FunPlay Systems",
+   "og:description": "Azure Space Multi Play Station (PLAMPFS07) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/azure-space.html",
+   "og:image": "https://funplaysystems.com/images/azure-scape-blue-3.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Azure Space Multi Play Station",
+ "data": {
+  "name": "Azure Space",
+  "sku": "PLAMPFS07",
+  "colours": [
+   {
+    "name": "Sky Blue & Knight Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #66b0cf 50%,\n                    #202f5b 50%\n                  );\n                ",
+    "images": [
+     "/images/azure-scape-blue-3.jpg",
+     "/images/azure-scape-blue-2.jpg",
+     "/images/azure-scape-blue-1.jpg"
+    ],
+    "alts": [
+     "Azure Space space-themed multi play station in sky blue and knight blue with slides and towers",
+     "Top view of Azure Space playground showing towers, tube slide and connecting bridge",
+     "Aerial view of Azure Space space-themed playground on a blue safety surface"
+    ]
+   }
+  ],
+  "description": "Azure Space is a space-themed multi play station from our CoreCraft Play Lands range, finished in Sky Blue and Knight Blue. Several towers are linked by a bridge, and a tube slide brings children down from the upper deck. Children climb up, cross over, hang from the bars and swing, and the listed capacity is 15 at a time. The age group starts at 3 years and key users are 3 to 12, so one structure covers both the younger and older children of a housing society. The product area is 33'11\" x 28'8\" and the safe play area is 39'11\" x 34'8\". Azure Space is covered by our 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site plan and we will check whether it fits.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "Azure Space"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/azure-scape-blue-3.jpg",
+  "cardImage": "/images/azure-scape-blue-3.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Azure Space ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sky Blue & Knight Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #66b0cf 50%,\n                    #202f5b 50%\n                  );\n                ",
+       "images": [
+        "/images/azure-scape-blue-3.jpg",
+        "/images/azure-scape-blue-2.jpg",
+        "/images/azure-scape-blue-1.jpg"
+       ],
+       "alts": [
+        "Azure Space space-themed multi play station in sky blue and knight blue with slides and towers",
+        "Top view of Azure Space playground showing towers, tube slide and connecting bridge",
+        "Aerial view of Azure Space space-themed playground on a blue safety surface"
+       ]
+      }
+     ],
+     "name": "Azure Space"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Azure Space space-themed multi play station in sky blue and knight blue with slides and towers\", \"Top view of Azure Space playground showing towers, tube slide and connecting bridge\", \"Aerial view of Azure Space space-themed playground on a blue safety surface\"]",
+      "divDataImgs": "[\"/images/azure-scape-blue-3.jpg\", \"/images/azure-scape-blue-2.jpg\", \"/images/azure-scape-blue-1.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #66b0cf 50%, #202f5b 50% )"
+      },
+      "divText": "",
+      "spanText": "Sky Blue & Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Azure Space"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Azure Space is a space-themed multi play station from our CoreCraft Play Lands range, finished in Sky Blue and Knight Blue. Several towers are linked by a bridge, and a tube slide brings children down from the upper deck. Children climb up, cross over, hang from the bars and swing, and the listed capacity is 15 at a time. The age group starts at 3 years and key users are 3 to 12, so one structure covers both the younger and older children of a housing society. The product area is 33'11\" x 28'8\" and the safe play area is 39'11\" x 34'8\". Azure Space is covered by our 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site plan and we will check whether it fits."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Azure Scape multi play station layout",
+    "imgSrc": "/images/Azure-Scape.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1033.78 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "873.76 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Posts and frames are galvanised pipe, and the slides and panels are roto-moulded, so neither rusts in the monsoon. We install it self-standing or by grouting, depending on your ground. Lay rubber flooring or another impact-absorbing surface over the full 39'11\" x 34'8\" safe play area. Check bridge fixings, swing hardware and rope parts at regular intervals.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "33'11\" x 28'8\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "39'11\" x 34'8\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Azure Space Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/azure-space.html"
+   ]
+  ],
+  "product": {
+   "name": "Azure Space",
+   "sku": "PLAMPFS07",
+   "images": [
+    "/images/azure-scape-blue-3.jpg",
+    "/images/azure-scape-blue-2.jpg",
+    "/images/azure-scape-blue-1.jpg"
+   ],
+   "description": "Azure Space is a space-themed multi play station from our CoreCraft Play Lands range, finished in Sky Blue and Knight Blue. Several towers are linked by a bridge, and a tube slide brings children down from the upper deck. Children climb up, cross over, hang from the bars and swing, and the listed capacity is 15 at a time. The age group starts at 3 years and key users are 3 to 12, so one structure covers both the younger and older children of a housing society. The product area is 33'11\" x 28'8\" and the safe play area is 39'11\" x 34'8\". Azure Space is covered by our 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site plan and we will check whether it fits.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Sky Blue & Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "39'11\" x 34'8\""
+    ],
+    [
+     "Length",
+     "1033.78 cm"
+    ],
+    [
+     "Width",
+     "873.76 cm"
+    ],
+    [
+     "Colour options",
+     "Sky Blue & Knight Blue"
+    ]
+   ]
+  }
+ }
+}

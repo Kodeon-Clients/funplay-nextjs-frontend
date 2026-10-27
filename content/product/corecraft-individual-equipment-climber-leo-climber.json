@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/leo-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leo Climber | CoreCraft | FunPlay Systems",
+  "description": "Leo Climber (FPCL20) from the CoreCraft Climbers range: 15 kids at a time, safe play area 59' x 23'10\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/leo-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leo Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Leo Climber (FPCL20) from the CoreCraft Climbers range: 15 kids at a time, safe play area 59' x 23'10\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/leo-climber.html",
+   "og:image": "https://funplaysystems.com/images/leo-Climber-product-image-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leo Climber",
+ "data": {
+  "name": "Leo Climber",
+  "sku": "FPCL20",
+  "colours": [
+   {
+    "name": "Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #fce300 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/leo-Climber-product-image-1.jpg"
+    ],
+    "alts": [
+     "Leo Climber yellow caterpillar-shaped rope net climbing tunnel"
+    ]
+   }
+  ],
+  "description": "Leo Climber is a long yellow caterpillar of steel hoops with a rope net stretched over its back, rising into tall humps and dipping low between them. Children crawl along the net, climb over each hump and come down at the far end, while a yellow ladder partway along gives another way on and off. Climbing the net builds strength, coordination and confidence with height. Its product area is 54' x 18'10\" and the safe play area is 59' x 23'10\". It needs a long, open strip of ground, such as the edge of a large park or a school field. It is finished in Play Yellow. Under our warranty, galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Share your site plan so we can check the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Leo climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/leo-Climber-product-image-1.jpg",
+  "cardImage": "/images/leo-Climber-product-image-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leo Climber"
+    ],
+    "pText": "FPCL20",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #fce300 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/leo-Climber-product-image-1.jpg"
+       ],
+       "alts": [
+        "Leo Climber yellow caterpillar-shaped rope net climbing tunnel"
+       ]
+      }
+     ],
+     "name": "Leo Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leo Climber yellow caterpillar-shaped rope net climbing tunnel\"]",
+      "divDataImgs": "[\"/images/leo-Climber-product-image-1.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #fce300 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leo climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Leo Climber is a long yellow caterpillar of steel hoops with a rope net stretched over its back, rising into tall humps and dipping low between them. Children crawl along the net, climb over each hump and come down at the far end, while a yellow ladder partway along gives another way on and off. Climbing the net builds strength, coordination and confidence with height. Its product area is 54' x 18'10\" and the safe play area is 59' x 23'10\". It needs a long, open strip of ground, such as the edge of a large park or a school field. It is finished in Play Yellow. Under our warranty, galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Share your site plan so we can check the fit."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The net is play rope fixed to galvanised hoops, and each hoop leg is grouted or installed self-standing. A climber this long needs a level strip, so we check the ground along its full length first. Inspect the net knots and fixings at every service, and lay rubber flooring under the tall humps where children climb highest.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "54' x 18'10\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "59' x 23'10\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Leo Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/leo-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Leo Climber",
+   "sku": "FPCL20",
+   "images": [
+    "/images/leo-Climber-product-image-1.jpg"
+   ],
+   "description": "Leo Climber is a long yellow caterpillar of steel hoops with a rope net stretched over its back, rising into tall humps and dipping low between them. Children crawl along the net, climb over each hump and come down at the far end, while a yellow ladder partway along gives another way on and off. Climbing the net builds strength, coordination and confidence with height. Its product area is 54' x 18'10\" and the safe play area is 59' x 23'10\". It needs a long, open strip of ground, such as the edge of a large park or a school field. It is finished in Play Yellow. Under our warranty, galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Share your site plan so we can check the fit.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Play Yellow"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "59' x 23'10\""
+    ],
+    [
+     "Colour options",
+     "Play Yellow"
+    ]
+   ]
+  }
+ }
+}

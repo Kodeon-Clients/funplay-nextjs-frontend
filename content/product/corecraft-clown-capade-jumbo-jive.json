@@ -1,0 +1,705 @@
+{
+ "path": "/corecraft/clown-capade/jumbo-jive.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Jumbo Jive Circus Multi Play Station | CoreCraft | FunPlay",
+  "description": "Jumbo Jive Circus Multi Play Station (CLOMPFS05) from the CoreCraft Clown Capade range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Jumbo Jive Circus Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Jumbo Jive Circus Multi Play Station (CLOMPFS05) from the CoreCraft Clown Capade range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html",
+   "og:image": "https://funplaysystems.com/images/Jumbo-Jive-1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Jumbo Jive Circus Multi Play Station",
+ "data": {
+  "name": "Jumbo Jive",
+  "sku": "CLOMPFS05",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #d5010b 0% 33.33%,\n                    #60c2e9 33.33% 66.66%,\n                    #dac800 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Jumbo-Jive-1-product-image.jpg",
+     "/images/Jumbo-Jive-2-product-image.jpg",
+     "/images/Jumbo-Jive-3-product-image.jpg",
+     "/images/Jumbo-Jive-4-product-image.jpg"
+    ],
+    "alts": [
+     "Jumbo Jive large multi-colour circus playground with jester-hat towers, slides and climbing wall",
+     "Jumbo Jive multi-colour circus multi play station with tube slides, rope bridges and swings",
+     "Side view of Jumbo Jive circus playground with tunnel climber, yellow slide and swing set",
+     "Jumbo Jive multi-colour circus playground with multiple towers, tube slides and swings"
+    ]
+   }
+  ],
+  "description": "Jumbo Jive is the largest piece in our Clown Capade series. This multi-colour circus playground has several jester-hat towers, tube slides and a yellow slide, along with a climbing wall, rope bridges, a tunnel climber and a swing set. It is built for children aged 3 to 12, so toddlers can stay on the lower parts while older children cross the bridges. Play includes climbing, sliding, hanging and swinging. The product area is 43'11\" x 32'4\" and the safe play area is 47'11\" x 38'4\". That puts it in the range of public parks, large townships and resorts. Capacity is listed as 15 children. Every galvanised pipe, roto-moulded part, composite laminate and play rope on Jumbo Jive has a 3-year warranty. We can work out a layout that leaves space for parents' seating around it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Clown Capade",
+   "Jumbo Jive"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/clown-capade.html",
+  "image": "/images/Jumbo-Jive-1-product-image.jpg",
+  "cardImage": "/images/Jumbo-Jive-1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Jumbo Jive ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Circus Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "CLOMPFS05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #d5010b 0% 33.33%,\n                    #60c2e9 33.33% 66.66%,\n                    #dac800 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Jumbo-Jive-1-product-image.jpg",
+        "/images/Jumbo-Jive-2-product-image.jpg",
+        "/images/Jumbo-Jive-3-product-image.jpg",
+        "/images/Jumbo-Jive-4-product-image.jpg"
+       ],
+       "alts": [
+        "Jumbo Jive large multi-colour circus playground with jester-hat towers, slides and climbing wall",
+        "Jumbo Jive multi-colour circus multi play station with tube slides, rope bridges and swings",
+        "Side view of Jumbo Jive circus playground with tunnel climber, yellow slide and swing set",
+        "Jumbo Jive multi-colour circus playground with multiple towers, tube slides and swings"
+       ]
+      }
+     ],
+     "name": "Jumbo Jive"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Jumbo Jive large multi-colour circus playground with jester-hat towers, slides and climbing wall\", \"Jumbo Jive multi-colour circus multi play station with tube slides, rope bridges and swings\", \"Side view of Jumbo Jive circus playground with tunnel climber, yellow slide and swing set\", \"Jumbo Jive multi-colour circus playground with multiple towers, tube slides and swings\"]",
+      "divDataImgs": "[\"/images/Jumbo-Jive-1-product-image.jpg\", \"/images/Jumbo-Jive-2-product-image.jpg\", \"/images/Jumbo-Jive-3-product-image.jpg\", \"/images/Jumbo-Jive-4-product-image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d5010b 0% 33.33%, #60c2e9 33.33% 66.66%, #dac800 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/clown-capade.html"
+        },
+        "c": [
+         "Clown Capade"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Jumbo Jive"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Jumbo Jive is the largest piece in our Clown Capade series. This multi-colour circus playground has several jester-hat towers, tube slides and a yellow slide, along with a climbing wall, rope bridges, a tunnel climber and a swing set. It is built for children aged 3 to 12, so toddlers can stay on the lower parts while older children cross the bridges. Play includes climbing, sliding, hanging and swinging. The product area is 43'11\" x 32'4\" and the safe play area is 47'11\" x 38'4\". That puts it in the range of public parks, large townships and resorts. Capacity is listed as 15 children. Every galvanised pipe, roto-moulded part, composite laminate and play rope on Jumbo Jive has a 3-year warranty. We can work out a layout that leaves space for parents' seating around it."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/clown-capade/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Jumbo Jive playground layout",
+    "imgSrc": "/images/Jumbo-Jive.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1338.58 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "985.52 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Jumbo Jive is usually grouted, because its towers, bridges and swing frame need a fixed base across a large area. Materials are galvanised pipe, roto-moulded parts, composite laminates and play rope. Mark entry points to the play zone away from the swing set, and schedule regular checks of bridges, nets and chains.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "43'11\" x 32'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "47'11\" x 38'4\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Clown Capade",
+    "https://funplaysystems.com/corecraft/clown-capade.html"
+   ],
+   [
+    "Jumbo Jive Circus Multi Play Station",
+    "https://funplaysystems.com/corecraft/clown-capade/jumbo-jive.html"
+   ]
+  ],
+  "product": {
+   "name": "Jumbo Jive",
+   "sku": "CLOMPFS05",
+   "images": [
+    "/images/Jumbo-Jive-1-product-image.jpg",
+    "/images/Jumbo-Jive-2-product-image.jpg",
+    "/images/Jumbo-Jive-3-product-image.jpg",
+    "/images/Jumbo-Jive-4-product-image.jpg"
+   ],
+   "description": "Jumbo Jive is the largest piece in our Clown Capade series. This multi-colour circus playground has several jester-hat towers, tube slides and a yellow slide, along with a climbing wall, rope bridges, a tunnel climber and a swing set. It is built for children aged 3 to 12, so toddlers can stay on the lower parts while older children cross the bridges. Play includes climbing, sliding, hanging and swinging. The product area is 43'11\" x 32'4\" and the safe play area is 47'11\" x 38'4\". That puts it in the range of public parks, large townships and resorts. Capacity is listed as 15 children. Every galvanised pipe, roto-moulded part, composite laminate and play rope on Jumbo Jive has a 3-year warranty. We can work out a layout that leaves space for parents' seating around it.",
+   "category": "Circus Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/clown-capade.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "47'11\" x 38'4\""
+    ],
+    [
+     "Length",
+     "1338.58 cm"
+    ],
+    [
+     "Width",
+     "985.52 cm"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

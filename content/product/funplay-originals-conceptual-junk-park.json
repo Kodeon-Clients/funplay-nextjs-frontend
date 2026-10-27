@@ -1,0 +1,229 @@
+{
+ "path": "/funplay-originals/conceptual/junk-park.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Junk Park Play Area | FunPlay Originals | FunPlay Systems",
+  "description": "Junk Park Play Area (FOC007), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Junk Park Play Area | FunPlay Originals | FunPlay Systems",
+   "og:description": "Junk Park Play Area (FOC007), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html",
+   "og:image": "https://funplaysystems.com/images/Junk-Park-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Junk Park Play Area",
+ "data": {
+  "name": "Junk Park",
+  "sku": "FOC007",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "background: conic-gradient(#c8687b 0% 25%, #5cc6e4 25% 50%, #8f94cd 50% 75%, #d2cc00 75% 100%);",
+    "images": [
+     "/images/Junk-Park-1.jpg",
+     "/images/Junk-Park-1.jpg"
+    ],
+    "alts": [
+     "Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts",
+     "Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts"
+    ]
+   }
+  ],
+  "description": "Junk Park turns familiar junk food into play pieces, with a message about healthy eating built into the design. An upturned ice cream cone becomes a climber with a rope net and a dome fitted with climbing holds. A drink cup with a straw has a slide coming out of it, and tall yellow posts stand in for French fries. Children climb, slide and weave between the posts, and teachers or parents can use the shapes to start a talk about food choices. The theme makes most sense at a school or a children's hospital garden. Junk Park is a Funplay Originals concept, so age group, sizes and safe play area are set in the layout drawing for your site. The galvanised pipe, roto-moulded parts, composite laminates and play rope in the final Junk Park build carry a 3-year warranty. Ask us for a concept layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Junk Park"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Junk-Park-1.jpg",
+  "cardImage": "/images/Junk-Park-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Junk Park ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Play Area"
+      ]
+     }
+    ],
+    "pText": "FOC007",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "background: conic-gradient(#c8687b 0% 25%, #5cc6e4 25% 50%, #8f94cd 50% 75%, #d2cc00 75% 100%);",
+       "images": [
+        "/images/Junk-Park-1.jpg",
+        "/images/Junk-Park-1.jpg"
+       ],
+       "alts": [
+        "Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts",
+        "Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts"
+       ]
+      }
+     ],
+     "name": "Junk Park"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts\", \"Junk Park ice-cream-themed play area with cone climber, cup slide and yellow posts\"]",
+      "divDataImgs": "[\"/images/Junk-Park-1.jpg\", \"/images/Junk-Park-1.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient(#c8687b 0% 25%, #5cc6e4 25% 50%, #8f94cd 50% 75%, #d2cc00 75% 100%)"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Junk Park"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Junk Park turns familiar junk food into play pieces, with a message about healthy eating built into the design. An upturned ice cream cone becomes a climber with a rope net and a dome fitted with climbing holds. A drink cup with a straw has a slide coming out of it, and tall yellow posts stand in for French fries. Children climb, slide and weave between the posts, and teachers or parents can use the shapes to start a talk about food choices. The theme makes most sense at a school or a children's hospital garden. Junk Park is a Funplay Originals concept, so age group, sizes and safe play area are set in the layout drawing for your site. The galvanised pipe, roto-moulded parts, composite laminates and play rope in the final Junk Park build carry a 3-year warranty. Ask us for a concept layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "No standard sizes are listed yet, so we specify Junk Park with you before manufacture. Installation can be self-standing or grouted. The cone climber and cup slide each need their own impact-absorbing zone, and the fries posts need enough spacing that children do not collide. Check the climbing net, holds and slide joints regularly."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Junk Park Play Area",
+    "https://funplaysystems.com/funplay-originals/conceptual/junk-park.html"
+   ]
+  ],
+  "product": {
+   "name": "Junk Park",
+   "sku": "FOC007",
+   "images": [
+    "/images/Junk-Park-1.jpg",
+    "/images/Junk-Park-1.jpg"
+   ],
+   "description": "Junk Park turns familiar junk food into play pieces, with a message about healthy eating built into the design. An upturned ice cream cone becomes a climber with a rope net and a dome fitted with climbing holds. A drink cup with a straw has a slide coming out of it, and tall yellow posts stand in for French fries. Children climb, slide and weave between the posts, and teachers or parents can use the shapes to start a talk about food choices. The theme makes most sense at a school or a children's hospital garden. Junk Park is a Funplay Originals concept, so age group, sizes and safe play area are set in the layout drawing for your site. The galvanised pipe, roto-moulded parts, composite laminates and play rope in the final Junk Park build carry a 3-year warranty. Ask us for a concept layout.",
+   "category": "Play Area",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

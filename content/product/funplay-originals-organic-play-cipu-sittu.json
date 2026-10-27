@@ -1,0 +1,711 @@
+{
+ "path": "/funplay-originals/organic-play/cipu-sittu.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Cipu Sittu Merry-Go-Round | FunPlay Originals | FunPlay",
+  "description": "Cipu Sittu Merry-Go-Round (FOO09), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/cipu-sittu.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Cipu Sittu Merry-Go-Round | FunPlay Originals | FunPlay",
+   "og:description": "Cipu Sittu Merry-Go-Round (FOO09), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/cipu-sittu.html",
+   "og:image": "https://funplaysystems.com/images/Cippu-Sittu.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Cipu Sittu Merry-Go-Round",
+ "data": {
+  "name": "Cipu Sittu",
+  "sku": "FOO09",
+  "colours": [
+   {
+    "name": "Sky Blue",
+    "swatch": "background-color: #5893bd",
+    "images": [
+     "/images/Cippu-Sittu.jpg"
+    ],
+    "alts": [
+     "Cipu Sittu sky blue shark-fin merry-go-round on a blue water-pattern surface"
+    ]
+   }
+  ],
+  "description": "Cipu Sittu is a merry-go-round with a sea theme. Shark fins rise around the Sky Blue platform, so riders feel as if they are circling in deep water. In the photos a blue water-pattern surface completes the scene. It suits ages 5 to 12. The unit is compact at 5' x 5', with a safe play area of 8'8\" x 8'8\", so it slots into most society gardens and school play areas. Revolving together builds balance, coordination, imagination and cooperative play. It belongs to our Organic Play collection. The galvanised pipes and roto-moulded parts are covered for 3 years, and the bearings for 1 year. Add it to your layout request and we will mark its spinning zone.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Cipu Sittu"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Cippu-Sittu.jpg",
+  "cardImage": "/images/Cippu-Sittu.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Cipu Sittu ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Merry-Go-Round"
+      ]
+     }
+    ],
+    "pText": "FOO09",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sky Blue",
+       "swatch": "background-color: #5893bd",
+       "images": [
+        "/images/Cippu-Sittu.jpg"
+       ],
+       "alts": [
+        "Cipu Sittu sky blue shark-fin merry-go-round on a blue water-pattern surface"
+       ]
+      }
+     ],
+     "name": "Cipu Sittu"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Cipu Sittu sky blue shark-fin merry-go-round on a blue water-pattern surface\"]",
+      "divDataImgs": "[\"/images/Cippu-Sittu.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#5893bd"
+      },
+      "divText": "",
+      "spanText": "Sky Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Cipu Sittu"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Cipu Sittu is a merry-go-round with a sea theme. Shark fins rise around the Sky Blue platform, so riders feel as if they are circling in deep water. In the photos a blue water-pattern surface completes the scene. It suits ages 5 to 12. The unit is compact at 5' x 5', with a safe play area of 8'8\" x 8'8\", so it slots into most society gardens and school play areas. Revolving together builds balance, coordination, imagination and cooperative play. It belongs to our Organic Play collection. The galvanised pipes and roto-moulded parts are covered for 3 years, and the bearings for 1 year. Add it to your layout request and we will mark its spinning zone."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imagination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cooperative Play"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Cipu Sittu merry-go-round",
+    "imgSrc": "/images/Cipu-Sittu-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "152.4 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "152.4 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Cipu Sittu turns on a bearing, which carries a 1-year warranty, while the galvanised frame and roto-moulded fins are covered for 3 years. It is fixed self-standing or grouted. Keep the 8'8\" x 8'8\" zone clear so no one stands in the path of the fins, and check the bearing for play at every service.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Revolving",
+      "imgSrc": "/images/Revolving.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Revolving"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imagination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cooperative Play"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5' x 5'"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "8'8\" x 8'8\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Cipu Sittu Merry-Go-Round",
+    "https://funplaysystems.com/funplay-originals/organic-play/cipu-sittu.html"
+   ]
+  ],
+  "product": {
+   "name": "Cipu Sittu",
+   "sku": "FOO09",
+   "images": [
+    "/images/Cippu-Sittu.jpg"
+   ],
+   "description": "Cipu Sittu is a merry-go-round with a sea theme. Shark fins rise around the Sky Blue platform, so riders feel as if they are circling in deep water. In the photos a blue water-pattern surface completes the scene. It suits ages 5 to 12. The unit is compact at 5' x 5', with a safe play area of 8'8\" x 8'8\", so it slots into most society gardens and school play areas. Revolving together builds balance, coordination, imagination and cooperative play. It belongs to our Organic Play collection. The galvanised pipes and roto-moulded parts are covered for 3 years, and the bearings for 1 year. Add it to your layout request and we will mark its spinning zone.",
+   "category": "Merry-Go-Round",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Sky Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "8'8\" x 8'8\""
+    ],
+    [
+     "Length",
+     "152.4 cm"
+    ],
+    [
+     "Width",
+     "152.4 cm"
+    ],
+    [
+     "Activities",
+     "Revolving"
+    ],
+    [
+     "Skills developed",
+     "Balancing Imagination Coordination Cooperative Play"
+    ],
+    [
+     "Colour options",
+     "Sky Blue"
+    ]
+   ]
+  }
+ }
+}

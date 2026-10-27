@@ -1,0 +1,162 @@
+{
+ "path": "/nexlev-series/abstract.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Abstract Play Structures | NexLev Series | FunPlay",
+  "description": "NexLev Abstract play structures: sculptural poles, net bridges and slides for modern parks and townships. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/abstract.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Abstract Play Structures | NexLev Series | FunPlay",
+   "og:description": "NexLev Abstract play structures: sculptural poles, net bridges and slides for modern parks and townships. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/abstract.html",
+   "og:image": "https://funplaysystems.com/images/DRAVMO-img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Abstract Play Structures",
+ "data": {
+  "cardImage": "/images/DRAVMO-img.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevAbstractPlayStructures",
+   "props": {
+    "h1Text": "NexLev Abstract Play Structures",
+    "h2Text": "Abstract"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Dravmo play structure with wavy coloured poles, climbing net and slides",
+      "imgSrc": "/images/DRAVMO-img.jpg",
+      "aHref": "/nexlev-series/abstract/dravmo.html",
+      "aText": " View Product ",
+      "spanText": "Dravmo",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "51.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "30 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #fee743 0% 16.66%, #0f0ece 16.66% 33.33%, #1cb2c0 33.33% 50%, #fb2c1a 50% 66.66%, #ffc219 66.66% 83.33%, #467f30 83.33% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Ernoto stacked cube play tower with pink tube slide and net crawl tunnel",
+      "imgSrc": "/images/ERNOTO-img.jpg",
+      "aHref": "/nexlev-series/abstract/ernoto.html",
+      "aText": " View Product",
+      "spanText": "Ernoto",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "51.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "35 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #fee743 0% 16.66%, #0f0ece 16.66% 33.33%, #1cb2c0 33.33% 50%, #fb2c1a 50% 66.66%, #ffc219 66.66% 83.33%, #467f30 83.33% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Eromofy palm-pole play structure with rope net bridge and green slide",
+      "imgSrc": "/images/EROMOFY-img.jpg",
+      "aHref": "/nexlev-series/abstract/eromofy.html",
+      "aText": " View Product ",
+      "spanText": "Eromofy",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "51.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "40 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #4c973a 50%, #ddff60 50% )"
+      }
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Rengvo",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "57.0M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "40 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Abstract Play Structures",
+    "https://funplaysystems.com/nexlev-series/abstract.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Dravmo Play Structure",
+    "https://funplaysystems.com/nexlev-series/abstract/dravmo.html"
+   ],
+   [
+    "Ernoto Play Structure",
+    "https://funplaysystems.com/nexlev-series/abstract/ernoto.html"
+   ],
+   [
+    "Eromofy Play Structure",
+    "https://funplaysystems.com/nexlev-series/abstract/eromofy.html"
+   ],
+   [
+    "Rengvo Play Structure",
+    "https://funplaysystems.com/nexlev-series/abstract/rengvo.html"
+   ]
+  ]
+ }
+}

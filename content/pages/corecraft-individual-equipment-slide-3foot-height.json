@@ -1,0 +1,184 @@
+{
+ "path": "/corecraft/individual-equipment/slide-3foot-height.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "3 ft Playground Slides for Toddlers | FunPlay",
+  "description": "3 ft playground slides for toddlers and pre-schools: straight, curve and wave slides in roto-moulded plastic. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "3 ft Playground Slides for Toddlers | FunPlay",
+   "og:description": "3 ft playground slides for toddlers and pre-schools: straight, curve and wave slides in roto-moulded plastic. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height.html",
+   "og:image": "https://funplaysystems.com/images/shrimp-slide-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "3 ft Playground Slides",
+ "data": {
+  "cardImage": "/images/shrimp-slide-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "FtPlaygroundSlides",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Toddler friendly"
+      ]
+     }
+    ],
+    "h1Text": "3 ft Playground Slides"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Red shrimp slide with steel ladder",
+      "imgSrc": "/images/shrimp-slide-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/slide-3foot-height/shrimp-slide.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Shrimp Slide"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Red double wave slide with wide steel ladder",
+      "imgSrc": "/images/double-wave-slide-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/slide-3foot-height/double-wave-slide.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Double Wave Slide"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Red and yellow curved slide, 3 ft, with steel ladder",
+      "imgSrc": "/images/curve-slide-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/slide-3foot-height/curve-slide.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Curve Slide"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Red and yellow straight slide with steel ladder",
+      "imgSrc": "/images/straight-slide-product-catalogue.jpg",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Straight open Slide"
+        ]
+       }
+      ]
+     },
+     {
+      "divStyle": {
+       "display": "none"
+      },
+      "imgAlt": "\"Image coming soon\" graphic, replace with a real product photo",
+      "imgSrc": "/images/Image-coming-soon.jpg",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Straight Open Slide"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Individual Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ],
+   [
+    "3 ft Playground Slides",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Curve Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/curve-slide.html"
+   ],
+   [
+    "Double Wave Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/double-wave-slide.html"
+   ],
+   [
+    "Shrimpm Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/shrimp-slide.html"
+   ],
+   [
+    "Straight Open Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/straight-open-slide.html"
+   ]
+  ]
+ }
+}

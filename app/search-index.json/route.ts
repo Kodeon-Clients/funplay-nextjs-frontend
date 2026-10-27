@@ -1,4 +1,4 @@
-import { renderedPages } from "@/lib/content";
+import { allPages } from "@/lib/pages";
 import { indexable } from "@/lib/sitemap";
 
 export const dynamic = "force-static";
@@ -6,7 +6,7 @@ export const dynamic = "force-static";
 /** Small index used by the header search box and the search results page. */
 export function GET() {
   const rank: Record<string, number> = { product: 0, series: 1, page: 2, home: 2, blog: 3, project: 4, career: 5, "city-playground": 6, "city-gym": 7 };
-  const items = renderedPages()
+  const items = allPages()
     .filter((r) => indexable(r))
     .sort((a, b) => (rank[a.type] ?? 9) - (rank[b.type] ?? 9))
     .map((r) => ({

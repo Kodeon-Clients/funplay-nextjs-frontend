@@ -1,0 +1,413 @@
+{
+ "path": "/corecraft/individual-equipment/swing/mother-child-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Mother Child Swing | CoreCraft | FunPlay Systems",
+  "description": "Mother Child Swing (FPSW07) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/swing/mother-child-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Mother Child Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Mother Child Swing (FPSW07) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/swing/mother-child-swing.html",
+   "og:image": "https://funplaysystems.com/images/MOTHER-CHILD-SWING-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Mother Child Swing",
+ "data": {
+  "name": "Mother Child Swing",
+  "sku": "FPSW07",
+  "colours": [
+   {
+    "name": "Horizon Teal",
+    "swatch": "background-color: #99bebf;",
+    "images": [
+     "/images/MOTHER-CHILD-SWING-Product-Image.jpg"
+    ],
+    "alts": [
+     "Mother Child Swing A-frame swing with yellow parent and toddler seat"
+    ]
+   }
+  ],
+  "description": "The Mother Child Swing lets a parent and a toddler swing together. A Horizon Teal A-frame holds a yellow seat for the adult and a toddler seat facing it, so the two ride face to face. It is meant for the 2 to 4 years Key User Group, with capacity for two. The frame is 5'5\" x 7'6\" and needs a safe play area of 7'5\" x 12'9\". This is a thoughtful addition for a society garden or public park where parents bring very young children. Swinging face to face keeps the child close and calm. The galvanised frame carries a 3-year warranty, and bearings carry 1 year. Ask us how it fits next to your other play pieces.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Swing",
+   "Mother Child Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/swing.html",
+  "image": "/images/MOTHER-CHILD-SWING-Product-Image.jpg",
+  "cardImage": "/images/MOTHER-CHILD-SWING-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Mother Child Swing"
+    ],
+    "pText": "FPSW07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Horizon Teal",
+       "swatch": "background-color: #99bebf;",
+       "images": [
+        "/images/MOTHER-CHILD-SWING-Product-Image.jpg"
+       ],
+       "alts": [
+        "Mother Child Swing A-frame swing with yellow parent and toddler seat"
+       ]
+      }
+     ],
+     "name": "Mother Child Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Mother Child Swing A-frame swing with yellow parent and toddler seat\"]",
+      "divDataImgs": "[\"/images/MOTHER-CHILD-SWING-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#99bebf"
+      },
+      "divText": "",
+      "spanText": "Horizon Teal"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/swing.html"
+        },
+        "c": [
+         "Swing"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Mother Child Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Mother Child Swing lets a parent and a toddler swing together. A Horizon Teal A-frame holds a yellow seat for the adult and a toddler seat facing it, so the two ride face to face. It is meant for the 2 to 4 years Key User Group, with capacity for two. The frame is 5'5\" x 7'6\" and needs a safe play area of 7'5\" x 12'9\". This is a thoughtful addition for a society garden or public park where parents bring very young children. Swinging face to face keeps the child close and calm. The galvanised frame carries a 3-year warranty, and bearings carry 1 year. Ask us how it fits next to your other play pieces."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications4",
+   "props": {
+    "pText": "The frame is galvanised pipe on a splayed A-frame base. It can be fixed self-standing or grouted in. Keep the swing path clear and surfaced with rubber flooring. An adult rider adds load, so check the toddler seat, chains and bearings regularly.",
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2+"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2 - 4 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2"
+     }
+    ],
+    "items2": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 5'5\" x 7'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 7'5\" x 12'9\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+   ],
+   [
+    "Mother Child Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/mother-child-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Mother Child Swing",
+   "sku": "FPSW07",
+   "images": [
+    "/images/MOTHER-CHILD-SWING-Product-Image.jpg"
+   ],
+   "description": "The Mother Child Swing lets a parent and a toddler swing together. A Horizon Teal A-frame holds a yellow seat for the adult and a toddler seat facing it, so the two ride face to face. It is meant for the 2 to 4 years Key User Group, with capacity for two. The frame is 5'5\" x 7'6\" and needs a safe play area of 7'5\" x 12'9\". This is a thoughtful addition for a society garden or public park where parents bring very young children. Swinging face to face keeps the child close and calm. The galvanised frame carries a 3-year warranty, and bearings carry 1 year. Ask us how it fits next to your other play pieces.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/swing.html",
+   "colours": [
+    "Horizon Teal"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "2 - 4 Years"
+    ],
+    [
+     "User capacity",
+     "2"
+    ],
+    [
+     "Safe play area",
+     "Diameter 7'5\" x 12'9\""
+    ],
+    [
+     "Colour options",
+     "Horizon Teal"
+    ]
+   ]
+  }
+ }
+}

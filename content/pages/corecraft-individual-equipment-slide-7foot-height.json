@@ -1,0 +1,222 @@
+{
+ "path": "/corecraft/individual-equipment/slide-7foot-height.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "7 ft Playground Slides | FunPlay Systems",
+  "description": "7 ft playground slides by FunPlay: straight, spiral, tunnel and zig zag slides for ages 5–12. Made in India. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "7 ft Playground Slides | FunPlay Systems",
+   "og:description": "7 ft playground slides by FunPlay: straight, spiral, tunnel and zig zag slides for ages 5–12. Made in India. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html",
+   "og:image": "https://funplaysystems.com/images/Straight-Open-Slide7-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "7 ft Playground Slides",
+ "data": {
+  "cardImage": "/images/Straight-Open-Slide7-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "FtPlaygroundSlides",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Thrilling slides"
+      ]
+     }
+    ],
+    "h1Text": "7 ft Playground Slides"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Red and yellow straight open slide, 7 ft height, with steel ladder",
+        "imgHeight": "605",
+        "imgSrc": "/images/Straight-Open-Slide7-product-catalogue.jpg",
+        "imgWidth": "800",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/straight-open-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Straight Open Slide"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "funplay",
+        "imgSrc": "/images/Curve-Slide7-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/curve-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Curve Slide"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "funplay",
+        "imgSrc": "/images/Zig-Zag-Slide7-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Zig Zag Slide"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Red open spiral slide with steel ladder",
+        "imgHeight": "605",
+        "imgSrc": "/images/Open-Spiral-Slide-product-catalogue.jpg",
+        "imgWidth": "800",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Spiral Slide"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Red and yellow straight tunnel slide, 7 ft height, on a steel tower",
+        "imgHeight": "605",
+        "imgSrc": "/images/Straight-Tunnel-Slide7-product-catalogue.jpg",
+        "imgWidth": "800",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Strtaight Tunnel Slide"
+          ]
+         }
+        ]
+       },
+       {
+        "imgAlt": "Red and yellow spiral tunnel slide on a steel tower with ladder",
+        "imgHeight": "605",
+        "imgSrc": "/images/Spiral-Tunnel-Slide-product-catalogue.jpg",
+        "imgWidth": "800",
+        "aHref": "/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html",
+        "aText": " View Product ",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "d-inline-block text-dark-gray fs-19 fw-600"
+          },
+          "c": [
+           "Spiral Tunnel Slide"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Individual Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ],
+   [
+    "7 ft Playground Slides",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Curve Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/curve-slide.html"
+   ],
+   [
+    "Spiral Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html"
+   ],
+   [
+    "Spiral Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html"
+   ],
+   [
+    "Straight Open Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/straight-open-slide.html"
+   ],
+   [
+    "Strtaight Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html"
+   ],
+   [
+    "Zig Zag Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html"
+   ]
+  ]
+ }
+}

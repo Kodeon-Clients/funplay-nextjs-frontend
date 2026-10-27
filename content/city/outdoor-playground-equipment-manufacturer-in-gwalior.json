@@ -1,0 +1,410 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-gwalior.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Gwalior | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Gwalior. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-gwalior.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Gwalior | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Gwalior. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-gwalior.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Gwalior",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Gwalior"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Gwalior swings from fierce summer heat to cold, foggy winter mornings, and play equipment here has to cope with both. FunPlay Systems designs and manufactures outdoor playground equipment for schools, residential colonies, parks and institutions in Gwalior. Our factory is in Vasai East, about 930 km away, and we send each order by road for installation by our team or a dealer."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "The city has a long tradition of boarding schools, along with day schools, defence colonies around the cantonment and newer residential projects on its edges. A boarding school playground is used before class, after class and at weekends, so it sees more hours than most. We start with your site size, the age groups and a few photos, and return a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Equipment for boarding and day schools",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Children who live on campus come back to the playground every day of the term, so the equipment needs to hold their interest as well as last. Mix pieces that build different skills: a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/merry-go-round.html"
+           },
+           "c": [
+            "merry-go-round"
+           ]
+          },
+          " for group play, climbers for strength and balance, and swings that every age enjoys. Larger campuses can add a structure from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " collection, designed around Indian games."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Keep junior and senior zones apart, with a clear path between them, so younger children are not knocked over by older ones running between pieces."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Summer heat and winter cold in the Chambal region",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "May and June are very hot in Gwalior, with dry winds and dust. Slides and handles in the open sun can get too hot to touch. Plan shade from trees, buildings or a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/garden-decor.html"
+           },
+           "c": [
+            "gazebo or pergola"
+           ]
+          },
+          ", and keep outdoor play to the morning and evening. Roto-moulded plastic in lighter shades stays cooler than dark colours."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Winters bring cold nights and fog, and the monsoon from July to September can leave low ground soggy. A raised base with rubber flooring handles both. Galvanised steel and roto-moulded parts carry a 3-year warranty against manufacturing defects, and springs and bearings carry 1 year."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Colonies, parks and new housing",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Residential colonies and municipal parks often start with a small set of individual pieces, then add a multi play system once residents see the space being used. Since each piece stands on its own base, the layout can grow in stages. Leave room on the first drawing for the pieces you plan to add later."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Societies that also want fitness equipment for adults and senior citizens can see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-gwalior.html"
+           },
+           "c": [
+            "outdoor gym equipment in Gwalior"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Gwalior",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 930 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Gwalior",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-gwalior.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you deliver and install playground equipment in Gwalior?",
+       "a": "Yes. We make the equipment in Vasai, send it about 930 km by road and install it through our own team or a dealer. We also supply nearby towns such as Morena, Shivpuri and Jhansi."
+      },
+      {
+       "q": "How can a school protect children from hot equipment in summer?",
+       "a": "Place slides and decks out of the afternoon sun, choose lighter colours and plan shade over the play area. Moving outdoor play to the early morning also helps in the hottest weeks."
+      },
+      {
+       "q": "Can we build the playground in stages?",
+       "a": "Yes. Each piece stands on its own base, so you can begin with a few pieces and add more later. Tell us your full plan at the start, and we will leave space for the later additions on the layout drawing."
+      },
+      {
+       "q": "What information do you need for a quote?",
+       "a": "The length and width of the site, the age groups of the children and a few photos of the ground. With these we suggest equipment, send a layout drawing with the safe play area marked and share a quote."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html",
+    "aText": "Madhya Pradesh",
+    "spanText": "Gwalior",
+    "h2Text": "Playground equipment suppliers near Gwalior",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-morena.html"
+        },
+        "c": [
+         "Playground equipment in Morena"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhind.html"
+        },
+        "c": [
+         "Playground equipment in Bhind"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jhansi.html"
+        },
+        "c": [
+         "Playground equipment in Jhansi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-shivpuri.html"
+        },
+        "c": [
+         "Playground equipment in Shivpuri"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-etawah.html"
+        },
+        "c": [
+         "Playground equipment in Etawah"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Gwalior? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-gwalior.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Gwalior"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Madhya Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Madhya Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Gwalior",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-gwalior.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Gwalior",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Gwalior. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you deliver and install playground equipment in Gwalior?",
+    "Yes. We make the equipment in Vasai, send it about 930 km by road and install it through our own team or a dealer. We also supply nearby towns such as Morena, Shivpuri and Jhansi."
+   ],
+   [
+    "How can a school protect children from hot equipment in summer?",
+    "Place slides and decks out of the afternoon sun, choose lighter colours and plan shade over the play area. Moving outdoor play to the early morning also helps in the hottest weeks."
+   ],
+   [
+    "Can we build the playground in stages?",
+    "Yes. Each piece stands on its own base, so you can begin with a few pieces and add more later. Tell us your full plan at the start, and we will leave space for the later additions on the layout drawing."
+   ],
+   [
+    "What information do you need for a quote?",
+    "The length and width of the site, the age groups of the children and a few photos of the ground. With these we suggest equipment, send a layout drawing with the safe play area marked and share a quote."
+   ]
+  ]
+ }
+}

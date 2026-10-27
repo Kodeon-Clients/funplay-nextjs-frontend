@@ -1,0 +1,398 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Jumbo Four Seater Merry-Go-Round | CoreCraft | FunPlay",
+  "description": "Jumbo Four Seater Merry-Go-Round (FPMGR06) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Jumbo Four Seater Merry-Go-Round | CoreCraft | FunPlay",
+   "og:description": "Jumbo Four Seater Merry-Go-Round (FPMGR06) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html",
+   "og:image": "https://funplaysystems.com/images/JUMBO-FOUR-SEATER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Jumbo Four Seater Merry-Go-Round",
+ "data": {
+  "name": "Jumbo Four Seater Merry-Go-Round",
+  "sku": "FPMGR06",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #c31c13 0% 25%,\n                    #35594f 25% 50%,\n                    #ca9120 50% 75%,\n                    #1e3360 75% 100%\n                  );\n                ",
+    "images": [
+     "/images/JUMBO-FOUR-SEATER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Jumbo Four Seater MGR four-seater merry-go-round with colourful elephant-shaped seats"
+    ]
+   }
+  ],
+  "description": "Elephant-shaped seats give the Jumbo Four Seater Merry-Go-Round its name. Four children each sit on a colourful elephant while the platform turns, and the seat shape gives them something solid to hold. It is meant for the 3 to 9 years Key User Group, so it works in a primary school as well as a society play area. The platform is 6'8\" in diameter, slightly larger than our standard four seater, and the safe play area is a 12'8\" circle. The elephants come in multi colour and make a strong theme piece for a park. Roto-moulded seats and galvanised pipes carry a 3-year warranty, with 1 year on bearings. Ask us for a layout drawing of your play area.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Jumbo Four Seater MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/JUMBO-FOUR-SEATER-Product-Image.jpg",
+  "cardImage": "/images/JUMBO-FOUR-SEATER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Jumbo Four Seater Merry-Go-Round"
+    ],
+    "pText": "FPMGR06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #c31c13 0% 25%,\n                    #35594f 25% 50%,\n                    #ca9120 50% 75%,\n                    #1e3360 75% 100%\n                  );\n                ",
+       "images": [
+        "/images/JUMBO-FOUR-SEATER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Jumbo Four Seater MGR four-seater merry-go-round with colourful elephant-shaped seats"
+       ]
+      }
+     ],
+     "name": "Jumbo Four Seater Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Jumbo Four Seater MGR four-seater merry-go-round with colourful elephant-shaped seats\"]",
+      "divDataImgs": "[\"/images/JUMBO-FOUR-SEATER-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #c31c13 0% 25%, #35594f 25% 50%, #ca9120 50% 75%, #1e3360 75% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Jumbo Four Seater MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Elephant-shaped seats give the Jumbo Four Seater Merry-Go-Round its name. Four children each sit on a colourful elephant while the platform turns, and the seat shape gives them something solid to hold. It is meant for the 3 to 9 years Key User Group, so it works in a primary school as well as a society play area. The platform is 6'8\" in diameter, slightly larger than our standard four seater, and the safe play area is a 12'8\" circle. The elephants come in multi colour and make a strong theme piece for a park. Roto-moulded seats and galvanised pipes carry a 3-year warranty, with 1 year on bearings. Ask us for a layout drawing of your play area."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Each elephant seat is roto-moulded and bolted to a galvanised steel platform. Installation is self-standing or grouted, depending on your ground. A turning platform of 6'8\" needs room for children to step off safely, so keep the 12'8\" circle clear and inspect the seat fixings and bearing during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 to 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 6'8\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 12'8\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Jumbo Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Jumbo Four Seater Merry-Go-Round",
+   "sku": "FPMGR06",
+   "images": [
+    "/images/JUMBO-FOUR-SEATER-Product-Image.jpg"
+   ],
+   "description": "Elephant-shaped seats give the Jumbo Four Seater Merry-Go-Round its name. Four children each sit on a colourful elephant while the platform turns, and the seat shape gives them something solid to hold. It is meant for the 3 to 9 years Key User Group, so it works in a primary school as well as a society play area. The platform is 6'8\" in diameter, slightly larger than our standard four seater, and the safe play area is a 12'8\" circle. The elephants come in multi colour and make a strong theme piece for a park. Roto-moulded seats and galvanised pipes carry a 3-year warranty, with 1 year on bearings. Ask us for a layout drawing of your play area.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "Diameter 12'8\""
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

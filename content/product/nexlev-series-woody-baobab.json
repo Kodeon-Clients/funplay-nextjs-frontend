@@ -1,0 +1,575 @@
+{
+ "path": "/nexlev-series/woody/baobab.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Baobab Park Bench | NexLev Series | FunPlay Systems",
+  "description": "Baobab Park Bench (NXWDBA) from the NexLev Series Woody range: 3 kids at a time, safe play area 9'6\" x 5'6\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/woody/baobab.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Baobab Park Bench | NexLev Series | FunPlay Systems",
+   "og:description": "Baobab Park Bench (NXWDBA) from the NexLev Series Woody range: 3 kids at a time, safe play area 9'6\" x 5'6\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/woody/baobab.html",
+   "og:image": "https://funplaysystems.com/images/BAOBAB-A.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Baobab Park Bench",
+ "data": {
+  "name": "Baobab",
+  "sku": "NXWDBA",
+  "colours": [
+   {
+    "name": "Brown",
+    "swatch": "background-color: #491a10",
+    "images": [
+     "/images/BAOBAB-A.jpg",
+     "/images/BAOBAB-B.jpg",
+     "/images/BAOBAB-C.jpg"
+    ],
+    "alts": [
+     "Baobab wooden park bench with dark brown slats and black steel legs",
+     "Side view of Baobab brown wooden bench",
+     "Top view of Baobab wooden bench seat"
+    ]
+   }
+  ],
+  "description": "Baobab is a park bench from the Woody series, with a slatted seat and backrest in dark brown on angled black legs. It seats 3 to 4 people and measures 6'6\" x 2'6\". Set beside a play area, it gives parents a place to sit and watch without standing inside a safe zone. Housing societies, resorts, public parks and college campuses also use benches like this along walking paths and lawns. The brown finish matches the other Woody pieces, so a site can keep one look across its play equipment and seating. It is garden furniture, so it does not need impact flooring. Our 3-year warranty on galvanised pipe and composite laminates applies to the parts made of those materials. Tell us how many benches your layout needs and where your paths run.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Nexlev Series",
+   "Woody",
+   "Baobab"
+  ],
+  "line": "nexlev-series",
+  "series": "/nexlev-series/woody.html",
+  "image": "/images/BAOBAB-A.jpg",
+  "cardImage": "/images/BAOBAB-A.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Baobab ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Park Bench"
+      ]
+     }
+    ],
+    "pText": "NXWDBA",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Brown",
+       "swatch": "background-color: #491a10",
+       "images": [
+        "/images/BAOBAB-A.jpg",
+        "/images/BAOBAB-B.jpg",
+        "/images/BAOBAB-C.jpg"
+       ],
+       "alts": [
+        "Baobab wooden park bench with dark brown slats and black steel legs",
+        "Side view of Baobab brown wooden bench",
+        "Top view of Baobab wooden bench seat"
+       ]
+      }
+     ],
+     "name": "Baobab"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Baobab wooden park bench with dark brown slats and black steel legs\", \"Side view of Baobab brown wooden bench\", \"Top view of Baobab wooden bench seat\"]",
+      "divDataImgs": "[\"/images/BAOBAB-A.jpg\", \"/images/BAOBAB-B.jpg\", \"/images/BAOBAB-C.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#491a10"
+      },
+      "divText": "",
+      "spanText": "Brown"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series.html"
+        },
+        "c": [
+         "Nexlev Series"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series/woody.html"
+        },
+        "c": [
+         "Woody"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Baobab"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Baobab is a park bench from the Woody series, with a slatted seat and backrest in dark brown on angled black legs. It seats 3 to 4 people and measures 6'6\" x 2'6\". Set beside a play area, it gives parents a place to sit and watch without standing inside a safe zone. Housing societies, resorts, public parks and college campuses also use benches like this along walking paths and lawns. The brown finish matches the other Woody pieces, so a site can keep one look across its play equipment and seating. It is garden furniture, so it does not need impact flooring. Our 3-year warranty on galvanised pipe and composite laminates applies to the parts made of those materials. Tell us how many benches your layout needs and where your paths run."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/nexlev-series/woody/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group NA"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "sectionStyle": {
+     "paddingTop": "0px"
+    },
+    "pText": "Baobab stands on a black steel frame and can be fixed self-standing or grouted into a paved or soft base. Leave the 9'6\" x 5'6\" area listed for it clear, so people can sit down and get up easily. Wipe the slats after the monsoon and check the frame bolts at routine services.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 4"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Positive thinking"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6'6\" x 2'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "9'6\" x 5'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Nexlev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "Woody",
+    "https://funplaysystems.com/nexlev-series/woody.html"
+   ],
+   [
+    "Baobab Park Bench",
+    "https://funplaysystems.com/nexlev-series/woody/baobab.html"
+   ]
+  ],
+  "product": {
+   "name": "Baobab",
+   "sku": "NXWDBA",
+   "images": [
+    "/images/BAOBAB-A.jpg",
+    "/images/BAOBAB-B.jpg",
+    "/images/BAOBAB-C.jpg"
+   ],
+   "description": "Baobab is a park bench from the Woody series, with a slatted seat and backrest in dark brown on angled black legs. It seats 3 to 4 people and measures 6'6\" x 2'6\". Set beside a play area, it gives parents a place to sit and watch without standing inside a safe zone. Housing societies, resorts, public parks and college campuses also use benches like this along walking paths and lawns. The brown finish matches the other Woody pieces, so a site can keep one look across its play equipment and seating. It is garden furniture, so it does not need impact flooring. Our 3-year warranty on galvanised pipe and composite laminates applies to the parts made of those materials. Tell us how many benches your layout needs and where your paths run.",
+   "category": "Park Bench",
+   "line": "nexlev-series",
+   "series": "/nexlev-series/woody.html",
+   "colours": [
+    "Brown"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "3 - 4"
+    ],
+    [
+     "Safe play area",
+     "9'6\" x 5'6\""
+    ],
+    [
+     "Skills developed",
+     "Positive thinking"
+    ],
+    [
+     "Colour options",
+     "Brown"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/alligator-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Alligator Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Alligator Spring Rider (FPSR05) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/alligator-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Alligator Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Alligator Spring Rider (FPSR05) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/alligator-rider.html",
+   "og:image": "https://funplaysystems.com/images/Spring-Riders-6.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Alligator Spring Rider",
+ "data": {
+  "name": "Alligator Spring Rider",
+  "sku": "FPSR05",
+  "colours": [
+   {
+    "name": "Knight Blue",
+    "swatch": "background-color: #2a4588",
+    "images": [
+     "/images/Spring-Riders-6.jpg"
+    ],
+    "alts": [
+     "Alligator Rider blue alligator-shaped spring rider for kids"
+    ]
+   }
+  ],
+  "description": "Children sit on the back of a long Knight Blue alligator on this spring rider and rock it on its spring. The alligator's length gives a wide, stable seat, and a child can lean forward or back to make it move. Spring riders are often the first piece a toddler tries on their own, because the movement is gentle and they stay close to the ground. The Alligator Spring Rider fits a water or jungle theme in a society garden, play school or resort kids' area. Our warranty runs 3 years on roto-moulded parts and 1 year on the spring. Send us a photo of your toddler area for suggestions.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Alligator Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/Spring-Riders-6.jpg",
+  "cardImage": "/images/Spring-Riders-6.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Alligator Spring Rider"
+    ],
+    "pText": "FPSR05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue",
+       "swatch": "background-color: #2a4588",
+       "images": [
+        "/images/Spring-Riders-6.jpg"
+       ],
+       "alts": [
+        "Alligator Rider blue alligator-shaped spring rider for kids"
+       ]
+      }
+     ],
+     "name": "Alligator Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Alligator Rider blue alligator-shaped spring rider for kids\"]",
+      "divDataImgs": "[\"/images/Spring-Riders-6.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2a4588"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Alligator Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Children sit on the back of a long Knight Blue alligator on this spring rider and rock it on its spring. The alligator's length gives a wide, stable seat, and a child can lean forward or back to make it move. Spring riders are often the first piece a toddler tries on their own, because the movement is gentle and they stay close to the ground. The Alligator Spring Rider fits a water or jungle theme in a society garden, play school or resort kids' area. Our warranty runs 3 years on roto-moulded parts and 1 year on the spring. Send us a photo of your toddler area for suggestions."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "A roto-moulded alligator body is fixed to a steel spring. It can be installed self-standing or by grouting. Keep the area around the alligator's head and tail clear, place it on rubber flooring, and check that the spring has not lost its bounce and that all bolts are tight."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Alligator Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/alligator-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Alligator Spring Rider",
+   "sku": "FPSR05",
+   "images": [
+    "/images/Spring-Riders-6.jpg"
+   ],
+   "description": "Children sit on the back of a long Knight Blue alligator on this spring rider and rock it on its spring. The alligator's length gives a wide, stable seat, and a child can lean forward or back to make it move. Spring riders are often the first piece a toddler tries on their own, because the movement is gentle and they stay close to the ground. The Alligator Spring Rider fits a water or jungle theme in a society garden, play school or resort kids' area. Our warranty runs 3 years on roto-moulded parts and 1 year on the spring. Send us a photo of your toddler area for suggestions.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Knight Blue"
+    ]
+   ]
+  }
+ }
+}

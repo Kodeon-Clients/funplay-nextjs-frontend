@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Spiral Tunnel Slide (7 ft) | CoreCraft | FunPlay Systems",
+  "description": "Spiral Tunnel Slide (7 ft) (FPRS26) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Spiral Tunnel Slide (7 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Spiral Tunnel Slide (7 ft) (FPRS26) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-4-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Spiral Tunnel Slide (7 ft)",
+ "data": {
+  "name": "Spiral Tunnel Slide",
+  "sku": "FPRS26",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Slides-4-5foot.jpg"
+    ],
+    "alts": [
+     "Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower"
+    ]
+   }
+  ],
+  "description": "The 7 ft Spiral Tunnel Slide drops from a steel tower through a red and yellow enclosed tube that winds round on itself. From this height the ride is long and quick, and children cannot see out until they reach the exit. It is a big draw for older children in schools, parks and resorts, and the enclosed tube keeps them inside the slide all the way down. A spiral uses less ground than a straight tunnel of the same height. Steel and moulded parts are warranted for 3 years against manufacturing defects. Tell us your site size and we will plan the tower, tube and exit on a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-7foot-height",
+   "Strtaight Tunnel Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+  "image": "/images/Slides-4-5foot.jpg",
+  "cardImage": "/images/Slides-4-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Spiral Tunnel Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(7 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS26",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Slides-4-5foot.jpg"
+       ],
+       "alts": [
+        "Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower"
+       ]
+      }
+     ],
+     "name": "Spiral Tunnel Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Spiral Tunnel Slide red and yellow spiral tunnel slide on a steel tower\"]",
+      "divDataImgs": "[\"/images/Slides-4-5foot.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e20e35 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-7foot-height.html"
+        },
+        "c": [
+         "Slide-7foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Strtaight Tunnel Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The 7 ft Spiral Tunnel Slide drops from a steel tower through a red and yellow enclosed tube that winds round on itself. From this height the ride is long and quick, and children cannot see out until they reach the exit. It is a big draw for older children in schools, parks and resorts, and the enclosed tube keeps them inside the slide all the way down. A spiral uses less ground than a straight tunnel of the same height. Steel and moulded parts are warranted for 3 years against manufacturing defects. Tell us your site size and we will plan the tower, tube and exit on a layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "A galvanised tower supports the moulded tunnel sections. Our installers set it self-standing or grouted. The exit must sit where an adult can watch it, with rubber flooring underneath. Clear leaves and rainwater from the tube, and check every joint between tunnel sections during maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-7foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html"
+   ],
+   [
+    "Spiral Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Spiral Tunnel Slide",
+   "sku": "FPRS26",
+   "images": [
+    "/images/Slides-4-5foot.jpg"
+   ],
+   "description": "The 7 ft Spiral Tunnel Slide drops from a steel tower through a red and yellow enclosed tube that winds round on itself. From this height the ride is long and quick, and children cannot see out until they reach the exit. It is a big draw for older children in schools, parks and resorts, and the enclosed tube keeps them inside the slide all the way down. A spiral uses less ground than a straight tunnel of the same height. Steel and moulded parts are warranted for 3 years against manufacturing defects. Tell us your site size and we will plan the tower, tube and exit on a layout drawing.",
+   "category": "7 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

@@ -1,24 +1,23 @@
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import ContactPopup from "@/components/ContactPopup";
-import { getPage } from "@/lib/content";
-import { renderBody } from "@/lib/render";
+import type { Metadata } from "next";
+import "./globals.css";
+import Behaviors from "@/components/Behaviors";
+import PageShell from "@/components/PageShell";
+import { section, type PageMeta } from "@/lib/page";
+import meta from "@/content/pages/404.json";
+import Section5, { type Section5Props } from "@/components/pages/404/Section5";
 
-export const metadata = { title: "Page not found | FunPlay Systems", robots: { index: false, follow: true } };
+const page = meta as PageMeta;
 
-/** 404 page: reuses the original 404 design from content (404.html). */
+export const metadata: Metadata = { title: { absolute: "Page not found | FunPlay Systems" }, robots: { index: false, follow: true } };
+
+/** 404 page, with the original 404 design. */
 export default function NotFound() {
-  const rec = getPage("/404.html");
   return (
     <>
-      <Header variant={rec?.header} />
-      <main id="main">
-        {rec?.body ? renderBody(rec.body, rec) : (
-          <section className="text-center"><div className="container"><h1>Page not found</h1><p><a href="/">Go to the homepage</a></p></div></section>
-        )}
-      </main>
-      <Footer />
-      <ContactPopup />
+      <PageShell page={page}>
+      <Section5 {...section<Section5Props>(page, "Section5")} />
+      </PageShell>
+      <Behaviors />
     </>
   );
 }

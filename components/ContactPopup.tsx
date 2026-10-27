@@ -4,7 +4,7 @@ import EnquiryForm from "./EnquiryForm";
 export default function ContactPopup({ title = "Contact Us" }: { title?: string }) {
   const isQuote = title !== "Contact Us";
   return (
-    <div className="contactpopup">
+    <aside className="contactpopup" aria-label="Contact FunPlay Systems">
       <a href="#contact-form" className="btn btn-base-color popup-with-form">CONTACT US</a>
       <div id="contact-form" className="container p-0 contact-form-style-01 position-relative text-center mfp-hide" role="dialog" aria-modal="true" aria-labelledby="contact-form-title">
         <div className="row g-0">
@@ -18,6 +18,6 @@ export default function ContactPopup({ title = "Contact Us" }: { title?: string 
           </div>
         </div>
       </div>
-    </div>
+    </aside>
   );
 }

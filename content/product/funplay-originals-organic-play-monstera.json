@@ -1,0 +1,712 @@
+{
+ "path": "/funplay-originals/organic-play/monstera.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Monstera Nature Play Structure | FunPlay Originals | FunPlay",
+  "description": "Monstera Nature Play Structure (FOO06), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/monstera.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Monstera Nature Play Structure | FunPlay Originals | FunPlay",
+   "og:description": "Monstera Nature Play Structure (FOO06), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/monstera.html",
+   "og:image": "https://funplaysystems.com/images/Monstera-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Monstera Nature Play Structure",
+ "data": {
+  "name": "Monstera",
+  "sku": "FOO06",
+  "colours": [
+   {
+    "name": "Lemon Yellow",
+    "swatch": "\n                  background: conic-gradient(\n                    #bdc700 0% 33.33%,\n                    #1f3d3e 33.33% 66.66%,\n                    #253a4d 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Monstera-1.jpg",
+     "/images/Monstera-2.jpg",
+     "/images/Monstera-3.jpg",
+     "/images/Monstera-4.jpg",
+     "/images/Monstera-5.jpg"
+    ],
+    "alts": [
+     "Monstera leaf-themed play station in lemon yellow with twin towers and four slides",
+     "Front view of Monstera play towers with curved monstera-leaf frames and yellow slides",
+     "Top view of Monstera showing four yellow slides in an X layout",
+     "Side view of Monstera twin-tower play station with yellow slides",
+     "Top view of Monstera X-shaped slide layout with central towers"
+    ]
+   }
+  ],
+  "description": "Monstera is a twin-tower play station whose frames copy the curved, split leaves of the monstera plant. The cut-outs let light and sight lines through, so parents can watch children on the upper levels. From above, four Lemon Yellow slides spread out in an X, one from each corner of the towers. Four slides let a large group come down at once, which is useful in a school or a big society park. It suits ages 5 to 12 and holds up to 15 children. The product area is 24' x 20'4\" and the safe play area is 30' x 26'4\". Climbing and sliding here build body strength and imagination. The 3-year warranty applies to galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Monstera"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Monstera-1.jpg",
+  "cardImage": "/images/Monstera-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Monstera ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOO06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Lemon Yellow",
+       "swatch": "\n                  background: conic-gradient(\n                    #bdc700 0% 33.33%,\n                    #1f3d3e 33.33% 66.66%,\n                    #253a4d 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Monstera-1.jpg",
+        "/images/Monstera-2.jpg",
+        "/images/Monstera-3.jpg",
+        "/images/Monstera-4.jpg",
+        "/images/Monstera-5.jpg"
+       ],
+       "alts": [
+        "Monstera leaf-themed play station in lemon yellow with twin towers and four slides",
+        "Front view of Monstera play towers with curved monstera-leaf frames and yellow slides",
+        "Top view of Monstera showing four yellow slides in an X layout",
+        "Side view of Monstera twin-tower play station with yellow slides",
+        "Top view of Monstera X-shaped slide layout with central towers"
+       ]
+      }
+     ],
+     "name": "Monstera"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Monstera leaf-themed play station in lemon yellow with twin towers and four slides\", \"Front view of Monstera play towers with curved monstera-leaf frames and yellow slides\", \"Top view of Monstera showing four yellow slides in an X layout\", \"Side view of Monstera twin-tower play station with yellow slides\", \"Top view of Monstera X-shaped slide layout with central towers\"]",
+      "divDataImgs": "[\"/images/Monstera-1.jpg\", \"/images/Monstera-2.jpg\", \"/images/Monstera-3.jpg\", \"/images/Monstera-4.jpg\", \"/images/Monstera-5.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #bdc700 0% 33.33%, #1f3d3e 33.33% 66.66%, #253a4d 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Lemon Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Monstera"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Monstera is a twin-tower play station whose frames copy the curved, split leaves of the monstera plant. The cut-outs let light and sight lines through, so parents can watch children on the upper levels. From above, four Lemon Yellow slides spread out in an X, one from each corner of the towers. Four slides let a large group come down at once, which is useful in a school or a big society park. It suits ages 5 to 12 and holds up to 15 children. The product area is 24' x 20'4\" and the safe play area is 30' x 26'4\". Climbing and sliding here build body strength and imagination. The 3-year warranty applies to galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us for a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Interaction"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Body Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Monstera play station with four slides",
+    "imgSrc": "/images/Monstera-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "731.52 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "619.76 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Monstera's leaf frames are composite on a galvanised pipe structure, with roto-moulded slides. It is installed self-standing or grouted. Each of the four slide exits needs its own run-out space within the 30' x 26'4\" zone, so square sites suit it best. Check every slide joint and the leaf panel edges at regular intervals.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imagination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Body Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "24' x 20'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30' x 26'4\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Monstera Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/monstera.html"
+   ]
+  ],
+  "product": {
+   "name": "Monstera",
+   "sku": "FOO06",
+   "images": [
+    "/images/Monstera-1.jpg",
+    "/images/Monstera-2.jpg",
+    "/images/Monstera-3.jpg",
+    "/images/Monstera-4.jpg",
+    "/images/Monstera-5.jpg"
+   ],
+   "description": "Monstera is a twin-tower play station whose frames copy the curved, split leaves of the monstera plant. The cut-outs let light and sight lines through, so parents can watch children on the upper levels. From above, four Lemon Yellow slides spread out in an X, one from each corner of the towers. Four slides let a large group come down at once, which is useful in a school or a big society park. It suits ages 5 to 12 and holds up to 15 children. The product area is 24' x 20'4\" and the safe play area is 30' x 26'4\". Climbing and sliding here build body strength and imagination. The 3-year warranty applies to galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us for a quote.",
+   "category": "Nature Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Lemon Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "30' x 26'4\""
+    ],
+    [
+     "Length",
+     "731.52 cm"
+    ],
+    [
+     "Width",
+     "619.76 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Imagination Body Strength"
+    ],
+    [
+     "Colour options",
+     "Lemon Yellow"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,316 @@
+{
+ "path": "/faq.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment FAQs | FunPlay Systems",
+  "description": "Answers on FunPlay playground equipment: product range, themes, materials, safety, warranty, installation, maintenance and pricing.",
+  "canonical": "https://funplaysystems.com/faq.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment FAQs | FunPlay Systems",
+   "og:description": "Answers on FunPlay playground equipment: product range, themes, materials, safety, warranty, installation, maintenance and pricing.",
+   "og:url": "https://funplaysystems.com/faq.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Playground Equipment FAQs",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "PlaygroundEquipmentFaqs",
+   "props": {
+    "h1Text": "Playground Equipment FAQs"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "aClass": "nav-link active",
+      "aHref": "#tab_seven1",
+      "iClass": "bi bi-file-text",
+      "spanText": "Customization And Design"
+     },
+     {
+      "aClass": "nav-link",
+      "aHref": "#tab_seven2",
+      "iClass": "bi bi-bag-plus",
+      "spanText": "Safety And Standards "
+     },
+     {
+      "aClass": "nav-link",
+      "aHref": "#tab_seven3",
+      "iClass": "bi bi-credit-card-2-back",
+      "spanText": "Ordering And Delivery"
+     },
+     {
+      "aClass": "nav-link",
+      "aHref": "#tab_seven4",
+      "iClass": "bi bi-award",
+      "spanText": "Maintenace And Warranty"
+     },
+     {
+      "aClass": "nav-link",
+      "aHref": "#tab_seven5",
+      "iClass": "bi bi-info-square",
+      "spanText": "Environmental And Social Responsibility"
+     }
+    ],
+    "items2": [
+     {
+      "divClass": "accordion-item active-accordion",
+      "divClass2": "accordion-header border-bottom border-color-extra-medium-gray pt-0",
+      "aAriaExpanded": "true",
+      "aDataBsTarget": "#accordion-style-01-01",
+      "iClass": "feather icon-feather-minus",
+      "spanClass": "fw-500 fs-18",
+      "spanText": "What are the different types of playground equipment that you offer?",
+      "divClass3": "accordion-collapse collapse show",
+      "divId": "accordion-style-01-01",
+      "pText": "We offer outdoor multi-play systems for kids that includes Slides, Swings, Climbers, Merry-go-round’s, Spinners, Spring Riders and See-Saw. We also provide outdoor gym equipment’s for adults."
+     },
+     {
+      "divClass": "accordion-item",
+      "divClass2": "accordion-header border-bottom border-color-extra-medium-gray",
+      "aAriaExpanded": "false",
+      "aDataBsTarget": "#accordion-style-01-02",
+      "iClass": "feather icon-feather-plus",
+      "spanClass": "fw-500 fs-17",
+      "spanText": "Do you also provide play systems based on a particular theme/location?",
+      "divClass3": "accordion-collapse collapse",
+      "divId": "accordion-style-01-02",
+      "pText": "We have various theme-based designs already available in our recently launched catalogs i.e Funplay Originals and Funplay CoreCraft. Apart from that we also take customized design projects as per requirement depending on the scope of design."
+     },
+     {
+      "divClass": "accordion-item",
+      "divClass2": "accordion-header border-bottom border-color-light-medium-gray",
+      "aAriaExpanded": "false",
+      "aDataBsTarget": "#accordion-style-01-03",
+      "iClass": "feather icon-feather-plus",
+      "spanClass": "fw-500 fs-17",
+      "spanText": "Is there an option to choose colors of our choice or customization in any way?",
+      "divClass3": "accordion-collapse collapse",
+      "divId": "accordion-style-01-03",
+      "pText": "Yes, but all our products have a diverse and balanced color options available. We provide 12 color options in plastic and 7 color options in metals."
+     }
+    ],
+    "spanText": "What measures have been taken for ensuring the safety of kid?",
+    "pText": "All our products are designed as per the international safety standards.",
+    "spanText2": "What site preparation is required before installation?",
+    "pText2": "Before you begin the installation process, it is essential to ensure that",
+    "items3": [
+     {
+      "liText": "A. The proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liText": "B. Check that the site is correctly level."
+     },
+     {
+      "liText": "C. Provide proper drainage to avoid accumulation of water."
+     }
+    ],
+    "items4": [
+     {
+      "divId": "tab_seven3",
+      "divId2": "accordion-style-03",
+      "items": [
+       {
+        "divClass": "accordion-item active-accordion",
+        "divClass2": "accordion-header border-bottom border-color-extra-medium-gray pt-0",
+        "aAriaExpanded": "true",
+        "aDataBsParent": "#accordion-style-03",
+        "aDataBsTarget": "#accordion-style-03-01",
+        "iClass": "feather icon-feather-minus",
+        "spanText": "How can I place an order?",
+        "divClass3": "accordion-collapse collapse show",
+        "divDataBsParent": "#accordion-style-03",
+        "divId": "accordion-style-03-01",
+        "pText": "You can contact us on +91 9028302266 / +91 9028302266 or email us on Sales@funplaysystems,com for Enquiries & we shall get in touch with you."
+       },
+       {
+        "divClass": "accordion-item",
+        "divClass2": "accordion-header border-bottom border-color-extra-medium-gray",
+        "aAriaExpanded": "false",
+        "aDataBsParent": "#accordion-style-03",
+        "aDataBsTarget": "#accordion-style-03-02",
+        "iClass": "feather icon-feather-plus",
+        "spanText": "What is the lead time for delivery?",
+        "divClass3": "accordion-collapse collapse",
+        "divDataBsParent": "#accordion-style-03",
+        "divId": "accordion-style-03-02",
+        "pText": "We take minimum 3-4 weeks for the production."
+       },
+       {
+        "divClass": "accordion-item",
+        "divClass2": "accordion-header border-bottom border-color-light-medium-gray",
+        "aAriaExpanded": "false",
+        "aDataBsParent": "#accordion-style-03",
+        "aDataBsTarget": "#accordion-style-03-03",
+        "iClass": "feather icon-feather-plus",
+        "spanText": "Do you ship internationally",
+        "divClass3": "accordion-collapse collapse",
+        "divDataBsParent": "#accordion-style-03",
+        "divId": "accordion-style-03-03",
+        "pText": "Yes, we do ship globally."
+       }
+      ]
+     },
+     {
+      "divId": "tab_seven4",
+      "divId2": "accordion-style-04",
+      "items": [
+       {
+        "divClass": "accordion-item active-accordion",
+        "divClass2": "accordion-header border-bottom border-color-extra-medium-gray pt-0",
+        "aAriaExpanded": "true",
+        "aDataBsParent": "#accordion-style-04",
+        "aDataBsTarget": "#accordion-style-04-01",
+        "iClass": "feather icon-feather-minus",
+        "spanText": "1. What is the life span of these equipment?",
+        "divClass3": "accordion-collapse collapse show",
+        "divDataBsParent": "#accordion-style-04",
+        "divId": "accordion-style-04-01",
+        "pText": "Life span of our products is around 10 years depending on the usage."
+       },
+       {
+        "divClass": "accordion-item",
+        "divClass2": "accordion-header border-bottom border-color-extra-medium-gray",
+        "aAriaExpanded": "false",
+        "aDataBsParent": "#accordion-style-04",
+        "aDataBsTarget": "#accordion-style-04-02",
+        "iClass": "feather icon-feather-plus",
+        "spanText": "How durable are your products?",
+        "divClass3": "accordion-collapse collapse",
+        "divDataBsParent": "#accordion-style-04",
+        "divId": "accordion-style-04-02",
+        "pText": "We provide 3 years warranty on all our products and 1 year free After Sales Support services. We use corrosion resistant GI metal pipes, Impact resistant LLDPE plastic and Weather proof composites."
+       },
+       {
+        "divClass": "accordion-item",
+        "divClass2": "accordion-header border-bottom border-color-light-medium-gray",
+        "aAriaExpanded": "false",
+        "aDataBsParent": "#accordion-style-04",
+        "aDataBsTarget": "#accordion-style-04-03",
+        "iClass": "feather icon-feather-plus",
+        "spanText": "3. What if the products get damaged? Can I get it repaired for free?",
+        "divClass3": "accordion-collapse collapse",
+        "divDataBsParent": "#accordion-style-04",
+        "divId": "accordion-style-04-03",
+        "pText": "If the products get damaged within one year of purchase, we provide free replacement or repair of the damaged parts."
+       },
+       {
+        "divClass": "accordion-item",
+        "divClass2": "accordion-header border-bottom border-color-light-medium-gray",
+        "aAriaExpanded": "false",
+        "aDataBsParent": "#accordion-style-04",
+        "aDataBsTarget": "#accordion-style-04-04",
+        "iClass": "feather icon-feather-plus",
+        "spanText": "How do you maintain your play equipment?",
+        "divClass3": "accordion-collapse collapse",
+        "divDataBsParent": "#accordion-style-04",
+        "divId": "accordion-style-04-04",
+        "pText": "We provide 1-year free services. Post that we have an Annual maintenance Contract that includes servicing of moving parts, Inspection of wooden parts and refinishing if required."
+       }
+      ]
+     },
+     {
+      "divId": "tab_seven5",
+      "divId2": "accordion-style-05",
+      "items": [
+       {
+        "divClass": "accordion-item active-accordion",
+        "divClass2": "accordion-header border-bottom border-color-extra-medium-gray pt-0",
+        "aAriaExpanded": "true",
+        "aDataBsParent": "#accordion-style-05",
+        "aDataBsTarget": "#accordion-style-05-01",
+        "iClass": "feather icon-feather-minus",
+        "spanText": "Are your products environment friendly?",
+        "divClass3": "accordion-collapse collapse show",
+        "divDataBsParent": "#accordion-style-05",
+        "divId": "accordion-style-05-01",
+        "pText": "Yes, majorly! All our standard products are produced from recyclable LLDPE plastic. The wood we use is sustainably sourced. Moreover, we us composites produced from recycled materials."
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Playground Equipment FAQs",
+    "https://funplaysystems.com/faq.html"
+   ]
+  ],
+  "pageType": "FAQPage",
+  "faq": [
+   [
+    "What are the different types of playground equipment that you offer?",
+    "We offer outdoor multi-play systems for kids that includes Slides, Swings, Climbers, Merry-go-round’s, Spinners, Spring Riders and See-Saw. We also provide outdoor gym equipment’s for adults."
+   ],
+   [
+    "Do you also provide play systems based on a particular theme/location?",
+    "We have various theme-based designs already available in our recently launched catalogs i.e Funplay Originals and Funplay CoreCraft. Apart from that we also take customized design projects as per requirement depending on the scope of design."
+   ],
+   [
+    "Is there an option to choose colors of our choice or customization in any way?",
+    "Yes, but all our products have a diverse and balanced color options available. We provide 12 color options in plastic and 7 color options in metals."
+   ],
+   [
+    "What measures have been taken for ensuring the safety of kid?",
+    "All our products are designed as per the international safety standards."
+   ],
+   [
+    "What site preparation is required before installation?",
+    "Before you begin the installation process, it is essential to ensure that A. The proposed area is clear of any rocks, debris, or other obstructions. B. Check that the site is correctly level. C. Provide proper drainage to avoid accumulation of water."
+   ],
+   [
+    "How can I place an order?",
+    "You can contact us on +91 9028302266 / +91 9028302266 or email us on Sales@funplaysystems,com for Enquiries & we shall get in touch with you."
+   ],
+   [
+    "What is the lead time for delivery?",
+    "We take minimum 3-4 weeks for the production."
+   ],
+   [
+    "Do you ship internationally",
+    "Yes, we do ship globally."
+   ],
+   [
+    "1. What is the life span of these equipment?",
+    "Life span of our products is around 10 years depending on the usage."
+   ],
+   [
+    "How durable are your products?",
+    "We provide 3 years warranty on all our products and 1 year free After Sales Support services. We use corrosion resistant GI metal pipes, Impact resistant LLDPE plastic and Weather proof composites."
+   ],
+   [
+    "3. What if the products get damaged? Can I get it repaired for free?",
+    "If the products get damaged within one year of purchase, we provide free replacement or repair of the damaged parts."
+   ],
+   [
+    "How do you maintain your play equipment?",
+    "We provide 1-year free services. Post that we have an Annual maintenance Contract that includes servicing of moving parts, Inspection of wooden parts and refinishing if required."
+   ],
+   [
+    "Are your products environment friendly?",
+    "Yes, majorly! All our standard products are produced from recyclable LLDPE plastic. The wood we use is sustainably sourced. Moreover, we us composites produced from recycled materials."
+   ]
+  ]
+ }
+}

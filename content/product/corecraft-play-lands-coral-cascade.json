@@ -1,0 +1,681 @@
+{
+ "path": "/corecraft/play-lands/coral-cascade.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Coral Cascade Multi Play Station | CoreCraft | FunPlay",
+  "description": "Coral Cascade Multi Play Station (PLAMPFS08) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/coral-cascade.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Coral Cascade Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Coral Cascade Multi Play Station (PLAMPFS08) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/coral-cascade.html",
+   "og:image": "https://funplaysystems.com/images/play-land-coral-cascade3.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Coral Cascade Multi Play Station",
+ "data": {
+  "name": "Coral Cascade",
+  "sku": "PLAMPFS08",
+  "colours": [
+   {
+    "name": "Play Orange &  Royal Turquoise",
+    "swatch": "background: linear-gradient(to right, #ee4800 50%, #254656 50%);",
+    "images": [
+     "/images/play-land-coral-cascade3.jpg",
+     "/images/play-land-coral-cascade3.jpg",
+     "/images/play-land-coral-cascade.jpg"
+    ],
+    "alts": [
+     "Coral Cascade multi play station in play orange with tube slides, rock wall and net climbers",
+     "Coral Cascade Multi Play Station",
+     "Top view of Coral Cascade playground with central tower, slides and climbing arms"
+    ]
+   }
+  ],
+  "description": "Coral Cascade is built around a central tower, with climbing arms reaching out on each side. Children get up by the rock wall or the net climbers, hang from the frame and come back down through the tube slides. The age group starts at 5 years and key users are 5 to 12, so the climbs are pitched at school-age children rather than toddlers. It suits a primary school ground or a society whose children have outgrown smaller play units. Up to 15 children can use it at once. It comes in Play Orange and Royal Turquoise. The product area is 29'8\" x 26'1\" and the safe play area is 34'8\" x 32'1\". We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask for a layout drawing for your ground.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "Coral Cascade"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/play-land-coral-cascade3.jpg",
+  "cardImage": "/images/play-land-coral-cascade3.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Coral Cascade ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS08",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange &  Royal Turquoise",
+       "swatch": "background: linear-gradient(to right, #ee4800 50%, #254656 50%);",
+       "images": [
+        "/images/play-land-coral-cascade3.jpg",
+        "/images/play-land-coral-cascade3.jpg",
+        "/images/play-land-coral-cascade.jpg"
+       ],
+       "alts": [
+        "Coral Cascade multi play station in play orange with tube slides, rock wall and net climbers",
+        "Coral Cascade Multi Play Station",
+        "Top view of Coral Cascade playground with central tower, slides and climbing arms"
+       ]
+      }
+     ],
+     "name": "Coral Cascade"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Coral Cascade multi play station in play orange with tube slides, rock wall and net climbers\", \"Coral Cascade Multi Play Station\", \"Top view of Coral Cascade playground with central tower, slides and climbing arms\"]",
+      "divDataImgs": "[\"/images/play-land-coral-cascade3.jpg\", \"/images/play-land-coral-cascade3.jpg\", \"/images/play-land-coral-cascade.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #ee4800 50%, #254656 50%)"
+      },
+      "divText": "",
+      "spanText": "Play Orange & Royal Turquoise"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Coral Cascade"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Coral Cascade is built around a central tower, with climbing arms reaching out on each side. Children get up by the rock wall or the net climbers, hang from the frame and come back down through the tube slides. The age group starts at 5 years and key users are 5 to 12, so the climbs are pitched at school-age children rather than toddlers. It suits a primary school ground or a society whose children have outgrown smaller play units. Up to 15 children can use it at once. It comes in Play Orange and Royal Turquoise. The product area is 29'8\" x 26'1\" and the safe play area is 34'8\" x 32'1\". We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask for a layout drawing for your ground."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Coral Cascade playground layout",
+    "imgSrc": "/images/Coral-Cascade.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "904.24 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "795.02 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The tower and climbing arms stand on galvanised steel posts, and the tube slides are roto-moulded. Installation is self-standing or grouted once we know your soil. With net and rock climbing on several sides, the whole 34'8\" x 32'1\" safe play area needs an impact-absorbing surface. Inspect net ropes and climbing holds for wear during maintenance.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "29'8\" x 26'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "34'8\" x 32'1\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Coral Cascade Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/coral-cascade.html"
+   ]
+  ],
+  "product": {
+   "name": "Coral Cascade",
+   "sku": "PLAMPFS08",
+   "images": [
+    "/images/play-land-coral-cascade3.jpg",
+    "/images/play-land-coral-cascade3.jpg",
+    "/images/play-land-coral-cascade.jpg"
+   ],
+   "description": "Coral Cascade is built around a central tower, with climbing arms reaching out on each side. Children get up by the rock wall or the net climbers, hang from the frame and come back down through the tube slides. The age group starts at 5 years and key users are 5 to 12, so the climbs are pitched at school-age children rather than toddlers. It suits a primary school ground or a society whose children have outgrown smaller play units. Up to 15 children can use it at once. It comes in Play Orange and Royal Turquoise. The product area is 29'8\" x 26'1\" and the safe play area is 34'8\" x 32'1\". We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask for a layout drawing for your ground.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Play Orange &  Royal Turquoise"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "34'8\" x 32'1\""
+    ],
+    [
+     "Length",
+     "904.24 cm"
+    ],
+    [
+     "Width",
+     "795.02 cm"
+    ],
+    [
+     "Colour options",
+     "Play Orange & Royal Turquoise"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,595 @@
+{
+ "path": "/",
+ "type": "home",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Playground Equipment Manufacturer in India | FunPlay",
+  "description": "FunPlay Systems designs and makes outdoor playground and outdoor gym equipment in Vasai, Maharashtra. 15,000+ installations since 2002. Get a free quote.",
+  "canonical": "https://funplaysystems.com/",
+  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "og": {
+   "og:type": "website",
+   "og:title": "Outdoor Playground Equipment Manufacturer in India | FunPlay",
+   "og:description": "FunPlay Systems designs and makes outdoor playground and outdoor gym equipment in Vasai, Maharashtra. 15,000+ installations since 2002. Get a free quote.",
+   "og:url": "https://funplaysystems.com/",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Outdoor Playground Equipment Manufacturer in India | FunPlay",
+   "twitter:description": "FunPlay Systems designs and makes outdoor playground and outdoor gym equipment in Vasai, Maharashtra. 15,000+ installations since 2002. Get a free quote.",
+   "twitter:image": "https://funplaysystems.com/images/logo-black.png"
+  }
+ },
+ "h1": "Outdoor Playground Equipment Manufacturer in India",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "OutdoorPlaygroundEquipmentManufacturer",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "alt-font number text-base-color opacity-3 fs-190 fw-600 ls-minus-5px"
+      },
+      "c": [
+       "01"
+      ]
+     }
+    ],
+    "h1Text": [
+     "Outdoor Playground Equipment",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fw-600"
+      },
+      "c": [
+       {
+        "tag": "br"
+       },
+       "Manufacturer in India"
+      ]
+     }
+    ],
+    "text": "Get started now",
+    "divText2": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "alt-font number text-base-color opacity-3 fs-190 fw-600 ls-minus-5px"
+      },
+      "c": [
+       "01"
+      ]
+     }
+    ],
+    "h2Text": [
+     "Play under the rainbow of ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fw-600"
+      },
+      "c": [
+       {
+        "tag": "br"
+       },
+       "imagination."
+      ]
+     }
+    ],
+    "text2": "Get started now",
+    "divText3": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "alt-font number text-base-color opacity-3 fs-190 fw-600 ls-minus-5px"
+      },
+      "c": [
+       "01"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "As an innovative designer, manufacturer, and supplier of playground equipment, Funplay is dedicated to creating safe, enjoyable play experiences for children."
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "items": [
+     {
+      "pClass": "heading-text-para text-dark-gray fw-600",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": "How would you like to start?"
+     },
+     {
+      "pText": "Turn your playground dreams to reality"
+     }
+    ],
+    "items2": [
+     {
+      "aHref": "/corecraft.html",
+      "imgAlt": "FunPlay CoreCraft product catalogue booklet open on a table",
+      "imgSrc": "/images/CoreCraft-cat1.jpg",
+      "spanText": "CoreCraft",
+      "pText": "Strength Redefined"
+     },
+     {
+      "aHref": "/funplay-originals.html",
+      "imgAlt": "FunPlay Originals product catalogue booklet open on a teal background",
+      "imgSrc": "/images/Funplay-Originals-cat1.jpg",
+      "spanText": "Funplay Originals",
+      "pText": "Unique Play Experiences"
+     },
+     {
+      "aHref": "/nexlev-series.html",
+      "imgAlt": "FunPlay NexLev product catalogue booklets on a brown background",
+      "imgSrc": "/images/Nexlev-Series-cat1.jpg",
+      "spanText": "Nexlev Series",
+      "pText": "Advanced Play Solutions"
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section7",
+   "props": {
+    "items": [
+     {
+      "pClass": "heading-text-para fw-700 text-dark-gray",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": "What's new"
+     },
+     {
+      "pText": "Explore our newest product innovations"
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Ulta Ghar upside-down house play structure with green tube slide",
+      "imgSrc": "/images/Ulta-Ghar-product-catalogue.jpg",
+      "aHref": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+      "aText": " View Product ",
+      "spanText": "Ulta Ghar",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "38.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient(to right, #1f584c 50%, #67472e 50%)"
+      }
+     },
+     {
+      "imgAlt": "Aviral banana yellow multi play station with tube slide and net bridge",
+      "imgSrc": "/images/aviral-product-catalogue.jpg",
+      "aHref": "/funplay-originals/nature-sparsh/aviral.html",
+      "aText": " View Product ",
+      "spanText": "Aviral",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "55.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient(to right, #dab025 50%, #080808 50%)"
+      }
+     },
+     {
+      "imgAlt": "Phula wooden-look play station with spiral slide and stepping arch climber",
+      "imgSrc": "/images/Phula-product-catalogue.webp",
+      "aHref": "/funplay-originals/nature-sparsh/phula.html",
+      "aText": " View Product ",
+      "spanText": "Phula",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "52.7M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#cb8936 0% 33.33%, #ddc7ab 33.33% 66.66%, #2d1900 66.66% 100%)"
+      }
+     },
+     {
+      "imgAlt": "Archies wooden arch tower with yellow tube slide and blue slide on grass",
+      "imgSrc": "/images/archies-product-catalogue.webp",
+      "aHref": "/funplay-originals/nature-sparsh/archies.html",
+      "aText": " View Product ",
+      "spanText": "Archies",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "17.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#d8d239 0% 33.33%, #7aadc7 33.33% 66.66%, #543408 66.66% 100%)"
+      }
+     },
+     {
+      "imgAlt": "Barrel Barrel wooden play tower with blue wavy slide on grass",
+      "imgSrc": "/images/barrel-barrel-product-catalogue.jpg",
+      "aHref": "/funplay-originals/nature-sparsh/barrel-barrel.html",
+      "aText": " View Product ",
+      "spanText": "Barrel Barrel",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "6.8M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#000000 0% 33.33%, #7aadc7 33.33% 66.66%, #6b410d 66.66% 100%)"
+      }
+     },
+     {
+      "imgAlt": "Card Pyramid triangular play tower in yellow and red",
+      "imgSrc": "/images/card-pyramid-product-catalogue.webp",
+      "aHref": "/funplay-originals/nature-sparsh/card-pyramid.html",
+      "aText": " View Product ",
+      "spanText": "Card Pyramid",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "4.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient(to right, #ecd217 50%, #ce0c40 50%)"
+      }
+     },
+     {
+      "imgAlt": "Card Cook play station with red slide and net climber",
+      "imgSrc": "/images/card-crook-product-catalogue.jpg",
+      "aHref": "/funplay-originals/nature-sparsh/card-cook.html",
+      "aText": " View Product ",
+      "spanText": "Card Crook",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "14.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#97d534 0% 33.33%, #1f79ad 33.33% 66.66%, #df346b 66.66% 100%)"
+      }
+     },
+     {
+      "imgAlt": "Inframe tilted cube-frame play structure with lemon yellow tube slide",
+      "imgSrc": "/images/Inframe-product-catalogue.webp",
+      "aHref": "/funplay-originals/nature-sparsh/inframe.html",
+      "aText": " View Product ",
+      "spanText": "Inframe",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "22.3M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#97d534 0% 33.33%, #142048 33.33% 66.66%, #c09b6d 66.66% 100%)"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section8",
+   "props": {
+    "items": [
+     {
+      "pClass": "heading-text-para text-dark-gray alt-font ls-minus-1px fw-700",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": "Recent Projects"
+     },
+     {
+      "pText": "Explore our latest innovations and successful collaborations, showcasing our commitment to excellence and creativity."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section9",
+   "props": {
+    "items": [
+     {
+      "liClass": "grid-item grid-item-double",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-7 pe-7 pt-6 pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Design"
+        ]
+       }
+      ],
+      "aText": "30 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 alt-font",
+      "aText2": "It takes a real designer to design for women."
+     },
+     {
+      "liClass": "grid-item",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-14 pe-14 pt-12 pb-12 sm-ps-7 sm-pe-7 sm-pt-6 sm-pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Adventure"
+        ]
+       }
+      ],
+      "aText": "28 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 w-85 sm-w-100 alt-font",
+      "aText2": "Experience breathtaking views and perspectives."
+     },
+     {
+      "liClass": "grid-item",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-14 pe-14 pt-12 pb-12 sm-ps-7 sm-pe-7 sm-pt-6 sm-pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Luxurious"
+        ]
+       }
+      ],
+      "aText": "26 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 w-85 sm-w-100 alt-font",
+      "aText2": "Get in over your head as often and as joyfully."
+     },
+     {
+      "liClass": "grid-item grid-item-double",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-7 pe-7 pt-6 pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Adventure"
+        ]
+       }
+      ],
+      "aText": "24 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 alt-font",
+      "aText2": "Build up healthy habits and strong peaceful life."
+     },
+     {
+      "liClass": "grid-item",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-14 pe-14 pt-12 pb-12 sm-ps-7 sm-pe-7 sm-pt-6 sm-pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Design"
+        ]
+       }
+      ],
+      "aText": "22 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 w-85 sm-w-100 alt-font",
+      "aText2": "Some people just try to celebrate the joys of life."
+     },
+     {
+      "liClass": "grid-item",
+      "figcaptionClass": "d-flex flex-column justify-content-end h-100 ps-14 pe-14 pt-12 pb-12 sm-ps-7 sm-pe-7 sm-pt-6 sm-pb-6",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "categories-btn bg-white text-dark-gray text-uppercase alt-font fw-700 ms-0 mb-auto align-self-start",
+         "href": "#"
+        },
+        "c": [
+         "Luxurious"
+        ]
+       }
+      ],
+      "aText": "20 August 2023",
+      "aClass": "text-white card-title fs-20 lh-30 fw-500 w-85 sm-w-100 alt-font",
+      "aText2": "Teamwork is essential for small teams challenges."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section10",
+   "props": {
+    "items": [
+     {
+      "divClass": "col-lg-5 md-mb-20px",
+      "pClass": "text-dark-gray fw-600 mb-0 ls-minus-1px",
+      "pStyle": {
+       "fontSize": "2.813rem",
+       "lineHeight": "3.125rem"
+      },
+      "pText": "Industry"
+     },
+     {
+      "divClass": "col-lg-5 last-paragraph-no-margin md-mb-20px",
+      "pClass": "w-85 md-w-100 text-dark-gray",
+      "pText": "Leading innovators in playground and outdoor fitness equipment manufacturing."
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Engineer and architect reviewing plans on site, builders and architects sector",
+      "imgSrc": "/images/i4.webp",
+      "divClass": "opacity-extra-medium bg-gradient-dark-transparent",
+      "divClass2": "label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-10px pe-10px fs-12 ls-05px",
+      "divText": "01",
+      "iClass": "line-icon-Medal-2 text-white icon-extra-large",
+      "spanText": "DEVELOPERS & ARCHITECTS",
+      "spanText2": "Design Innovators",
+      "aText": "Explore ",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-dark-transparent"
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hotel and resort towers at night, hospitality sector",
+      "imgSrc": "/images/i1.webp",
+      "divClass": "opacity-very-light bg-slate-blue",
+      "divClass2": "label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px",
+      "divText": "02",
+      "iClass": "line-icon-Archery-2 text-white icon-extra-large",
+      "spanText": "HOTEL, RESORTS, CLUBS",
+      "spanText2": "Leisure Enhancers",
+      "aText": "Explore ",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-dark-transparent"
+       }
+      ]
+     },
+     {
+      "imgAlt": "Red-brick school building, education sector",
+      "imgSrc": "/images/i2.webp",
+      "divClass": "opacity-very-light bg-slate-blue",
+      "divClass2": "label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px",
+      "divText": "03",
+      "iClass": "line-icon-Financial text-white icon-extra-large",
+      "spanText": "EDUCATORS",
+      "spanText2": "Learning Facilitators",
+      "aText": "Explore ",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-dark-transparent"
+       }
+      ]
+     },
+     {
+      "imgAlt": "Indian government building with dome, government sector",
+      "imgSrc": "/images/i3.webp",
+      "divClass": "opacity-very-light bg-slate-blue",
+      "divClass2": "label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px",
+      "divText": "04",
+      "iClass": "line-icon-Money-Bag text-white icon-extra-large",
+      "spanText": "GOVERNMENT PROJECTS",
+      "spanText2": "Civic Enhancements",
+      "aText": "Explore ",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-dark-transparent"
+       }
+      ]
+     },
+     {
+      "imgAlt": "Glass corporate office towers, corporate sector",
+      "imgSrc": "/images/i5.webp",
+      "divClass": "opacity-extra-medium bg-gradient-dark-transparent",
+      "divClass2": "label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px",
+      "divText": "05",
+      "iClass": "line-icon-Medal-2 text-white icon-extra-large",
+      "spanText": "CORPORATES",
+      "spanText2": "Business Collaborators",
+      "aText": "Explore",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-dark-transparent"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {}
+}

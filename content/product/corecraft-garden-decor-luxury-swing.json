@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/luxury-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Luxury Swing | CoreCraft | FunPlay Systems",
+  "description": "Luxury Swing (FPGD011) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/luxury-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Luxury Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Luxury Swing (FPGD011) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/luxury-swing.html",
+   "og:image": "https://funplaysystems.com/images/luxury-swing-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Luxury Swing",
+ "data": {
+  "name": "Luxury Swing",
+  "sku": "FPGD011",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/luxury-swing-product-image.jpg"
+    ],
+    "alts": [
+     "Luxury Swing garden swing bench with red canopy on steel A-frame"
+    ]
+   }
+  ],
+  "description": "The Luxury Swing is the simpler of our two canopy swings. Its slatted wooden bench hangs from a straight steel A-frame, and a red pitched canopy runs along the top bar. With splayed legs and no side rails, it has a lighter look on a small lawn or a terrace garden. Older residents, couples and parents waiting for children all use a swing like this, so it fits housing societies, hotel gardens and club lawns. It sits in our CoreCraft garden decor range with a listed colour of Sand Beige. Exact dimensions and warranty terms are shared with the quote. Tell us where you want it and we will check the clearance on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Luxury Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/luxury-swing-product-image.jpg",
+  "cardImage": "/images/luxury-swing-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Luxury Swing"
+    ],
+    "pText": "FPGD011",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/luxury-swing-product-image.jpg"
+       ],
+       "alts": [
+        "Luxury Swing garden swing bench with red canopy on steel A-frame"
+       ]
+      }
+     ],
+     "name": "Luxury Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Luxury Swing garden swing bench with red canopy on steel A-frame\"]",
+      "divDataImgs": "[\"/images/luxury-swing-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Luxury Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Luxury Swing is the simpler of our two canopy swings. Its slatted wooden bench hangs from a straight steel A-frame, and a red pitched canopy runs along the top bar. With splayed legs and no side rails, it has a lighter look on a small lawn or a terrace garden. Older residents, couples and parents waiting for children all use a swing like this, so it fits housing societies, hotel gardens and club lawns. It sits in our CoreCraft garden decor range with a listed colour of Sand Beige. Exact dimensions and warranty terms are shared with the quote. Tell us where you want it and we will check the clearance on your layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Swing chains and their top fixings should be inspected regularly, since a worn link or loose shackle is the usual fault on any hanging seat. The A-frame legs spread wide, so we mark their footprint before deciding on self-standing or grouted installation. Oil the hanging points before the monsoon and check the canopy bolts after strong wind."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Luxury Swing",
+    "https://funplaysystems.com/corecraft/garden-decor/luxury-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Luxury Swing",
+   "sku": "FPGD011",
+   "images": [
+    "/images/luxury-swing-product-image.jpg"
+   ],
+   "description": "The Luxury Swing is the simpler of our two canopy swings. Its slatted wooden bench hangs from a straight steel A-frame, and a red pitched canopy runs along the top bar. With splayed legs and no side rails, it has a lighter look on a small lawn or a terrace garden. Older residents, couples and parents waiting for children all use a swing like this, so it fits housing societies, hotel gardens and club lawns. It sits in our CoreCraft garden decor range with a listed colour of Sand Beige. Exact dimensions and warranty terms are shared with the quote. Tell us where you want it and we will check the clearance on your layout drawing.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,418 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-ahmedabad.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Ahmedabad | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Ahmedabad. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ahmedabad.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Ahmedabad | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Ahmedabad. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ahmedabad.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Ahmedabad",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection3",
+   "props": {}
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Ahmedabad"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Ahmedabad summers are long and very hot, and that one fact shapes most of the playground advice we give here. FunPlay Systems designs and manufactures outdoor playground equipment for schools, builders, housing societies and public gardens in the city. Our factory is in Vasai East, about 410 km away, and we send the finished equipment to Ahmedabad by road for installation by our team or a dealer."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "New residential projects along SG Highway, in Bopal, Shela and Gota, and across the western edge of the city usually want a play area ready before possession. Schools want equipment for several age groups on one ground, and the gardens of the Ahmedabad Municipal Corporation need pieces that can take heavy evening crowds. We plan each of these from the site size, the age group and a few photos you share."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Planning a playground for Ahmedabad's heat",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Any surface left in the afternoon sun gets hot, so start with orientation. Face slide beds away from the western sun, and place the main play structure where a building or trees shade it after lunch. Our garden decor range includes gazebos and pergolas that give shade to waiting parents as well."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Colour matters too. Dark shades absorb more heat, so pick lighter tones from our 15+ roto-moulded colour shades for slides and decks. Roto-moulded plastic does not rust, and galvanised steel holds up through dusty summers and the short monsoon from June to September. Wipe the dust off before children play after a dry, windy spell."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "What builders and societies usually choose",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "A builder wants a play area that looks good in the sales brochure and fits a set plot. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands.html"
+           },
+           "c": [
+            "Play Lands multi play stations"
+           ]
+          },
+          " combine slides, climbers and decks in one structure, so a small footprint can keep a group of children busy. Housing societies that already have a structure often add individual pieces later, such as a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/swing.html"
+           },
+           "c": [
+            "swing set"
+           ]
+          },
+          " or a spring rider for toddlers."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For a society that also wants fitness equipment for adults, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-ahmedabad.html"
+           },
+           "c": [
+            "outdoor gym equipment in Ahmedabad"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Schools and public gardens",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "School grounds and municipal gardens see far more children per day than a society play area, so we suggest pieces that let many children play together. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " collection, designed by our own team, draws on Indian games and works well where groups of children arrive at once. Separate the equipment for younger and older children so that each group has its own safe play area."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "From layout to installation",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Send us the length and width of the site, the age group and photos. We suggest equipment and return a layout drawing with the safe play area marked. After you approve the layout and the quote, we manufacture at Vasai, dispatch by road and install, self-standing or grouted, depending on your ground. Through each stage we keep you updated on progress."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Ahmedabad",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 410 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Gujarat",
+       "value": "Praharsh Highland",
+       "href": "/projects/praharsh-highland.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Ahmedabad",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-ahmedabad.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you supply and install playground equipment in Ahmedabad?",
+       "a": "Yes. We make the equipment at our factory in Vasai, about 410 km away, send it to Ahmedabad by road and install it through our own team or a dealer."
+      },
+      {
+       "q": "How do I keep slides from getting too hot in summer?",
+       "a": "Face the slide away from the afternoon sun, choose a lighter colour and plan shade from trees, a building or a pergola. Most children play in the morning and evening in the hottest months anyway."
+      },
+      {
+       "q": "Can you handle a playground for a new residential project?",
+       "a": "Yes. Share the plot size and the possession timeline, and we will suggest equipment that fits. We send a layout drawing with the safe play area marked so your architect can place it on the site plan."
+      },
+      {
+       "q": "What warranty do you give in Ahmedabad?",
+       "a": "The same as everywhere in India. Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts, for manufacturing defects."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-gujarat.html",
+    "aText": "Gujarat",
+    "spanText": "Ahmedabad",
+    "h2Text": "Playground equipment suppliers near Ahmedabad",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gandhinagar.html"
+        },
+        "c": [
+         "Playground equipment in Gandhinagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-nadiad.html"
+        },
+        "c": [
+         "Playground equipment in Nadiad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-anand.html"
+        },
+        "c": [
+         "Playground equipment in Anand"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mehsana.html"
+        },
+        "c": [
+         "Playground equipment in Mehsana"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-surendranagar-dudhrej.html"
+        },
+        "c": [
+         "Playground equipment in Surendranagar Dudhrej"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Ahmedabad? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-ahmedabad.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Ahmedabad"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gujarat.html"
+        },
+        "c": [
+         "See all cities we serve in Gujarat"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Gujarat",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-gujarat.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Ahmedabad",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-ahmedabad.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Ahmedabad",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Ahmedabad",
+    "state": "Gujarat"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Ahmedabad. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you supply and install playground equipment in Ahmedabad?",
+    "Yes. We make the equipment at our factory in Vasai, about 410 km away, send it to Ahmedabad by road and install it through our own team or a dealer."
+   ],
+   [
+    "How do I keep slides from getting too hot in summer?",
+    "Face the slide away from the afternoon sun, choose a lighter colour and plan shade from trees, a building or a pergola. Most children play in the morning and evening in the hottest months anyway."
+   ],
+   [
+    "Can you handle a playground for a new residential project?",
+    "Yes. Share the plot size and the possession timeline, and we will suggest equipment that fits. We send a layout drawing with the safe play area marked so your architect can place it on the site plan."
+   ],
+   [
+    "What warranty do you give in Ahmedabad?",
+    "The same as everywhere in India. Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts, for manufacturing defects."
+   ]
+  ]
+ }
+}

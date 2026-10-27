@@ -1,0 +1,714 @@
+{
+ "path": "/funplay-originals/timeless-play/fugadi.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fugadi Revolving Play Pole | FunPlay Originals | FunPlay",
+  "description": "Fugadi Revolving Play Pole (FOTP04), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fugadi Revolving Play Pole | FunPlay Originals | FunPlay",
+   "og:description": "Fugadi Revolving Play Pole (FOTP04), a FunPlay Originals Timeless Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html",
+   "og:image": "https://funplaysystems.com/images/Fugadi-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fugadi Revolving Play Pole",
+ "data": {
+  "name": "Fugadi",
+  "sku": "FOTP04",
+  "colours": [
+   {
+    "name": "Play Red & Baby Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #79c7ee 50%\n                  );\n                ",
+    "images": [
+     "/images/Fugadi-product-image.jpg",
+     "/images/Fugadi-product-image.jpg"
+    ],
+    "alts": [
+     "Fugadi revolving dance pole in play red and baby blue with handgrips",
+     "Fugadi revolving dance pole in play red and baby blue with handgrips"
+    ]
+   }
+  ],
+  "description": "Fugadi is a revolving play pole named after fugdi, the spinning game played in Maharashtra and Goa. A tall pole in Play Red and Baby Blue carries four handgrips on ropes near the top. Children hold a grip each and move round the pole in rhythm, almost like a dance, instead of sitting on a spinning seat. It is designed for ages 5 to 12, and the game works for boys and girls alike. Revolving and balancing build arm strength, spatial awareness and balance. The pole stands on a round black base and takes very little ground. It belongs to our Timeless Play collection. The galvanised pipe and roto-moulded parts carry our 3-year warranty. Ask us how much clear space to allow around it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Timeless Play",
+   "Fugadi"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/timeless-play.html",
+  "image": "/images/Fugadi-product-image.jpg",
+  "cardImage": "/images/Fugadi-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fugadi ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Revolving Play Pole"
+      ]
+     }
+    ],
+    "pText": "FOTP04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Baby Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #79c7ee 50%\n                  );\n                ",
+       "images": [
+        "/images/Fugadi-product-image.jpg",
+        "/images/Fugadi-product-image.jpg"
+       ],
+       "alts": [
+        "Fugadi revolving dance pole in play red and baby blue with handgrips",
+        "Fugadi revolving dance pole in play red and baby blue with handgrips"
+       ]
+      }
+     ],
+     "name": "Fugadi"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fugadi revolving dance pole in play red and baby blue with handgrips\", \"Fugadi revolving dance pole in play red and baby blue with handgrips\"]",
+      "divDataImgs": "[\"/images/Fugadi-product-image.jpg\", \"/images/Fugadi-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #bb1e10 50%, #79c7ee 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/timeless-play.html"
+        },
+        "c": [
+         "Timeless Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fugadi"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Fugadi is a revolving play pole named after fugdi, the spinning game played in Maharashtra and Goa. A tall pole in Play Red and Baby Blue carries four handgrips on ropes near the top. Children hold a grip each and move round the pole in rhythm, almost like a dance, instead of sitting on a spinning seat. It is designed for ages 5 to 12, and the game works for boys and girls alike. Revolving and balancing build arm strength, spatial awareness and balance. The pole stands on a round black base and takes very little ground. It belongs to our Timeless Play collection. The galvanised pipe and roto-moulded parts carry our 3-year warranty. Ask us how much clear space to allow around it."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/timeless-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group: For all age groups"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Arm Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Centrifugal Balance"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Spatial Awareness"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Fugadi revolving pole and play area",
+    "imgSrc": "/images/Fugdi-Top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "502.92 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "408.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Fugadi revolves on bearings at the top of the pole, which carry a 1-year warranty and should be checked at each service. The pole is galvanised pipe with roto-moulded parts, fixed self-standing or grouted. Children swing outward while holding the grips, so keep a wide circle around the pole free of benches.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Revolving",
+      "imgSrc": "/images/Revolving.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Revolving"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Arm Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitive Balance"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Spatial Awareness"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'6\" x 13'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "21'6\" x 18'18\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Timeless Play",
+    "https://funplaysystems.com/funplay-originals/timeless-play.html"
+   ],
+   [
+    "Fugadi Revolving Play Pole",
+    "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html"
+   ]
+  ],
+  "product": {
+   "name": "Fugadi",
+   "sku": "FOTP04",
+   "images": [
+    "/images/Fugadi-product-image.jpg",
+    "/images/Fugadi-product-image.jpg"
+   ],
+   "description": "Fugadi is a revolving play pole named after fugdi, the spinning game played in Maharashtra and Goa. A tall pole in Play Red and Baby Blue carries four handgrips on ropes near the top. Children hold a grip each and move round the pole in rhythm, almost like a dance, instead of sitting on a spinning seat. It is designed for ages 5 to 12, and the game works for boys and girls alike. Revolving and balancing build arm strength, spatial awareness and balance. The pole stands on a round black base and takes very little ground. It belongs to our Timeless Play collection. The galvanised pipe and roto-moulded parts carry our 3-year warranty. Ask us how much clear space to allow around it.",
+   "category": "Revolving Play Pole",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/timeless-play.html",
+   "colours": [
+    "Play Red & Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "21'6\" x 18'18\""
+    ],
+    [
+     "Length",
+     "502.92 cm"
+    ],
+    [
+     "Width",
+     "408.94 cm"
+    ],
+    [
+     "Activities",
+     "Revolving Balancing"
+    ],
+    [
+     "Skills developed",
+     "Arm Strength Cognitive Balance Spatial Awareness"
+    ],
+    [
+     "Colour options",
+     "Play Red & Baby Blue"
+    ]
+   ]
+  }
+ }
+}

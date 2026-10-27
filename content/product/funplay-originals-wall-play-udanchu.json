@@ -1,0 +1,729 @@
+{
+ "path": "/funplay-originals/wall-play/udanchu.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Udanchu Play Panel | FunPlay Originals | FunPlay Systems",
+  "description": "Udanchu Play Panel (FOWP01), a FunPlay Originals Wall Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Udanchu Play Panel | FunPlay Originals | FunPlay Systems",
+   "og:description": "Udanchu Play Panel (FOWP01), a FunPlay Originals Wall Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html",
+   "og:image": "https://funplaysystems.com/images/udanchu-product-image1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Udanchu Play Panel",
+ "data": {
+  "name": "Udanchu",
+  "sku": "FOWP01",
+  "colours": [
+   {
+    "name": "Play Yellow",
+    "swatch": "background-color: #fce300",
+    "images": [
+     "/images/udanchu-product-image1.jpg",
+     "/images/udanchu-product-image2.jpg"
+    ],
+    "alts": [
+     "Udanchu insect-themed play tower with yellow slide and net wings",
+     "Side view of Udanchu dragonfly play tower with slide and net climbers"
+    ]
+   }
+  ],
+  "description": "Udanchu is a giant fly scaled up for children to climb, with net wings on either side of a Play Yellow body and a yellow slide. Children climb over the wings and look closely at their patterns, then slide down from the top. The design asks children to notice and observe small creatures. School-age children from 5 to 12 use it, up to 15 together. The product area is 10' x 14'10\" and the safe play area is 16' x 17'10\", a compact size for a school garden or nature trail. Climbing, hanging and sliding build upper body strength, coordination and parallel play. A 3-year warranty covers the galvanised pipe, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Wall Play",
+   "Udanchu"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/wall-play.html",
+  "image": "/images/udanchu-product-image1.jpg",
+  "cardImage": "/images/udanchu-product-image1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Udanchu ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Play Panel"
+      ]
+     }
+    ],
+    "pText": "FOWP01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Yellow",
+       "swatch": "background-color: #fce300",
+       "images": [
+        "/images/udanchu-product-image1.jpg",
+        "/images/udanchu-product-image2.jpg"
+       ],
+       "alts": [
+        "Udanchu insect-themed play tower with yellow slide and net wings",
+        "Side view of Udanchu dragonfly play tower with slide and net climbers"
+       ]
+      }
+     ],
+     "name": "Udanchu"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Udanchu insect-themed play tower with yellow slide and net wings\", \"Side view of Udanchu dragonfly play tower with slide and net climbers\"]",
+      "divDataImgs": "[\"/images/udanchu-product-image1.jpg\", \"/images/udanchu-product-image2.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#fce300"
+      },
+      "divText": "",
+      "spanText": "Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/wall-play.html"
+        },
+        "c": [
+         "Wall Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Udanchu"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Udanchu is a giant fly scaled up for children to climb, with net wings on either side of a Play Yellow body and a yellow slide. Children climb over the wings and look closely at their patterns, then slide down from the top. The design asks children to notice and observe small creatures. School-age children from 5 to 12 use it, up to 15 together. The product area is 10' x 14'10\" and the safe play area is 16' x 17'10\", a compact size for a school garden or nature trail. Climbing, hanging and sliding build upper body strength, coordination and parallel play. A 3-year warranty covers the galvanised pipe, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/wall-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Upper Body Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Parallel Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Udanchu play tower and slide",
+    "imgSrc": "/images/Udanchu-Top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "304.8 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "452.12 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Udanchu's body is galvanised pipe with roto-moulded parts, and the wings are play rope nets. It is installed self-standing or grouted. Children climb across both wings, so impact flooring is needed under each side as well as at the slide. Check net tension and wing fixings during regular maintenance.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Upper Body Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Parallel Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10' x 14'10\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16' x 17'10\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Wall Play",
+    "https://funplaysystems.com/funplay-originals/wall-play.html"
+   ],
+   [
+    "Udanchu Play Panel",
+    "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html"
+   ]
+  ],
+  "product": {
+   "name": "Udanchu",
+   "sku": "FOWP01",
+   "images": [
+    "/images/udanchu-product-image1.jpg",
+    "/images/udanchu-product-image2.jpg"
+   ],
+   "description": "Udanchu is a giant fly scaled up for children to climb, with net wings on either side of a Play Yellow body and a yellow slide. Children climb over the wings and look closely at their patterns, then slide down from the top. The design asks children to notice and observe small creatures. School-age children from 5 to 12 use it, up to 15 together. The product area is 10' x 14'10\" and the safe play area is 16' x 17'10\", a compact size for a school garden or nature trail. Climbing, hanging and sliding build upper body strength, coordination and parallel play. A 3-year warranty covers the galvanised pipe, roto-moulded parts, composite laminates and play rope. Call +91 902 830 2266 for a layout drawing.",
+   "category": "Play Panel",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/wall-play.html",
+   "colours": [
+    "Play Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "16' x 17'10\""
+    ],
+    [
+     "Length",
+     "304.8 cm"
+    ],
+    [
+     "Width",
+     "452.12 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Hanging Sliding"
+    ],
+    [
+     "Skills developed",
+     "Upper Body Strength Parallel Play Coordination"
+    ],
+    [
+     "Colour options",
+     "Play Yellow"
+    ]
+   ]
+  }
+ }
+}

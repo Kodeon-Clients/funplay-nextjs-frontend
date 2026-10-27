@@ -1,0 +1,124 @@
+{
+ "path": "/projects/ratnakar-prestine.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Ratnakar Prestine, Gujarat: Playground Project | FunPlay",
+  "description": "See the premium outdoor play area FunPlay Systems installed at Ratnakar Prestine in Gujarat. Project photos of playground equipment for a residential site.",
+  "canonical": "https://funplaysystems.com/projects/ratnakar-prestine.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/projects/ratnakar-prestine.html",
+   "og:image": "https://funplaysystems.com/images/GROOVY-Img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "h1": "Ratnakar Prestine",
+ "data": {
+  "cardImage": "/images/GROOVY-Img.jpg",
+  "project": {
+   "title": "Ratnakar Prestine",
+   "location": "GUJARAT"
+  }
+ },
+ "sections": [
+  {
+   "component": "RatnakarPrestine",
+   "props": {
+    "h1Text": "Ratnakar Prestine",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "GUJARAT"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A premium outdoor play area that suits the style of the Ratnakar Prestine residences in Gujarat."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "items": [
+     {
+      "imgAlt": "Groovy rotating tepee net climber in red on a black round base",
+      "imgSrc": "/images/GROOVY-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/groovy.html",
+      "aText": " View Product ",
+      "spanText": "Groovy",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "2.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "8 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #1b1c1e 0% 33.33%, #3d110e 33.33% 66.66%, #fe3322 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Crestro four-seat see saw in lemon green",
+      "imgSrc": "/images/CRESTRO-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/crestro.html",
+      "aText": " View Product ",
+      "spanText": "Crestro",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "2.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "04 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #a1e230 50%, #151412 50% )"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Ratnakar Prestine",
+    "https://funplaysystems.com/projects/ratnakar-prestine.html"
+   ]
+  ],
+  "project": {
+   "name": "Ratnakar Prestine",
+   "location": "GUJARAT"
+  }
+ }
+}

@@ -1,0 +1,11 @@
+import type React from "react";
+import Icon from "@/components/ui/Icon";
+import Img from "@/components/ui/Img";
+
+export type Section6Props = { items: { pClass?: React.ComponentProps<"p">["className"]; pStyle?: React.ComponentProps<"p">["style"]; pText: string }[]; items2: { aHref: React.ComponentProps<"a">["href"]; imgAlt: React.ComponentProps<typeof Img>["alt"]; imgSrc: React.ComponentProps<typeof Img>["src"]; spanText: string; pText: string }[] };
+
+export default function Section6(p: Section6Props) {
+  return (
+    <section style={{"backgroundColor": "#e6f5fc", "backgroundImage": "url('/images/Group77.svg')", "backgroundPosition": "right bottom", "backgroundRepeat": "no-repeat", "backgroundSize": "contain"}}><div className="container overlap-gap-section"><div className="row justify-content-center align-items-center mb-3" data-anime={"{ \"el\": \"childs\", \"translateY\": [30, 1], \"opacity\": [0,1], \"duration\": 600, \"delay\": 0, \"staggervalue\":200, \"easing\": \"easeOutQuad\" }"}>{p.items.map((px, i) => (<div key={i} className="col-12 text-center"><p className={px.pClass} style={px.pStyle}>{px.pText}</p></div>))}</div><div className="row row-cols-1 row-cols-lg-3 row-cols-md-2 transition-inner-all justify-content-center" data-anime={"{ \"el\": \"childs\", \"translateY\": [20, 0], \"opacity\": [0,1], \"duration\": 600, \"delay\": 300, \"staggervalue\": 300, \"easing\": \"easeOutQuad\" }"}>{p.items2.map((px, i) => (<div key={i} className="col mb-20px"><div className="services-box-style-01 hover-box"><div className="position-relative box-image border-radius-100px overflow-hidden"><a href={px.aHref}><Img alt={px.imgAlt} decoding="async" height="510" loading="lazy" src={px.imgSrc} width="755" />{" "}<div className="box-overlay bg-black-transparent-medium"></div>{" "}<span className="d-flex justify-content-center align-items-center mx-auto icon-box absolute-middle-center z-index-1 w-65px h-65px rounded-circle border border-color-transparent-white border-1"><Icon className="bi bi-arrow-right-short text-white icon-very-medium d-flex" /></span>{" "}</a></div><div className="p-25px last-paragraph-no-margin text-center"><span className="fs-20 text-dark-gray fw-600">{px.spanText}</span>{" "}<p className="lh-26">{px.pText}</p></div></div></div>))}</div></div></section>
+  );
+}

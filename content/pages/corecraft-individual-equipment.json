@@ -1,0 +1,500 @@
+{
+ "path": "/corecraft/individual-equipment.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Individual Playground Equipment: Slides, Swings | FunPlay",
+  "description": "Buy individual playground equipment from FunPlay: slides, swings, see saws, merry-go-rounds, spring riders and climbers. Made in India.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Individual Playground Equipment: Slides, Swings | FunPlay",
+   "og:description": "Buy individual playground equipment from FunPlay: slides, swings, see saws, merry-go-rounds, spring riders and climbers. Made in India.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment.html",
+   "og:image": "https://funplaysystems.com/images/slide3-image-thumb.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Individual Playground Equipment",
+ "data": {
+  "cardImage": "/images/slide3-image-thumb.jpg"
+ },
+ "sections": [
+  {
+   "component": "IndividualPlaygroundEquipment",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Craft your own playground"
+      ]
+     }
+    ],
+    "h1Text": "Individual Playground Equipment"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "items": [
+     {
+      "aHref": "/corecraft/individual-equipment/slide-3foot-height.html",
+      "aAriaLabel": "Slide 3Ft Height",
+      "imgAlt": "Red and yellow curved slide, 3 ft height",
+      "imgSrc": "/images/slide3-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Slide 3Ft Height",
+      "pText": "Toddler friendly",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/slide-5foot-height.html",
+      "aAriaLabel": "Slide 5 Ft Height",
+      "imgAlt": "Red and yellow straight tunnel slide, 5 ft height",
+      "imgSrc": "/images/slide5-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Slide 5 Ft Height",
+      "pText": "Kid Safe",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/slide-7foot-height.html",
+      "aAriaLabel": "Slide 7 Ft Height",
+      "imgAlt": "Red and yellow spiral tunnel slide, 7 ft height, on a steel tower",
+      "imgSrc": "/images/slide7-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Slide 7 Ft Height",
+      "pText": "Thrilling slides",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/merry-go-round.html",
+      "aAriaLabel": "Merry Go Round",
+      "imgAlt": "Animal merry-go-round with colourful bird seats",
+      "imgSrc": "/images/merry-go-gound-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Merry Go Round",
+      "pText": "Classic carousel",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/swing.html",
+      "aAriaLabel": "Swing",
+      "imgAlt": "Two-seat swing with curved teal posts and yellow seats",
+      "imgSrc": "/images/swings-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Swing",
+      "pText": "Soaring Fun",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/spring-rider.html",
+      "aAriaLabel": "Spring Rider",
+      "imgAlt": "Blue elephant-shaped spring rider with colourful spots",
+      "imgSrc": "/images/Spring-Riders-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Spring Rider",
+      "pText": "Bouncy Enjoyment",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/see-saw.html",
+      "aAriaLabel": "See Saw",
+      "imgAlt": "Deluxe multi see saw with four blue seats, see saw range",
+      "imgSrc": "/images/See-Saw-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "See Saw",
+      "pText": "Balanced Play",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "aHref": "/corecraft/individual-equipment/climber.html",
+      "aAriaLabel": "Climber",
+      "imgAlt": "S Bridge climber with red overhead ladder on yellow posts",
+      "imgSrc": "/images/climber-image-thumb.jpg",
+      "divText": "CoreCraft",
+      "spanText": "Climber",
+      "pText": "Adventure Climb",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Individual Playground Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Igloo Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/Igloo-climber.html"
+   ],
+   [
+    "Abstract Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/abstract-climber.html"
+   ],
+   [
+    "Balancing Beam",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/balancing-beam.html"
+   ],
+   [
+    "Balancing Bridge",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/balancing-bridge.html"
+   ],
+   [
+    "Crawling Tunnel",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/crawling-tunnel.html"
+   ],
+   [
+    "Crest Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/crest-climber.html"
+   ],
+   [
+    "Disc Challanger Playground Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/disc-challenger.html"
+   ],
+   [
+    "Droopy Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/droopy-climber.html"
+   ],
+   [
+    "Hopping Pod Playground Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/hopping-pod.html"
+   ],
+   [
+    "Jumping Jacks Playground Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/jumping-jacks.html"
+   ],
+   [
+    "Leo Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/leo-climber.html"
+   ],
+   [
+    "Loop Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/loop-climber.html"
+   ],
+   [
+    "Monkey Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/monkey-climber.html"
+   ],
+   [
+    "Mushroom Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/mushroom-climber.html"
+   ],
+   [
+    "Net Rock Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/net-rock-climber.html"
+   ],
+   [
+    "Orbit Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/orbit-climber.html"
+   ],
+   [
+    "S Bridge Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/s-bridge-climber.html"
+   ],
+   [
+    "Straight Net Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/straight-net.html"
+   ],
+   [
+    "Tornado Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/tornado-climber.html"
+   ],
+   [
+    "Trampoline",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/trampoline.html"
+   ],
+   [
+    "Wall Rock Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/wall-rock-climber.html"
+   ],
+   [
+    "Wheel Thrill Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/wheel-thrill-climber.html"
+   ],
+   [
+    "Animal Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/animal-mgr.html"
+   ],
+   [
+    "Bucket Spinner Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html"
+   ],
+   [
+    "Cage Spinner",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/cage-spinner.html"
+   ],
+   [
+    "Flower Spinner",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/flower-spinner.html"
+   ],
+   [
+    "Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html"
+   ],
+   [
+    "Horse Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/horse-mgr.html"
+   ],
+   [
+    "Jumbo Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html"
+   ],
+   [
+    "Laminate Standing Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html"
+   ],
+   [
+    "Roto Platform Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html"
+   ],
+   [
+    "Roto Seating Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html"
+   ],
+   [
+    "Roto Wheel Go Round Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html"
+   ],
+   [
+    "Deluxe Junior See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html"
+   ],
+   [
+    "Deluxe Multi See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html"
+   ],
+   [
+    "Double See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/double-see-saw.html"
+   ],
+   [
+    "Horse See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/horse-see-saw.html"
+   ],
+   [
+    "Rainbow See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/rainbow-see-saw.html"
+   ],
+   [
+    "Standing See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/standing-see-saw.html"
+   ],
+   [
+    "Curve Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/curve-slide.html"
+   ],
+   [
+    "Double Wave Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/double-wave-slide.html"
+   ],
+   [
+    "Shrimpm Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/shrimp-slide.html"
+   ],
+   [
+    "Straight Open Slide (3 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-3foot-height/straight-open-slide.html"
+   ],
+   [
+    "Double Wave Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/double-wave-slide.html"
+   ],
+   [
+    "S Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/s-slide.html"
+   ],
+   [
+    "Spiral Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/spiral-slide.html"
+   ],
+   [
+    "Spiral Tunnel Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html"
+   ],
+   [
+    "Straight Tunnel Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/straight-tunnel-slide.html"
+   ],
+   [
+    "Wave Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/wave-slide.html"
+   ],
+   [
+    "Zig Zag Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/zig-zag-slide.html"
+   ],
+   [
+    "Curve Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/curve-slide.html"
+   ],
+   [
+    "Spiral Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html"
+   ],
+   [
+    "Spiral Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html"
+   ],
+   [
+    "Straight Open Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/straight-open-slide.html"
+   ],
+   [
+    "Strtaight Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html"
+   ],
+   [
+    "Zig Zag Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html"
+   ],
+   [
+    "Aeroplane Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/aeroplane-rider.html"
+   ],
+   [
+    "Alligator Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/alligator-rider.html"
+   ],
+   [
+    "Bike Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/bike-rider.html"
+   ],
+   [
+    "Dino Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dino-rider.html"
+   ],
+   [
+    "Duck Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/duck-rider.html"
+   ],
+   [
+    "Dumbo Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dumbo-rider.html"
+   ],
+   [
+    "Horse Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/horse-rider.html"
+   ],
+   [
+    "See Horse Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/see-horse-rider.html"
+   ],
+   [
+    "Curve Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/curve-post-swing.html"
+   ],
+   [
+    "Double Arc Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-arc-swing.html"
+   ],
+   [
+    "Double Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-post-swing.html"
+   ],
+   [
+    "Double Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-swing.html"
+   ],
+   [
+    "Giraffe Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/giraffe-swing.html"
+   ],
+   [
+    "In-Curve Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/in-curve-post-swing.html"
+   ],
+   [
+    "Mother Child Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/mother-child-swing.html"
+   ],
+   [
+    "Toddler Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/toddler-swing.html"
+   ]
+  ]
+ }
+}

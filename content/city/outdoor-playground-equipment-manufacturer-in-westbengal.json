@@ -1,0 +1,587 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-westbengal.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in West Bengal | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in West Bengal. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-westbengal.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in West Bengal | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in West Bengal. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-westbengal.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in West Bengal",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in West Bengal"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "West Bengal runs from the Darjeeling hills in the north to the Sundarbans and the sea in the south. A playground plan for Siliguri will not suit a site in Kolkata or Digha. FunPlay Systems designs and manufactures outdoor playground equipment for housing complexes, schools, municipal parks, industrial townships, clubs and resorts across the state."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Kolkata and Howrah bring the most enquiries, mainly from residential complexes, schools and neighbourhood parks run by local clubs. Durgapur and Asansol, in the steel and coal belt, have company townships and schools, and Kulti sits in the same belt. Kharagpur is a railway town with a large education campus, and Berhampore is a district town with schools and parks. Siliguri, at the foot of the hills, has new housing and hotels. We build every order at our factory in Vasai, Maharashtra, send it by road and install it with our own team or a dealer in eastern India."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Humidity, heavy rain and the northern hills",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Kolkata and south Bengal are hot and humid for much of the year, with heavy monsoon rain and storms near the coast. Raise the play area above the level where water collects, use galvanised posts and roto-moulded parts that do not rust, and lay rubber flooring that drains well. Near the sea, at Digha, rinse the equipment with fresh water from time to time."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Darjeeling and the hill towns are cool and wet, with terraced sites, while the steel towns get hot, dusty summers. Residential complexes often pick a themed structure such as our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/forestia.html"
+           },
+           "c": [
+            "Forestia range"
+           ]
+          },
+          ". Kolkata buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-kolkata.html"
+           },
+           "c": [
+            "playground page for Kolkata"
+           ]
+          },
+          ", Durgapur buyers our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-durgapur.html"
+           },
+           "c": [
+            "playground page for Durgapur"
+           ]
+          },
+          ", and for adult fitness see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-kolkata.html"
+           },
+           "c": [
+            "outdoor gym page for Kolkata"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in West Bengal",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can a local club order equipment for a neighbourhood park?",
+       "a": "Yes. Clubs and resident groups can contact us directly with the park size, photos and the age groups. We send suggested equipment, a layout drawing with the safe play area marked and a quote."
+      },
+      {
+       "q": "Which equipment holds up best in Kolkata's humidity?",
+       "a": "Galvanised steel frames and roto-moulded plastic slides, decks and panels. Both are corrosion-resistant. Keep drains clear around the base and check fittings after the monsoon."
+      },
+      {
+       "q": "Do you supply playgrounds in Siliguri and the hills?",
+       "a": "Yes. We dispatch by road to Siliguri and the hill towns beyond it, and install with our team or a dealer. On terraced hill sites we suggest compact equipment with a drained base."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Westbengal Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "West Bengal",
+    "h2Text": "Cities we supply in West Bengal",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-asansol.html"
+        },
+        "c": [
+         "Playground equipment in Asansol"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bally.html"
+        },
+        "c": [
+         "Playground equipment in Bally"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-baranagar.html"
+        },
+        "c": [
+         "Playground equipment in Baranagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-barasat.html"
+        },
+        "c": [
+         "Playground equipment in Barasat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bardhaman.html"
+        },
+        "c": [
+         "Playground equipment in Bardhaman"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-berhampore.html"
+        },
+        "c": [
+         "Playground equipment in Berhampore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhatpara.html"
+        },
+        "c": [
+         "Playground equipment in Bhatpara"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bidhannagar.html"
+        },
+        "c": [
+         "Playground equipment in Bidhannagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-chinsurah.html"
+        },
+        "c": [
+         "Playground equipment in Chinsurah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-durgapur.html"
+        },
+        "c": [
+         "Playground equipment in Durgapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-haldia.html"
+        },
+        "c": [
+         "Playground equipment in Haldia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-howrah.html"
+        },
+        "c": [
+         "Playground equipment in Howrah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kamarhati.html"
+        },
+        "c": [
+         "Playground equipment in Kamarhati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kharagpur.html"
+        },
+        "c": [
+         "Playground equipment in Kharagpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kolkata.html"
+        },
+        "c": [
+         "Playground equipment in Kolkata"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kulti.html"
+        },
+        "c": [
+         "Playground equipment in Kulti"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-madhyamgram.html"
+        },
+        "c": [
+         "Playground equipment in Madhyamgram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-maheshtala.html"
+        },
+        "c": [
+         "Playground equipment in Maheshtala"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-malda.html"
+        },
+        "c": [
+         "Playground equipment in Malda"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-naihati.html"
+        },
+        "c": [
+         "Playground equipment in Naihati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-north-dumdum.html"
+        },
+        "c": [
+         "Playground equipment in North Dum Dum"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-panihati.html"
+        },
+        "c": [
+         "Playground equipment in Panihati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-raiganj.html"
+        },
+        "c": [
+         "Playground equipment in Raiganj"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-rajpur-sonarpur.html"
+        },
+        "c": [
+         "Playground equipment in Rajpur Sonarpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-serampore.html"
+        },
+        "c": [
+         "Playground equipment in Serampore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-siliguri.html"
+        },
+        "c": [
+         "Playground equipment in Siliguri"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-south-dumdum.html"
+        },
+        "c": [
+         "Playground equipment in South Dum Dum"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-uluberia.html"
+        },
+        "c": [
+         "Playground equipment in Uluberia"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in West Bengal",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-westbengal.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in West Bengal",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "West Bengal"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in West Bengal. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can a local club order equipment for a neighbourhood park?",
+    "Yes. Clubs and resident groups can contact us directly with the park size, photos and the age groups. We send suggested equipment, a layout drawing with the safe play area marked and a quote."
+   ],
+   [
+    "Which equipment holds up best in Kolkata's humidity?",
+    "Galvanised steel frames and roto-moulded plastic slides, decks and panels. Both are corrosion-resistant. Keep drains clear around the base and check fittings after the monsoon."
+   ],
+   [
+    "Do you supply playgrounds in Siliguri and the hills?",
+    "Yes. We dispatch by road to Siliguri and the hill towns beyond it, and install with our team or a dealer. On terraced hill sites we suggest compact equipment with a drained base."
+   ]
+  ]
+ }
+}

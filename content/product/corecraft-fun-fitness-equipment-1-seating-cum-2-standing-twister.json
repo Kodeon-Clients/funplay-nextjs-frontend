@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "1 Seating Cum 2 Standing Twister | Outdoor Gym | FunPlay",
+  "description": "1 Seating Cum 2 Standing Twister Outdoor Gym Equipment (FFE018D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "1 Seating Cum 2 Standing Twister | Outdoor Gym | FunPlay",
+   "og:description": "1 Seating Cum 2 Standing Twister Outdoor Gym Equipment (FFE018D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html",
+   "og:image": "https://funplaysystems.com/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "1 Seating Cum 2 Standing Twister Outdoor Gym Equipment",
+ "data": {
+  "name": "1 Seating Cum 2 Standing Twister",
+  "sku": "FFE018D",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg"
+    ],
+    "alts": [
+     "1 Seating Cum 2 Standing Twister outdoor gym twister with one seated and two standing waist-twist stations"
+    ]
+   }
+  ],
+  "description": "The 1 Seating Cum 2 Standing Twister puts three waist-twist stations on one frame: one for a seated user and two for people standing. Twisters turn the hips and waist from side to side while the user holds a handle, a gentle movement that suits older residents as well as regular walkers. Having seated and standing stations together means a senior citizen can sit while a friend or family member twists alongside. It is finished in Play Orange and belongs to our Fun Fitness range of outdoor gym equipment for parks, societies and walking tracks. We share the exact footprint and warranty terms with every quote. Our standard warranty terms give 3 years on galvanised pipes and 1 year on bearings. Ask us for a layout of your open gym.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "1 Seating Cum 2 Standing Twister"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg",
+  "cardImage": "/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "1 Seating Cum 2 Standing Twister ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE018D",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg"
+       ],
+       "alts": [
+        "1 Seating Cum 2 Standing Twister outdoor gym twister with one seated and two standing waist-twist stations"
+       ]
+      }
+     ],
+     "name": "1 Seating Cum 2 Standing Twister"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"1 Seating Cum 2 Standing Twister outdoor gym twister with one seated and two standing waist-twist stations\"]",
+      "divDataImgs": "[\"/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "1 Seating Cum 2 Standing Twister"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The 1 Seating Cum 2 Standing Twister puts three waist-twist stations on one frame: one for a seated user and two for people standing. Twisters turn the hips and waist from side to side while the user holds a handle, a gentle movement that suits older residents as well as regular walkers. Having seated and standing stations together means a senior citizen can sit while a friend or family member twists alongside. It is finished in Play Orange and belongs to our Fun Fitness range of outdoor gym equipment for parks, societies and walking tracks. We share the exact footprint and warranty terms with every quote. Our standard warranty terms give 3 years on galvanised pipes and 1 year on bearings. Ask us for a layout of your open gym."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Twisters rely on a rotating platform or seat, so the bearings are the main wear part and should be checked and greased at each service. We fix the twister frame self-standing or grouted, depending on the ground. Leave enough clear space around all three stations that people waiting do not stand inside the turning area."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "1 Seating Cum 2 Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html"
+   ]
+  ],
+  "product": {
+   "name": "1 Seating Cum 2 Standing Twister",
+   "sku": "FFE018D",
+   "images": [
+    "/images/1-Seating-Cum-2-Standing-Twister-product-image.jpg"
+   ],
+   "description": "The 1 Seating Cum 2 Standing Twister puts three waist-twist stations on one frame: one for a seated user and two for people standing. Twisters turn the hips and waist from side to side while the user holds a handle, a gentle movement that suits older residents as well as regular walkers. Having seated and standing stations together means a senior citizen can sit while a friend or family member twists alongside. It is finished in Play Orange and belongs to our Fun Fitness range of outdoor gym equipment for parks, societies and walking tracks. We share the exact footprint and warranty terms with every quote. Our standard warranty terms give 3 years on galvanised pipes and 1 year on bearings. Ask us for a layout of your open gym.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

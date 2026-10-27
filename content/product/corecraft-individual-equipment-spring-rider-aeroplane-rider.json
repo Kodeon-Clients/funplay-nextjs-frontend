@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/aeroplane-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Aeroplane Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Aeroplane Spring Rider (FPSR01) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/aeroplane-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Aeroplane Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Aeroplane Spring Rider (FPSR01) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/aeroplane-rider.html",
+   "og:image": "https://funplaysystems.com/images/Spring-Riders-7.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Aeroplane Spring Rider",
+ "data": {
+  "name": "Aeroplane Spring Rider",
+  "sku": "FPSR01",
+  "colours": [
+   {
+    "name": "Forest Green",
+    "swatch": "background-color: #498176",
+    "images": [
+     "/images/Spring-Riders-7.jpg"
+    ],
+    "alts": [
+     "Aeroplane Rider green aeroplane-shaped spring rider for kids"
+    ]
+   }
+  ],
+  "description": "The Aeroplane Spring Rider is a Forest Green aeroplane that rocks and bounces on a heavy spring. One child sits in the cockpit, holds the handles and rocks back and forth or side to side. Spring riders help small children practise balance and coordination, and they enjoy pretending to fly. It takes up little ground, so it slots into a nursery, play school or society toddler area beside larger pieces. The aeroplane shape also works well with a travel or sky theme. Roto-moulded bodies are covered by our 3-year warranty, and springs are covered for 1 year. Ask us how many spring riders your play area can take.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Aeroplane Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/Spring-Riders-7.jpg",
+  "cardImage": "/images/Spring-Riders-7.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Aeroplane Spring Rider"
+    ],
+    "pText": "FPSR01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Forest Green",
+       "swatch": "background-color: #498176",
+       "images": [
+        "/images/Spring-Riders-7.jpg"
+       ],
+       "alts": [
+        "Aeroplane Rider green aeroplane-shaped spring rider for kids"
+       ]
+      }
+     ],
+     "name": "Aeroplane Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Aeroplane Rider green aeroplane-shaped spring rider for kids\"]",
+      "divDataImgs": "[\"/images/Spring-Riders-7.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#498176"
+      },
+      "divText": "",
+      "spanText": "Forest Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Aeroplane Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Aeroplane Spring Rider is a Forest Green aeroplane that rocks and bounces on a heavy spring. One child sits in the cockpit, holds the handles and rocks back and forth or side to side. Spring riders help small children practise balance and coordination, and they enjoy pretending to fly. It takes up little ground, so it slots into a nursery, play school or society toddler area beside larger pieces. The aeroplane shape also works well with a travel or sky theme. Roto-moulded bodies are covered by our 3-year warranty, and springs are covered for 1 year. Ask us how many spring riders your play area can take."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The aeroplane body is roto-moulded, so it will not rust or rot in the rain, and it sits on a steel spring. We install spring riders self-standing or grouted to suit the ground. Leave space around the rider for its movement, use a soft surface underneath, and check the spring and its fixings regularly."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Aeroplane Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/aeroplane-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Aeroplane Spring Rider",
+   "sku": "FPSR01",
+   "images": [
+    "/images/Spring-Riders-7.jpg"
+   ],
+   "description": "The Aeroplane Spring Rider is a Forest Green aeroplane that rocks and bounces on a heavy spring. One child sits in the cockpit, holds the handles and rocks back and forth or side to side. Spring riders help small children practise balance and coordination, and they enjoy pretending to fly. It takes up little ground, so it slots into a nursery, play school or society toddler area beside larger pieces. The aeroplane shape also works well with a travel or sky theme. Roto-moulded bodies are covered by our 3-year warranty, and springs are covered for 1 year. Ask us how many spring riders your play area can take.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Forest Green"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Forest Green"
+    ]
+   ]
+  }
+ }
+}

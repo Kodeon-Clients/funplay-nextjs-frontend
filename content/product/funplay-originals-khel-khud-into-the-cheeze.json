@@ -1,0 +1,720 @@
+{
+ "path": "/funplay-originals/khel-khud/into-the-cheeze.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Into The Cheeze Indian Games Play Equipment | FunPlay",
+  "description": "Into The Cheeze Indian Games Play Equipment (FOKK05), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud/into-the-cheeze.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Into The Cheeze Indian Games Play Equipment | FunPlay",
+   "og:description": "Into The Cheeze Indian Games Play Equipment (FOKK05), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud/into-the-cheeze.html",
+   "og:image": "https://funplaysystems.com/images/Into-The-Cheeze-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Into The Cheeze Indian Games Play Equipment",
+ "data": {
+  "name": "Into The Cheeze",
+  "sku": "FOKK05",
+  "colours": [
+   {
+    "name": "Banana Yellow",
+    "swatch": "background-color: #dac548",
+    "images": [
+     "/images/Into-The-Cheeze-1.jpg",
+     "/images/Into-The-Cheeze.jpg",
+     "/images/Into-The-Cheeze-2.jpg"
+    ],
+    "alts": [
+     "Into The Cheeze cheese-themed yellow tower with spiral tube slide and climbing panel",
+     "Close view of Into The Cheeze yellow spiral tube slide and cheese wedge tower",
+     "Top view of Into The Cheeze cheese-shaped tower with spiral slide"
+    ]
+   }
+  ],
+  "description": "Into The Cheeze is a yellow tower made of stacked cheese slices, with a spiral tube slide wrapping down one side. Each layer is a different climbing step, so children work their way up slice by slice and then slide back down through the cheese. It is designed for ages 5 to 12 and holds up to 15 children. The tower is compact at 13' x 8'2\" and needs a safe play area of 18'5\" x 13'7\", which suits a small society garden or preschool yard. Play on it builds upper body strength, pretend play and creative exploration. It comes in Banana Yellow. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us how it fits your corner.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Khel Khud",
+   "Into The Cheeze"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/khel-khud.html",
+  "image": "/images/Into-The-Cheeze-1.jpg",
+  "cardImage": "/images/Into-The-Cheeze-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#ddd6ac",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Into The Cheeze ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Indian Games Play Equipment"
+      ]
+     }
+    ],
+    "pText": "FOKK05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow",
+       "swatch": "background-color: #dac548",
+       "images": [
+        "/images/Into-The-Cheeze-1.jpg",
+        "/images/Into-The-Cheeze.jpg",
+        "/images/Into-The-Cheeze-2.jpg"
+       ],
+       "alts": [
+        "Into The Cheeze cheese-themed yellow tower with spiral tube slide and climbing panel",
+        "Close view of Into The Cheeze yellow spiral tube slide and cheese wedge tower",
+        "Top view of Into The Cheeze cheese-shaped tower with spiral slide"
+       ]
+      }
+     ],
+     "name": "Into The Cheeze"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Into The Cheeze cheese-themed yellow tower with spiral tube slide and climbing panel\", \"Close view of Into The Cheeze yellow spiral tube slide and cheese wedge tower\", \"Top view of Into The Cheeze cheese-shaped tower with spiral slide\"]",
+      "divDataImgs": "[\"/images/Into-The-Cheeze-1.jpg\", \"/images/Into-The-Cheeze.jpg\", \"/images/Into-The-Cheeze-2.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#dac548"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/khel-khud.html"
+        },
+        "c": [
+         "Khel Khud"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Into The Cheeze"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Into The Cheeze is a yellow tower made of stacked cheese slices, with a spiral tube slide wrapping down one side. Each layer is a different climbing step, so children work their way up slice by slice and then slide back down through the cheese. It is designed for ages 5 to 12 and holds up to 15 children. The tower is compact at 13' x 8'2\" and needs a safe play area of 18'5\" x 13'7\", which suits a small society garden or preschool yard. Play on it builds upper body strength, pretend play and creative exploration. It comes in Banana Yellow. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us how it fits your corner."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/khel-khud/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Upper Body Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Pretend and Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Creative Exploration"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Into The Cheese play tower and slide",
+    "imgSrc": "/images/Into-The-Cheese-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "396.24 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "248.92 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The cheese wedges and spiral slide are roto-moulded, supported on galvanised pipe. The tower stands self-standing or grouted, depending on the ground. Because the slide spirals, leave clear space at its exit inside the 18'5\" x 13'7\" zone. Check the climbing panel holds and the slide joints periodically.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Upper Body Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Pretend and Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creative Exploration"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "13’ x 8’2”"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "18’5” x 13’7”"
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Into The Cheeze Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/into-the-cheeze.html"
+   ]
+  ],
+  "product": {
+   "name": "Into The Cheeze",
+   "sku": "FOKK05",
+   "images": [
+    "/images/Into-The-Cheeze-1.jpg",
+    "/images/Into-The-Cheeze.jpg",
+    "/images/Into-The-Cheeze-2.jpg"
+   ],
+   "description": "Into The Cheeze is a yellow tower made of stacked cheese slices, with a spiral tube slide wrapping down one side. Each layer is a different climbing step, so children work their way up slice by slice and then slide back down through the cheese. It is designed for ages 5 to 12 and holds up to 15 children. The tower is compact at 13' x 8'2\" and needs a safe play area of 18'5\" x 13'7\", which suits a small society garden or preschool yard. Play on it builds upper body strength, pretend play and creative exploration. It comes in Banana Yellow. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us how it fits your corner.",
+   "category": "Indian Games Play Equipment",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/khel-khud.html",
+   "colours": [
+    "Banana Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Length",
+     "396.24 cm"
+    ],
+    [
+     "Width",
+     "248.92 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Upper Body Strength Pretend and Play Creative Exploration"
+    ],
+    [
+     "Colour options",
+     "Banana Yellow"
+    ]
+   ]
+  }
+ }
+}

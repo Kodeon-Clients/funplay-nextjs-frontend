@@ -1,0 +1,190 @@
+{
+ "path": "/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Natural Elements in Playground Design | FunPlay",
+  "description": "How to combine wood, stone, sand, water and planting with play equipment to create immersive natural play spaces.",
+  "canonical": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html",
+  "robots": "index,follow",
+  "og": {
+   "og:title": "Natural Elements in Playground Design | FunPlay",
+   "og:description": "How to combine wood, stone, sand, water and planting with play equipment to create immersive natural play spaces.",
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html",
+   "og:image": "https://funplaysystems.com/images/using-naturals-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Natural Elements in Playground Design | FunPlay",
+   "twitter:description": "How to combine wood, stone, sand, water and planting with play equipment to create immersive natural play spaces.",
+   "twitter:image": "https://funplaysystems.com/images/using-naturals-cover.JPG"
+  }
+ },
+ "styles": [
+  "2d2f6d2ca3"
+ ],
+ "h1": "Using Natural Elements with Play Equipment for Immersive Spaces",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/using-naturals-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "28 July 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Using Natural Elements with Play Equipment for Immersive Spaces",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent2",
+   "props": {
+    "article": {
+     "slug": "using-natural-elements-with-play-equipment-for-immersive-spaces"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "natural playground design india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "eco play spaces with nature"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "outdoor play with natural elements"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "immersive playground ideas"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "nature inspired play equipment"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Using Natural Elements with Play Equipment for Immersive Spaces",
+    "https://funplaysystems.com/blog/using-natural-elements-with-play-equipment-for-immersive-spaces.html"
+   ]
+  ],
+  "article": {
+   "headline": "Using Natural Elements with Play Equipment for Immersive Spaces",
+   "description": "How to combine wood, stone, sand, water and planting with play equipment to create immersive natural play spaces.",
+   "image": "https://funplaysystems.com/images/using-naturals-images.JPG",
+   "datePublished": "2025-07-28",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

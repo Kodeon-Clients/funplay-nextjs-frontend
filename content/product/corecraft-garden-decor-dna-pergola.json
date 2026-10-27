@@ -1,0 +1,225 @@
+{
+ "path": "/corecraft/garden-decor/dna-pergola.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "DNA Pergola | CoreCraft | FunPlay Systems",
+  "description": "DNA Pergola (FPGD003) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/dna-pergola.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "DNA Pergola | CoreCraft | FunPlay Systems",
+   "og:description": "DNA Pergola (FPGD003) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/dna-pergola.html",
+   "og:image": "https://funplaysystems.com/images/dna-pergola-1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "DNA Pergola",
+ "data": {
+  "name": "DNA Pergola",
+  "sku": "FPGD003",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/dna-pergola-1-product-image.jpg",
+     "/images/dna-pergola-2-product-image.jpg",
+     "/images/dna-pergola-3-product-image.jpg"
+    ],
+    "alts": [
+     "DNA Pergola wavy wooden garden walkway pergola with dark steel frame",
+     "Front view of DNA Pergola wooden pergola walkway with curved roof",
+     "Long side view of DNA Pergola wooden pergola with wave-shaped roof"
+    ]
+   }
+  ],
+  "description": "Named after the twisting curve along its roof, the DNA Pergola is a walk-through garden structure. Wooden posts stand in two rows, and dark steel beams rise and fall in a wave above them, carrying wooden cross-slats that throw striped shade on the path below. It can run along a walkway, link a gate to a clubhouse or cover the route from a parking area to a play zone. For builders finishing an entrance garden, it gives the approach a clear shape. The DNA Pergola belongs to our CoreCraft garden decor range, and Sand Beige is the listed colour. Design customisation is available on request, so share your path measurements and we will send a layout drawing and a quote with warranty terms.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "DNA Pergola"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/dna-pergola-1-product-image.jpg",
+  "cardImage": "/images/dna-pergola-1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "DNA Pergola"
+    ],
+    "pText": "FPGD003",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/dna-pergola-1-product-image.jpg",
+        "/images/dna-pergola-2-product-image.jpg",
+        "/images/dna-pergola-3-product-image.jpg"
+       ],
+       "alts": [
+        "DNA Pergola wavy wooden garden walkway pergola with dark steel frame",
+        "Front view of DNA Pergola wooden pergola walkway with curved roof",
+        "Long side view of DNA Pergola wooden pergola with wave-shaped roof"
+       ]
+      }
+     ],
+     "name": "DNA Pergola"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"DNA Pergola wavy wooden garden walkway pergola with dark steel frame\", \"Front view of DNA Pergola wooden pergola walkway with curved roof\", \"Long side view of DNA Pergola wooden pergola with wave-shaped roof\"]",
+      "divDataImgs": "[\"/images/dna-pergola-1-product-image.jpg\", \"/images/dna-pergola-2-product-image.jpg\", \"/images/dna-pergola-3-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "DNA Pergola"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Named after the twisting curve along its roof, the DNA Pergola is a walk-through garden structure. Wooden posts stand in two rows, and dark steel beams rise and fall in a wave above them, carrying wooden cross-slats that throw striped shade on the path below. It can run along a walkway, link a gate to a clubhouse or cover the route from a parking area to a play zone. For builders finishing an entrance garden, it gives the approach a clear shape. The DNA Pergola belongs to our CoreCraft garden decor range, and Sand Beige is the listed colour. Design customisation is available on request, so share your path measurements and we will send a layout drawing and a quote with warranty terms."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The posts carry the whole roof, so each one is grouted into a footing or bolted to a firm slab, depending on the ground we find. Climbing plants can be trained up the posts, but keep them trimmed off the slats so rainwater drains. Check the beam joints and slat screws every year, and recoat exposed wood when the finish dulls."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "DNA Pergola",
+    "https://funplaysystems.com/corecraft/garden-decor/dna-pergola.html"
+   ]
+  ],
+  "product": {
+   "name": "DNA Pergola",
+   "sku": "FPGD003",
+   "images": [
+    "/images/dna-pergola-1-product-image.jpg",
+    "/images/dna-pergola-2-product-image.jpg",
+    "/images/dna-pergola-3-product-image.jpg"
+   ],
+   "description": "Named after the twisting curve along its roof, the DNA Pergola is a walk-through garden structure. Wooden posts stand in two rows, and dark steel beams rise and fall in a wave above them, carrying wooden cross-slats that throw striped shade on the path below. It can run along a walkway, link a gate to a clubhouse or cover the route from a parking area to a play zone. For builders finishing an entrance garden, it gives the approach a clear shape. The DNA Pergola belongs to our CoreCraft garden decor range, and Sand Beige is the listed colour. Design customisation is available on request, so share your path measurements and we will send a layout drawing and a quote with warranty terms.",
+   "category": "Garden Pergola",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

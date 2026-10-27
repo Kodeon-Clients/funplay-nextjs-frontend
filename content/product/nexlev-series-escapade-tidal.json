@@ -1,0 +1,614 @@
+{
+ "path": "/nexlev-series/escapade/tidal.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Tidal Adventure Play Structure | NexLev Series | FunPlay",
+  "description": "Tidal Adventure Play Structure (NXESTI) from the NexLev Series Escapade range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/escapade/tidal.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Tidal Adventure Play Structure | NexLev Series | FunPlay",
+   "og:description": "Tidal Adventure Play Structure (NXESTI) from the NexLev Series Escapade range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/escapade/tidal.html",
+   "og:image": "https://funplaysystems.com/images/TIDAL-A.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Tidal Adventure Play Structure",
+ "data": {
+  "name": "Tidal",
+  "sku": "NXESTI",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #ea7b74 0% 33.33%,\n                    #255a8e 33.33% 66.66%,\n                    #340c04 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/TIDAL-A.jpg",
+     "/images/TIDAL-B.jpg",
+     "/images/TIDAL-C.jpg"
+    ],
+    "alts": [
+     "Tidal coastal-themed playground with pink slide, blue spiral slide and climbing panels",
+     "Side view of Tidal with wavy net climber, climbing panels and slides",
+     "Top view of Tidal with tower, slides and net climber"
+    ]
+   }
+  ],
+  "description": "Tidal pairs two slides with a long climbing run, so children always have a choice of what to do next. A pink wavy slide and a blue spiral slide come off the main tower, while climbing panels and a wavy net climber stretch out to one side. Moulded snail, bird and flower toppers sit on the posts. The structure takes 30 to 35 children and covers 30'6\" x 21'7\", with a safe play area of 36'6\" x 27'7\". That long shape fits along the edge of a society lawn or a school ground. Its listed skills are confidence, strength, leadership and self control. Tidal comes in mixed colours as part of our NexLev Escapade series. Galvanised pipes, roto-moulded parts, composite laminates and play rope on Tidal are covered by a 3-year warranty. Send us the length of your site and we will see if it fits.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Nexlev Series",
+   "Escapade",
+   "Tidal"
+  ],
+  "line": "nexlev-series",
+  "series": "/nexlev-series/escapade.html",
+  "image": "/images/TIDAL-A.jpg",
+  "cardImage": "/images/TIDAL-A.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Tidal ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Adventure Play Structure"
+      ]
+     }
+    ],
+    "pText": "NXESTI",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #ea7b74 0% 33.33%,\n                    #255a8e 33.33% 66.66%,\n                    #340c04 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/TIDAL-A.jpg",
+        "/images/TIDAL-B.jpg",
+        "/images/TIDAL-C.jpg"
+       ],
+       "alts": [
+        "Tidal coastal-themed playground with pink slide, blue spiral slide and climbing panels",
+        "Side view of Tidal with wavy net climber, climbing panels and slides",
+        "Top view of Tidal with tower, slides and net climber"
+       ]
+      }
+     ],
+     "name": "Tidal"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Tidal coastal-themed playground with pink slide, blue spiral slide and climbing panels\", \"Side view of Tidal with wavy net climber, climbing panels and slides\", \"Top view of Tidal with tower, slides and net climber\"]",
+      "divDataImgs": "[\"/images/TIDAL-A.jpg\", \"/images/TIDAL-B.jpg\", \"/images/TIDAL-C.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #ea7b74 0% 33.33%, #255a8e 33.33% 66.66%, #340c04 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series.html"
+        },
+        "c": [
+         "Nexlev Series"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series/escapade.html"
+        },
+        "c": [
+         "Escapade"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Tidal"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Tidal pairs two slides with a long climbing run, so children always have a choice of what to do next. A pink wavy slide and a blue spiral slide come off the main tower, while climbing panels and a wavy net climber stretch out to one side. Moulded snail, bird and flower toppers sit on the posts. The structure takes 30 to 35 children and covers 30'6\" x 21'7\", with a safe play area of 36'6\" x 27'7\". That long shape fits along the edge of a society lawn or a school ground. Its listed skills are confidence, strength, leadership and self control. Tidal comes in mixed colours as part of our NexLev Escapade series. Galvanised pipes, roto-moulded parts, composite laminates and play rope on Tidal are covered by a 3-year warranty. Send us the length of your site and we will see if it fits."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/nexlev-series/escapade/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group NA"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "sectionStyle": {
+     "paddingTop": "0px"
+    },
+    "pText": "Tidal stands on a galvanised pipe frame, with roto-moulded slides and toppers and a play rope net climber. We install it self-standing or by grouting, depending on your ground. Allow the full 36'6\" x 27'7\" safe area and lay impact flooring at both slide exits. Check the net climber and the post toppers for loose fixings during routine maintenance.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30 - 35"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Confidence building"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Builds Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Leadership"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Self control"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30'6\" x 21'7\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "36'6\" x 27'7\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Nexlev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "Escapade",
+    "https://funplaysystems.com/nexlev-series/escapade.html"
+   ],
+   [
+    "Tidal Adventure Play Structure",
+    "https://funplaysystems.com/nexlev-series/escapade/tidal.html"
+   ]
+  ],
+  "product": {
+   "name": "Tidal",
+   "sku": "NXESTI",
+   "images": [
+    "/images/TIDAL-A.jpg",
+    "/images/TIDAL-B.jpg",
+    "/images/TIDAL-C.jpg"
+   ],
+   "description": "Tidal pairs two slides with a long climbing run, so children always have a choice of what to do next. A pink wavy slide and a blue spiral slide come off the main tower, while climbing panels and a wavy net climber stretch out to one side. Moulded snail, bird and flower toppers sit on the posts. The structure takes 30 to 35 children and covers 30'6\" x 21'7\", with a safe play area of 36'6\" x 27'7\". That long shape fits along the edge of a society lawn or a school ground. Its listed skills are confidence, strength, leadership and self control. Tidal comes in mixed colours as part of our NexLev Escapade series. Galvanised pipes, roto-moulded parts, composite laminates and play rope on Tidal are covered by a 3-year warranty. Send us the length of your site and we will see if it fits.",
+   "category": "Adventure Play Structure",
+   "line": "nexlev-series",
+   "series": "/nexlev-series/escapade.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "30 - 35"
+    ],
+    [
+     "Safe play area",
+     "36'6\" x 27'7\""
+    ],
+    [
+     "Skills developed",
+     "Confidence building Builds Strength Leadership Self control"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

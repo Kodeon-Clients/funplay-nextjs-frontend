@@ -1,0 +1,324 @@
+{
+ "path": "/nexlev-series/pinnacle.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Tepee Play Towers | NexLev Pinnacle | FunPlay",
+  "description": "NexLev Pinnacle tepee play towers with slides, climbing walls and nets for schools, parks and resorts. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/pinnacle.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Tepee Play Towers | NexLev Pinnacle | FunPlay",
+   "og:description": "NexLev Pinnacle tepee play towers with slides, climbing walls and nets for schools, parks and resorts. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/pinnacle.html",
+   "og:image": "https://funplaysystems.com/images/APEX-Img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Pinnacle Tepee Play Towers",
+ "data": {
+  "cardImage": "/images/APEX-Img.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevPinnacleTepeePlay",
+   "props": {
+    "h1Text": "NexLev Pinnacle Tepee Play Towers",
+    "h2Text": "Pinnacle"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Apex wooden tepee play tower with striped tube slide and net climber",
+        "imgSrc": "/images/APEX-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/apex.html",
+        "aText": " View Product ",
+        "spanText": "Apex",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "52.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "35 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #632319 0% 33.33%, #3891f7 33.33% 66.66%, #eff4d4 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Bouldering swing and climbing frame with net deck, ladder and hanging seats",
+        "imgSrc": "/images/BOULDERING-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/bouldering.html",
+        "aText": " View Product ",
+        "spanText": "Bouldering",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "71.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "55 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #a76cac 50%, #5aedfd 50% )"
+        }
+       },
+       {
+        "imgAlt": "Capstone wooden tepee play tower with striped tube slide and net tunnel",
+        "imgSrc": "/images/CAPSTONE-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/capstone.html",
+        "aText": " View Product ",
+        "spanText": "Capstone",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "92.7M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "45 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #f7867e 50%, #4b2115 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Crestro four-seat see saw in lemon green",
+        "imgSrc": "/images/CRESTRO-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/crestro.html",
+        "aText": " View Product ",
+        "spanText": "Crestro",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "2.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "04 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #a1e230 50%, #151412 50% )"
+        }
+       },
+       {
+        "imgAlt": "Glory twin tepee towers with net bridge, striped tube slide and red slides",
+        "imgSrc": "/images/GLORY-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/glory.html",
+        "aText": " View Product ",
+        "spanText": "Glory",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "108.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "45 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d84032 0% 33.33%, #e9d7af 33.33% 66.66%, #3e110c 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Groovy rotating tepee net climber in red on a black round base",
+        "imgSrc": "/images/GROOVY-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/groovy.html",
+        "aText": " View Product ",
+        "spanText": "Groovy",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "2.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "8 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #1b1c1e 0% 33.33%, #3d110e 33.33% 66.66%, #fe3322 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Peak tepee play tower with purple slide, net ladder and swings",
+        "imgSrc": "/images/PEAK-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/peak.html",
+        "aText": " View Product ",
+        "spanText": "Peak",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "57.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "30 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #773769 0% 33.33%, #2f6d56 33.33% 66.66%, #1359af 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Prime twin tepee towers with net bridge and green slides",
+        "imgSrc": "/images/PRIME-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/prime.html",
+        "aText": " View Product ",
+        "spanText": "Prime",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "89.7M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "55 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #509544 50%, #40150f 50% )"
+        }
+       },
+       {
+        "imgAlt": "Sway A-frame swing in knight blue with red beam, Pinnacle series",
+        "imgSrc": "/images/PINNACLE-SWAY-Img.jpg",
+        "aHref": "/nexlev-series/pinnacle/sway.html",
+        "aText": " View Product ",
+        "spanText": "Sway",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "5.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "02 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #2d579f 50%, #e11313 50% )"
+        }
+       }
+      ]
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Vertex",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "17.2M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "45 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Pinnacle Tepee Play Towers",
+    "https://funplaysystems.com/nexlev-series/pinnacle.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Apex Play Tower",
+    "https://funplaysystems.com/nexlev-series/pinnacle/apex.html"
+   ],
+   [
+    "Bouldering Play Frame with Swings",
+    "https://funplaysystems.com/nexlev-series/pinnacle/bouldering.html"
+   ],
+   [
+    "Capstone Play Tower",
+    "https://funplaysystems.com/nexlev-series/pinnacle/capstone.html"
+   ],
+   [
+    "Crestro See Saw",
+    "https://funplaysystems.com/nexlev-series/pinnacle/crestro.html"
+   ],
+   [
+    "Glory Play Tower",
+    "https://funplaysystems.com/nexlev-series/pinnacle/glory.html"
+   ],
+   [
+    "Groovy Rotating Net Climber",
+    "https://funplaysystems.com/nexlev-series/pinnacle/groovy.html"
+   ],
+   [
+    "Peak Play Tower",
+    "https://funplaysystems.com/nexlev-series/pinnacle/peak.html"
+   ],
+   [
+    "Prime Play Tower",
+    "https://funplaysystems.com/nexlev-series/pinnacle/prime.html"
+   ],
+   [
+    "Sway Swing",
+    "https://funplaysystems.com/nexlev-series/pinnacle/sway.html"
+   ],
+   [
+    "Vertex Net Climber",
+    "https://funplaysystems.com/nexlev-series/pinnacle/vertex.html"
+   ]
+  ]
+ }
+}

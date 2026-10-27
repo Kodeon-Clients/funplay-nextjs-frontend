@@ -1,0 +1,362 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-bhopal.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Bhopal | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bhopal. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bhopal.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Bhopal | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bhopal. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bhopal.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Bhopal",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Bhopal"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Bhopal, the capital of Madhya Pradesh, is often called the city of lakes, and its public gardens and lakeside walks are busy with families every evening. FunPlay Systems supplies outdoor playground equipment to Bhopal's parks, schools, housing societies, government colonies and hotels. We manufacture it at our factory in Vasai, about 640 km away, and deliver by road for installation by our team or a dealer in Madhya Pradesh."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "A public garden on a lake front is a different job from a society garden. Footfall is high, and the play area is often one part of a larger plan with walking paths, lawns and seating. Bhopal's summers are hot, and the monsoon from June to September brings heavy rain. We plan a play area that drains well, sits clear of the paths and leaves space for parents to watch from benches nearby."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Play areas for Bhopal's public gardens and lake fronts",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "In a large garden, a single feature structure draws families and gives the play area a clear centre. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev series"
+           ]
+          },
+          " includes larger towers and wooden structures for this kind of site, and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands/giants-galore.html"
+           },
+           "c": [
+            "Giants Galore"
+           ]
+          },
+          " is a big multi play station from CoreCraft."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Keep the play area at least a few metres from any water edge and fence that side. Lay rubber flooring on a sloped, drained base so the area is usable soon after rain. Add ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/garden-decor.html"
+           },
+           "c": [
+            "benches and gazebos"
+           ]
+          },
+          " for parents. For adults, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-bhopal.html"
+           },
+           "c": [
+            "outdoor gym equipment in Bhopal"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Bhopal",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 640 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Bhopal",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-bhopal.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you design a play area for a large public garden?",
+       "a": "Yes. Share the garden plan or photos and the space set aside for play. We suggest a feature structure with smaller pieces around it, and mark safe play areas and paths on a layout drawing."
+      },
+      {
+       "q": "How should a playground near a lake be planned?",
+       "a": "Keep it well back from the water and fence that side. Place benches where parents can watch, and use a raised, drained base with rubber flooring under the equipment."
+      },
+      {
+       "q": "Do you supply playground equipment in Bhopal?",
+       "a": "Yes. We manufacture at our Vasai factory, about 640 km away, and send the equipment to Bhopal by road. Our team or a dealer installs it."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html",
+    "aText": "Madhya Pradesh",
+    "spanText": "Bhopal",
+    "h2Text": "Playground equipment suppliers near Bhopal",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dewas.html"
+        },
+        "c": [
+         "Playground equipment in Dewas"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-sagar.html"
+        },
+        "c": [
+         "Playground equipment in Sagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-guna.html"
+        },
+        "c": [
+         "Playground equipment in Guna"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ujjain.html"
+        },
+        "c": [
+         "Playground equipment in Ujjain"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-indore.html"
+        },
+        "c": [
+         "Playground equipment in Indore"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Bhopal? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-bhopal.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Bhopal"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+        },
+        "c": [
+         "See all cities we serve in Madhya Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Madhya Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-madhya-pradesh.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Bhopal",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bhopal.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Bhopal",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bhopal. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you design a play area for a large public garden?",
+    "Yes. Share the garden plan or photos and the space set aside for play. We suggest a feature structure with smaller pieces around it, and mark safe play areas and paths on a layout drawing."
+   ],
+   [
+    "How should a playground near a lake be planned?",
+    "Keep it well back from the water and fence that side. Place benches where parents can watch, and use a raised, drained base with rubber flooring under the equipment."
+   ],
+   [
+    "Do you supply playground equipment in Bhopal?",
+    "Yes. We manufacture at our Vasai factory, about 640 km away, and send the equipment to Bhopal by road. Our team or a dealer installs it."
+   ]
+  ]
+ }
+}

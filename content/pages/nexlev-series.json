@@ -1,0 +1,267 @@
+{
+ "path": "/nexlev-series.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "NexLev Series Wooden Play Structures | FunPlay Systems",
+  "description": "NexLev Series: premium wooden-finish play towers, castles, adventure courses and tepee structures for schools, resorts and townships.",
+  "canonical": "https://funplaysystems.com/nexlev-series.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "NexLev Series Wooden Play Structures | FunPlay Systems",
+   "og:description": "NexLev Series: premium wooden-finish play towers, castles, adventure courses and tepee structures for schools, resorts and townships.",
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/nexlev-series.html",
+   "og:image": "https://funplaysystems.com/images/Pinnacle-thumb-image.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Nexlev Series Advanced Playground Equipment",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "NexLev Series Wooden Play Structures | FunPlay Systems",
+   "twitter:description": "NexLev Series: premium wooden-finish play towers, castles, adventure courses and tepee structures for schools, resorts and townships.",
+   "twitter:image": "https://funplaysystems.com/images/Nex-lev-page-thumb.jpg",
+   "twitter:image:alt": "Nexlev Series Advanced Playground Equipment"
+  }
+ },
+ "h1": "NexLev Series Wooden Play Structures",
+ "data": {
+  "cardImage": "/images/Pinnacle-thumb-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevSeriesWoodenPlay",
+   "props": {
+    "h1Text": "NexLev Series Wooden Play Structures",
+    "h2Text": "Advanced Play Solutions",
+    "pText": "Discover our premium collection of innovative playground equipment designed for modern recreational spaces.",
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "text-white text-decoration-underline me-15px",
+       "href": "/corecraft.html"
+      },
+      "c": [
+       "CoreCraft Series"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "text-white text-decoration-underline me-15px",
+       "href": "/funplay-originals.html"
+      },
+      "c": [
+       "FunPlay Originals"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "text-white text-decoration-underline",
+       "href": "/about-us.html"
+      },
+      "c": [
+       "About Us"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "h3Text": "Explore Our Premium Nexlev Collections",
+    "pText": "Each collection in the Nexlev Series is designed to provide unique play experiences, combining innovation, safety, and fun to create memorable playground adventures.",
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-base-color me-10px",
+       "href": "/blog.html"
+      },
+      "c": [
+       "Read Our Blog"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-outline-dark-gray",
+       "href": "/contact-us.html"
+      },
+      "c": [
+       "Get Quote"
+      ]
+     }
+    ],
+    "items": [
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px position-relative z-index-1",
+      "aHref": "/nexlev-series/pinnacle.html",
+      "aAriaLabel": "Pinnacle",
+      "imgAlt": "Groovy rotating tepee net climber, Pinnacle series",
+      "imgSrc": "/images/Pinnacle-thumb-image.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Pinnacle",
+      "pText": "Peak performance playground equipment for ultimate challenges",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px position-relative z-index-1",
+      "aHref": "/nexlev-series/woody.html",
+      "aAriaLabel": "Woody",
+      "imgAlt": "Baobab wooden bench, Woody series",
+      "imgSrc": "/images/WOODY-thumb-image.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Woody",
+      "pText": "Natural wood playground equipment with eco-friendly design",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 sm-mb-30px position-relative z-index-1",
+      "aHref": "/nexlev-series/castle.html",
+      "aAriaLabel": "Castle",
+      "imgAlt": "Castle-themed wooden fort playground with tube slides and flags",
+      "imgSrc": "/images/Castle-thumb-image.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Castle",
+      "pText": "Majestic fort playground structures for royal adventures",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 position-relative z-index-1",
+      "aHref": "/nexlev-series/escapade.html",
+      "aAriaLabel": "Escapade",
+      "imgAlt": "Aviator aeroplane-shaped net climber, Escapade series",
+      "imgSrc": "/images/Escapade-thumb-image.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Escapade",
+      "pText": "Adventure playground equipment where excitement awaits",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/nexlev-series/abstract.html",
+      "aAriaLabel": "Abstract",
+      "imgAlt": "Abstract series play structure with wavy coloured poles, bridge and slides",
+      "imgSrc": "/images/Abstract-image-thumb.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Abstract",
+      "pText": "Creative artistic playground designs for imaginative play",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/nexlev-series/solitaire.html",
+      "aAriaLabel": "Solitaire",
+      "imgAlt": "Jager twin barrel towers with net bridge and tube slides, Solitaire series",
+      "imgSrc": "/images/Solitaire-thumb-image.jpg",
+      "divText": "Nexlev Series",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Solitaire",
+      "pText": "Solo challenge playground equipment for independent play",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series Wooden Play Structures",
+    "https://funplaysystems.com/nexlev-series.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "NexLev Abstract Play Structures",
+    "https://funplaysystems.com/nexlev-series/abstract.html"
+   ],
+   [
+    "NexLev Wooden Castle Playgrounds",
+    "https://funplaysystems.com/nexlev-series/castle.html"
+   ],
+   [
+    "NexLev Escapade Adventure Play Structures",
+    "https://funplaysystems.com/nexlev-series/escapade.html"
+   ],
+   [
+    "NexLev Pinnacle Tepee Play Towers",
+    "https://funplaysystems.com/nexlev-series/pinnacle.html"
+   ],
+   [
+    "NexLev Solitaire Play Towers",
+    "https://funplaysystems.com/nexlev-series/solitaire.html"
+   ],
+   [
+    "NexLev Woody Wooden Playground Equipment",
+    "https://funplaysystems.com/nexlev-series/woody.html"
+   ]
+  ]
+ }
+}

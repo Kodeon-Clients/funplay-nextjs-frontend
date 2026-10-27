@@ -1,0 +1,347 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-faridabad.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Faridabad | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Faridabad. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-faridabad.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Faridabad | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Faridabad. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-faridabad.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Faridabad",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection3",
+   "props": {}
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Faridabad"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Most playground enquiries from Faridabad come from housing societies, and many of the newer projects put the play area on a podium above basement parking. FunPlay Systems designs and manufactures playground equipment at our factory in Vasai, Maharashtra, about 1,100 km away, and sends it to the NCR by road. Our installation team or a dealer in North India then sets it up on your site."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "A podium changes how equipment is fixed. You cannot dig into a waterproofed slab, so the equipment has to stand on its own base or be fixed in a way your structural consultant approves. We plan for this from the first drawing and share the base details with your architect. Faridabad's dusty summers and smoggy winters also leave a film on outdoor surfaces, so a regular wash keeps the equipment looking fresh."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer & Supplier of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Play areas on a podium slab",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "On a podium we usually choose the self-standing installation method, where the equipment sits on its own base frame without breaking the waterproofing. Rubber flooring over the slab gives a cushioned surface and protects the membrane underneath. Check the drainage points before the layout is fixed, because a play deck over a drain outlet makes cleaning hard. Keep swings and spinning pieces well away from parapets and planters."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Compact ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands.html"
+           },
+           "c": [
+            "Play Lands"
+           ]
+          },
+          " stations fit podium spaces well. For nearby sites, see ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-gurgaon.html"
+           },
+           "c": [
+            "playground equipment in Gurgaon"
+           ]
+          },
+          " and our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-faridabad.html"
+           },
+           "c": [
+            "outdoor gym equipment in Faridabad"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Faridabad",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,100 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Faridabad",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-faridabad.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can playground equipment be installed on a podium without drilling the slab?",
+       "a": "Yes. We use the self-standing method, so the equipment rests on its own base frame. Your structural consultant should still review the layout before installation begins."
+      },
+      {
+       "q": "Which surface do you suggest over a podium?",
+       "a": "Rubber flooring. It cushions falls, protects the waterproofing layer and lets water drain to the outlets. We can supply it along with the play equipment."
+      },
+      {
+       "q": "Do you supply housing societies across Faridabad?",
+       "a": "Yes. We supply societies, schools and parks across Faridabad and the rest of the NCR, delivering from Vasai by road and installing with our team or a dealer."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-haryana.html",
+    "aText": "Haryana",
+    "spanText": "Faridabad",
+    "h2Text": "Playground equipment suppliers near Faridabad",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-noida.html"
+        },
+        "c": [
+         "Playground equipment in Noida"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-khora-ghaziabad.html"
+        },
+        "c": [
+         "Playground equipment in Khora, Ghaziabad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gurgaon.html"
+        },
+        "c": [
+         "Playground equipment in Gurgaon"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ghaziabad.html"
+        },
+        "c": [
+         "Playground equipment in Ghaziabad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karawal-nagar.html"
+        },
+        "c": [
+         "Playground equipment in Karawal Nagar"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Faridabad? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-faridabad.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Faridabad"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-haryana.html"
+        },
+        "c": [
+         "See all cities we serve in Haryana"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Haryana",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-haryana.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Faridabad",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-faridabad.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Faridabad",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Faridabad",
+    "state": "Haryana"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Faridabad. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can playground equipment be installed on a podium without drilling the slab?",
+    "Yes. We use the self-standing method, so the equipment rests on its own base frame. Your structural consultant should still review the layout before installation begins."
+   ],
+   [
+    "Which surface do you suggest over a podium?",
+    "Rubber flooring. It cushions falls, protects the waterproofing layer and lets water drain to the outlets. We can supply it along with the play equipment."
+   ],
+   [
+    "Do you supply housing societies across Faridabad?",
+    "Yes. We supply societies, schools and parks across Faridabad and the rest of the NCR, delivering from Vasai by road and installing with our team or a dealer."
+   ]
+  ]
+ }
+}

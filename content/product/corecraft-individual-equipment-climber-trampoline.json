@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/trampoline.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Trampoline | CoreCraft | FunPlay Systems",
+  "description": "Trampoline (FFEO28) from the CoreCraft Climbers range: 15 kids at a time, safe play area 11' x 11'. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/trampoline.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Trampoline | CoreCraft | FunPlay Systems",
+   "og:description": "Trampoline (FFEO28) from the CoreCraft Climbers range: 15 kids at a time, safe play area 11' x 11'. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/trampoline.html",
+   "og:image": "https://funplaysystems.com/images/TRAMPOLINE-Climber-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Trampoline",
+ "data": {
+  "name": "Trampoline",
+  "sku": "FFEO28",
+  "colours": [
+   {
+    "name": "Mineral",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #99bebf 50%,\n                    #134d5b 50%\n                  );\n                ",
+    "images": [
+     "/images/TRAMPOLINE-Climber-Product-Image.jpg"
+    ],
+    "alts": [
+     "Trampoline in-ground round trampoline with dark teal surround"
+    ]
+   }
+  ],
+  "description": "Our Trampoline is a round bouncing mat set flush into the ground, with a wide dark teal surround. Because it sits at ground level there is no frame to climb onto, and children step straight on and off. Bouncing builds leg strength, rhythm and balance, and it is one of the few pieces that children of different ages enjoy together. The mat area is 5' x 5' and we recommend a safe play area of 11' x 11'. A compact trampoline like this adds variety to a society garden or school play area beside slides and climbers. It comes in the Mineral colour shade. Tell us about your ground and we will advise on placement in your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Trampoline"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/TRAMPOLINE-Climber-Product-Image.jpg",
+  "cardImage": "/images/TRAMPOLINE-Climber-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Trampoline"
+    ],
+    "pText": "FFEO28",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mineral",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #99bebf 50%,\n                    #134d5b 50%\n                  );\n                ",
+       "images": [
+        "/images/TRAMPOLINE-Climber-Product-Image.jpg"
+       ],
+       "alts": [
+        "Trampoline in-ground round trampoline with dark teal surround"
+       ]
+      }
+     ],
+     "name": "Trampoline"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Trampoline in-ground round trampoline with dark teal surround\"]",
+      "divDataImgs": "[\"/images/TRAMPOLINE-Climber-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #99bebf 50%, #134d5b 50% )"
+      },
+      "divText": "",
+      "spanText": "Mineral"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Trampoline"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Our Trampoline is a round bouncing mat set flush into the ground, with a wide dark teal surround. Because it sits at ground level there is no frame to climb onto, and children step straight on and off. Bouncing builds leg strength, rhythm and balance, and it is one of the few pieces that children of different ages enjoy together. The mat area is 5' x 5' and we recommend a safe play area of 11' x 11'. A compact trampoline like this adds variety to a society garden or school play area beside slides and climbers. It comes in the Mineral colour shade. Tell us about your ground and we will advise on placement in your layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The surround and mat are set into the ground, so the base work needs planning before installation. Ask us about the groundwork for your site. Keep the 11' x 11' zone clear of other equipment. Inspect the mat for wear and clear leaves and water from the edges, especially after heavy rain.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5' x 5'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "11' x 11'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Trampoline",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/trampoline.html"
+   ]
+  ],
+  "product": {
+   "name": "Trampoline",
+   "sku": "FFEO28",
+   "images": [
+    "/images/TRAMPOLINE-Climber-Product-Image.jpg"
+   ],
+   "description": "Our Trampoline is a round bouncing mat set flush into the ground, with a wide dark teal surround. Because it sits at ground level there is no frame to climb onto, and children step straight on and off. Bouncing builds leg strength, rhythm and balance, and it is one of the few pieces that children of different ages enjoy together. The mat area is 5' x 5' and we recommend a safe play area of 11' x 11'. A compact trampoline like this adds variety to a society garden or school play area beside slides and climbers. It comes in the Mineral colour shade. Tell us about your ground and we will advise on placement in your layout drawing.",
+   "category": "Trampoline",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Mineral"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "11' x 11'"
+    ],
+    [
+     "Colour options",
+     "Mineral"
+    ]
+   ]
+  }
+ }
+}

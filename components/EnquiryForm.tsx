@@ -51,7 +51,7 @@ export default function EnquiryForm({ idPrefix, source = "contact-popup" }: Prop
       </div>
       <div className="col-md-5 text-center text-md-end sm-mt-20px">
         <input type="hidden" name="source" value={source} />
-        <input type="text" name="website" tabIndex={-1} autoComplete="off" className="fp-hp" aria-hidden="true" />
+        <div className="fp-hp" aria-hidden="true"><input type="text" name="website" tabIndex={-1} autoComplete="off" aria-label="Leave this field empty" /></div>
         <button className="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge submit" type="submit">send message</button>
       </div>
       <div className="col-12">

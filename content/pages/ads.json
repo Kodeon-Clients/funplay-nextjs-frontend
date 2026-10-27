@@ -1,0 +1,594 @@
+{
+ "path": "/ads.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Campaign",
+  "description": "If you are looking for outdoor playground equipment manufacturer & supplier then you have came at right place.",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Transform Your Space Into a World of Play",
+ "data": {
+  "cardImage": "/images/homelp2.jpg"
+ },
+ "sections": [
+  {
+   "component": "HeroSection",
+   "props": {
+    "h1Text": [
+     "Transform Your",
+     {
+      "tag": "br"
+     },
+     " Space Into a World",
+     {
+      "tag": "br"
+     },
+     " of Play"
+    ],
+    "pText": [
+     "Award-winning playgrounds crafted for schools,",
+     {
+      "tag": "br"
+     },
+     " communities, and homes across India."
+    ],
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn",
+       "download": "",
+       "href": "/files/Funplay-Originals.pdf"
+      },
+      "c": [
+       "Download Catalogue"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn",
+       "href": "tel:+919028302266"
+      },
+      "c": [
+       "+91 902 830 2266"
+      ]
+     }
+    ],
+    "h2Text": "Enquire Now",
+    "items": [
+     {
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name",
+      "inputName2": "email",
+      "inputPlaceholder2": "Your email address*",
+      "inputType2": "email",
+      "inputAriaLabel2": "Your email address"
+     },
+     {
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputTitle": "Please enter a valid 10 digit phone number.",
+      "inputName2": "location",
+      "inputPlaceholder2": "Your location*",
+      "inputType2": "text",
+      "inputAriaLabel2": "Your location"
+     }
+    ],
+    "buttonText": "Send Message"
+   }
+  },
+  {
+   "component": "ClienteleSwiper",
+   "props": {
+    "h2Text": "Our Clients"
+   }
+  },
+  {
+   "component": "WhatOurClientsSay",
+   "props": {
+    "h2Text": "What Our Clients Say",
+    "h3Text": [
+     "Enjoyed by over ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "highlight"
+      },
+      "c": [
+       "25,000+"
+      ]
+     },
+     {
+      "tag": "br"
+     },
+     " happy customers are using our products."
+    ],
+    "h3Text2": "200+",
+    "pText": "Projects with innovative designs.",
+    "h3Text3": "4.9",
+    "spanText": "★★★★★",
+    "pText2": "Loved by many customers",
+    "items": [
+     {
+      "pText": "Funplay systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive.",
+      "imgSrc": "/images/clients/campaign-five.jpg",
+      "pText2": "Nayan Shah",
+      "smallText": "Damji Shamji Shah Group"
+     },
+     {
+      "pText": "Jaideep Construction have been using equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional.",
+      "imgSrc": "/images/clients/campaign-one.jpg",
+      "pText2": "Customer",
+      "smallText": " Jaideep Construction"
+     },
+     {
+      "pText": "Multi-activity design from funplay systems has been a huge hit. The children enjoy the spacious, well-designed play area, which has positively impacted their outdoor play.",
+      "imgSrc": "/images/clients/campaign-four.jpg",
+      "pText2": "Sanjay S. Deshmukh",
+      "smallText": " Urja Hospitality LLP"
+     },
+     {
+      "pText": "We prioritize adding top-quality amenities that enhance the value of our projects, and the playground equipment from funplay private ltd.",
+      "imgSrc": "/images/clients/campaign-three.jpg",
+      "pText2": "Customer",
+      "smallText": " Ridhi Sidhi Developers"
+     },
+     {
+      "pText": "We are always on the lookout for high-quality amenities that add value to our projects, and the playground equipment provided by funplay.",
+      "imgSrc": "/images/clients/campaign-six.jpg",
+      "pText2": "Customer",
+      "smallText": "Gami Group"
+     }
+    ]
+   }
+  },
+  {
+   "component": "WhyTrustFunplay",
+   "props": {
+    "h2Text": "Why Trust FunPlay?",
+    "items": [
+     {
+      "pathD": "M450-42v-75q-137-14-228-105T117-450H42v-60h75q14-137 105-228t228-105v-75h60v75q137 14 228 105t105 228h75v60h-75q-14 137-105 228T510-117v75h-60Zm30-134q125 0 214.5-89.5T784-480q0-125-89.5-214.5T480-784q-125 0-214.5 89.5T176-480q0 125 89.5 214.5T480-176Zm0-154q-63 0-106.5-43.5T330-480q0-63 43.5-106.5T480-630q63 0 106.5 43.5T630-480q0 63-43.5 106.5T480-330Zm0-60q38 0 64-26t26-64q0-38-26-64t-64-26q-38 0-64 26t-26 64q0 38 26 64t64 26Zm0-90Z",
+      "pText": "Red Dot Design Award"
+     },
+     {
+      "pathD": "M80-80v-481l280-119v80l200-81v121h320v480H80Zm60-60h680v-359.8H500V-592l-200 80v-79l-160 71v380Zm310-100h60v-160h-60v160Zm-160 0h60v-160h-60v160Zm320 0h60v-160h-60v160Zm270-320H700l40-320h100l40 320ZM140-140h680-680Z",
+      "pText": "45,000 sq. ft. Facility"
+     },
+     {
+      "pathD": "M480-481q-63 0-106.5-43.5T330-631q0-63 43.5-106.5T480-781q63 0 106.5 43.5T630-631q0 63-43.5 106.5T480-481ZM160-160v-94q0-35 18-63.5t50-42.5q60-27 123.18-43.5Q414.37-420 480-420q66 0 128.5 17T731-360q32 14 50.5 42.5T800-254v94H160Zm320-381q38 0 64-26t26-64q0-38-26-64t-64-26q-38 0-64 26t-26 64q0 38 26 64t64 26Zm160 208v113h100v-34q0-16.69-9-30.34Q722-298 707-306q-17-8-33.5-14.5T640-333Zm-260-17.44V-290h200v-60q-25-5-49.5-7.5T480-360q-26 0-50.5 2.5t-49.5 7.06ZM220-220h100v-114q-17 6-34 13t-34 15q-15 8-23.5 21.66Q220-270.69 220-254v34Zm420 0H320h320ZM480-631Z",
+      "pText": "150+ Skilled Employees"
+     },
+     {
+      "pathD": "M140-180v-480 480-21.75V-180Zm0 60q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h180v-100q0-23 18-41.5t42-18.5h200q24 0 42 18.5t18 41.5v100h180q24 0 42 18t18 42v225q-14-11-28.5-20T820-472v-188H140v480h334q4 16 10 31t14 29H140Zm240-600h200v-100H380v100ZM720-47q-79 0-136-57t-57-136q0-79 57-136t136-57q79 0 136 57t57 136q0 79-57 136T720-47Zm17-195v-124h-42v135.78L794-139l27-27-84-76Z",
+      "pText": "21+ Years of Expertise"
+     },
+     {
+      "pathD": "M520-590v-60h130v-190h60v190h130v60H520Zm130 470v-410h60v410h-60Zm-400 0v-180H120v-60h320v60H310v180h-60Zm0-300v-420h60v420h-60Z",
+      "pText": "Custom Designs For All"
+     },
+     {
+      "pathD": "M224.12-161q-49.12 0-83.62-34.42Q106-229.83 106-279H40v-461q0-24 18-42t42-18h579v167h105l136 181v173h-71q0 49.17-34.38 83.58Q780.24-161 731.12-161t-83.62-34.42Q613-229.83 613-279H342q0 49-34.38 83.5t-83.5 34.5Zm-.12-60q24 0 41-17t17-41q0-24-17-41t-41-17q-24 0-41 17t-17 41q0 24 17 41t41 17ZM100-339h22q17-27 43.04-43t58-16q31.96 0 58.46 16.5T325-339h294v-401H100v401Zm631 118q24 0 41-17t17-41q0-24-17-41t-41-17q-24 0-41 17t-17 41q0 24 17 41t41 17Zm-52-204h186L754-573h-75v148ZM360-529Z",
+      "pText": "Pan-India Delivery"
+     },
+     {
+      "pathD": "m436-347 228-228-42-41-183 183-101-101-44 44 142 143Zm44 266q-140-35-230-162.5T160-523v-238l320-120 320 120v238q0 152-90 279.5T480-81Zm0-62q115-38 187.5-143.5T740-523v-196l-260-98-260 98v196q0 131 72.5 236.5T480-143Zm0-337Z",
+      "pText": "ISO Certified Products"
+     },
+     {
+      "pathD": "M480-80q-140-35-230-162.5T160-522v-238l320-120 320 120v238q0 152-90 279.5T480-80Zm0-62q106-35 175.5-128.5T737-480H480v-335l-260 97v196q0 12 .5 20.5T223-480h257v338Z",
+      "pText": "Safety Compliant"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ExploreOurSignaturePlay",
+   "props": {
+    "h2Text": "Explore Our Signature Play Units",
+    "items": [
+     {
+      "divStyle": {
+       "backgroundImage": "url('/images/Toucan-1.jpg')"
+      },
+      "h3Text": "Toucan",
+      "pText": "Compact. Colorful. Stronger",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "#quote-form"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     },
+     {
+      "divStyle": {
+       "backgroundImage": "url('/images/Bellatrix-1.jpg')"
+      },
+      "h3Text": "Bellatrix",
+      "pText": "Towering fun for community parks.",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "#quote-form"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     },
+     {
+      "divStyle": {
+       "backgroundImage": "url('/images/paper-boat-198.jpg')"
+      },
+      "h3Text": "Paper Boat",
+      "pText": "Low-height playset for toddlers.",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "#quote-form"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     },
+     {
+      "divStyle": {
+       "backgroundImage": "url('/images/Ulta-Ghar1.jpg')"
+      },
+      "h3Text": "Ulta Ghar",
+      "pText": "Soft play system for indoors.",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "#quote-form"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     },
+     {
+      "divStyle": {
+       "backgroundImage": "url('/images/Phula-1.jpg')"
+      },
+      "h3Text": "Phula",
+      "pText": "Eco-themed outdoor structure.",
+      "divText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "#quote-form"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "DesignedForEveryKind",
+   "props": {
+    "h2Text": "Designed for Every Kind of Playground",
+    "pText": "Whether it’s a schoolyard or a city park, we create spaces where kids can thrive.",
+    "items": [
+     {
+      "imgAlt": "School Playground",
+      "imgHeight": "715",
+      "imgSrc": "/images/clients/school.jpeg",
+      "imgWidth": "1272",
+      "h3Text": "Schools & Daycares",
+      "pText": "Built to grow with every age group: safe, engaging, and ready for years of play.",
+      "aText": "Contact Us"
+     },
+     {
+      "imgAlt": "Residential Playground",
+      "imgSrc": "/images/clients/house.jpeg",
+      "h3Text": "Residential Societies",
+      "pText": "Bring neighbors together with fun, inclusive spaces right outside their doors.",
+      "aText": "Contact Us"
+     },
+     {
+      "imgAlt": "Landscaped public park with a FunPlay playground in the background",
+      "imgHeight": "425",
+      "imgSrc": "/images/clients/park.jpeg",
+      "imgWidth": "740",
+      "h3Text": "Public Parks",
+      "pText": "Smart, sustainable designs for cities that care about inclusive, active living.",
+      "aText": "Contact Us"
+     }
+    ]
+   }
+  },
+  {
+   "component": "HowWeCanHelp",
+   "props": {
+    "spanText": "Feel free to get in touch!",
+    "h3Text": "How we can help you?",
+    "items": [
+     {
+      "inputClass": "box-shadow-quadruple-large input-name form-control required",
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "email",
+      "inputPlaceholder": "Your email address*",
+      "inputType": "email",
+      "inputAriaLabel": "Your email address"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputRequired": true,
+      "inputTitle": "Please enter a valid 10 digit phone number only."
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "location",
+      "inputPlaceholder": "Your location*",
+      "inputType": "text",
+      "inputAriaLabel": "Your location"
+     }
+    ],
+    "items2": [
+     {
+      "selectName": "state",
+      "selectAriaLabel": "State",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Please select your state*"
+       },
+       {
+        "optionValue": "Andaman and Nicobar Islands",
+        "optionText": "Andaman and Nicobar Islands"
+       },
+       {
+        "optionValue": "Andhra Pradesh",
+        "optionText": "Andhra Pradesh"
+       },
+       {
+        "optionValue": "Arunachal Pradesh",
+        "optionText": "Arunachal Pradesh"
+       },
+       {
+        "optionValue": "Assam",
+        "optionText": "Assam"
+       },
+       {
+        "optionValue": "Bihar",
+        "optionText": "Bihar"
+       },
+       {
+        "optionValue": "Chandigarh",
+        "optionText": "Chandigarh"
+       },
+       {
+        "optionValue": "Chhattisgarh",
+        "optionText": "Chhattisgarh"
+       },
+       {
+        "optionValue": "Dadra and Nagar Haveli",
+        "optionText": "Dadra and Nagar Haveli"
+       },
+       {
+        "optionValue": "Daman and Diu",
+        "optionText": "Daman and Diu"
+       },
+       {
+        "optionValue": "Delhi",
+        "optionText": "Delhi"
+       },
+       {
+        "optionValue": "Goa",
+        "optionText": "Goa"
+       },
+       {
+        "optionValue": "Gujarat",
+        "optionText": "Gujarat"
+       },
+       {
+        "optionValue": "Haryana",
+        "optionText": "Haryana"
+       },
+       {
+        "optionValue": "Himachal Pradesh",
+        "optionText": "Himachal Pradesh"
+       },
+       {
+        "optionValue": "Jammu and Kashmir",
+        "optionText": "Jammu and Kashmir"
+       },
+       {
+        "optionValue": "Jharkhand",
+        "optionText": "Jharkhand"
+       },
+       {
+        "optionValue": "Karnataka",
+        "optionText": "Karnataka"
+       },
+       {
+        "optionValue": "Kerala",
+        "optionText": "Kerala"
+       },
+       {
+        "optionValue": "Ladakh",
+        "optionText": "Ladakh"
+       },
+       {
+        "optionValue": "Lakshadweep",
+        "optionText": "Lakshadweep"
+       },
+       {
+        "optionValue": "Madhya Pradesh",
+        "optionText": "Madhya Pradesh"
+       },
+       {
+        "optionValue": "Maharashtra",
+        "optionText": "Maharashtra"
+       },
+       {
+        "optionValue": "Manipur",
+        "optionText": "Manipur"
+       },
+       {
+        "optionValue": "Meghalaya",
+        "optionText": "Meghalaya"
+       },
+       {
+        "optionValue": "Mizoram",
+        "optionText": "Mizoram"
+       },
+       {
+        "optionValue": "Nagaland",
+        "optionText": "Nagaland"
+       },
+       {
+        "optionValue": "Odisha",
+        "optionText": "Odisha"
+       },
+       {
+        "optionValue": "Puducherry",
+        "optionText": "Puducherry"
+       },
+       {
+        "optionValue": "Punjab",
+        "optionText": "Punjab"
+       },
+       {
+        "optionValue": "Rajasthan",
+        "optionText": "Rajasthan"
+       },
+       {
+        "optionValue": "Sikkim",
+        "optionText": "Sikkim"
+       },
+       {
+        "optionValue": "Tamil Nadu",
+        "optionText": "Tamil Nadu"
+       },
+       {
+        "optionValue": "Telangana",
+        "optionText": "Telangana"
+       },
+       {
+        "optionValue": "Tripura",
+        "optionText": "Tripura"
+       },
+       {
+        "optionValue": "Uttar Pradesh",
+        "optionText": "Uttar Pradesh"
+       },
+       {
+        "optionValue": "Uttarakhand",
+        "optionText": "Uttarakhand"
+       },
+       {
+        "optionValue": "West Bengal",
+        "optionText": "West Bengal"
+       }
+      ]
+     },
+     {
+      "selectName": "customerType",
+      "selectAriaLabel": "Category",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Select your category"
+       },
+       {
+        "optionValue": "Architect",
+        "optionText": "Architect"
+       },
+       {
+        "optionValue": "Builder",
+        "optionText": "Builder"
+       },
+       {
+        "optionValue": "Clubs and Resort",
+        "optionText": "Clubs and Resort"
+       },
+       {
+        "optionValue": "Corporate",
+        "optionText": "Corporate"
+       },
+       {
+        "optionValue": "Dealer",
+        "optionText": "Dealer"
+       },
+       {
+        "optionValue": "Government",
+        "optionText": "Government"
+       },
+       {
+        "optionValue": "Hotels",
+        "optionText": "Hotels"
+       },
+       {
+        "optionValue": "Society",
+        "optionText": "Society"
+       },
+       {
+        "optionValue": "School",
+        "optionText": "School"
+       },
+       {
+        "optionValue": "Others",
+        "optionText": "Others"
+       }
+      ]
+     }
+    ],
+    "divText": "0 / 300",
+    "pText": "We are committed to protecting your privacy. We will never collect information about you without your explicit consent.",
+    "buttonText": "send message"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Transform Your Space Into a World of Play",
+    "https://funplaysystems.com/ads.html"
+   ]
+  ]
+ }
+}

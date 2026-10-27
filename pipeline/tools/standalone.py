@@ -1,9 +1,9 @@
 """The paid-ads landing pages (campaign, school, builders, generic) are self-contained documents with
 their own header, footer and CSS stack (Tailwind CDN + campaign.css or vendors.min.css, no theme
 style.css). Rendering them inside the site layout changes how they look, so each one is served as
-its own HTML document by a route handler (app/<page>.html/route.ts, via lib/standalone.ts).
+its own page in the (landing) route group, generated from these documents by tools/jsx/landing.py.
 
-This script turns the fixed source pages into site/content/standalone/<page>.html:
+This script turns the fixed source pages into tools/records/standalone/<page>.html:
 - CDN Tailwind -> /css/standalone-tw.css (compiled by scripts/build-landing-css.mjs, native layers kept)
 - Swiper self-hosted, AOS pinned; theme jQuery scripts dropped
 - forms post to /api/contact (honeypot + source tag); campaign.js replaced by /js/campaign-lp.js,
@@ -88,7 +88,7 @@ def build(name):
         h = h.replace("</body>", '  <script src="/js/standalone-forms.js" defer></script>\n</body>', 1)
     assert "contact-form.php" not in h and "tailwindcss/browser" not in h and "Tawk_API.toggle" not in h, name
     assert h.count("<h1") == 1, (name, h.count("<h1"))
-    out = os.path.join(SITE, "content", "standalone")
+    out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "records", "standalone")
     os.makedirs(out, exist_ok=True)
     open(os.path.join(out, name), "w", encoding="utf-8").write(h)
 
@@ -126,7 +126,16 @@ assert old in js
 js = js.replace(old, new)
 js = js.replace("const forms = document.querySelectorAll('.campaignForm');", "const forms = document.querySelectorAll('form[data-fp-standalone]');")
 prelude = """/* FunPlay landing pages (school, builders, generic). Original campaign.js with the form handler
-   posting to /api/contact (reCAPTCHA v3 when <html data-recaptcha> is set), plus Tawk/WhatsApp chat. */
+   posting to /api/contact (reCAPTCHA v3 when <html data-recaptcha> is set), plus Tawk/WhatsApp chat.
+   Loaded by next/script after the page is interactive, so DOMContentLoaded handlers run through fpReady. */
+function fpReady(fn) {
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fn);
+    else fn();
+}
+document.addEventListener('input', function (e) {
+    var el = e.target;
+    if (el && el.matches && el.matches('[data-fp-digits]')) el.value = el.value.replace(/[^0-9]/g, '');
+});
 function fpToken(action) {
     var key = document.documentElement.getAttribute('data-recaptcha');
     if (!key) return Promise.resolve(null);
@@ -144,6 +153,7 @@ document.addEventListener('click', function (e) {
     if (a && window.Tawk_API && typeof window.Tawk_API.toggle === 'function') { e.preventDefault(); window.Tawk_API.toggle(); }
 });
 """
+js = js.replace("document.addEventListener('DOMContentLoaded', ", "fpReady(")
 open(os.path.join(SITE, "public", "js", "campaign-lp.js"), "w", encoding="utf-8").write(prelude + js)
 nm = os.path.join(SITE, "node_modules", "swiper")
 shutil.copy(os.path.join(nm, "swiper-bundle.min.js"), os.path.join(SITE, "public", "js", "swiper-bundle.min.js"))

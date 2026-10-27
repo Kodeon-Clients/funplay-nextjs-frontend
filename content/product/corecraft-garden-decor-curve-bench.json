@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/curve-bench.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Curve Bench | CoreCraft | FunPlay Systems",
+  "description": "Curve Bench (FPGD008) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/curve-bench.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Curve Bench | CoreCraft | FunPlay Systems",
+   "og:description": "Curve Bench (FPGD008) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/curve-bench.html",
+   "og:image": "https://funplaysystems.com/images/curve-bench-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Curve Bench",
+ "data": {
+  "name": "Curve Bench",
+  "sku": "FPGD008",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/curve-bench-product-image.jpg"
+    ],
+    "alts": [
+     "Curve Bench curved wooden-slat outdoor bench on black steel legs"
+    ]
+   }
+  ],
+  "description": "The Curve Bench has a curved seat of wooden slats on black steel legs. The curve lets it follow the edge of a round lawn, a fountain or a circular play area, and people sitting on it face slightly towards each other, which suits conversation. It works well around a merry-go-round or a multi play station, where parents sit just outside the safe play area. Sand Beige is the listed colour for this CoreCraft garden decor bench. Ask us for its length, radius, seating capacity and warranty terms. We will confirm these with the quote, and several Curve Benches can be combined into a larger ring on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Curve Bench"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/curve-bench-product-image.jpg",
+  "cardImage": "/images/curve-bench-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Curve Bench"
+    ],
+    "pText": "FPGD008",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/curve-bench-product-image.jpg"
+       ],
+       "alts": [
+        "Curve Bench curved wooden-slat outdoor bench on black steel legs"
+       ]
+      }
+     ],
+     "name": "Curve Bench"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Curve Bench curved wooden-slat outdoor bench on black steel legs\"]",
+      "divDataImgs": "[\"/images/curve-bench-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Curve Bench"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Curve Bench has a curved seat of wooden slats on black steel legs. The curve lets it follow the edge of a round lawn, a fountain or a circular play area, and people sitting on it face slightly towards each other, which suits conversation. It works well around a merry-go-round or a multi play station, where parents sit just outside the safe play area. Sand Beige is the listed colour for this CoreCraft garden decor bench. Ask us for its length, radius, seating capacity and warranty terms. We will confirm these with the quote, and several Curve Benches can be combined into a larger ring on your layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Curve Bench legs are fixed self-standing on a paved base or grouted into soil. If you are placing several in a ring, we set them out on site against the layout drawing. Check the slat screws and leg bolts during maintenance and keep the gaps between slats clear."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Curve Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/curve-bench.html"
+   ]
+  ],
+  "product": {
+   "name": "Curve Bench",
+   "sku": "FPGD008",
+   "images": [
+    "/images/curve-bench-product-image.jpg"
+   ],
+   "description": "The Curve Bench has a curved seat of wooden slats on black steel legs. The curve lets it follow the edge of a round lawn, a fountain or a circular play area, and people sitting on it face slightly towards each other, which suits conversation. It works well around a merry-go-round or a multi play station, where parents sit just outside the safe play area. Sand Beige is the listed colour for this CoreCraft garden decor bench. Ask us for its length, radius, seating capacity and warranty terms. We will confirm these with the quote, and several Curve Benches can be combined into a larger ring on your layout drawing.",
+   "category": "Park Bench",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

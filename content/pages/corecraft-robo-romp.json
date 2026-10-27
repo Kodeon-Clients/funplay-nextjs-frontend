@@ -1,0 +1,233 @@
+{
+ "path": "/corecraft/robo-romp.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Robot Playground Equipment | Robo Romp | FunPlay",
+  "description": "Robo Romp robot-themed play towers by FunPlay with tube slides and climbing walls for ages 3–12. See models and get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/robo-romp.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Robot Playground Equipment | Robo Romp | FunPlay",
+   "og:description": "Robo Romp robot-themed play towers by FunPlay with tube slides and climbing walls for ages 3–12. See models and get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/robo-romp.html",
+   "og:image": "https://funplaysystems.com/images/Solo-Fight-5-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Robo Romp Robot-Themed Playground Equipment",
+ "data": {
+  "cardImage": "/images/Solo-Fight-5-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "RoboRompRobotThemedPlayground",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Futuristic play"
+      ]
+     }
+    ],
+    "h1Text": "Robo Romp Robot-Themed Playground Equipment"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Solo Fight 5 robot-themed tower with two tube slides and climbing wall",
+      "imgSrc": "/images/Solo-Fight-5-product-catalogue.jpg",
+      "aHref": "/corecraft/robo-romp/solo-fight-5.html",
+      "aText": " View Product ",
+      "spanText": "Solo Fight 5",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "16.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #283561 50%, #afbdd4 50%)"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #142e3b 50%, #43726e 50%)",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #e17128 50%, #87cadc 50%)",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Solo Fight 7 robot-themed tower with two spiral tube slides and ladder",
+      "imgSrc": "/images/Solo-Fight-7-product-catalogue.jpg",
+      "aHref": "/corecraft/robo-romp/solo-fight-7.html",
+      "aText": " View Product ",
+      "spanText": "Solo Fight 7",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "21.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #c62d27 50%, #b1bdd0 50%)"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #d96a25 50%, #326459 50%)",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #e0bb43 50%, #182647 50%)",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Dual Bot robot-themed play station in orange with two slides",
+      "imgSrc": "/images/Dual-Bot-product-catalogue.jpg",
+      "aHref": "/corecraft/robo-romp/dual-bot.html",
+      "aText": " View Product ",
+      "spanText": "Dual Bot",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "40.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #c62d27 50%, #70aecb 50%)"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #d96a25 50%, #326459 50%)",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #e0bb43 50%, #182647 50%)",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Triple Threat",
+    "spanText2": "5+ YEARS",
+    "spanText3": [
+     "67.2M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS",
+    "aText2": " View Product ",
+    "spanText5": "Robo Kingdom",
+    "spanText6": "5+ YEARS",
+    "spanText7": [
+     "119.2M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText8": "21 USERS"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Robo Romp Robot-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/robo-romp.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Dual Bot Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/dual-bot.html"
+   ],
+   [
+    "Robo Kingdom Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/robo-kingdom.html"
+   ],
+   [
+    "Solo Fight-5 Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html"
+   ],
+   [
+    "Solo Fight 7 Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/solo-fight-7.html"
+   ],
+   [
+    "Triple Threat Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/triple-threat.html"
+   ]
+  ]
+ }
+}

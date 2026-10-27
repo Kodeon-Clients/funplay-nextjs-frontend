@@ -1,0 +1,200 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/parallel-bar-double.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Parallel Bar Double",
+  "description": "Double parallel bar outdoor gym station from FunPlay's CoreCraft Fun Fitness range, for dips and body-weight exercises in parks and societies. Get a quote.",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Parallel Bar Double",
+ "data": {
+  "name": "Parallel Bar Double",
+  "sku": "FFE026D",
+  "colours": [
+   {
+    "name": "Ocean Grey",
+    "swatch": "background: linear-gradient(to right, #adbcbb 50%, #adbcbb 50%);",
+    "images": [
+     "/images/Parallel-Bar-Double-product-image.jpg"
+    ],
+    "alts": [
+     ""
+    ]
+   }
+  ],
+  "description": "The Parallel Bar Double is an Ocean Grey post with two sets of angled bars, one on each side, so two people can use it at once. Stronger users do dips, lifting and lowering the body between the bars. Others use the bars for supported leg raises, push-ups at an angle or simply to hold while stretching. With no moving parts, it is one of the easiest machines to look after in a park, college or society gym. It belongs to our Fun Fitness range. The product listing for this item has no subtitle, image description, dimensions or warranty line. We will confirm the Parallel Bar Double's warranty with your quote; our standard term for galvanised pipes is 3 years. Ask us to add it to your plan.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Parallel Bar Double"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Parallel-Bar-Double-product-image.jpg",
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Parallel Bar Double"
+    ],
+    "pText": "FFE026D",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Ocean Grey",
+       "swatch": "background: linear-gradient(to right, #adbcbb 50%, #adbcbb 50%);",
+       "images": [
+        "/images/Parallel-Bar-Double-product-image.jpg"
+       ],
+       "alts": [
+        ""
+       ]
+      }
+     ],
+     "name": "Parallel Bar Double"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"\"]",
+      "divDataImgs": "[\"/images/Parallel-Bar-Double-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #adbcbb 50%, #adbcbb 50%)"
+      },
+      "divText": "",
+      "spanText": "Ocean Grey"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Parallel Bar Double"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600 h3",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Parallel Bar Double is an Ocean Grey post with two sets of angled bars, one on each side, so two people can use it at once. Stronger users do dips, lifting and lowering the body between the bars. Others use the bars for supported leg raises, push-ups at an angle or simply to hold while stretching. With no moving parts, it is one of the easiest machines to look after in a park, college or society gym. It belongs to our Fun Fitness range. The product listing for this item has no subtitle, image description, dimensions or warranty line. We will confirm the Parallel Bar Double's warranty with your quote; our standard term for galvanised pipes is 3 years. Ask us to add it to your plan."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Dips put a user's full weight on the bars, so the central post is best grouted into a solid base. Lay rubber flooring under both sides where users step down. Maintenance is simple: check the bolts where the bars meet the post, and look for chipped coating that could let rust start."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Parallel Bar Double",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/parallel-bar-double.html"
+   ]
+  ],
+  "product": {
+   "name": "Parallel Bar Double",
+   "sku": "FFE026D",
+   "images": [
+    "/images/Parallel-Bar-Double-product-image.jpg"
+   ],
+   "description": "The Parallel Bar Double is an Ocean Grey post with two sets of angled bars, one on each side, so two people can use it at once. Stronger users do dips, lifting and lowering the body between the bars. Others use the bars for supported leg raises, push-ups at an angle or simply to hold while stretching. With no moving parts, it is one of the easiest machines to look after in a park, college or society gym. It belongs to our Fun Fitness range. The product listing for this item has no subtitle, image description, dimensions or warranty line. We will confirm the Parallel Bar Double's warranty with your quote; our standard term for galvanised pipes is 3 years. Ask us to add it to your plan.",
+   "category": "/corecraft/fun-fitness-equipment.html",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Ocean Grey"
+   ],
+   "specs": []
+  }
+ }
+}

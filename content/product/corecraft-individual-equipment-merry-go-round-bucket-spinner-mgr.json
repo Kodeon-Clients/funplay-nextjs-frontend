@@ -1,0 +1,390 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Bucket Spinner Merry-Go-Round | CoreCraft | FunPlay Systems",
+  "description": "Bucket Spinner Merry-Go-Round (FPSP01) from the CoreCraft Merry-Go-Rounds range: 1 kids at a time. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Bucket Spinner Merry-Go-Round | CoreCraft | FunPlay Systems",
+   "og:description": "Bucket Spinner Merry-Go-Round (FPSP01) from the CoreCraft Merry-Go-Rounds range: 1 kids at a time. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html",
+   "og:image": "https://funplaysystems.com/images/BUCKET-SPINNER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Bucket Spinner Merry-Go-Round",
+ "data": {
+  "name": "Bucket Spinner Merry-Go-Round",
+  "sku": "FPSP01",
+  "colours": [
+   {
+    "name": "Baby Blue",
+    "swatch": "background-color: #5497b1",
+    "images": [
+     "/images/BUCKET-SPINNER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Bucket Spinner MGR light blue bucket spinner seat on a red tilted post"
+    ]
+   }
+  ],
+  "description": "The Bucket Spinner is a single light blue bucket seat mounted on a red tilted post. A child sits inside the bucket and spins, and the tilt of the post makes each turn rise and dip a little. The deep seat holds the child securely, which is why it suits the 3 to 6 years Key User Group. Only one child rides at a time, so it works best as one of several small pieces in a nursery or society play corner rather than the main attraction. The seat comes in Baby Blue. Our standard warranty gives 3 years on galvanised pipes and roto-moulded parts and 1 year on bearings. Ask us where a Bucket Spinner would fit beside your existing equipment.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Bucket Spinner MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/BUCKET-SPINNER-Product-Image.jpg",
+  "cardImage": "/images/BUCKET-SPINNER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Bucket Spinner Merry-Go-Round"
+    ],
+    "pText": "FPSP01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Baby Blue",
+       "swatch": "background-color: #5497b1",
+       "images": [
+        "/images/BUCKET-SPINNER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Bucket Spinner MGR light blue bucket spinner seat on a red tilted post"
+       ]
+      }
+     ],
+     "name": "Bucket Spinner Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Bucket Spinner MGR light blue bucket spinner seat on a red tilted post\"]",
+      "divDataImgs": "[\"/images/BUCKET-SPINNER-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#5497b1"
+      },
+      "divText": "",
+      "spanText": "Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Bucket Spinner MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Bucket Spinner is a single light blue bucket seat mounted on a red tilted post. A child sits inside the bucket and spins, and the tilt of the post makes each turn rise and dip a little. The deep seat holds the child securely, which is why it suits the 3 to 6 years Key User Group. Only one child rides at a time, so it works best as one of several small pieces in a nursery or society play corner rather than the main attraction. The seat comes in Baby Blue. Our standard warranty gives 3 years on galvanised pipes and roto-moulded parts and 1 year on bearings. Ask us where a Bucket Spinner would fit beside your existing equipment."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The post is galvanised steel and the bucket seat is roto-moulded, so neither rusts in wet weather. Installation is self-standing or grouted. The spin depends on its bearing, so check at every maintenance visit that the seat turns smoothly. Leave clear space around it so a turning child cannot strike a nearby frame.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 to 6 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "1"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Bucket Spinner Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Bucket Spinner Merry-Go-Round",
+   "sku": "FPSP01",
+   "images": [
+    "/images/BUCKET-SPINNER-Product-Image.jpg"
+   ],
+   "description": "The Bucket Spinner is a single light blue bucket seat mounted on a red tilted post. A child sits inside the bucket and spins, and the tilt of the post makes each turn rise and dip a little. The deep seat holds the child securely, which is why it suits the 3 to 6 years Key User Group. Only one child rides at a time, so it works best as one of several small pieces in a nursery or society play corner rather than the main attraction. The seat comes in Baby Blue. Our standard warranty gives 3 years on galvanised pipes and roto-moulded parts and 1 year on bearings. Ask us where a Bucket Spinner would fit beside your existing equipment.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Baby Blue"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "1"
+    ],
+    [
+     "Colour options",
+     "Baby Blue"
+    ]
+   ]
+  }
+ }
+}

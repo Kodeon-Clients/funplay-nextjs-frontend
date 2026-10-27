@@ -1,0 +1,739 @@
+{
+ "path": "/funplay-originals/kagzi/paper-bird.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paper Bird Origami Play Structure | FunPlay Systems",
+  "description": "Paper Bird Origami Play Structure (FOK02), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi/paper-bird.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paper Bird Origami Play Structure | FunPlay Systems",
+   "og:description": "Paper Bird Origami Play Structure (FOK02), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi/paper-bird.html",
+   "og:image": "https://funplaysystems.com/images/Paper-Bird.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paper Bird Origami Play Structure",
+ "data": {
+  "name": "Paper Bird",
+  "sku": "FOK02",
+  "colours": [
+   {
+    "name": "Baby Blue",
+    "swatch": "\n                  background: conic-gradient(\n                    #499ccb 0% 33.33%,\n                    #235da0 33.33% 66.66%,\n                    #0c0c12 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Paper-Bird.jpg",
+     "/images/Paper-Bird-2.jpg",
+     "/images/Paper-Bird-3.jpg",
+     "/images/Paper-Bird-4.jpg"
+    ],
+    "alts": [
+     "Paper Bird origami bird-shaped climbing structure in baby blue with rope net",
+     "Side view of Paper Bird origami crane climber with rope net and stepping pods",
+     "Paper Bird blue paper-crane play structure with yellow stepping pods underneath",
+     "Rear view of Paper Bird origami bird climber in dark blue with rope net"
+    ]
+   }
+  ],
+  "description": "Paper Bird is an origami crane turned into a climbing structure, part of our Kagzi collection. The folded body is finished in Baby Blue, with a rope net to climb and yellow stepping pods underneath, and children can also hang from the frame and slide off it. It is made for ages 5 to 12, holds up to 15 children, and needs a safe play area of 17'5\" x 14' around a product area of 12'5\" x 9'. From a garden path it reads like a sculpture, which many society committees like. Play on it builds body strength, balance and cooperative play. The galvanised pipes, roto-moulded parts, composite laminates and play rope carry a 3-year warranty. Ask us where it would sit on your layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "kagzi",
+   "Paper Bird"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/kagzi.html",
+  "image": "/images/Paper-Bird.jpg",
+  "cardImage": "/images/Paper-Bird.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paper Bird ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Origami Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOK02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Baby Blue",
+       "swatch": "\n                  background: conic-gradient(\n                    #499ccb 0% 33.33%,\n                    #235da0 33.33% 66.66%,\n                    #0c0c12 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Paper-Bird.jpg",
+        "/images/Paper-Bird-2.jpg",
+        "/images/Paper-Bird-3.jpg",
+        "/images/Paper-Bird-4.jpg"
+       ],
+       "alts": [
+        "Paper Bird origami bird-shaped climbing structure in baby blue with rope net",
+        "Side view of Paper Bird origami crane climber with rope net and stepping pods",
+        "Paper Bird blue paper-crane play structure with yellow stepping pods underneath",
+        "Rear view of Paper Bird origami bird climber in dark blue with rope net"
+       ]
+      }
+     ],
+     "name": "Paper Bird"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paper Bird origami bird-shaped climbing structure in baby blue with rope net\", \"Side view of Paper Bird origami crane climber with rope net and stepping pods\", \"Paper Bird blue paper-crane play structure with yellow stepping pods underneath\", \"Rear view of Paper Bird origami bird climber in dark blue with rope net\"]",
+      "divDataImgs": "[\"/images/Paper-Bird.jpg\", \"/images/Paper-Bird-2.jpg\", \"/images/Paper-Bird-3.jpg\", \"/images/Paper-Bird-4.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #499ccb 0% 33.33%, #235da0 33.33% 66.66%, #0c0c12 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/kagzi.html"
+        },
+        "c": [
+         "kagzi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paper Bird"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paper Bird is an origami crane turned into a climbing structure, part of our Kagzi collection. The folded body is finished in Baby Blue, with a rope net to climb and yellow stepping pods underneath, and children can also hang from the frame and slide off it. It is made for ages 5 to 12, holds up to 15 children, and needs a safe play area of 17'5\" x 14' around a product area of 12'5\" x 9'. From a garden path it reads like a sculpture, which many society committees like. Play on it builds body strength, balance and cooperative play. The galvanised pipes, roto-moulded parts, composite laminates and play rope carry a 3-year warranty. Ask us where it would sit on your layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/kagzi/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Body Strength"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cooperative Play"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paper Bird climbing structure",
+    "imgSrc": "/images/Paper-Bird-Top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "378.46 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "274.32 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The crane shape is built on galvanised pipe with composite panels and a play rope net, so it stands up to rain and sun outdoors. It is fixed self-standing or grouted. Keep the 17'5\" x 14' zone clear of benches and lay rubber flooring under the net. Check rope tension and the stepping pods during routine maintenance.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Body Strength"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cooperative Play"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "12'5\" x 9'"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'5\" x 14'"
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "kagzi",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Paper Bird Origami Play Structure",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-bird.html"
+   ]
+  ],
+  "product": {
+   "name": "Paper Bird",
+   "sku": "FOK02",
+   "images": [
+    "/images/Paper-Bird.jpg",
+    "/images/Paper-Bird-2.jpg",
+    "/images/Paper-Bird-3.jpg",
+    "/images/Paper-Bird-4.jpg"
+   ],
+   "description": "Paper Bird is an origami crane turned into a climbing structure, part of our Kagzi collection. The folded body is finished in Baby Blue, with a rope net to climb and yellow stepping pods underneath, and children can also hang from the frame and slide off it. It is made for ages 5 to 12, holds up to 15 children, and needs a safe play area of 17'5\" x 14' around a product area of 12'5\" x 9'. From a garden path it reads like a sculpture, which many society committees like. Play on it builds body strength, balance and cooperative play. The galvanised pipes, roto-moulded parts, composite laminates and play rope carry a 3-year warranty. Ask us where it would sit on your layout.",
+   "category": "Origami Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/kagzi.html",
+   "colours": [
+    "Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "17'5\" x 14'"
+    ],
+    [
+     "Length",
+     "378.46 cm"
+    ],
+    [
+     "Width",
+     "274.32 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Hanging"
+    ],
+    [
+     "Skills developed",
+     "Body Strength Balancing Cooperative Play"
+    ],
+    [
+     "Colour options",
+     "Baby Blue"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "path": "/projects/nakshatravan.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Nakshatravan, Thane: Garden Playground Project | FunPlay",
+  "description": "See how FunPlay Systems added play equipment to Nakshatravan garden in Thane, with units chosen to sit well in a green, nature-themed setting. Project photos.",
+  "canonical": "https://funplaysystems.com/projects/nakshatravan.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": null,
+  "project": {
+   "title": "Nakshatravan",
+   "location": "THANE"
+  }
+ },
+ "sections": [
+  {
+   "component": "Nakshatravan",
+   "props": {
+    "h1Text": "Nakshatravan",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "THANE"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "Play equipment set into a nature-themed garden in Thane, so the play area feels part of the green space."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  }
+ ],
+ "h1": "Nakshatravan",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Nakshatravan",
+    "https://funplaysystems.com/projects/nakshatravan.html"
+   ]
+  ],
+  "project": {
+   "name": "Nakshatravan",
+   "location": "THANE"
+  }
+ }
+}

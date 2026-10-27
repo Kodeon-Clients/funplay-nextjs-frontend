@@ -1,0 +1,403 @@
+{
+ "path": "/corecraft/individual-equipment/climber/hopping-pod.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Hopping Pod Playground Climber | CoreCraft | FunPlay Systems",
+  "description": "Hopping Pod Playground Climber (FPCL18) from the CoreCraft Climbers range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/hopping-pod.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Hopping Pod Playground Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Hopping Pod Playground Climber (FPCL18) from the CoreCraft Climbers range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/hopping-pod.html",
+   "og:image": "https://funplaysystems.com/images/HOPPING POD-Climber-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Hopping Pod Playground Climber",
+ "data": {
+  "name": "Hopping Pod",
+  "sku": "FPCL18",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+    "images": [
+     "/images/HOPPING POD-Climber-Product-Image.jpg"
+    ],
+    "alts": [
+     "Hopping Pod set of colourful stepping pods on posts for hopping play"
+    ]
+   }
+  ],
+  "description": "Hopping Pod is a line of five round pods on single posts, stepping up and down in height along the row, in green, mustard, navy, yellow and red. Children step or hop from pod to pod, judging distance and height each time, which trains balance, leg strength and timing. The product area is only 7' x 1', with a safe play area of 12' x 6'. It fits along a path edge, beside a sandpit or between bigger pieces in a play area. Parents and teachers often turn it into a counting game, with each hop called out loud. Colour is listed as Multi Color. We give 3 years of warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to place it on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Hopping Pod"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/HOPPING POD-Climber-Product-Image.jpg",
+  "cardImage": "/images/HOPPING POD-Climber-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Hopping Pod ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Playground Climber"
+      ]
+     }
+    ],
+    "pText": "FPCL18",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+       "images": [
+        "/images/HOPPING POD-Climber-Product-Image.jpg"
+       ],
+       "alts": [
+        "Hopping Pod set of colourful stepping pods on posts for hopping play"
+       ]
+      }
+     ],
+     "name": "Hopping Pod"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Hopping Pod set of colourful stepping pods on posts for hopping play\"]",
+      "divDataImgs": "[\"/images/HOPPING POD-Climber-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Hopping Pod"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Hopping Pod is a line of five round pods on single posts, stepping up and down in height along the row, in green, mustard, navy, yellow and red. Children step or hop from pod to pod, judging distance and height each time, which trains balance, leg strength and timing. The product area is only 7' x 1', with a safe play area of 12' x 6'. It fits along a path edge, beside a sandpit or between bigger pieces in a play area. Parents and teachers often turn it into a counting game, with each hop called out loud. Colour is listed as Multi Color. We give 3 years of warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to place it on your layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Each pod sits on a single post grouted into the ground or fixed self-standing on a firm base. Pod tops get slippery when wet, so keep them clean and check the textured surface during maintenance. Lay rubber flooring between and around the pods, and keep the 12' x 6' zone clear of edges and kerbs.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "7' x 1'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "12' x 6'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Hopping Pod Playground Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/hopping-pod.html"
+   ]
+  ],
+  "product": {
+   "name": "Hopping Pod",
+   "sku": "FPCL18",
+   "images": [
+    "/images/HOPPING POD-Climber-Product-Image.jpg"
+   ],
+   "description": "Hopping Pod is a line of five round pods on single posts, stepping up and down in height along the row, in green, mustard, navy, yellow and red. Children step or hop from pod to pod, judging distance and height each time, which trains balance, leg strength and timing. The product area is only 7' x 1', with a safe play area of 12' x 6'. It fits along a path edge, beside a sandpit or between bigger pieces in a play area. Parents and teachers often turn it into a counting game, with each hop called out loud. Colour is listed as Multi Color. We give 3 years of warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to place it on your layout drawing.",
+   "category": "Playground Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "12' x 6'"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

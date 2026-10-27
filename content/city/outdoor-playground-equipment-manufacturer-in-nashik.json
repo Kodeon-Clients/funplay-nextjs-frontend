@@ -1,0 +1,447 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-nashik.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Nashik | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Nashik. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-nashik.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Nashik | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Nashik. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-nashik.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Nashik",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Nashik"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Nashik has grown fast along the Mumbai highway, with new housing on the city's edges and a wide spread of schools. It also draws a steady flow of pilgrims to the Godavari ghats and to Trimbakeshwar nearby. FunPlay Systems supplies outdoor playground equipment to all of these from our factory in Vasai, about 120 km away."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "That short distance helps. Our equipment reaches Nashik by road and is installed by our team or a dealer near you, using the self-standing or grouting method that suits the ground. We have been manufacturing play equipment since 2002, with design, roto-moulding and fabrication done in our own factory. Many Nashik projects begin with a phone call and a few photos of the site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Nashik's climate and what it means for equipment",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Nashik is milder than much of Maharashtra, but it still gets hot, dry summers and a strong monsoon from June to September. Galvanised posts and roto-moulded plastic handle both. Much of the ground around the city is hard and rocky, and we grout posts into concrete where digging is limited."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Winters are cool and pleasant, so outdoor play areas see good use for most of the year. Plan a raised, well-drained base for the rainy months."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Nashik's dry season also brings dust. A quick wash with water keeps slides smooth and the colours clear."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Housing projects and townships",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Builders on Gangapur Road, in Indira Nagar and around the city want a finished play area that buyers can see at the site visit. A single themed play station often works better than scattered pieces. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/castle-crest.html"
+           },
+           "c": [
+            "Castle Crest"
+           ]
+          },
+          " and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/forestia.html"
+           },
+           "c": [
+            "Forestia"
+           ]
+          },
+          " ranges give a strong look in a modest footprint."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "We worked on a project for Raymond in Thane, and the same process applies to a Nashik township: layout, approval, manufacture, dispatch and installation."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Schools, resorts and public gardens",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Nashik's many schools and colleges need equipment that takes heavy daily use. Resorts and farm stays in the vineyard belt around the city look for a play corner for visiting families. Gardens maintained by the Nashik Municipal Corporation need simple, durable pieces."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For open-air fitness equipment in the same space, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-nashik.html"
+           },
+           "c": [
+            "outdoor gym equipment in Nashik"
+           ]
+          },
+          "."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Temple trusts and dharamshalas around Nashik that set aside space for children can follow the same planning steps."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Choosing the right pieces",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "For children under six, low slides, spring riders and a small play station keep things simple. Children from six to twelve want climbing, balancing and faster slides. A ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/climber.html"
+           },
+           "c": [
+            "climber or climbing frame"
+           ]
+          },
+          " next to a swing set gives that group plenty to do."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "If your site serves both ages, keep the zones apart so younger children are not run into by older ones. Our layout drawing will show the safe play area for each zone."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Nashik",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 120 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Maharashtra",
+       "value": "Raymond, Thane",
+       "href": "/projects/raymond-thane.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Nashik",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-nashik.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "How far is your factory from Nashik?",
+       "a": "About 120 km. We make the equipment at our factory in Vasai East, send it to Nashik by road and install it with our own team or a local dealer."
+      },
+      {
+       "q": "Can you install on rocky ground?",
+       "a": "Yes. Where digging is difficult, we grout the posts into a concrete base or use the self-standing method. We decide after seeing site photos. Hard murum soil around the city often suits grouting."
+      },
+      {
+       "q": "Do you make themed play stations for townships?",
+       "a": "Yes. Our CoreCraft range includes castle, jungle, circus and robot themes, and we can customise designs and colours on request from more than 15 roto-moulded shades. The layout drawing shows how the chosen theme fits your space."
+      },
+      {
+       "q": "What warranty comes with the equipment?",
+       "a": "Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts, for manufacturing defects when installed and maintained as instructed."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html",
+    "aText": "Maharashtra",
+    "spanText": "Nashik",
+    "h2Text": "Playground equipment suppliers near Nashik",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-malegaon.html"
+        },
+        "c": [
+         "Playground equipment in Malegaon"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kalyan-dombivli.html"
+        },
+        "c": [
+         "Playground equipment in Kalyan Dombivli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhiwandi.html"
+        },
+        "c": [
+         "Playground equipment in Bhiwandi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ulhasnagar.html"
+        },
+        "c": [
+         "Playground equipment in Ulhasnagar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ambarnath.html"
+        },
+        "c": [
+         "Playground equipment in Ambarnath"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Nashik? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-nashik.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Nashik"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+        },
+        "c": [
+         "See all cities we serve in Maharashtra"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Maharashtra",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Nashik",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-nashik.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Nashik",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Nashik",
+    "state": "Maharashtra"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Nashik. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "How far is your factory from Nashik?",
+    "About 120 km. We make the equipment at our factory in Vasai East, send it to Nashik by road and install it with our own team or a local dealer."
+   ],
+   [
+    "Can you install on rocky ground?",
+    "Yes. Where digging is difficult, we grout the posts into a concrete base or use the self-standing method. We decide after seeing site photos. Hard murum soil around the city often suits grouting."
+   ],
+   [
+    "Do you make themed play stations for townships?",
+    "Yes. Our CoreCraft range includes castle, jungle, circus and robot themes, and we can customise designs and colours on request from more than 15 roto-moulded shades. The layout drawing shows how the chosen theme fits your space."
+   ],
+   [
+    "What warranty comes with the equipment?",
+    "Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts, for manufacturing defects when installed and maintained as instructed."
+   ]
+  ]
+ }
+}

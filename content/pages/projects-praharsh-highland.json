@@ -1,0 +1,132 @@
+{
+ "path": "/projects/praharsh-highland.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Praharsh Highland, Gujarat: Playground Project | FunPlay",
+  "description": "See the outdoor play area FunPlay Systems built for Praharsh Highland, a residential project in Gujarat. Photos of the installed playground equipment.",
+  "canonical": "https://funplaysystems.com/projects/praharsh-highland.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/GLORY-Img.jpg",
+  "project": {
+   "title": "Praharsh Highland",
+   "location": "GUJARAT"
+  }
+ },
+ "sections": [
+  {
+   "component": "PraharshHighland",
+   "props": {
+    "h1Text": "Praharsh Highland",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "GUJARAT"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "An outdoor play area for Praharsh Highland in Gujarat that residents can use every day."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "items": [
+     {
+      "imgAlt": "Glory twin tepee towers with net bridge, striped tube slide and red slides",
+      "imgSrc": "/images/GLORY-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/glory.html",
+      "aText": " View Product ",
+      "spanText": "Glory",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "108.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "45 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #d84032 0% 33.33%, #e9d7af 33.33% 66.66%, #3e110c 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Groovy rotating tepee net climber in red on a black round base",
+      "imgSrc": "/images/GROOVY-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/groovy.html",
+      "aText": " View Product ",
+      "spanText": "Groovy",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "2.4M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "8 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #1b1c1e 0% 33.33%, #3d110e 33.33% 66.66%, #fe3322 66.66% 100% )"
+      }
+     }
+    ],
+    "aText": " View Product ",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-inline-block text-dark-gray fs-19 fw-600"
+      },
+      "c": [
+       "Dumbo Rider"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Praharsh Highland",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Praharsh Highland",
+    "https://funplaysystems.com/projects/praharsh-highland.html"
+   ]
+  ],
+  "project": {
+   "name": "Praharsh Highland",
+   "location": "GUJARAT"
+  }
+ }
+}

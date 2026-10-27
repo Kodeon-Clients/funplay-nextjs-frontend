@@ -1,0 +1,398 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Laminate Standing Merry-Go-Round | CoreCraft | FunPlay",
+  "description": "Laminate Standing Merry-Go-Round (FPMGR05) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Laminate Standing Merry-Go-Round | CoreCraft | FunPlay",
+   "og:description": "Laminate Standing Merry-Go-Round (FPMGR05) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html",
+   "og:image": "https://funplaysystems.com/images/Laminate-MGR-Product-Photo.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Laminate Standing Merry-Go-Round",
+ "data": {
+  "name": "Laminate Standing Merry-Go-Round",
+  "sku": "FPMGR05",
+  "colours": [
+   {
+    "name": "Play Yellow & Knight Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f0eb2d 50%,\n                    #22386a 50%\n                  );\n                ",
+    "images": [
+     "/images/Laminate-MGR-Product-Photo.jpg"
+    ],
+    "alts": [
+     "Laminate Standing MGR yellow standing merry-go-round platform with central steering wheel"
+    ]
+   }
+  ],
+  "description": "Children ride the Laminate Standing Merry-Go-Round on their feet. They stand on a yellow platform and hold a central steering wheel while it turns, which takes more balance than a seated ride. It is designed for the 5 to 10 years Key User Group and carries four children at a time. The platform is 4' x 4' and the safe play area is 10' x 10'. Standing play gives older children a bit more challenge, so this suits a primary school or a park where the younger merry-go-rounds feel too tame. Colours are Play Yellow and Knight Blue. Composite laminates and galvanised pipes come with our 3-year warranty, and bearings with 1 year. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Laminate Standing MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/Laminate-MGR-Product-Photo.jpg",
+  "cardImage": "/images/Laminate-MGR-Product-Photo.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Laminate Standing Merry-Go-Round"
+    ],
+    "pText": "FPMGR05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Yellow & Knight Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f0eb2d 50%,\n                    #22386a 50%\n                  );\n                ",
+       "images": [
+        "/images/Laminate-MGR-Product-Photo.jpg"
+       ],
+       "alts": [
+        "Laminate Standing MGR yellow standing merry-go-round platform with central steering wheel"
+       ]
+      }
+     ],
+     "name": "Laminate Standing Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Laminate Standing MGR yellow standing merry-go-round platform with central steering wheel\"]",
+      "divDataImgs": "[\"/images/Laminate-MGR-Product-Photo.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #f0eb2d 50%, #22386a 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Yellow & Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Laminate Standing MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Children ride the Laminate Standing Merry-Go-Round on their feet. They stand on a yellow platform and hold a central steering wheel while it turns, which takes more balance than a seated ride. It is designed for the 5 to 10 years Key User Group and carries four children at a time. The platform is 4' x 4' and the safe play area is 10' x 10'. Standing play gives older children a bit more challenge, so this suits a primary school or a park where the younger merry-go-rounds feel too tame. Colours are Play Yellow and Knight Blue. Composite laminates and galvanised pipes come with our 3-year warranty, and bearings with 1 year. Ask us for a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The standing deck is composite laminate on a galvanised steel frame, which resists moisture and corrosion. We install it self-standing or grouted. Keep the 10' x 10' area clear and use an impact-absorbing surface, since children may step off while it is still turning. Check the steering wheel and bearing during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 to 10 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4' x 4'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10' x 10'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Laminate Standing Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Laminate Standing Merry-Go-Round",
+   "sku": "FPMGR05",
+   "images": [
+    "/images/Laminate-MGR-Product-Photo.jpg"
+   ],
+   "description": "Children ride the Laminate Standing Merry-Go-Round on their feet. They stand on a yellow platform and hold a central steering wheel while it turns, which takes more balance than a seated ride. It is designed for the 5 to 10 years Key User Group and carries four children at a time. The platform is 4' x 4' and the safe play area is 10' x 10'. Standing play gives older children a bit more challenge, so this suits a primary school or a park where the younger merry-go-rounds feel too tame. Colours are Play Yellow and Knight Blue. Composite laminates and galvanised pipes come with our 3-year warranty, and bearings with 1 year. Ask us for a quote.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Play Yellow & Knight Blue"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "10' x 10'"
+    ],
+    [
+     "Colour options",
+     "Play Yellow & Knight Blue"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,417 @@
+{
+ "path": "/corecraft/individual-equipment/swing/giraffe-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Giraffe Swing | CoreCraft | FunPlay Systems",
+  "description": "Giraffe Swing (FPSW08) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/swing/giraffe-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Giraffe Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Giraffe Swing (FPSW08) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/swing/giraffe-swing.html",
+   "og:image": "https://funplaysystems.com/images/GIRRAFE-SWING-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Giraffe Swing",
+ "data": {
+  "name": "Giraffe Swing",
+  "sku": "FPSW08",
+  "colours": [
+   {
+    "name": "Horizon Teal",
+    "swatch": "background-color: #99bebf;",
+    "images": [
+     "/images/GIRRAFE-SWING-Product-Image.jpg"
+    ],
+    "alts": [
+     "Giraffe Swing curved teal swing frame with orange round nest seat"
+    ]
+   }
+  ],
+  "description": "A tall curved teal frame shaped like a giraffe holds a single orange nest seat on the Giraffe Swing. The round nest seat lets a small child sit or lie in it, and it swings in a gentle arc. It is meant for the 3 to 6 years Key User Group and carries one child. The frame takes up 9'7\" x 9'8\" and needs a safe play area of 11'7\" x 15'7\". The giraffe shape makes it a strong theme piece for a nursery, play school or society toddler zone. The colour is Horizon Teal. The warranty runs 3 years on the galvanised frame and roto-moulded seat, and 1 year on bearings. Ask us to place it on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Swing",
+   "Giraffe Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/swing.html",
+  "image": "/images/GIRRAFE-SWING-Product-Image.jpg",
+  "cardImage": "/images/GIRRAFE-SWING-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Giraffe Swing"
+    ],
+    "pText": "FPSW08",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Horizon Teal",
+       "swatch": "background-color: #99bebf;",
+       "images": [
+        "/images/GIRRAFE-SWING-Product-Image.jpg"
+       ],
+       "alts": [
+        "Giraffe Swing curved teal swing frame with orange round nest seat"
+       ]
+      }
+     ],
+     "name": "Giraffe Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Giraffe Swing curved teal swing frame with orange round nest seat\"]",
+      "divDataImgs": "[\"/images/GIRRAFE-SWING-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#99bebf"
+      },
+      "divText": "",
+      "spanText": "Horizon Teal"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/swing.html"
+        },
+        "c": [
+         "Swing"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Giraffe Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "A tall curved teal frame shaped like a giraffe holds a single orange nest seat on the Giraffe Swing. The round nest seat lets a small child sit or lie in it, and it swings in a gentle arc. It is meant for the 3 to 6 years Key User Group and carries one child. The frame takes up 9'7\" x 9'8\" and needs a safe play area of 11'7\" x 15'7\". The giraffe shape makes it a strong theme piece for a nursery, play school or society toddler zone. The colour is Horizon Teal. The warranty runs 3 years on the galvanised frame and roto-moulded seat, and 1 year on bearings. Ask us to place it on your layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications4",
+   "props": {
+    "pText": "The giraffe frame is galvanised pipe and the nest seat hangs from a bearing at the top. Fixing is by grouting or a self-standing base. Nest seats can swing in more than one direction, so keep the whole 11'7\" x 15'7\" area clear and check ropes or chains, the seat and the bearing regularly.",
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 6 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "1"
+     }
+    ],
+    "items2": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 9'7\" x 9'8\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 11'7\" x 15'7\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+   ],
+   [
+    "Giraffe Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/giraffe-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Giraffe Swing",
+   "sku": "FPSW08",
+   "images": [
+    "/images/GIRRAFE-SWING-Product-Image.jpg"
+   ],
+   "description": "A tall curved teal frame shaped like a giraffe holds a single orange nest seat on the Giraffe Swing. The round nest seat lets a small child sit or lie in it, and it swings in a gentle arc. It is meant for the 3 to 6 years Key User Group and carries one child. The frame takes up 9'7\" x 9'8\" and needs a safe play area of 11'7\" x 15'7\". The giraffe shape makes it a strong theme piece for a nursery, play school or society toddler zone. The colour is Horizon Teal. The warranty runs 3 years on the galvanised frame and roto-moulded seat, and 1 year on bearings. Ask us to place it on your layout drawing.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/swing.html",
+   "colours": [
+    "Horizon Teal"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 6 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "1"
+    ],
+    [
+     "Safe play area",
+     "Diameter 11'7\" x 15'7\""
+    ],
+    [
+     "Colour options",
+     "Horizon Teal"
+    ]
+   ]
+  }
+ }
+}

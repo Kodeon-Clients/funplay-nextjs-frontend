@@ -1,0 +1,4 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+.fp-local-links a{color:#d64045;text-decoration:underline}
+}

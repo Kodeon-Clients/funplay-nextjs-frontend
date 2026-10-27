@@ -1,0 +1,120 @@
+{
+ "path": "/projects/ratnakar-aravali.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Ratnakar Aravali, Gujarat: Playground Project | FunPlay",
+  "description": "Photos of the playground FunPlay Systems supplied and installed at Ratnakar Aravali in Gujarat: outdoor play equipment for a residential community.",
+  "canonical": "https://funplaysystems.com/projects/ratnakar-aravali.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/PRIME-Img.jpg",
+  "project": {
+   "title": "Ratnakar Aravali",
+   "location": "GUJARAT"
+  }
+ },
+ "sections": [
+  {
+   "component": "RatnakarAravali",
+   "props": {
+    "h1Text": "Ratnakar Aravali",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "GUJARAT"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A family play space for the Ratnakar Aravali residential project in Gujarat."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "items": [
+     {
+      "imgAlt": "Prime twin tepee towers with net bridge and green slides",
+      "imgSrc": "/images/PRIME-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/prime.html",
+      "aText": " View Product ",
+      "spanText": "Prime",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "89.7M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "55 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #509544 50%, #40150f 50% )"
+      }
+     },
+     {
+      "imgAlt": "Crestro four-seat see saw in lemon green",
+      "imgSrc": "/images/CRESTRO-Img.jpg",
+      "aHref": "/nexlev-series/pinnacle/crestro.html",
+      "aText": " View Product ",
+      "spanText": "Crestro",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "2.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "04 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #a1e230 50%, #151412 50% )"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Ratnakar Aravali",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Ratnakar Aravali",
+    "https://funplaysystems.com/projects/ratnakar-aravali.html"
+   ]
+  ],
+  "project": {
+   "name": "Ratnakar Aravali",
+   "location": "GUJARAT"
+  }
+ }
+}

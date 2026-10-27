@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/crest-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Crest Climber | CoreCraft | FunPlay Systems",
+  "description": "Crest Climber (FPCL06) from the CoreCraft Climbers range: 15 kids at a time, safe play area 15'10\" x 7'8\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/crest-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Crest Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Crest Climber (FPCL06) from the CoreCraft Climbers range: 15 kids at a time, safe play area 15'10\" x 7'8\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/crest-climber.html",
+   "og:image": "https://funplaysystems.com/images/Crest-Loop-Climber-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Crest Climber",
+ "data": {
+  "name": "Crest Climber",
+  "sku": "FPCL06",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Crest-Loop-Climber-Product-Image.jpg"
+    ],
+    "alts": [
+     "Crest Climber red and yellow overhead ladder climber with side ladders"
+    ]
+   }
+  ],
+  "description": "The Crest Climber is an overhead ladder with an upright ladder at each end, finished in Play Red and Play Yellow. Children climb up one side, swing hand over hand along the rungs and climb down the other, or simply hang and drop. Moving along the bars builds grip, arm and shoulder strength, so it suits children who can already hold their own weight. Its 10'10\" x 4'8\" footprint is compact, and the safe play area is 15'10\" x 7'8\". Our Droopy Climber offers the same kind of play in Horizon Teal with a bird figure on top. On the Crest Climber, galvanised pipe, roto-moulded parts, composite laminates and play rope come with 3 years of warranty. Send us your site details for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Crest Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/Crest-Loop-Climber-Product-Image.jpg",
+  "cardImage": "/images/Crest-Loop-Climber-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Crest Climber"
+    ],
+    "pText": "FPCL06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Crest-Loop-Climber-Product-Image.jpg"
+       ],
+       "alts": [
+        "Crest Climber red and yellow overhead ladder climber with side ladders"
+       ]
+      }
+     ],
+     "name": "Crest Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Crest Climber red and yellow overhead ladder climber with side ladders\"]",
+      "divDataImgs": "[\"/images/Crest-Loop-Climber-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #bb1e10 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Crest Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Crest Climber is an overhead ladder with an upright ladder at each end, finished in Play Red and Play Yellow. Children climb up one side, swing hand over hand along the rungs and climb down the other, or simply hang and drop. Moving along the bars builds grip, arm and shoulder strength, so it suits children who can already hold their own weight. Its 10'10\" x 4'8\" footprint is compact, and the safe play area is 15'10\" x 7'8\". Our Droopy Climber offers the same kind of play in Horizon Teal with a bird figure on top. On the Crest Climber, galvanised pipe, roto-moulded parts, composite laminates and play rope come with 3 years of warranty. Send us your site details for a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Both ladders and the overhead frame are galvanised pipe, grouted or installed self-standing as your ground allows. Children drop from the bars, so the surface underneath matters most. Lay rubber flooring under the full length, keep the 15'10\" x 7'8\" zone clear and check the rungs for loose joints at each service.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10'10\" x 4'8\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15'10\" x 7'8\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Crest Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/crest-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Crest Climber",
+   "sku": "FPCL06",
+   "images": [
+    "/images/Crest-Loop-Climber-Product-Image.jpg"
+   ],
+   "description": "The Crest Climber is an overhead ladder with an upright ladder at each end, finished in Play Red and Play Yellow. Children climb up one side, swing hand over hand along the rungs and climb down the other, or simply hang and drop. Moving along the bars builds grip, arm and shoulder strength, so it suits children who can already hold their own weight. Its 10'10\" x 4'8\" footprint is compact, and the safe play area is 15'10\" x 7'8\". Our Droopy Climber offers the same kind of play in Horizon Teal with a bird figure on top. On the Crest Climber, galvanised pipe, roto-moulded parts, composite laminates and play rope come with 3 years of warranty. Send us your site details for a quote.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "15'10\" x 7'8\""
+    ],
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

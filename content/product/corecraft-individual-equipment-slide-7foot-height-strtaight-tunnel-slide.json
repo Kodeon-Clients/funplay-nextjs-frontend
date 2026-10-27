@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Strtaight Tunnel Slide (7 ft) | CoreCraft | FunPlay Systems",
+  "description": "Strtaight Tunnel Slide (7 ft) (FPRS25) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Strtaight Tunnel Slide (7 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Strtaight Tunnel Slide (7 ft) (FPRS25) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-3-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Strtaight Tunnel Slide (7 ft)",
+ "data": {
+  "name": "Strtaight Tunnel Slide",
+  "sku": "FPRS25",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Slides-3-5foot.jpg"
+    ],
+    "alts": [
+     "Straight Tunnel Slide red and yellow straight tunnel slide on a steel tower"
+    ]
+   }
+  ],
+  "description": "The 7 ft Straight Tunnel Slide sends children down a straight red and yellow tube from a steel tower. It is the tallest straight tunnel in our range, so the ride is quick and direct. The closed tube suits schools and parks with older children who want a tunnel slide but do not need the turns of a spiral. A straight tunnel is also easier to line up along the edge of a play area. From outside, supervisors see the tower and exit but not the child inside, so position it where an adult can watch both ends. Our warranty gives 3 years on the galvanised tower and moulded tunnel. Send us your site plan for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-7foot-height",
+   "Strtaight Tunnel Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+  "image": "/images/Slides-3-5foot.jpg",
+  "cardImage": "/images/Slides-3-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Strtaight Tunnel Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(7 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS25",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Slides-3-5foot.jpg"
+       ],
+       "alts": [
+        "Straight Tunnel Slide red and yellow straight tunnel slide on a steel tower"
+       ]
+      }
+     ],
+     "name": "Strtaight Tunnel Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Straight Tunnel Slide red and yellow straight tunnel slide on a steel tower\"]",
+      "divDataImgs": "[\"/images/Slides-3-5foot.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e20e35 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-7foot-height.html"
+        },
+        "c": [
+         "Slide-7foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Strtaight Tunnel Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The 7 ft Straight Tunnel Slide sends children down a straight red and yellow tube from a steel tower. It is the tallest straight tunnel in our range, so the ride is quick and direct. The closed tube suits schools and parks with older children who want a tunnel slide but do not need the turns of a spiral. A straight tunnel is also easier to line up along the edge of a play area. From outside, supervisors see the tower and exit but not the child inside, so position it where an adult can watch both ends. Our warranty gives 3 years on the galvanised tower and moulded tunnel. Send us your site plan for a quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The tower is galvanised steel, and the tunnel is built from weather-proof moulded sections. It goes in self-standing or grouted, depending on your site. Lay rubber flooring at the exit, keep the tube clear of leaves and water, and check the section joints and tower steps at every maintenance visit."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-7foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html"
+   ],
+   [
+    "Strtaight Tunnel Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Strtaight Tunnel Slide",
+   "sku": "FPRS25",
+   "images": [
+    "/images/Slides-3-5foot.jpg"
+   ],
+   "description": "The 7 ft Straight Tunnel Slide sends children down a straight red and yellow tube from a steel tower. It is the tallest straight tunnel in our range, so the ride is quick and direct. The closed tube suits schools and parks with older children who want a tunnel slide but do not need the turns of a spiral. A straight tunnel is also easier to line up along the edge of a play area. From outside, supervisors see the tower and exit but not the child inside, so position it where an adult can watch both ends. Our warranty gives 3 years on the galvanised tower and moulded tunnel. Send us your site plan for a quote.",
+   "category": "7 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

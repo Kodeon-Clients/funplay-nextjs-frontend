@@ -1,0 +1,207 @@
+{
+ "path": "/blog/growing-need-for-inclusive-playgrounds-in-indian-communities.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Inclusive Playgrounds in India: Why They Matter | FunPlay",
+  "description": "Why Indian communities need inclusive playgrounds and how to design play spaces that children of all abilities can use.",
+  "canonical": "https://funplaysystems.com/blog/growing-need-for-inclusive-playgrounds-in-indian-communities.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "Inclusive Playgrounds in India: Why They Matter | FunPlay",
+   "og:description": "Why Indian communities need inclusive playgrounds and how to design play spaces that children of all abilities can use.",
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/growing-need-for-inclusive-playgrounds-in-indian-communities.html",
+   "og:image": "https://funplaysystems.com/images/outdoor-learning.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Inclusive Playgrounds in India: Why They Matter | FunPlay",
+   "twitter:description": "Why Indian communities need inclusive playgrounds and how to design play spaces that children of all abilities can use.",
+   "twitter:image": "https://funplaysystems.com/images/g2.jpg"
+  }
+ },
+ "h1": "The Growing Need for Inclusive Playgrounds in Indian Communities",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/blog-14-cover.jpg')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "07 August 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Inclusive Design & Community Development"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "The Growing Need for Inclusive Playgrounds in Indian Communities",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent4",
+   "props": {
+    "article": {
+     "slug": "growing-need-for-inclusive-playgrounds-in-indian-communities"
+    },
+    "items": [
+     {
+      "summaryText": "Q1: What is an inclusive playground?",
+      "pText": "An inclusive playground is a play space where children of all abilities, including those with disabilities, can play together safely and comfortably."
+     },
+     {
+      "summaryText": "Q2: Why are inclusive playgrounds important?",
+      "pText": "They ensure every child has the right to play, learn, and make friends, regardless of their abilities, and help build empathy and a sense of belonging."
+     },
+     {
+      "summaryText": "Q3: What features make a playground inclusive?",
+      "pText": "Features like ramps, wide pathways, sensory play panels, accessible swings, and soft flooring make playgrounds usable for children with different needs."
+     },
+     {
+      "summaryText": "Q4: Are inclusive playgrounds expensive to build?",
+      "pText": "Not necessarily. Many inclusive features can be added using smart design and local materials, making them affordable for most communities."
+     },
+     {
+      "summaryText": "Q5: How can I help bring an inclusive playground to my area?",
+      "pText": "You can raise awareness, talk to local authorities, join community groups, and share the needs of children in your area to encourage the creation of inclusive play spaces."
+     }
+    ],
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "inclusive playgrounds india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "playgrounds for children with disabilities"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "accessible play areas india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "child friendly inclusive spaces"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "special needs playground design"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "The Growing Need for Inclusive Playgrounds in Indian Communities",
+    "https://funplaysystems.com/blog/growing-need-for-inclusive-playgrounds-in-indian-communities.html"
+   ]
+  ],
+  "article": {
+   "headline": "The Growing Need for Inclusive Playgrounds in Indian Communities",
+   "description": "Why Indian communities need inclusive playgrounds and how to design play spaces that children of all abilities can use.",
+   "image": "https://funplaysystems.com/images/outdoor-learning.JPG",
+   "datePublished": "2025-08-07",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

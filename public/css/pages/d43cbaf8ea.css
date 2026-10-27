@@ -1,0 +1,44 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+.thank-you-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            background-color: #f7f7f7;
+        }
+
+        .thank-you-message {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .thank-you-title {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .thank-you-text {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .thank-you-button {
+            text-decoration: none;
+            color: #fff;
+            background-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .thank-you-button:hover {
+            background-color: #0056b3;
+            color: #ffffff;
+        }
+}

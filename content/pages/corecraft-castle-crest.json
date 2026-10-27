@@ -1,0 +1,247 @@
+{
+ "path": "/corecraft/castle-crest.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Castle Playground Equipment | Castle Crest | FunPlay",
+  "description": "Castle Crest castle-themed multi play stations by FunPlay: towers, slides and climbers for ages 3–12. Made in India. See models and get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/castle-crest.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Castle Playground Equipment | Castle Crest | FunPlay",
+   "og:description": "Castle Crest castle-themed multi play stations by FunPlay: towers, slides and climbers for ages 3–12. Made in India. See models and get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/castle-crest.html",
+   "og:image": "https://funplaysystems.com/images/Crown-Court-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Castle Crest Castle-Themed Playground Equipment",
+ "data": {
+  "cardImage": "/images/Crown-Court-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CastleCrestCastleThemedPlayground",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Royal Playtime"
+      ]
+     }
+    ],
+    "h1Text": "Castle Crest Castle-Themed Playground Equipment"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Crown Court castle play station in knight blue with spire canopy and slide",
+      "imgSrc": "/images/Crown-Court-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/crown-court-3.html",
+      "aText": " View Product ",
+      "spanText": "Crown Court 3",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "10.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #24333c 50%, #4b879a 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crown Court 7 castle play station with spiral slide, swing and climbing wall",
+      "imgSrc": "/images/Crown-Court-7-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/crown-court-7.html",
+      "aText": " View Product ",
+      "spanText": "Crown Court 7",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "22.7M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #ce601f 50%, #85c4d4 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fortress Fun castle playground with tube slide, twin towers and climbing wall",
+      "imgSrc": "/images/fortress-fun-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/fortress-fun.html",
+      "aText": " View Product ",
+      "spanText": "Fortress Fun",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "59.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #bb0e0e 50%, #79c4d9 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #212c55 50%, #7bc4d9 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #c98c0f 50%, #3a6e69 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Noble Nook castle playground with twin towers, net bridge and swings",
+      "imgSrc": "/images/NobleNook-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/noble-nook.html",
+      "aText": " View Product ",
+      "spanText": "Noble Nook",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "78.3M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #212a59 50%, #d4cb00 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #da6612 50%, #b4c1db 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #26374c 50%, #bba78c 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Royal Rise castle playground in pink and sky blue with towers and slides",
+      "imgSrc": "/images/Royal-Rise-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/royal-rise.html",
+      "aText": " View Product ",
+      "spanText": "Royal Rise",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "159.3M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #d7233a 50%, #80bad7 50% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Castle Crest Castle-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Crown Court 3 Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/crown-court-3.html"
+   ],
+   [
+    "Crown Court 7 Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/crown-court-7.html"
+   ],
+   [
+    "Fortress Fun Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/fortress-fun.html"
+   ],
+   [
+    "Noble Nook Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/noble-nook.html"
+   ],
+   [
+    "Royal Rise Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/royal-rise.html"
+   ]
+  ]
+ }
+}

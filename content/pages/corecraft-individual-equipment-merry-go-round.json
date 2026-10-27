@@ -1,0 +1,323 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Merry-Go-Rounds for Playgrounds | FunPlay Systems",
+  "description": "Playground merry-go-rounds by FunPlay: animal, horse, four-seater, standing and roto models for parks and schools. Made in India.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Merry-Go-Rounds for Playgrounds | FunPlay Systems",
+   "og:description": "Playground merry-go-rounds by FunPlay: animal, horse, four-seater, standing and roto models for parks and schools. Made in India.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html",
+   "og:image": "https://funplaysystems.com/images/roto-platform-mgr-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Playground Merry-Go-Rounds",
+ "data": {
+  "cardImage": "/images/roto-platform-mgr-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "PlaygroundMerryGoRounds",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Classic carousel"
+      ]
+     }
+    ],
+    "h1Text": "Playground Merry-Go-Rounds"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Roto platform merry-go-round in green with yellow hand rails",
+        "imgSrc": "/images/roto-platform-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Roto Platform MGR",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "1.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "10 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #62a292 50%, #ebdc4d 50% )"
+        }
+       },
+       {
+        "imgAlt": "Roto Wheel Go Round merry-go-round with pink and blue seats",
+        "imgSrc": "/images/Roto-Wheel-Go-Round-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html",
+        "aText": " View Product ",
+        "spanText": "Roto Wheel Go Round",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "1.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "4 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #424f7b 0% 33.33%, #db1b44 33.33% 66.66%, #c2e7ef 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Roto seating merry-go-round with yellow seat and canopy frame",
+        "imgSrc": "/images/roto-seating-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Roto Seating MGR",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "1.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "3 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #1f3463 0% 33.33%, #ead16d 33.33% 66.66%, #c2e7ef 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Four-seater merry-go-round with red and yellow seats",
+        "imgSrc": "/images/four-seater-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html",
+        "aText": " View Product ",
+        "spanText": "4 Seater MGR",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "Diameter 6'5\""
+        ],
+        "spanText4": "4 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d3da12 0% 33.33%, #d11337 33.33% 66.66%, #93bbbb 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Laminate standing merry-go-round in yellow with steering wheel",
+        "imgSrc": "/images/Laminate-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Laminate Standing MGR",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "1.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "4 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #f0eb2d 50%, #22386a 50% )"
+        }
+       },
+       {
+        "imgAlt": "Jumbo four-seater merry-go-round with elephant-shaped seats",
+        "imgSrc": "/images/jumbo-four-seater-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Jumbo 4 Seater MGR",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "Diameter 6'8\""
+        ],
+        "spanText4": "4 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #c31c13 0% 25%, #35594f 25% 50%, #ca9120 50% 75%, #1e3360 75% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Horse merry-go-round with colourful horse seats",
+        "imgSrc": "/images/horse-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/horse-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Horse MGR",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "Diameter 4'"
+        ],
+        "spanText4": "3 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #ce2d25 0% 33.33%, #1d2a4a 33.33% 66.66%, #3f796b 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Animal merry-go-round with colourful bird-shaped seats",
+        "imgSrc": "/images/animal-mgr-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/animal-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Animal MGR",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "Diameter 6'2\""
+        ],
+        "spanText4": "4 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #c31c13 0% 25%, #35594f 25% 50%, #ca9120 50% 75%, #1e3360 75% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Bucket spinner seat in light blue on a red post",
+        "imgSrc": "/images/bucket-spinner-product-catalogue.jpg",
+        "aHref": "/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html",
+        "aText": " View Product ",
+        "spanText": "Bucket Spinner",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA"
+        ],
+        "spanText4": "1 USERS",
+        "divStyle": {
+         "backgroundColor": "#5497b1"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Cage spinner with orange seat inside a steel basket",
+      "imgSrc": "/images/cage-spinner-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/merry-go-round/cage-spinner.html",
+      "aText": " View Product ",
+      "spanText": "Cage Spinner",
+      "spanText2": "3+ YEARS",
+      "spanText3": "NA",
+      "spanText4": "1 USERS",
+      "divStyle": {
+       "backgroundColor": "#506077"
+      }
+     },
+     {
+      "imgAlt": "Flower Spinner single-seat spinner in royal turquoise",
+      "imgSrc": "/images/flower-spinner-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/merry-go-round/flower-spinner.html",
+      "aText": " View Product ",
+      "spanText": "Flower Spinner",
+      "spanText2": "3+ YEARS",
+      "spanText3": "Diameter 6'2\"",
+      "spanText4": "1 USERS",
+      "divStyle": {
+       "backgroundColor": "#2d5366"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Individual Equipment",
+    "https://funplaysystems.com/corecraft/individual-equipment.html"
+   ],
+   [
+    "Playground Merry-Go-Rounds",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Animal Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/animal-mgr.html"
+   ],
+   [
+    "Bucket Spinner Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html"
+   ],
+   [
+    "Cage Spinner",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/cage-spinner.html"
+   ],
+   [
+    "Flower Spinner",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/flower-spinner.html"
+   ],
+   [
+    "Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html"
+   ],
+   [
+    "Horse Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/horse-mgr.html"
+   ],
+   [
+    "Jumbo Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html"
+   ],
+   [
+    "Laminate Standing Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html"
+   ],
+   [
+    "Roto Platform Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html"
+   ],
+   [
+    "Roto Seating Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html"
+   ],
+   [
+    "Roto Wheel Go Round Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/6-station-multi-gym.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "6 Station Multi Gym Outdoor Gym Equipment | FunPlay Systems",
+  "description": "6 Station Multi Gym Outdoor Gym Equipment (FFE029A) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/6-station-multi-gym.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "6 Station Multi Gym Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "6 Station Multi Gym Outdoor Gym Equipment (FFE029A) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/6-station-multi-gym.html",
+   "og:image": "https://funplaysystems.com/images/6-Station-Multi-gym-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "6 Station Multi Gym Outdoor Gym Equipment",
+ "data": {
+  "name": "6 Station Multi Gym",
+  "sku": "FFE029A",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/6-Station-Multi-gym-product-image.jpg"
+    ],
+    "alts": [
+     "6 Station Multi Gym hexagonal outdoor gym frame with six exercise stations in orange and grey"
+    ]
+   }
+  ],
+  "description": "The 6 Station Multi Gym is a hexagonal frame with six exercise stations around it, finished in orange and grey. Six people can work out at once, each facing outward, which makes it a compact way to give a society or park a full open gym on one footprint. It suits adults of different fitness levels using the space at the same time, for example morning walkers and evening groups. The product listing gives the colour as Play Orange but does not name the six stations or give dimensions. Our sales team will share the station list, size and warranty with your quote. Under our standard warranty terms, galvanised pipes are covered for 3 years and bearings and spare parts for 1 year. Send us your site size and we will check the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "6 Station Multi Gym"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/6-Station-Multi-gym-product-image.jpg",
+  "cardImage": "/images/6-Station-Multi-gym-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "6 Station Multi Gym ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE029A",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/6-Station-Multi-gym-product-image.jpg"
+       ],
+       "alts": [
+        "6 Station Multi Gym hexagonal outdoor gym frame with six exercise stations in orange and grey"
+       ]
+      }
+     ],
+     "name": "6 Station Multi Gym"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"6 Station Multi Gym hexagonal outdoor gym frame with six exercise stations in orange and grey\"]",
+      "divDataImgs": "[\"/images/6-Station-Multi-gym-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "6 Station Multi Gym"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The 6 Station Multi Gym is a hexagonal frame with six exercise stations around it, finished in orange and grey. Six people can work out at once, each facing outward, which makes it a compact way to give a society or park a full open gym on one footprint. It suits adults of different fitness levels using the space at the same time, for example morning walkers and evening groups. The product listing gives the colour as Play Orange but does not name the six stations or give dimensions. Our sales team will share the station list, size and warranty with your quote. Under our standard warranty terms, galvanised pipes are covered for 3 years and bearings and spare parts for 1 year. Send us your site size and we will check the fit."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "A single hexagonal frame carrying six stations is normally grouted so that loads from several users are spread into a fixed base. Leave walking space around the outside so one user does not step into another's movement. Check every moving joint and bearing on a regular service schedule."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "6 Station Multi Gym Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/6-station-multi-gym.html"
+   ]
+  ],
+  "product": {
+   "name": "6 Station Multi Gym",
+   "sku": "FFE029A",
+   "images": [
+    "/images/6-Station-Multi-gym-product-image.jpg"
+   ],
+   "description": "The 6 Station Multi Gym is a hexagonal frame with six exercise stations around it, finished in orange and grey. Six people can work out at once, each facing outward, which makes it a compact way to give a society or park a full open gym on one footprint. It suits adults of different fitness levels using the space at the same time, for example morning walkers and evening groups. The product listing gives the colour as Play Orange but does not name the six stations or give dimensions. Our sales team will share the station list, size and warranty with your quote. Under our standard warranty terms, galvanised pipes are covered for 3 years and bearings and spare parts for 1 year. Send us your site size and we will check the fit.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

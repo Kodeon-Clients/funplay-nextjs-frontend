@@ -1,15 +1,10 @@
-import parse from "html-react-parser";
+import Blocks, { type Block } from "@/components/ui/Blocks";
 
-type Item = { q: string; a: string };
+export type FaqItem = { q: string; a: string | Block[] };
 
-/** FAQ list with matching FAQPage structured data. Answers are short plain-HTML strings. */
-export default function Faq({ items, heading = "Frequently asked questions", schema = true, id = "faq" }: { items: Item[]; heading?: string; schema?: boolean; id?: string }) {
+/** FAQ accordion. The matching FAQPage structured data is generated in lib/schema.ts from the same items. */
+export default function Faq({ items, heading = "Frequently asked questions", id = "faq" }: { items: FaqItem[]; heading?: string; id?: string }) {
   if (!items?.length) return null;
-  const ld = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: items.map((i) => ({ "@type": "Question", name: i.q, acceptedAnswer: { "@type": "Answer", text: i.a.replace(/<[^>]+>/g, "") } })),
-  };
   return (
     <section className="fp-faq pt-0">
       <div className="container">
@@ -28,7 +23,7 @@ export default function Faq({ items, heading = "Frequently asked questions", sch
                     </a>
                   </div>
                   <div id={`${id}-${n}`} className={`accordion-collapse collapse${n === 0 ? " show" : ""}`} data-bs-parent={`#${id}-accordion`}>
-                    <div className="accordion-body last-paragraph-no-margin pt-15px pb-15px">{parse(it.a.startsWith("<") ? it.a : `<p>${it.a}</p>`)}</div>
+                    <div className="accordion-body last-paragraph-no-margin pt-15px pb-15px">{typeof it.a === "string" ? <p>{it.a}</p> : <Blocks content={it.a} />}</div>
                   </div>
                 </div>
               ))}
@@ -36,7 +31,6 @@ export default function Faq({ items, heading = "Frequently asked questions", sch
           </div>
         </div>
       </div>
-      {schema ? <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} /> : null}
     </section>
   );
 }

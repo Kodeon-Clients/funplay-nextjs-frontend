@@ -1,0 +1,76 @@
+{
+ "path": "/projects/royal-mangalam.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Royal Mangalam, Mumbai: Playground Project | FunPlay",
+  "description": "See the play and fitness area FunPlay Systems installed at Royal Mangalam in Mumbai. Photos of playground equipment for a residential community.",
+  "canonical": "https://funplaysystems.com/projects/royal-mangalam.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": null,
+  "project": {
+   "title": "Royal Mangalam",
+   "location": "MUMBAI"
+  }
+ },
+ "sections": [
+  {
+   "component": "RoyalMangalam",
+   "props": {
+    "h1Text": "Royal Mangalam",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "MUMBAI"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A shared space at Royal Mangalam in Mumbai where play, fitness and leisure sit side by side."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed"
+   }
+  }
+ ],
+ "h1": "Royal Mangalam",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Royal Mangalam",
+    "https://funplaysystems.com/projects/royal-mangalam.html"
+   ]
+  ],
+  "project": {
+   "name": "Royal Mangalam",
+   "location": "MUMBAI"
+  }
+ }
+}

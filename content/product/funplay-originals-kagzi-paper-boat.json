@@ -1,0 +1,764 @@
+{
+ "path": "/funplay-originals/kagzi/paper-boat.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paper Boat Origami Play Structure | FunPlay Systems",
+  "description": "Paper Boat Origami Play Structure (FOK01), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi/paper-boat.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paper Boat Origami Play Structure | FunPlay Systems",
+   "og:description": "Paper Boat Origami Play Structure (FOK01), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi/paper-boat.html",
+   "og:image": "https://funplaysystems.com/images/paper-boat-198.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paper Boat Origami Play Structure",
+ "data": {
+  "name": "Paper Boat",
+  "sku": "FOK01",
+  "colours": [
+   {
+    "name": "Baby Blue & Cherry Red",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #a2ceda 50%,\n                    #c92c4b 50%\n                  );\n                ",
+    "images": [
+     "/images/paper-boat-198.jpg",
+     "/images/paper-boat-199.jpg",
+     "/images/paper-boat-200.jpg"
+    ],
+    "alts": [
+     "Paper Boat origami boat play station in baby blue and cherry with slide and net tunnel",
+     "Side view of Paper Boat with blue slide, crawl tunnel and climbing net",
+     "Paper Boat origami boat-themed play structure with slide, net tunnel and climber"
+    ]
+   }
+  ],
+  "description": "Paper Boat scales up the folded paper boat every child has made into a play station for ages 5 to 12. The hull, in Baby Blue and Cherry Red, carries a blue slide, a net crawl tunnel and a climbing net, and a telescope lets young pirates keep watch. Children climb aboard, crawl through the tunnel and slide back to the ground, so play keeps moving in a loop. It takes up to 15 children within a safe play area of 22'4\" x 19'7\". The skills it builds include imagination, coordination, observation and pretend play. We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site photos for a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "kagzi",
+   "Paper Boat"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/kagzi.html",
+  "image": "/images/paper-boat-198.jpg",
+  "cardImage": "/images/paper-boat-198.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paper Boat ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Origami Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOK01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Baby Blue & Cherry Red",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #a2ceda 50%,\n                    #c92c4b 50%\n                  );\n                ",
+       "images": [
+        "/images/paper-boat-198.jpg",
+        "/images/paper-boat-199.jpg",
+        "/images/paper-boat-200.jpg"
+       ],
+       "alts": [
+        "Paper Boat origami boat play station in baby blue and cherry with slide and net tunnel",
+        "Side view of Paper Boat with blue slide, crawl tunnel and climbing net",
+        "Paper Boat origami boat-themed play structure with slide, net tunnel and climber"
+       ]
+      }
+     ],
+     "name": "Paper Boat"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paper Boat origami boat play station in baby blue and cherry with slide and net tunnel\", \"Side view of Paper Boat with blue slide, crawl tunnel and climbing net\", \"Paper Boat origami boat-themed play structure with slide, net tunnel and climber\"]",
+      "divDataImgs": "[\"/images/paper-boat-198.jpg\", \"/images/paper-boat-199.jpg\", \"/images/paper-boat-200.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #a2ceda 50%, #c92c4b 50% )"
+      },
+      "divText": "",
+      "spanText": "Baby Blue & Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/kagzi.html"
+        },
+        "c": [
+         "kagzi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paper Boat"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paper Boat scales up the folded paper boat every child has made into a play station for ages 5 to 12. The hull, in Baby Blue and Cherry Red, carries a blue slide, a net crawl tunnel and a climbing net, and a telescope lets young pirates keep watch. Children climb aboard, crawl through the tunnel and slide back to the ground, so play keeps moving in a loop. It takes up to 15 children within a safe play area of 22'4\" x 19'7\". The skills it builds include imagination, coordination, observation and pretend play. We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site photos for a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/kagzi/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imaginatiom"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Exploration"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Pretend and Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Observation"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paper Boat play station",
+    "imgSrc": "/images/Paper-Boat-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "513.08 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "459.74 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Paper Boat stands on galvanised pipe with roto-moulded and composite parts, and play rope for the tunnel and net. Its footprint is 16'10\" x 15'1\", so a school courtyard or society lawn usually has room for it. Installation is self-standing or grouted. Inspect the tunnel net and slide fixings regularly, and add impact flooring at the slide exit.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imaginatiom"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Exploration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Pretend and Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Observation"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'10\" x 15'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "22'4\" x 19'7\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "kagzi",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Paper Boat Origami Play Structure",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-boat.html"
+   ]
+  ],
+  "product": {
+   "name": "Paper Boat",
+   "sku": "FOK01",
+   "images": [
+    "/images/paper-boat-198.jpg",
+    "/images/paper-boat-199.jpg",
+    "/images/paper-boat-200.jpg"
+   ],
+   "description": "Paper Boat scales up the folded paper boat every child has made into a play station for ages 5 to 12. The hull, in Baby Blue and Cherry Red, carries a blue slide, a net crawl tunnel and a climbing net, and a telescope lets young pirates keep watch. Children climb aboard, crawl through the tunnel and slide back to the ground, so play keeps moving in a loop. It takes up to 15 children within a safe play area of 22'4\" x 19'7\". The skills it builds include imagination, coordination, observation and pretend play. We give a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your site photos for a layout drawing.",
+   "category": "Origami Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/kagzi.html",
+   "colours": [
+    "Baby Blue & Cherry Red"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "22'4\" x 19'7\""
+    ],
+    [
+     "Length",
+     "513.08 cm"
+    ],
+    [
+     "Width",
+     "459.74 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Crawling"
+    ],
+    [
+     "Colour options",
+     "Baby Blue & Cherry Red"
+    ]
+   ]
+  }
+ }
+}

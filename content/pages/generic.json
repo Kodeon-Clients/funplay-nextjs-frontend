@@ -1,0 +1,1608 @@
+{
+ "path": "/generic.html",
+ "type": "landing",
+ "seo": {
+  "title": "Outdoor Playground Equipment Manufacturer in India | FunPlay",
+  "description": "FunPlay Systems designs and installs outdoor playground equipment for schools, societies and public spaces across India. Get a free custom quote.",
+  "canonical": "https://funplaysystems.com/generic.html",
+  "robots": "noindex, follow",
+  "og": {},
+  "twitter": {}
+ },
+ "sections": [
+  {
+   "component": "BuildPlaygroundsThatBring",
+   "props": {
+    "h1Text": "Build Playgrounds That Bring Joy to Every Space",
+    "pText": "India’s leading playground solutions for schools, builders, communities, and families: designed to last, built to delight.",
+    "spanText": "Live Chat Now",
+    "items": [
+     {
+      "pClass": "font_28_32 quicksand font-bold text-[#133950]",
+      "pText": [
+       "Get a Free Custom Quote"
+      ]
+     },
+     {
+      "pClass": "font_16_20 text-[#133950] font-normal w-[309px]",
+      "pText": [
+       "We’ll respond within 2 hours. Includes ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " site-specific plan & consultation."
+      ]
+     }
+    ],
+    "labelText": "Name*",
+    "divText": "+91",
+    "spanText2": "Phone Number*",
+    "labelText2": "Email Address*",
+    "labelText3": "City*",
+    "labelText4": "State*",
+    "labelText5": "Type of Project*",
+    "labelText6": "Message*",
+    "spanText3": "Request Quote",
+    "items2": [
+     {
+      "pClass": "font_28_32 quicksand font-bold text-[#133950]",
+      "pText": "Get a Free Custom Quote"
+     },
+     {
+      "pClass": "font_16_20 text-[#133950] font-normal w-[309px]",
+      "pText": "We’ll respond within 2 hours. Includes site-specific plan & consultation."
+     }
+    ],
+    "labelText7": "Name*",
+    "divText2": "+91",
+    "spanText4": "Phone Number*",
+    "items3": [
+     {
+      "inputType": "email",
+      "inputName": "email",
+      "inputPlaceholder": "",
+      "inputAriaLabel": "Email",
+      "labelHtmlFor": "name",
+      "labelText": "Email Address*"
+     },
+     {
+      "inputType": "text",
+      "inputName": "location",
+      "inputPlaceholder": " ",
+      "inputId": "cityInput",
+      "labelHtmlFor": "cityInput",
+      "labelText": "City*"
+     }
+    ],
+    "items4": [
+     {
+      "selectId": "stateSelect",
+      "selectName": "state",
+      "items": [
+       {
+        "optionValue": "",
+        "optionHidden": true,
+        "optionDisabled": true,
+        "optionText": ""
+       },
+       {
+        "optionValue": "Andaman and Nicobar Islands",
+        "optionText": "Andaman and Nicobar Islands"
+       },
+       {
+        "optionValue": "Andhra Pradesh",
+        "optionText": "Andhra Pradesh"
+       },
+       {
+        "optionValue": "Arunachal Pradesh",
+        "optionText": "Arunachal Pradesh"
+       },
+       {
+        "optionValue": "Assam",
+        "optionText": "Assam"
+       },
+       {
+        "optionValue": "Bihar",
+        "optionText": "Bihar"
+       },
+       {
+        "optionValue": "Chandigarh",
+        "optionText": "Chandigarh"
+       },
+       {
+        "optionValue": "Chhattisgarh",
+        "optionText": "Chhattisgarh"
+       },
+       {
+        "optionValue": "Dadra and Nagar Haveli",
+        "optionText": "Dadra and Nagar Haveli"
+       },
+       {
+        "optionValue": "Daman and Diu",
+        "optionText": "Daman and Diu"
+       },
+       {
+        "optionValue": "Delhi",
+        "optionText": "Delhi"
+       },
+       {
+        "optionValue": "Goa",
+        "optionText": "Goa"
+       },
+       {
+        "optionValue": "Gujarat",
+        "optionText": "Gujarat"
+       },
+       {
+        "optionValue": "Haryana",
+        "optionText": "Haryana"
+       },
+       {
+        "optionValue": "Himachal Pradesh",
+        "optionText": "Himachal Pradesh"
+       },
+       {
+        "optionValue": "Jammu and Kashmir",
+        "optionText": "Jammu and Kashmir"
+       },
+       {
+        "optionValue": "Jharkhand",
+        "optionText": "Jharkhand"
+       },
+       {
+        "optionValue": "Karnataka",
+        "optionText": "Karnataka"
+       },
+       {
+        "optionValue": "Kerala",
+        "optionText": "Kerala"
+       },
+       {
+        "optionValue": "Ladakh",
+        "optionText": "Ladakh"
+       },
+       {
+        "optionValue": "Lakshadweep",
+        "optionText": "Lakshadweep"
+       },
+       {
+        "optionValue": "Madhya Pradesh",
+        "optionText": "Madhya Pradesh"
+       },
+       {
+        "optionValue": "Maharashtra",
+        "optionText": "Maharashtra"
+       },
+       {
+        "optionValue": "Manipur",
+        "optionText": "Manipur"
+       },
+       {
+        "optionValue": "Meghalaya",
+        "optionText": "Meghalaya"
+       },
+       {
+        "optionValue": "Mizoram",
+        "optionText": "Mizoram"
+       },
+       {
+        "optionValue": "Nagaland",
+        "optionText": "Nagaland"
+       },
+       {
+        "optionValue": "Odisha",
+        "optionText": "Odisha"
+       },
+       {
+        "optionValue": "Puducherry",
+        "optionText": "Puducherry"
+       },
+       {
+        "optionValue": "Punjab",
+        "optionText": "Punjab"
+       },
+       {
+        "optionValue": "Rajasthan",
+        "optionText": "Rajasthan"
+       },
+       {
+        "optionValue": "Sikkim",
+        "optionText": "Sikkim"
+       },
+       {
+        "optionValue": "Tamil Nadu",
+        "optionText": "Tamil Nadu"
+       },
+       {
+        "optionValue": "Telangana",
+        "optionText": "Telangana"
+       },
+       {
+        "optionValue": "Tripura",
+        "optionText": "Tripura"
+       },
+       {
+        "optionValue": "Uttar Pradesh",
+        "optionText": "Uttar Pradesh"
+       },
+       {
+        "optionValue": "Uttarakhand",
+        "optionText": "Uttarakhand"
+       },
+       {
+        "optionValue": "West Bengal",
+        "optionText": "West Bengal"
+       }
+      ],
+      "labelHtmlFor": "stateSelect",
+      "labelText": "State*"
+     },
+     {
+      "selectId": "typeOfProject",
+      "selectName": "typeOfProject",
+      "items": [
+       {
+        "optionValue": "",
+        "optionHidden": true,
+        "optionDisabled": true,
+        "optionText": ""
+       },
+       {
+        "optionValue": "Architect",
+        "optionText": "Architect"
+       },
+       {
+        "optionValue": "Builder",
+        "optionText": "Builder"
+       },
+       {
+        "optionValue": "Clubs and Resort",
+        "optionText": "Clubs and Resort"
+       },
+       {
+        "optionValue": "Corporate",
+        "optionText": "Corporate"
+       },
+       {
+        "optionValue": "Dealer",
+        "optionText": "Dealer"
+       },
+       {
+        "optionValue": "Government",
+        "optionText": "Government"
+       },
+       {
+        "optionValue": "Hotels",
+        "optionText": "Hotels"
+       },
+       {
+        "optionValue": "Society",
+        "optionText": "Society"
+       },
+       {
+        "optionValue": "School",
+        "optionText": "School"
+       },
+       {
+        "optionValue": "Others",
+        "optionText": "Others"
+       }
+      ],
+      "labelHtmlFor": "typeOfProject",
+      "labelText": "Type of Project*"
+     }
+    ],
+    "labelText8": "Message*",
+    "spanText5": "Request Quote",
+    "items5": [
+     {
+      "imgSrc": "/images/campaign/icons/Frame1.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "Red Dot"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Design Award Winner ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " 2024"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/icons/Frame3.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "15000+"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Installations Across",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " India"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/icons/Frame4.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "FREE"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Site Visit & Custom ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " Design Plan"
+        ]
+       }
+      ]
+     }
+    ],
+    "items6": [
+     {
+      "pClass": "quicksand font-bold font_38_43 lg:font_44_56 text-center",
+      "pText": [
+       "Here’s how we help ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " playgrounds become better"
+      ]
+     },
+     {
+      "pClass": "quicksand font-normal font_18_30 lg:font_20_28",
+      "pText": [
+       "Slide to see how"
+      ]
+     }
+    ],
+    "pText2": "OUR TOP CLIENTS",
+    "items7": [
+     {
+      "pClass": "font_38_43 quicksand font-bold",
+      "pText": [
+       "At FunPlay, our approach ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " to design is rooted in ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " real-world observation ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " and child behavior."
+      ]
+     },
+     {
+      "pClass": "lg:w-[632px] font_18_30 quicksand font-normal mt-[12px]",
+      "pText": [
+       "We don’t just build playgrounds. We craft experiences. Every product we create is inspired by how children naturally play, climb, and connect. From observing kids climb slides in reverse to studying their reluctance to wait in long queues, we’ve reimagined traditional play to enhance social interaction, creativity, and movement. ",
+       {
+        "tag": "br"
+       },
+       " ",
+       {
+        "tag": "br"
+       },
+       " Our designs integrate climbing and sliding into continuous loops, enabling kids to interact in real time, visually learn from one another, and engage in uninterrupted play. We believe every inch of the playground should serve a purpose, not just in form and function, but in emotional and cognitive development."
+      ]
+     }
+    ],
+    "pText3": "Why customers choose us",
+    "items8": [
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon6.svg",
+      "pText": "Red Dot Award-winning designs"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon5.svg",
+      "pText": "ISO Certified for Safety & Quality"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon4.svg",
+      "pText": "Customizable to any space"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon1.svg",
+      "pText": "Fast delivery & installation"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon3.svg",
+      "pText": "Pan-India presence"
+     },
+     {
+      "divClass": "w-full h-[48px] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon2.svg",
+      "pText": "24/7 customer support"
+     }
+    ],
+    "buttonText": "Download Catalogue",
+    "items9": [
+     {
+      "pClass": "quicksand font-bold font_38_43",
+      "pText": [
+       "How we design our ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " products"
+      ]
+     },
+     {
+      "divClass": "mt-[12px] mb-[31px]",
+      "pClass": "quicksand font-normal font_18_30",
+      "pText": [
+       "Whether you're designing a preschool, society park, or a ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " township. We bring unmatched experience and excitement."
+      ]
+     }
+    ],
+    "pText4": "ECO FRIENDLY MATERIALS ONLY",
+    "items10": [
+     {
+      "pClass": "font-bold lg:font_44_56 font_38_43 quicksand text-center",
+      "pText": [
+       "What we build with"
+      ]
+     },
+     {
+      "pClass": "font-normal font_18_30 lg:font_20_28 quicksand text-center",
+      "pText": [
+       "We use eco-friendly materials, weather resistant finishes, long term ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " durability. This helps build everlasting playgrounds"
+      ]
+     }
+    ],
+    "items11": [
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img1.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Plastic Fibre"
+     },
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img2.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Cork"
+     },
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img3.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Steel"
+     }
+    ],
+    "pText5": [
+     "Solutions for every kind of ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     "playground project"
+    ],
+    "buttonText2": "Download Catalogue",
+    "items12": [
+     {
+      "imgSrc": "/images/campaign/section/sec6img1.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Schools & Educational Institutions"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Built for learning through play"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/sec6img2.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Builders & Societies"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Designed for communities & real estate projects"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/sec6img3.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Government & Public Spaces"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Compliant, inclusive, long-lasting"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/sec6img4.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Malls & Daycares"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Designed for communities and real estate projects"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/sec6img5.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Homes & Private Villas"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Compliant, inclusive, long-lasting"
+       }
+      ]
+     }
+    ],
+    "items13": [
+     {
+      "pClass": "quicksand font-bold md:text-center font_38_43",
+      "pText": "Have a unique requirement?"
+     },
+     {
+      "pClass": "quicksand font-normal md:text-center font_38_43",
+      "pText": "We love solving playground puzzles."
+     }
+    ],
+    "spanText6": "Let’s talk",
+    "buttonText3": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "quicksand text-[#000000] font-semibold font_18_20"
+      },
+      "c": [
+       "Share Your Layout"
+      ]
+     }
+    ],
+    "items14": [
+     {
+      "pClass": "quicksand font-bold font_38_43 lg:font_44_56 text-center md:text-start",
+      "pText": "Our most loved play units"
+     },
+     {
+      "pClass": "quicksand font-normal font_18_30 lg:font_20_28 text-center md:text-start",
+      "pText": "Our play units are for kids of all ages"
+     }
+    ],
+    "items15": [
+     {
+      "divClass": "grid grid-cols-1 lg:grid-cols-3 justify-center items-center gap-[32px] md:gap-[48px] w-full",
+      "items": [
+       {
+        "imgSrc": "/images/campaign/slider/Toucan-1.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/card-pyramid.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Toucan",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "4.6M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "linear-gradient(to right, #ecd217 50%, #ce0c40 50%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/Bellatrix-1.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/card-cook.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Bellatrix",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "3+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "14.5M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#97d534 0% 33.33%, #1f79ad 33.33% 66.66%, #df346b 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/paper-boat-198.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/inframe.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Paper Boat",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "22.3M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#97d534 0% 33.33%, #142048 33.33% 66.66%, #c09b6d 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "divClass": "flex lg:flex-row flex-col gap-[32px] md:gap-[48px]",
+      "items": [
+       {
+        "imgSrc": "/images/campaign/slider/Ulta-Ghar-product-catalogue.webp",
+        "imgClass": "w-full lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Ulta Ghar",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "3+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "38.5M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "linear-gradient(to right, #1f584c 50%, #67472e 50%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/Phula-product-catalogue.webp",
+        "imgClass": "w-full lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/phula.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Phula",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "52.7M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#cb8936 0% 33.33%, #ddc7ab 33.33% 66.66%, #2d1900 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pText6": [
+     "We Keep It Simple, So ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     "You Can Focus on Fun"
+    ],
+    "items16": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "1"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px]",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Free Site Visit or Layout Review"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "We understand your space, user group, ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " and goals"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px]",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Custom Plan & Quote"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "You get a tailored design and transparent ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "pricing."
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "3"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px] lg:opacity-0",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Quick Installation & Handover"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "We deliver joy – on time, with ongoing ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "support."
+        ]
+       }
+      ]
+     }
+    ],
+    "buttonText4": "Schedule My Site Visit",
+    "pText7": [
+     "Here are some key project ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     " we have done in the past"
+    ],
+    "items17": [
+     {
+      "divClass": "w-full lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider1.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     },
+     {
+      "divClass": "w-full sm:w-[600px] lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider2.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     },
+     {
+      "divClass": "w-full sm:w-[600px] lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider1.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     }
+    ],
+    "pText8": "What our customers say",
+    "items18": [
+     {
+      "pText": "Fun Play Systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive.",
+      "imgSrc": "/images/Dhamji SHamji.png",
+      "imgAlt": "Damji Shamji Shah Group logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Nayan Shah"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Damji Shamji Shah Group"
+       }
+      ]
+     },
+     {
+      "pText": "We at Jaideep Construction have been using Fun Play Systems’ equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional. We highly recommend Fun Play Systems.",
+      "imgSrc": "/images/Jaydeep-Group-Logo.png",
+      "imgAlt": "Jaydeep Group logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Jaideep Construction"
+       }
+      ]
+     },
+     {
+      "pText": "The Multi-activity design from Fun Play Systems has been a huge hit. The children enjoy the spacious, well-designed play area, which has positively impacted their outdoor play.",
+      "imgSrc": "/images/urja life logo.png",
+      "imgAlt": "Urjalife's logo, a FunPlay client",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Sanjay S. Deshmukh"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Urja Hospitality LLP"
+       }
+      ]
+     },
+     {
+      "pText": "We prioritize adding top-quality amenities that enhance the value of our projects, and the playground equipment from Funplay Systems Pvt. Ltd. has truly impressed us. The installation was efficient, and the design seamlessly integrated with our community spaces. The equipment is not only robust and safe but also inspires active play and creativity in children. Our clients have been extremely pleased with the playground, making it a significant attraction in our developments. We're thrilled with the product and service, and we look forward to partnering with Funplay on future projects.",
+      "imgSrc": "/images/rIDHI_SIDDHI_DEVLOPER.png",
+      "imgAlt": "Riddhi Siddhi Developers logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Ridhi Sidhi Developers"
+       }
+      ]
+     },
+     {
+      "pText": "As developers, we are always on the lookout for high-quality amenities that add value to our projects, and the playground equipment provided by Funplay Systems Pvt. Ltd. has exceeded our expectations. The installation process was seamless, and the design perfectly complements our community spaces. The equipment is not only durable and safe but also encourages active play and creativity among children. Our clients have expressed great satisfaction with the playground, making it a key selling point in our developments. We couldn't be happier with the product and service, and we look forward to working with Funplay on future projects.",
+      "imgSrc": "/images/GAMI LOGO.png",
+      "imgAlt": "Gami logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Gami Group"
+       }
+      ]
+     }
+    ],
+    "items19": [
+     {
+      "pClass": "quicksand text-[#000000] text-center font-bold font_38_43 lg:font_44_56",
+      "pText": "Do you have any questions?"
+     },
+     {
+      "divClass": "quicksand mt-[12px]",
+      "pClass": "quicksand text-[#000000] text-center font-normal font_18_30 lg:font_20_28",
+      "pText": "Our play units are for kids of all ages"
+     }
+    ],
+    "items20": [
+     {
+      "buttonText": "How long does it take to get a playground installed?",
+      "pText": "We typically deliver and install within 2–4 weeks from order confirmation, depending on location and scale."
+     },
+     {
+      "buttonText": "Can your equipment fit into small or irregularly shaped spaces?",
+      "pText": "Absolutely. Our products are modular and customizable to fit tight, curved, or unique layouts."
+     },
+     {
+      "buttonText": "What is the average lifespan of your play equipment?",
+      "pText": "Our products are made from durable, weather-resistant materials and are built to last 8–10 years with minimal upkeep."
+     },
+     {
+      "buttonText": "Do you offer design consultation before purchase?",
+      "pText": "Yes! We provide free site visits or layout-based consultation to help you choose the right play units."
+     },
+     {
+      "buttonText": "Is your playground equipment safe for toddlers?",
+      "pText": "All our products meet strict safety standards, and we have specially designed ranges like PAPERBOAT and ULTAGHAR for toddlers."
+     }
+    ],
+    "items21": [
+     {
+      "divClass": "",
+      "pClass": "text-white font_38_43 quicksand font-bold",
+      "pText": [
+       "Let’s build something wonderful together"
+      ]
+     },
+     {
+      "divClass": "mt-[12px] mb-[31px]",
+      "pClass": "text-white font_18_30 font-medium",
+      "pText": [
+       "Fun, safety, and creativity: all in one playground. ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " Let’s get started."
+      ]
+     }
+    ],
+    "buttonText5": "Download Catalogue",
+    "buttonText6": "Talk to Our Team",
+    "items22": [
+     {
+      "pClass": "font_28_32 quicksand font-bold text-[#133950]",
+      "pText": "Get a Free Custom Quote"
+     },
+     {
+      "pClass": "font_16_20 text-[#133950] font-normal w-[309px]",
+      "pText": "We’ll respond within 2 hours. Includes site-specific plan & consultation."
+     }
+    ],
+    "labelText9": "Name*",
+    "divText3": "+91",
+    "spanText7": "Phone Number*",
+    "labelText10": "Email Address*",
+    "labelText11": "City*",
+    "labelText12": "State*",
+    "labelText13": "Type of Project*",
+    "labelText14": "Message*",
+    "spanText8": "Request Quote",
+    "items23": [
+     {
+      "pClass": "font_28_32 quicksand font-bold text-[#133950]",
+      "pText": "Get a Free Custom Quote"
+     },
+     {
+      "pClass": "font_16_20 text-[#133950] font-normal w-[309px]",
+      "pText": "We’ll respond within 2 hours. Includes site-specific plan & consultation."
+     }
+    ],
+    "labelText15": "Name*",
+    "divText4": "+91",
+    "spanText9": "Phone Number*",
+    "items24": [
+     {
+      "inputType": "email",
+      "inputName": "email",
+      "inputPlaceholder": "",
+      "inputAriaLabel": "Email",
+      "labelHtmlFor": "name",
+      "labelText": "Email Address*"
+     },
+     {
+      "inputType": "text",
+      "inputName": "location",
+      "inputPlaceholder": " ",
+      "inputId": "cityInput",
+      "labelHtmlFor": "cityInput",
+      "labelText": "City*"
+     }
+    ],
+    "items25": [
+     {
+      "selectId": "stateSelect",
+      "selectName": "state",
+      "items": [
+       {
+        "optionValue": "",
+        "optionHidden": true,
+        "optionDisabled": true,
+        "optionText": ""
+       },
+       {
+        "optionValue": "Andaman and Nicobar Islands",
+        "optionText": "Andaman and Nicobar Islands"
+       },
+       {
+        "optionValue": "Andhra Pradesh",
+        "optionText": "Andhra Pradesh"
+       },
+       {
+        "optionValue": "Arunachal Pradesh",
+        "optionText": "Arunachal Pradesh"
+       },
+       {
+        "optionValue": "Assam",
+        "optionText": "Assam"
+       },
+       {
+        "optionValue": "Bihar",
+        "optionText": "Bihar"
+       },
+       {
+        "optionValue": "Chandigarh",
+        "optionText": "Chandigarh"
+       },
+       {
+        "optionValue": "Chhattisgarh",
+        "optionText": "Chhattisgarh"
+       },
+       {
+        "optionValue": "Dadra and Nagar Haveli",
+        "optionText": "Dadra and Nagar Haveli"
+       },
+       {
+        "optionValue": "Daman and Diu",
+        "optionText": "Daman and Diu"
+       },
+       {
+        "optionValue": "Delhi",
+        "optionText": "Delhi"
+       },
+       {
+        "optionValue": "Goa",
+        "optionText": "Goa"
+       },
+       {
+        "optionValue": "Gujarat",
+        "optionText": "Gujarat"
+       },
+       {
+        "optionValue": "Haryana",
+        "optionText": "Haryana"
+       },
+       {
+        "optionValue": "Himachal Pradesh",
+        "optionText": "Himachal Pradesh"
+       },
+       {
+        "optionValue": "Jammu and Kashmir",
+        "optionText": "Jammu and Kashmir"
+       },
+       {
+        "optionValue": "Jharkhand",
+        "optionText": "Jharkhand"
+       },
+       {
+        "optionValue": "Karnataka",
+        "optionText": "Karnataka"
+       },
+       {
+        "optionValue": "Kerala",
+        "optionText": "Kerala"
+       },
+       {
+        "optionValue": "Ladakh",
+        "optionText": "Ladakh"
+       },
+       {
+        "optionValue": "Lakshadweep",
+        "optionText": "Lakshadweep"
+       },
+       {
+        "optionValue": "Madhya Pradesh",
+        "optionText": "Madhya Pradesh"
+       },
+       {
+        "optionValue": "Maharashtra",
+        "optionText": "Maharashtra"
+       },
+       {
+        "optionValue": "Manipur",
+        "optionText": "Manipur"
+       },
+       {
+        "optionValue": "Meghalaya",
+        "optionText": "Meghalaya"
+       },
+       {
+        "optionValue": "Mizoram",
+        "optionText": "Mizoram"
+       },
+       {
+        "optionValue": "Nagaland",
+        "optionText": "Nagaland"
+       },
+       {
+        "optionValue": "Odisha",
+        "optionText": "Odisha"
+       },
+       {
+        "optionValue": "Puducherry",
+        "optionText": "Puducherry"
+       },
+       {
+        "optionValue": "Punjab",
+        "optionText": "Punjab"
+       },
+       {
+        "optionValue": "Rajasthan",
+        "optionText": "Rajasthan"
+       },
+       {
+        "optionValue": "Sikkim",
+        "optionText": "Sikkim"
+       },
+       {
+        "optionValue": "Tamil Nadu",
+        "optionText": "Tamil Nadu"
+       },
+       {
+        "optionValue": "Telangana",
+        "optionText": "Telangana"
+       },
+       {
+        "optionValue": "Tripura",
+        "optionText": "Tripura"
+       },
+       {
+        "optionValue": "Uttar Pradesh",
+        "optionText": "Uttar Pradesh"
+       },
+       {
+        "optionValue": "Uttarakhand",
+        "optionText": "Uttarakhand"
+       },
+       {
+        "optionValue": "West Bengal",
+        "optionText": "West Bengal"
+       }
+      ],
+      "labelHtmlFor": "stateSelect",
+      "labelText": "State*"
+     },
+     {
+      "selectId": "typeOfProject",
+      "selectName": "typeOfProject",
+      "items": [
+       {
+        "optionValue": "",
+        "optionHidden": true,
+        "optionDisabled": true,
+        "optionText": ""
+       },
+       {
+        "optionValue": "Architect",
+        "optionText": "Architect"
+       },
+       {
+        "optionValue": "Builder",
+        "optionText": "Builder"
+       },
+       {
+        "optionValue": "Clubs and Resort",
+        "optionText": "Clubs and Resort"
+       },
+       {
+        "optionValue": "Corporate",
+        "optionText": "Corporate"
+       },
+       {
+        "optionValue": "Dealer",
+        "optionText": "Dealer"
+       },
+       {
+        "optionValue": "Government",
+        "optionText": "Government"
+       },
+       {
+        "optionValue": "Hotels",
+        "optionText": "Hotels"
+       },
+       {
+        "optionValue": "Society",
+        "optionText": "Society"
+       },
+       {
+        "optionValue": "School",
+        "optionText": "School"
+       },
+       {
+        "optionValue": "Others",
+        "optionText": "Others"
+       }
+      ],
+      "labelHtmlFor": "typeOfProject",
+      "labelText": "Type of Project*"
+     }
+    ],
+    "labelText16": "Message*",
+    "spanText10": "Request Quote"
+   }
+  },
+  {
+   "component": "Footer",
+   "props": {
+    "pText": [
+     "Design amazing digital experiences that ",
+     {
+      "tag": "br"
+     },
+     "create more happy in the world."
+    ],
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/about-us.html"
+        },
+        "c": [
+         "About Us"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/clientele.html"
+        },
+        "c": [
+         "Clientele"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     }
+    ],
+    "pText2": "© 2025 Funplay. All rights reserved."
+   }
+  }
+ ],
+ "h1": "Build Playgrounds That Bring Joy to Every Space",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Build Playgrounds That Bring Joy to Every Space",
+    "https://funplaysystems.com/generic.html"
+   ]
+  ]
+ }
+}

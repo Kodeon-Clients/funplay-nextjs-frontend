@@ -1,0 +1,1142 @@
+{
+ "path": "/builders.html",
+ "type": "landing",
+ "seo": {
+  "title": "Playground Equipment for Builders & Developers | FunPlay",
+  "description": "Award-winning playground equipment for builders, developers and housing societies in India. Site plan integration, installation by our team. Get a free quote.",
+  "canonical": "https://funplaysystems.com/builders.html",
+  "robots": "index, follow",
+  "og": {},
+  "twitter": {}
+ },
+ "sections": [
+  {
+   "component": "CreateIconicCommunitiesWith",
+   "props": {
+    "h1Text": "Create Iconic Communities with Award-Winning Playgrounds",
+    "pText": "Play areas that add value to your project, appeal to buyers, and stand the test of time.",
+    "spanText": "Live Chat Now",
+    "pText2": "Get a FREE Builder Quote and Layout Suggestion",
+    "items": [
+     {
+      "inputName": "name",
+      "inputAriaLabel": "Name",
+      "labelHtmlFor": "name",
+      "labelText": "Name*"
+     },
+     {
+      "inputName": "companyname",
+      "inputId": "companyname",
+      "labelHtmlFor": "companyname",
+      "labelText": "Company Name*"
+     }
+    ],
+    "divText": "+91",
+    "spanText2": "Phone Number*",
+    "labelText": "Email Address*",
+    "labelText2": "City*",
+    "labelText3": "State*",
+    "labelText4": "Message*",
+    "spanText3": "Request Quote",
+    "pText3": "Get a FREE Builder Quote and Layout Suggestion",
+    "items2": [
+     {
+      "inputName": "name",
+      "inputAriaLabel": "Name",
+      "labelHtmlFor": "name",
+      "labelText": "Name*"
+     },
+     {
+      "inputName": "companyname",
+      "inputId": "companyname",
+      "labelHtmlFor": "companyname",
+      "labelText": "Company Name*"
+     }
+    ],
+    "divText2": "+91",
+    "spanText4": "Phone Number*",
+    "labelText5": "Email Address*",
+    "labelText6": "City*",
+    "labelText7": "State*",
+    "labelText8": "Message*",
+    "spanText5": "Request Quote",
+    "items3": [
+     {
+      "imgSrc": "/images/campaign/icons/Frame1.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "Red Dot"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Design Award Winner ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " 2024"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/icons/Frame3.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "15000+"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Installations Across",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         " India"
+        ]
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/icons/Frame4.svg",
+      "items": [
+       {
+        "pClass": "quicksand font-bold font_28_20 text-[#302B2B]",
+        "pText": [
+         "FREE"
+        ]
+       },
+       {
+        "pClass": "quicksand font-bold font_18_20 text-[#302B2B] text-center",
+        "pText": [
+         "Layout Review & ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "Custom Quote"
+        ]
+       }
+      ]
+     }
+    ],
+    "items4": [
+     {
+      "pClass": "quicksand font-bold font_38_43 lg:font_44_56 text-center",
+      "pText": [
+       "Here’s how we help ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " playgrounds become better"
+      ]
+     },
+     {
+      "pClass": "quicksand font-normal font_18_30 lg:font_20_28",
+      "pText": [
+       "Slide to see how"
+      ]
+     }
+    ],
+    "pText4": "OUR TOP CLIENTS",
+    "items5": [
+     {
+      "pClass": "font_38_43 quicksand font-bold",
+      "pText": [
+       "At FunPlay, our",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " playgrounds don’t just fill",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " up space in your site plan",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " they elevate it."
+      ]
+     },
+     {
+      "pClass": "lg:w-[632px] font_18_30 quicksand font-normal mt-[12px]",
+      "pText": [
+       "Every product we design for residential and commercial developers is created with one goal in mind: to make the space more livable, valuable, and loved by families. We understand the pressures builders face: tight timelines, budget efficiency, and buyer expectations. ",
+       {
+        "tag": "br"
+       },
+       " ",
+       {
+        "tag": "br"
+       },
+       " Our solutions are engineered to slot perfectly into your project lifecycle without delays or design friction. We design not just for kids, but for your brand’s reputation. From smooth installation to stronger buyer appeal, our award-winning units are engineered to delight."
+      ]
+     }
+    ],
+    "pText5": "Why Leading Developers Choose Us",
+    "items6": [
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon6.svg",
+      "pText": "Award-winning aesthetics"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon5.svg",
+      "pText": "RERA & ISO compliant"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon4.svg",
+      "pText": "Site plan integration support"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/icon1.svg",
+      "pText": "Fast installation & zero-hassle logistics"
+     },
+     {
+      "divClass": "w-full h-[48px] border-b border-[#C3C3C3] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/star.svg",
+      "pText": "Adds real estate value and buyer appeal"
+     },
+     {
+      "divClass": "w-full h-[48px] flex items-center gap-[11px]",
+      "imgSrc": "/images/campaign/icons/trust.svg",
+      "pText": "Trusted by 100+ top builders"
+     }
+    ],
+    "pText6": [
+     "Whether you're designing a preschool, society park, or a township , ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     "we bring unmatched experience and excitement."
+    ],
+    "buttonText": "Download Catalogue",
+    "items7": [
+     {
+      "pClass": "quicksand font-bold font_38_43",
+      "pText": [
+       "How we design our ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " products"
+      ]
+     },
+     {
+      "divClass": "mt-[12px] mb-[31px]",
+      "pClass": "quicksand font-normal font_18_30",
+      "pText": [
+       "Whether you're designing a preschool, society park, or a ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " township. We bring unmatched experience and excitement."
+      ]
+     }
+    ],
+    "pText7": "ECO FRIENDLY MATERIALS ONLY",
+    "items8": [
+     {
+      "pClass": "font-bold lg:font_44_56 font_38_43 quicksand text-center",
+      "pText": [
+       "What we build with"
+      ]
+     },
+     {
+      "pClass": "font-normal font_18_30 lg:font_20_28 quicksand text-center",
+      "pText": [
+       "We use eco-friendly materials, weather resistant finishes, long term ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       " durability. This helps build everlasting playgrounds"
+      ]
+     }
+    ],
+    "items9": [
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img1.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Plastic Fibre"
+     },
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img2.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Cork"
+     },
+     {
+      "divClass": "rounded-[46px] bg-[url('/images/campaign/section/sec5img3.webp')] bg-cover bg-center flex items-end pl-[39px] pb-[18px] relative",
+      "pText": "Steel"
+     }
+    ],
+    "pText8": [
+     "Solutions for every kind of ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     "playground project"
+    ],
+    "buttonText2": "Download Catalogue",
+    "items10": [
+     {
+      "imgSrc": "/images/campaign/section/sec6img2.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Apartments & Gated Communities"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Central park zones, clubhouse surroundings"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/builder2.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Townships & Smart Cities"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Large-scale installations with inclusive design"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/builder3.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Luxury Villas"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Compact, themed play units that wow buyers"
+       }
+      ]
+     },
+     {
+      "imgSrc": "/images/campaign/section/builder4.webp",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_18_20 text-center",
+        "pText": "Clubhouses & Daycares"
+       },
+       {
+        "pClass": "quicksand font-normal font_18_20 text-center",
+        "pText": "Soft play zones, safe & colorful interiors"
+       }
+      ]
+     }
+    ],
+    "items11": [
+     {
+      "pClass": "quicksand font-bold md:text-center font_38_43",
+      "pText": "Explore new possibilities with us!"
+     },
+     {
+      "pClass": "quicksand font-normal md:text-center font_38_43",
+      "pText": "We love solving playground puzzles."
+     }
+    ],
+    "spanText6": "Let’s talk",
+    "buttonText3": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "quicksand text-[#000000] font-semibold font_18_20"
+      },
+      "c": [
+       "Share Your Layout"
+      ]
+     }
+    ],
+    "items12": [
+     {
+      "pClass": "quicksand font-bold font_38_43 lg:font_44_56 text-center md:text-start",
+      "pText": "Our most loved play units"
+     },
+     {
+      "pClass": "quicksand font-normal font_18_30 lg:font_20_28 text-center md:text-start",
+      "pText": "Our play units are for kids of all ages"
+     }
+    ],
+    "items13": [
+     {
+      "divClass": "grid grid-cols-1 lg:grid-cols-3 justify-center items-center gap-[32px] md:gap-[48px] w-full",
+      "items": [
+       {
+        "imgSrc": "/images/campaign/slider/Toucan-1.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/card-pyramid.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Toucan",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "4.6M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "linear-gradient(to right, #ecd217 50%, #ce0c40 50%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/Bellatrix-1.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/card-cook.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Bellatrix",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "3+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "14.5M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#97d534 0% 33.33%, #1f79ad 33.33% 66.66%, #df346b 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/paper-boat-198.webp",
+        "imgClass": "lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/inframe.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Paper Boat",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "22.3M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#97d534 0% 33.33%, #142048 33.33% 66.66%, #c09b6d 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "divClass": "flex lg:flex-row flex-col gap-[32px] md:gap-[48px]",
+      "items": [
+       {
+        "imgSrc": "/images/campaign/slider/Ulta-Ghar-product-catalogue.webp",
+        "imgClass": "w-full lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Ulta Ghar",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "3+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "38.5M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "linear-gradient(to right, #1f584c 50%, #67472e 50%)"
+          },
+          "divText": []
+         }
+        ]
+       },
+       {
+        "imgSrc": "/images/campaign/slider/Phula-product-catalogue.webp",
+        "imgClass": "w-full lg:w-[388.73px] h-[293.97px] object-cover rounded-t-[6px]",
+        "divText": [
+         {
+          "tag": "a",
+          "attrs": {
+           "href": "/funplay-originals/nature-sparsh/phula.html",
+           "className": "text-center text-[#DC3131] font-semibold quicksand font_20_28 px-4"
+          },
+          "c": [
+           " View Product "
+          ]
+         }
+        ],
+        "pText": "Phula",
+        "divText2": [
+         {
+          "tag": "span",
+          "c": [
+           "5+ YEARS"
+          ]
+         }
+        ],
+        "divText3": [
+         {
+          "tag": "span",
+          "c": [
+           "52.7M",
+           {
+            "tag": "sup",
+            "c": [
+             "2"
+            ]
+           }
+          ]
+         }
+        ],
+        "items": [
+         {
+          "divText": [
+           {
+            "tag": "span",
+            "c": [
+             "21 USERS"
+            ]
+           }
+          ]
+         },
+         {
+          "divClass": "h-[16px] w-[16px] rounded-full",
+          "divStyle": {
+           "background": "conic-gradient(#cb8936 0% 33.33%, #ddc7ab 33.33% 66.66%, #2d1900 66.66% 100%)"
+          },
+          "divText": []
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pText9": [
+     "Your Project, ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     "Our Expertise"
+    ],
+    "items14": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "1"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px]",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Layout Share or Site Visit"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "We evaluate the space, theme, and ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "intended age group."
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px]",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Tailored Quote + Play Plan"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "You receive design renders, budget ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "estimate, and installation plan."
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "quicksand font-semibold font_18_20"
+        },
+        "c": [
+         "3"
+        ]
+       }
+      ],
+      "imgClass": "md:w-[312px] lg:opacity-0",
+      "items": [
+       {
+        "pClass": "font_20_28 quicksand font-semibold text-center md:text-start",
+        "pText": [
+         "Quick Installation & Builder Support"
+        ]
+       },
+       {
+        "pClass": "quicksand font_18_20 font-normal text-center md:text-start",
+        "pText": [
+         "Delivered on time, coordinated with your ",
+         {
+          "tag": "br",
+          "attrs": {
+           "className": "show-on-desktop"
+          }
+         },
+         "construction timeline."
+        ]
+       }
+      ]
+     }
+    ],
+    "buttonText4": "Schedule My Site Visit",
+    "pText10": [
+     "Here are some key project ",
+     {
+      "tag": "br",
+      "attrs": {
+       "className": "show-on-desktop"
+      }
+     },
+     " we have done in the past"
+    ],
+    "items15": [
+     {
+      "divClass": "w-full lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider1.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     },
+     {
+      "divClass": "w-full sm:w-[600px] lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider2.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     },
+     {
+      "divClass": "w-full sm:w-[600px] lg:w-[819px] h-[350px] sm:h-[400px] md:h-[450px] rounded-[46px] bg-[url('/images/campaign/slider/slider1.webp')] bg-cover bg-center flex items-end px-[32px] py-[32px] md:px-[53px] md:py-[37px] relative flex-shrink-0",
+      "pText": "School Playground",
+      "pText2": "Kar International, Chennai",
+      "pText3": "1000sqft"
+     }
+    ],
+    "pText11": "What our developers say",
+    "items16": [
+     {
+      "pText": "Fun Play Systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive.",
+      "imgSrc": "/images/Dhamji SHamji.png",
+      "imgAlt": "Damji Shamji Shah Group logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Nayan Shah"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Damji Shamji Shah Group"
+       }
+      ]
+     },
+     {
+      "pText": "We at Jaideep Construction have been using Fun Play Systems’ equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional. We highly recommend Fun Play Systems.",
+      "imgSrc": "/images/Jaydeep-Group-Logo.png",
+      "imgAlt": "Jaydeep Group logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Jaideep Construction"
+       }
+      ]
+     },
+     {
+      "pText": "The Multi-activity design from Fun Play Systems has been a huge hit. The children enjoy the spacious, well-designed play area, which has positively impacted their outdoor play.",
+      "imgSrc": "/images/urja life logo.png",
+      "imgAlt": "Urjalife's logo, a FunPlay client",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Sanjay S. Deshmukh"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Urja Hospitality LLP"
+       }
+      ]
+     },
+     {
+      "pText": "We prioritize adding top-quality amenities that enhance the value of our projects, and the playground equipment from Funplay Systems Pvt. Ltd. has truly impressed us. The installation was efficient, and the design seamlessly integrated with our community spaces. The equipment is not only robust and safe but also inspires active play and creativity in children. Our clients have been extremely pleased with the playground, making it a significant attraction in our developments. We're thrilled with the product and service, and we look forward to partnering with Funplay on future projects.",
+      "imgSrc": "/images/rIDHI_SIDDHI_DEVLOPER.png",
+      "imgAlt": "Riddhi Siddhi Developers logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Ridhi Sidhi Developers"
+       }
+      ]
+     },
+     {
+      "pText": "As developers, we are always on the lookout for high-quality amenities that add value to our projects, and the playground equipment provided by Funplay Systems Pvt. Ltd. has exceeded our expectations. The installation process was seamless, and the design perfectly complements our community spaces. The equipment is not only durable and safe but also encourages active play and creativity among children. Our clients have expressed great satisfaction with the playground, making it a key selling point in our developments. We couldn't be happier with the product and service, and we look forward to working with Funplay on future projects.",
+      "imgSrc": "/images/GAMI LOGO.png",
+      "imgAlt": "Gami logo, a FunPlay client",
+      "imgLoading": "lazy",
+      "imgDecoding": "async",
+      "items": [
+       {
+        "pClass": "quicksand font-semibold font_20_28 text-[#161515]",
+        "pText": "Customer"
+       },
+       {
+        "pClass": "quicksand font-medium font_20_28 text-[#545252]",
+        "pText": "Gami Group"
+       }
+      ]
+     }
+    ],
+    "items17": [
+     {
+      "pClass": "quicksand text-[#000000] text-center font-bold font_38_43 lg:font_44_56",
+      "pText": "Do you have any questions?"
+     },
+     {
+      "divClass": "quicksand mt-[12px]",
+      "pClass": "quicksand text-[#000000] text-center font-normal font_18_30 lg:font_20_28",
+      "pText": "Our play units are for kids of all ages"
+     }
+    ],
+    "items18": [
+     {
+      "buttonText": "Can you integrate your designs with our landscape or architectural layout?",
+      "pText": "Yes. We work directly with your team to integrate play areas into your existing site plan."
+     },
+     {
+      "buttonText": "What is the minimum area required for installation?",
+      "pText": "We offer scalable solutions starting from as little as 150 sq. ft., ideal for villas or compact gardens."
+     },
+     {
+      "buttonText": "How quickly can you deliver and install after order confirmation?",
+      "pText": "Our turnaround is 2–3 weeks depending on scale and customization. We align with your construction phases."
+     },
+     {
+      "buttonText": "Do you provide warranties and maintenance support?",
+      "pText": "Yes. All equipment comes with a warranty, and we offer annual maintenance support on request."
+     },
+     {
+      "buttonText": "Will your installations meet RERA and safety compliance needs?",
+      "pText": "Absolutely. All our units are ISO-certified and meet Indian safety norms, including RERA compliance for builder projects."
+     }
+    ],
+    "items19": [
+     {
+      "divClass": "",
+      "pClass": "text-white font_38_43 quicksand font-bold",
+      "pText": [
+       "Build More Than Homes. Build Joy."
+      ]
+     },
+     {
+      "divClass": "mt-[12px] mb-[31px]",
+      "pClass": "text-white font_18_30 font-medium",
+      "pText": [
+       "Let’s make your project the talk of the town ",
+       {
+        "tag": "br",
+        "attrs": {
+         "className": "show-on-desktop"
+        }
+       },
+       "with playgrounds kids love and families remember."
+      ]
+     }
+    ],
+    "buttonText5": "Share Project Brief",
+    "buttonText6": "Talk to Our Expert",
+    "pText12": "Get a FREE builder quote and layout suggestion",
+    "items20": [
+     {
+      "inputName": "name",
+      "inputAriaLabel": "Name",
+      "labelHtmlFor": "name",
+      "labelText": "Name*"
+     },
+     {
+      "inputName": "companyname",
+      "inputId": "companyname",
+      "labelHtmlFor": "companyname",
+      "labelText": "Company Name*"
+     }
+    ],
+    "divText3": "+91",
+    "spanText7": "Phone Number*",
+    "labelText9": "Email Address*",
+    "labelText10": "City*",
+    "labelText11": "State*",
+    "labelText12": "Message*",
+    "spanText8": "Request Quote",
+    "pText13": "Get a FREE Builder Quote and Layout Suggestion",
+    "items21": [
+     {
+      "inputName": "name",
+      "inputAriaLabel": "Name",
+      "labelHtmlFor": "name",
+      "labelText": "Name*"
+     },
+     {
+      "inputName": "companyname",
+      "inputId": "companyname",
+      "labelHtmlFor": "companyname",
+      "labelText": "Company Name*"
+     }
+    ],
+    "divText4": "+91",
+    "spanText9": "Phone Number*",
+    "labelText13": "Email Address*",
+    "labelText14": "City*",
+    "labelText15": "State*",
+    "labelText16": "Message*",
+    "spanText10": "Request Quote"
+   }
+  },
+  {
+   "component": "Footer",
+   "props": {
+    "pText": [
+     "Design amazing digital experiences that ",
+     {
+      "tag": "br"
+     },
+     "create more happy in the world."
+    ],
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/about-us.html"
+        },
+        "c": [
+         "About Us"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/clientele.html"
+        },
+        "c": [
+         "Clientele"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Contact Us"
+        ]
+       }
+      ]
+     }
+    ],
+    "pText2": "© 2025 Funplay. All rights reserved."
+   }
+  }
+ ],
+ "h1": "Create Iconic Communities with Award-Winning Playgrounds",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Create Iconic Communities with Award-Winning Playgrounds",
+    "https://funplaysystems.com/builders.html"
+   ]
+  ]
+ }
+}

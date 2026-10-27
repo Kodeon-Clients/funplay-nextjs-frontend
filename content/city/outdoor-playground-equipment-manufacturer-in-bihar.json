@@ -1,0 +1,534 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-bihar.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Bihar | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bihar. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bihar.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Bihar | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bihar. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bihar.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Bihar",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Bihar"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Schools are the biggest buyers of playground equipment in Bihar, followed by housing societies in Patna and the parks run by town councils. FunPlay Systems supplies all three. We design and manufacture every piece at our factory in Vasai, near Mumbai, where we have been building play equipment since 2002, and we send it to Bihar by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Our installation team or a dealer in eastern India fixes the equipment on site, either self-standing or grouted into the ground. We supply every part of the state, from Patna, Muzaffarpur and Bhagalpur along the Ganga to Gaya, Sasaram, Dehri, Buxar and Arrah in the south and west. If you run a school, tell us how many children use the ground at break time and their age groups. We will suggest equipment that keeps a large group busy at once and send a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Heat, fog and floods across Bihar",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Bihar has three hard seasons for outdoor equipment. Summers are very hot with dry winds, the monsoon floods large parts of north Bihar, and winter mornings are cold and foggy. Roto-moulded slides and galvanised steel posts handle all three better than painted mild steel, since plastic does not rust and the zinc coating protects the steel. Plan some shade over slides that face the afternoon sun."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "In flood-prone districts, raise the play area above the usual water level and choose grouted foundations. Rubber flooring under swings and slides dries faster than soil after rain, and we can supply it with the equipment."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Equipment for school grounds",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "For a big school ground, our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " structures, inspired by Indian games, give many children something to do at once. Swings, see-saws and merry-go-rounds from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment.html"
+           },
+           "c": [
+            "individual equipment"
+           ]
+          },
+          " range fill the rest of the space. Keep the toddler area near the school building and away from the main cricket or football pitch, so younger children are not in the path of a ball. If part of the ground floods in the monsoon, put the equipment on the highest corner."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Patna buyers can also read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-patna.html"
+           },
+           "c": [
+            "playground page for Patna"
+           ]
+          },
+          ", and for staff and parents see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-bihar.html"
+           },
+           "c": [
+            "outdoor gym equipment in Bihar"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Bihar",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Bihar",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-bihar.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you supply playground equipment to government and private schools in Bihar?",
+       "a": "Yes. We supply schools of every size. Share the ground measurements, the number of children and their ages, and we will send a layout drawing and a quote."
+      },
+      {
+       "q": "Which foundation is better on flood-prone ground?",
+       "a": "Grouted foundations on a raised, well-drained base hold equipment firmly through wet months. Self-standing installation suits paved or firm ground where drilling is not possible."
+      },
+      {
+       "q": "Can you deliver to smaller towns such as Buxar or Sasaram?",
+       "a": "Yes. We send equipment by road from our Vasai factory to any town in Bihar, and our team or a dealer near you does the installation."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Bihar Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Bihar",
+    "h2Text": "Cities we supply in Bihar",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-arrah.html"
+        },
+        "c": [
+         "Playground equipment in Arrah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ballia.html"
+        },
+        "c": [
+         "Playground equipment in Ballia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-begusarai.html"
+        },
+        "c": [
+         "Playground equipment in Begusarai"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bettiah.html"
+        },
+        "c": [
+         "Playground equipment in Bettiah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhagalpur.html"
+        },
+        "c": [
+         "Playground equipment in Bhagalpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bihar-sharif.html"
+        },
+        "c": [
+         "Playground equipment in Bihar Sharif"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-chapra.html"
+        },
+        "c": [
+         "Playground equipment in Chapra"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-danapur.html"
+        },
+        "c": [
+         "Playground equipment in Danapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-darbhanga.html"
+        },
+        "c": [
+         "Playground equipment in Darbhanga"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dehri.html"
+        },
+        "c": [
+         "Playground equipment in Dehri"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gaya.html"
+        },
+        "c": [
+         "Playground equipment in Gaya"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-hajipur.html"
+        },
+        "c": [
+         "Playground equipment in Hajipur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jamalpur.html"
+        },
+        "c": [
+         "Playground equipment in Jamalpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-katihar.html"
+        },
+        "c": [
+         "Playground equipment in Katihar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kishanganj.html"
+        },
+        "c": [
+         "Playground equipment in Kishanganj"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-motihari.html"
+        },
+        "c": [
+         "Playground equipment in Motihari"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-munger.html"
+        },
+        "c": [
+         "Playground equipment in Munger"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-muzaffarpur.html"
+        },
+        "c": [
+         "Playground equipment in Muzaffarpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-patna.html"
+        },
+        "c": [
+         "Playground equipment in Patna"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-purnia.html"
+        },
+        "c": [
+         "Playground equipment in Purnia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-saharsa.html"
+        },
+        "c": [
+         "Playground equipment in Saharsa"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-siwan.html"
+        },
+        "c": [
+         "Playground equipment in Siwan"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Bihar",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bihar.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Bihar",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Bihar"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Bihar. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you supply playground equipment to government and private schools in Bihar?",
+    "Yes. We supply schools of every size. Share the ground measurements, the number of children and their ages, and we will send a layout drawing and a quote."
+   ],
+   [
+    "Which foundation is better on flood-prone ground?",
+    "Grouted foundations on a raised, well-drained base hold equipment firmly through wet months. Self-standing installation suits paved or firm ground where drilling is not possible."
+   ],
+   [
+    "Can you deliver to smaller towns such as Buxar or Sasaram?",
+    "Yes. We send equipment by road from our Vasai factory to any town in Bihar, and our team or a dealer near you does the installation."
+   ]
+  ]
+ }
+}

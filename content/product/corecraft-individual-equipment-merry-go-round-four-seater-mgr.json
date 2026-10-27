@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Four Seater Merry-Go-Round | CoreCraft | FunPlay Systems",
+  "description": "Four Seater Merry-Go-Round (FPMGR04) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Four Seater Merry-Go-Round | CoreCraft | FunPlay Systems",
+   "og:description": "Four Seater Merry-Go-Round (FPMGR04) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html",
+   "og:image": "https://funplaysystems.com/images/Four-Seater-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Four Seater Merry-Go-Round",
+ "data": {
+  "name": "Four Seater Merry-Go-Round",
+  "sku": "FPMGR04",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #d3da12 0% 33.33%,\n                    #d11337 33.33% 66.66%,\n                    #93bbbb 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Four-Seater-Product-Image.jpg"
+    ],
+    "alts": [
+     "Four Seater MGR four-seater merry-go-round with red and yellow seats"
+    ]
+   }
+  ],
+  "description": "The Four Seater Merry-Go-Round is a classic round platform with red and yellow seats for four children. It suits a wide age band, with a Key User Group of 3 to 9 years, so siblings of different ages can ride together. Older children often push the platform while younger ones sit, which makes this a social piece as much as a ride. The platform is 6'5\" in diameter and the safe play area is a 12'5\" circle. It is a dependable choice for a school, society or public garden that wants one merry-go-round for many children. Colours are multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded seats, and bearings are covered for 1 year. Ask us for a quote and a site layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Four Seater MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/Four-Seater-Product-Image.jpg",
+  "cardImage": "/images/Four-Seater-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Four Seater Merry-Go-Round"
+    ],
+    "pText": "FPMGR04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #d3da12 0% 33.33%,\n                    #d11337 33.33% 66.66%,\n                    #93bbbb 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Four-Seater-Product-Image.jpg"
+       ],
+       "alts": [
+        "Four Seater MGR four-seater merry-go-round with red and yellow seats"
+       ]
+      }
+     ],
+     "name": "Four Seater Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Four Seater MGR four-seater merry-go-round with red and yellow seats\"]",
+      "divDataImgs": "[\"/images/Four-Seater-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d3da12 0% 33.33%, #d11337 33.33% 66.66%, #93bbbb 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Four Seater MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Four Seater Merry-Go-Round is a classic round platform with red and yellow seats for four children. It suits a wide age band, with a Key User Group of 3 to 9 years, so siblings of different ages can ride together. Older children often push the platform while younger ones sit, which makes this a social piece as much as a ride. The platform is 6'5\" in diameter and the safe play area is a 12'5\" circle. It is a dependable choice for a school, society or public garden that wants one merry-go-round for many children. Colours are multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded seats, and bearings are covered for 1 year. Ask us for a quote and a site layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications5",
+   "props": {
+    "pText": "The Four Seater is built on a galvanised steel frame with roto-moulded seats and a central bearing. On site, we fix it self-standing or by grouting. Children run around the platform to push it, so keep the full 12'5\" circle clear and level, and grease or check the bearing as part of routine maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 to 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 6'5\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 12'5\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Four Seater Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Four Seater Merry-Go-Round",
+   "sku": "FPMGR04",
+   "images": [
+    "/images/Four-Seater-Product-Image.jpg"
+   ],
+   "description": "The Four Seater Merry-Go-Round is a classic round platform with red and yellow seats for four children. It suits a wide age band, with a Key User Group of 3 to 9 years, so siblings of different ages can ride together. Older children often push the platform while younger ones sit, which makes this a social piece as much as a ride. The platform is 6'5\" in diameter and the safe play area is a 12'5\" circle. It is a dependable choice for a school, society or public garden that wants one merry-go-round for many children. Colours are multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded seats, and bearings are covered for 1 year. Ask us for a quote and a site layout.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "Diameter 12'5\""
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

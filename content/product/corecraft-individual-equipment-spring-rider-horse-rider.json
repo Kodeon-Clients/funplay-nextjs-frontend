@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/horse-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Horse Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Horse Spring Rider (FPSR07) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/horse-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Horse Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Horse Spring Rider (FPSR07) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/horse-rider.html",
+   "og:image": "https://funplaysystems.com/images/Spring-Riders-2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Horse Spring Rider",
+ "data": {
+  "name": "Horse Spring Rider",
+  "sku": "FPSR07",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "background-color: #d45d1b",
+    "images": [
+     "/images/Spring-Riders-2.jpg"
+    ],
+    "alts": [
+     "Horse Rider orange horse-shaped spring rider with handlebar"
+    ]
+   }
+  ],
+  "description": "The Horse Spring Rider is a Play Orange horse with a handlebar, set on a spring. A child sits astride the horse, holds the handlebar and rocks it to and fro, much like a rocking horse. The horse is a classic shape that most children recognise, and it gives toddlers an easy introduction to balance play. It fits a play school, nursery or society garden, and its orange colour adds a warm contrast to green lawns. Because it takes up so little ground, you can place it near a toddler swing or small slide. Our warranty covers the roto-moulded horse for 3 years and the spring for 1 year. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Horse Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/Spring-Riders-2.jpg",
+  "cardImage": "/images/Spring-Riders-2.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Horse Spring Rider"
+    ],
+    "pText": "FPSR07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "background-color: #d45d1b",
+       "images": [
+        "/images/Spring-Riders-2.jpg"
+       ],
+       "alts": [
+        "Horse Rider orange horse-shaped spring rider with handlebar"
+       ]
+      }
+     ],
+     "name": "Horse Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Horse Rider orange horse-shaped spring rider with handlebar\"]",
+      "divDataImgs": "[\"/images/Spring-Riders-2.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#d45d1b"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Horse Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Horse Spring Rider is a Play Orange horse with a handlebar, set on a spring. A child sits astride the horse, holds the handlebar and rocks it to and fro, much like a rocking horse. The horse is a classic shape that most children recognise, and it gives toddlers an easy introduction to balance play. It fits a play school, nursery or society garden, and its orange colour adds a warm contrast to green lawns. Because it takes up so little ground, you can place it near a toddler swing or small slide. Our warranty covers the roto-moulded horse for 3 years and the spring for 1 year. Ask us for a quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The horse is roto-moulded and fixed to a steel spring, with a handlebar for grip. It is installed self-standing or grouted, depending on your base. Keep an impact-absorbing surface under the rider and check the handlebar, spring and base bolts at regular intervals."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Horse Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/horse-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Horse Spring Rider",
+   "sku": "FPSR07",
+   "images": [
+    "/images/Spring-Riders-2.jpg"
+   ],
+   "description": "The Horse Spring Rider is a Play Orange horse with a handlebar, set on a spring. A child sits astride the horse, holds the handlebar and rocks it to and fro, much like a rocking horse. The horse is a classic shape that most children recognise, and it gives toddlers an easy introduction to balance play. It fits a play school, nursery or society garden, and its orange colour adds a warm contrast to green lawns. Because it takes up so little ground, you can place it near a toddler swing or small slide. Our warranty covers the roto-moulded horse for 3 years and the spring for 1 year. Ask us for a quote.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

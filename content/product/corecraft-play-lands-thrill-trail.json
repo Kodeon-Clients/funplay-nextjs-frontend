@@ -1,0 +1,700 @@
+{
+ "path": "/corecraft/play-lands/thrill-trail.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Thrill Trail Multi Play Station | CoreCraft | FunPlay",
+  "description": "Thrill Trail Multi Play Station (PLAMPFS06) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/thrill-trail.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Thrill Trail Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Thrill Trail Multi Play Station (PLAMPFS06) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/thrill-trail.html",
+   "og:image": "https://funplaysystems.com/images/play-lands-three-trail-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Thrill Trail Multi Play Station",
+ "data": {
+  "name": "Thrill Trail",
+  "sku": "PLAMPFS06",
+  "colours": [
+   {
+    "name": "Crazy Pink & Sand Beige",
+    "swatch": "background: linear-gradient(to right, #e50026 50%, #dcc6a9 50%);",
+    "images": [
+     "/images/play-lands-three-trail-1.jpg",
+     "/images/play-lands-three-trail-2.jpg",
+     "/images/play-lands-three-trail.jpg"
+    ],
+    "alts": [
+     "Thrill Trail pink and sand playground with mushroom canopies, slides and swing set",
+     "Aerial view of Thrill Trail pink multi play station with slides, rock wall and swings",
+     "Top view of Thrill Trail playground showing towers, bridges and slides"
+    ]
+   }
+  ],
+  "description": "Mushroom-shaped canopies top the towers of Thrill Trail, finished in Crazy Pink and Sand Beige. Bridges link the towers, a rock wall gives children a harder way up and the slides bring everyone down. A swing set is attached to the structure, so swinging happens alongside climbing and hanging. Key users are 3 to 12 years, with the age group starting at 3. It covers 45'9\" x 33'8\" and needs a safe play area of 50'9\" x 39'8\", and the listed capacity is 15. The softer colours suit a resort lawn or a residential project that wants something other than the usual red and blue. The 3-year warranty applies to the galvanised pipe, roto-moulded parts, composite laminates and play rope used in Thrill Trail. Ask us for a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "Thrill Trail"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/play-lands-three-trail-1.jpg",
+  "cardImage": "/images/play-lands-three-trail-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Thrill Trail ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS06",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Crazy Pink & Sand Beige",
+       "swatch": "background: linear-gradient(to right, #e50026 50%, #dcc6a9 50%);",
+       "images": [
+        "/images/play-lands-three-trail-1.jpg",
+        "/images/play-lands-three-trail-2.jpg",
+        "/images/play-lands-three-trail.jpg"
+       ],
+       "alts": [
+        "Thrill Trail pink and sand playground with mushroom canopies, slides and swing set",
+        "Aerial view of Thrill Trail pink multi play station with slides, rock wall and swings",
+        "Top view of Thrill Trail playground showing towers, bridges and slides"
+       ]
+      }
+     ],
+     "name": "Thrill Trail"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Thrill Trail pink and sand playground with mushroom canopies, slides and swing set\", \"Aerial view of Thrill Trail pink multi play station with slides, rock wall and swings\", \"Top view of Thrill Trail playground showing towers, bridges and slides\"]",
+      "divDataImgs": "[\"/images/play-lands-three-trail-1.jpg\", \"/images/play-lands-three-trail-2.jpg\", \"/images/play-lands-three-trail.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #e50026 50%, #dcc6a9 50%)"
+      },
+      "divText": "",
+      "spanText": "Crazy Pink & Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Thrill Trail"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Mushroom-shaped canopies top the towers of Thrill Trail, finished in Crazy Pink and Sand Beige. Bridges link the towers, a rock wall gives children a harder way up and the slides bring everyone down. A swing set is attached to the structure, so swinging happens alongside climbing and hanging. Key users are 3 to 12 years, with the age group starting at 3. It covers 45'9\" x 33'8\" and needs a safe play area of 50'9\" x 39'8\", and the listed capacity is 15. The softer colours suit a resort lawn or a residential project that wants something other than the usual red and blue. The 3-year warranty applies to the galvanised pipe, roto-moulded parts, composite laminates and play rope used in Thrill Trail. Ask us for a layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Thrill Trail playground layout",
+    "imgSrc": "/images/Thrill-Trail.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1394.46 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1026.16 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Galvanised posts carry the towers, bridges and swing beam, and the canopies and slides are roto-moulded. Our installers fix it self-standing or grouted, whichever your ground allows. Swings need clear space in front and behind, so mark that within the 50'9\" x 39'8\" zone. Check swing hangers, seats and canopy fixings at each service visit.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "45'9\" x 33'8\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "50'9\" x 39'8\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Thrill Trail Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/thrill-trail.html"
+   ]
+  ],
+  "product": {
+   "name": "Thrill Trail",
+   "sku": "PLAMPFS06",
+   "images": [
+    "/images/play-lands-three-trail-1.jpg",
+    "/images/play-lands-three-trail-2.jpg",
+    "/images/play-lands-three-trail.jpg"
+   ],
+   "description": "Mushroom-shaped canopies top the towers of Thrill Trail, finished in Crazy Pink and Sand Beige. Bridges link the towers, a rock wall gives children a harder way up and the slides bring everyone down. A swing set is attached to the structure, so swinging happens alongside climbing and hanging. Key users are 3 to 12 years, with the age group starting at 3. It covers 45'9\" x 33'8\" and needs a safe play area of 50'9\" x 39'8\", and the listed capacity is 15. The softer colours suit a resort lawn or a residential project that wants something other than the usual red and blue. The 3-year warranty applies to the galvanised pipe, roto-moulded parts, composite laminates and play rope used in Thrill Trail. Ask us for a layout.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Crazy Pink & Sand Beige"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "50'9\" x 39'8\""
+    ],
+    [
+     "Length",
+     "1394.46 cm"
+    ],
+    [
+     "Width",
+     "1026.16 cm"
+    ],
+    [
+     "Colour options",
+     "Crazy Pink & Sand Beige"
+    ]
+   ]
+  }
+ }
+}

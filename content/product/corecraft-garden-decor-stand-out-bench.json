@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/stand-out-bench.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Stand Out Bench | CoreCraft | FunPlay Systems",
+  "description": "Stand Out Bench (FPGD005) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Stand Out Bench | CoreCraft | FunPlay Systems",
+   "og:description": "Stand Out Bench (FPGD005) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html",
+   "og:image": "https://funplaysystems.com/images/stand-out-bench-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Stand Out Bench",
+ "data": {
+  "name": "Stand Out Bench",
+  "sku": "FPGD005",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/stand-out-bench-product-image.jpg"
+    ],
+    "alts": [
+     "Stand Out Bench wooden-slat park bench with angular black steel frame"
+    ]
+   }
+  ],
+  "description": "The Stand Out Bench gets its name from an unusual frame. At one end the black steel frame rises well above the backrest in an angular loop, while the far end of the seat rests on a single green post. Wooden slats form the seat and back between the two. The uneven shape gives a modern campus, an IT park courtyard or a new residential project a seat that looks designed for the space. The listed colour is Sand Beige, but the photo shows a green leg, so confirm the frame colours you want. It is part of our CoreCraft garden decor range. Size and warranty terms are shared with the quote, together with a layout drawing if you need one.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Stand Out Bench"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/stand-out-bench-product-image.jpg",
+  "cardImage": "/images/stand-out-bench-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Stand Out Bench"
+    ],
+    "pText": "FPGD005",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/stand-out-bench-product-image.jpg"
+       ],
+       "alts": [
+        "Stand Out Bench wooden-slat park bench with angular black steel frame"
+       ]
+      }
+     ],
+     "name": "Stand Out Bench"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Stand Out Bench wooden-slat park bench with angular black steel frame\"]",
+      "divDataImgs": "[\"/images/stand-out-bench-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Stand Out Bench"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Stand Out Bench gets its name from an unusual frame. At one end the black steel frame rises well above the backrest in an angular loop, while the far end of the seat rests on a single green post. Wooden slats form the seat and back between the two. The uneven shape gives a modern campus, an IT park courtyard or a new residential project a seat that looks designed for the space. The listed colour is Sand Beige, but the photo shows a green leg, so confirm the frame colours you want. It is part of our CoreCraft garden decor range. Size and warranty terms are shared with the quote, together with a layout drawing if you need one."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "With a tall frame at one end and a single post at the other, this bench has to be fixed firmly, either bolted self-standing to a slab or grouted into soil. Check both fixing points and the slat screws at service visits. Children may try to climb the tall end, so place it away from play equipment and walkway corners."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Stand Out Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/stand-out-bench.html"
+   ]
+  ],
+  "product": {
+   "name": "Stand Out Bench",
+   "sku": "FPGD005",
+   "images": [
+    "/images/stand-out-bench-product-image.jpg"
+   ],
+   "description": "The Stand Out Bench gets its name from an unusual frame. At one end the black steel frame rises well above the backrest in an angular loop, while the far end of the seat rests on a single green post. Wooden slats form the seat and back between the two. The uneven shape gives a modern campus, an IT park courtyard or a new residential project a seat that looks designed for the space. The listed colour is Sand Beige, but the photo shows a green leg, so confirm the frame colours you want. It is part of our CoreCraft garden decor range. Size and warranty terms are shared with the quote, together with a layout drawing if you need one.",
+   "category": "Park Bench",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

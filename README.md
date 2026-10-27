@@ -6,7 +6,7 @@ current site, with the SEO fix pack, programmatic city pages, new copy and serve
 - Next.js 16 (App Router, static generation), React 19, TypeScript, Tailwind 4 (prefix `tw:`)
 - 1,048 pages generated at build time, 1,031 of them in the XML sitemaps
 - Forms run as Vercel functions (Mailgun email, optional Mailchimp and reCAPTCHA v3)
-- No database, no CMS. Content lives in `content/` as JSON
+- No database, no CMS. Pages are React components; their data lives in `content/` as JSON and MDX
 
 ## Going live on Vercel
 
@@ -39,59 +39,109 @@ them** and put only the new values into Vercel's environment variables.
 npm install
 cp .env.example .env.local   # fill in values if you want forms to send
 npm run dev                  # http://localhost:3000
+npm run lint                 # ESLint (flat config, eslint-config-next)
 npm run build && npm start   # production build
-ONLY_PATHS="/,/about-us.html" npm run build   # quick build of a few pages
+ONLY_PATHS="/,/about-us.html" npm run build   # quick build of a few templated pages
 ```
+
+### How pages are built
+
+Every page is React (JSX) rendered on the server. No page stores HTML as a string and nothing uses
+`dangerouslySetInnerHTML`.
+
+- **Core and one-off pages** (home, about, contact, products hub, careers, policies and so on) each have
+  their own route file, for example `app/(site)/about-us.html/page.tsx`. The route exports its metadata
+  from `content/pages/<page>.json` and renders section components from `components/pages/<page>/`,
+  passing each one its text from the same JSON (`section<Props>(page, "Name")`).
+- **Page families** that share one layout (668 city pages, 248 product pages, 53 blog posts) are rendered by
+  `app/(site)/[...slug]/page.tsx`. Their data lives in `content/city/`, `content/product/` and
+  `content/blog/` as JSON: SEO tags, structured-data inputs and a list of sections, each naming a
+  component from `components/templates/<family>/` and the props it takes. Text with inline formatting
+  is stored as structured data (`string` or a list of `{ tag, attrs, c }` segments), rendered by
+  `components/ui/Rich.tsx`.
+- **Blog article bodies** are MDX files in `content/blog/<slug>.mdx`, indexed in `content/blog/articles.ts`.
+- **Paid-ads landing pages** (`campaign`, `school`, `builders`, `generic`) live in `app/(landing)/` with
+  their own stylesheets; `/ads.html` lives in `app/(ads)/` with the stylesheet order of the original page.
 
 ### Where things are
 
 | Path | What it holds |
 | --- | --- |
-| `app/[[...slug]]/page.tsx` | One route that renders every content page at its original `.html` URL |
-| `app/{campaign,school,builders,generic}.html/route.ts` | Paid-ads landing pages served as their own documents (`lib/standalone.ts`, `content/standalone/`) |
+| `app/(site)/<page>.html/page.tsx` | One route file per core page |
+| `app/(site)/[...slug]/page.tsx` | City, product and blog pages from `content/{city,product,blog}/` |
+| `app/(landing)/`, `app/(ads)/` | Landing pages that keep their own CSS stack |
 | `app/api/*` | Form handlers: `contact`, `career`, `newsletter`, `download` |
-| `app/sitemap*.xml`, `app/search-index.json` | Sitemaps and the site search index, generated from content |
-| `content/pages/*.json` | Every page: SEO tags, JSON-LD and body HTML |
-| `content/overrides/` | Small hand edits applied on top of the generated pages |
+| `app/sitemap*.xml`, `app/search-index.json` | Sitemaps and the site search index, generated from `lib/pages.ts` |
+| `content/pages/*.json` | SEO tags and structured-data inputs of each core page |
+| `content/{city,product,blog}/` | Data of the templated pages; blog bodies as `.mdx` |
 | `content/redirects.json` | 301 redirects (loaded in `next.config.ts`); `case-redirects.json` is handled in `proxy.ts` |
 | `content/images.json` | Image sizes and WebP variants used for `srcset` |
-| `components/` | Header, footer, popups and content blocks (FAQ, city facts, rich text, local links) |
-| `lib/render.tsx` | Turns page HTML into React (images, forms, galleries, blocks) |
+| `components/pages/`, `components/templates/`, `components/shared/` | Section components of the pages (their text comes from the JSON) |
+| `content/shared-sections.json`, `content/image-seo.json` | Text of shared sections; alt texts and image swaps from the content sheet |
+| `scripts/sheet/`, `.github/workflows/content-sheet.yml`, `docs/apps-script/` | Content sheet sync (see `docs/CONTENT-SHEET.md`) |
+| `components/ui/` | `Img` (srcset, alt texts from the sheet), `Icon`, `Rich` (formatted text), `Blocks`, galleries |
+| `lib/page.ts` | Page type and `buildMetadata()` |
+| `lib/pages.ts` | List of all pages (sitemaps, search index, static params) |
+| `lib/schema.ts`, `components/PageSchema.tsx` | JSON-LD: Organization, LocalBusiness, WebSite, plus page-level types |
+| `lib/fonts.ts` | Quicksand, Nunito and Inter self-hosted through `next/font` (`font-display: swap`) |
 | `lib/behaviors.ts` | Front-end behaviour that replaced jQuery and the theme scripts |
-| `lib/seo.ts` | Metadata and JSON-LD |
-| `styles/legacy/` | Original theme CSS, loaded in a cascade layer so the design is unchanged |
-| `public/` | Images, videos, PDFs, fonts, `robots.txt`, `llms.txt`, `ai.txt` |
-| `docs/` | Forms set-up, keyword map, review list for FunPlay |
+| `styles/theme/` | Theme CSS with unused rules removed (generated, see below) |
+| `styles/legacy/` | Original theme CSS, the input of the CSS clean-up |
+| `styles/icons.css` | Icons as inline SVG (generated, replaces the five icon fonts) |
+| `public/` | Images, videos, PDFs, text fonts, `robots.txt`, `llms.txt`, `ai.txt` |
+| `docs/` | Forms set-up, refactor report, keyword map, review list for FunPlay |
 
 ### Editing content
 
-Simple text changes can be made directly in `content/pages/*.json` (search for the sentence) or as an
-override in `content/overrides/`. Rebuild and deploy afterwards. Bigger changes (new city pages,
-rewritten product copy) go through the content pipeline below so they are not lost on the next run.
+**The SEO and content team edit through the content sheet** (Google Sheets: titles, meta descriptions,
+H1s, Open Graph, alt texts, image replacements and all page text). Publishing from the sheet commits to
+this repository and Vercel deploys it. Set-up and rules: `docs/CONTENT-SHEET.md`.
 
-Images: put new files in `public/images/` and run `npm run optimize-images` to create WebP variants.
+In the code:
 
-## Content pipeline (`pipeline/`)
+- **Text of any page:** the `sections` of its JSON file (`content/pages/`, `content/city/`,
+  `content/product/`); text of sections shared by several pages is in `content/shared-sections.json`.
+- **Title, description, canonical, Open Graph of any page:** the `seo` block of its JSON file.
+- **Blog post body:** the `.mdx` file in `content/blog/`; Markdown for text, JSX for images (`<Img />`) and FAQs (`<Faq />`).
+- **Alt texts and image swaps set from the sheet:** `content/image-seo.json`.
+- **Images:** put new files in `public/images/` and run `npm run optimize-images` to create WebP variants.
 
-The JSON in `content/` was generated from the original site files, and the scripts that did it are in
-`pipeline/tools/`, with the written copy in `pipeline/content-src/`. You only need them to regenerate
-content in bulk. `pipeline/` is excluded from the Vercel upload (`.vercelignore`) and from TypeScript.
+Changes made in the code flow back into the sheet automatically. Rebuild and deploy afterwards.
 
-To regenerate, copy the original site into `pipeline/source/`, then from inside `pipeline/`:
+### CSS and icons
 
-1. `python3 -I tools/fixpack/script/apply_seo_fixes.py --site source --out tools/fixed` then `cp -r tools/fixpack/new-pages/. tools/fixed/` (SEO fix pack)
-2. `python3 -I tools/extract.py tools/fixed source tools/extracted` (HTML to page JSON)
-3. `python3 -I tools/city_facts.py` and `python3 -I tools/product_facts.py` (fact sheets; need the Search Console export, the SEO fix list and the Originals catalogue text)
-4. `python3 -I tools/compose.py tools/extracted content-src ../content` (merges the written copy, city facts, FAQs, SEO fixes and redirects)
-5. `python3 -I tools/standalone.py tools/fixed ..` (landing pages)
-6. `python3 -I tools/sync_assets.py` (copies any referenced file missing from `public/`)
-7. Back in the site root: `npm run build-landing-css`, `npm run optimize-images`, `npm run build`
+The theme CSS in `styles/legacy/` is the source. Two steps produce what the site loads, and only need to
+run again after the theme CSS or the page markup changes a lot:
 
-Python 3.11+ with `beautifulsoup4` and `openpyxl` is needed.
+1. `npm run purge-css` removes rules no page uses (`scripts/purge-css.mjs`, with a safelist for classes
+   added by scripts) and writes `styles/theme/`.
+2. `python3 -I pipeline/tools/icons.py .` turns the icon-font rules into SVG masks in `styles/icons.css`
+   and removes the icon `@font-face` rules. The icon fonts it reads are in `pipeline/tools/icon-fonts/`
+   and are not served. Python 3.11+ with `fonttools` is needed.
 
-Checks (run against a local `npm start`): `tools/seo_audit.py` (titles, descriptions, H1s, canonicals, JSON-LD, links), `tools/check_urls.py`
-(every old URL still answers), `tools/validate_content.py` (copy rules: no em dashes, banned phrases,
-word counts, links), `tools/keyword_map.py` (rebuilds `docs/keyword-map.xlsx`).
+`npm run build-landing-css` compiles the Tailwind utilities of the thank-you and landing pages.
 
-The input files referred to in steps 3 and the keyword map (Search Console export, SEO fix list,
-catalogue PDF) are not in this package; paths are set at the top of each script.
+## Generators (`pipeline/`)
+
+The page components and JSON were generated from the original site, and the scripts that did it are in
+`pipeline/tools/`, with the written copy in `pipeline/content-src/`. Day-to-day edits do not need them, and
+**running a generator again overwrites the files it writes**, including any hand edits made since.
+Publish pending content-sheet edits before regenerating, and run the sheet set-up again afterwards
+(`docs/CONTENT-SHEET.md`, "Working on the code with the sheet in use").
+`pipeline/` is excluded from the Vercel upload (`.vercelignore`) and from TypeScript.
+
+From inside `pipeline/` (Python 3.11+ with `beautifulsoup4`, `openpyxl`, `fonttools`):
+
+1. `python3 -I tools/jsx/build.py ..` page records (`tools/records/`) to route files, components and JSON
+2. `python3 -I tools/jsx/landing.py ..` landing pages
+3. `python3 -I tools/jsx/schema_data.py ..` structured-data inputs in each page's JSON
+4. In the site root: `npm run purge-css`, `python3 -I pipeline/tools/icons.py .`, `npm run build`
+
+The page records in `tools/records/` were produced from the original site files and the SEO fix pack
+(`tools/fixpack/`, `tools/extract.py`, `tools/compose.py` with `tools/records` as output,
+`tools/standalone.py`); the input files those need (original site, Search Console export, SEO fix list,
+catalogue PDF) are not in this package.
+
+Checks (run against a local `npm start`): `tools/check_urls.py` (every old URL still answers),
+`tools/schema_audit.py` (JSON-LD), `tools/a11y_audit.py` (labels, alt text, headings, landmarks),
+`tools/seo_audit.py`, `tools/validate_content.py` (copy rules), `tools/keyword_map.py tools/records ../docs`.

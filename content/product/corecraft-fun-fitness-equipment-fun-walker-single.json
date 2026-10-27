@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/fun-walker-single.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fun Walker Single Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Fun Walker Single Outdoor Gym Equipment (FFE001S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-walker-single.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fun Walker Single Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Fun Walker Single Outdoor Gym Equipment (FFE001S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-walker-single.html",
+   "og:image": "https://funplaysystems.com/images/Fun-Walker-Single-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fun Walker Single Outdoor Gym Equipment",
+ "data": {
+  "name": "Fun Walker Single",
+  "sku": "FFE001S",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Fun-Walker-Single-product-image.jpg"
+    ],
+    "alts": [
+     "Fun Walker Single single-user outdoor air walker with orange foot pedals"
+    ]
+   }
+  ],
+  "description": "The Fun Walker Single is our one-person air walker, with orange foot pedals hung from a frame and handles to hold. The user swings the legs in a long walking stride without the feet touching the ground, a smooth, low-impact movement. A single unit fits small spaces such as a society terrace, a hospital garden or the corner of a school ground, where a double frame would crowd the area. Like most of our Fun Fitness machines it is finished in Play Orange, though its size is not yet listed. Our team will confirm cover for the Fun Walker Single; under our standard terms, galvanised pipes carry 3 years and bearings 1 year. Send us a photo of the space and we will check the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Fun Walker Single"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Fun-Walker-Single-product-image.jpg",
+  "cardImage": "/images/Fun-Walker-Single-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fun Walker Single ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE001S",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Fun-Walker-Single-product-image.jpg"
+       ],
+       "alts": [
+        "Fun Walker Single single-user outdoor air walker with orange foot pedals"
+       ]
+      }
+     ],
+     "name": "Fun Walker Single"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fun Walker Single single-user outdoor air walker with orange foot pedals\"]",
+      "divDataImgs": "[\"/images/Fun-Walker-Single-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fun Walker Single"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Fun Walker Single is our one-person air walker, with orange foot pedals hung from a frame and handles to hold. The user swings the legs in a long walking stride without the feet touching the ground, a smooth, low-impact movement. A single unit fits small spaces such as a society terrace, a hospital garden or the corner of a school ground, where a double frame would crowd the area. Like most of our Fun Fitness machines it is finished in Play Orange, though its size is not yet listed. Our team will confirm cover for the Fun Walker Single; under our standard terms, galvanised pipes carry 3 years and bearings 1 year. Send us a photo of the space and we will check the fit."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "On a single air walker, the two pedal arms and their bearings take all the movement. Inspect them during maintenance and grease if they start to squeak. A single walker is light enough to go in self-standing on firm ground, or grouted on soft soil. Keep the swing area in front and behind free of planters and benches."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Fun Walker Single Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-walker-single.html"
+   ]
+  ],
+  "product": {
+   "name": "Fun Walker Single",
+   "sku": "FFE001S",
+   "images": [
+    "/images/Fun-Walker-Single-product-image.jpg"
+   ],
+   "description": "The Fun Walker Single is our one-person air walker, with orange foot pedals hung from a frame and handles to hold. The user swings the legs in a long walking stride without the feet touching the ground, a smooth, low-impact movement. A single unit fits small spaces such as a society terrace, a hospital garden or the corner of a school ground, where a double frame would crowd the area. Like most of our Fun Fitness machines it is finished in Play Orange, though its size is not yet listed. Our team will confirm cover for the Fun Walker Single; under our standard terms, galvanised pipes carry 3 years and bearings 1 year. Send us a photo of the space and we will check the fit.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

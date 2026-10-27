@@ -155,11 +155,7 @@ function scanJsonValue(v) {
   else if (v && typeof v === "object") Object.values(v).forEach(scanJsonValue);
 }
 
-const scanned = [
-  ...listFiles(path.join(SITE, "content", "pages"), [".json"]),
-  ...listFiles(path.join(SITE, "content", "overrides"), [".json"]),
-  ...listFiles(path.join(SITE, "content", "styles"), [".json"]),
-];
+const scanned = listFiles(path.join(SITE, "content"), [".json"]).filter((f) => !f.endsWith("images.json"));
 for (const f of scanned) {
   // Parse so that escaped strings (data-imgs JSON arrays, \" quotes) are seen in their real form.
   try {
@@ -171,6 +167,8 @@ for (const f of scanned) {
 const codeFiles = [
   ...listFiles(path.join(SITE, "styles"), [".css"]),
   ...listFiles(path.join(SITE, "components"), [".tsx"]),
+  ...listFiles(path.join(SITE, "content"), [".mdx"]),
+  ...listFiles(path.join(SITE, "public", "css"), [".css"]),
   ...listFiles(path.join(SITE, "lib"), [".ts", ".tsx"]),
   ...listFiles(path.join(SITE, "app"), [".ts", ".tsx"]),
 ];

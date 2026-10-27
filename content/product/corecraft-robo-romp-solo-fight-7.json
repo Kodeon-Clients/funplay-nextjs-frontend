@@ -1,0 +1,725 @@
+{
+ "path": "/corecraft/robo-romp/solo-fight-7.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Solo Fight 7 Robot Multi Play Station | CoreCraft | FunPlay",
+  "description": "Solo Fight 7 Robot Multi Play Station (ROBMPFS02) from the CoreCraft Robo Romp range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-7.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Solo Fight 7 Robot Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Solo Fight 7 Robot Multi Play Station (ROBMPFS02) from the CoreCraft Robo Romp range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-7.html",
+   "og:image": "https://funplaysystems.com/images/Solo-Fight-7-red-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Solo Fight 7 Robot Multi Play Station",
+ "data": {
+  "name": "Solo Fight 7",
+  "sku": "ROBMPFS02",
+  "colours": [
+   {
+    "name": "Play Red & Lavender Dilly",
+    "swatch": "background: linear-gradient(to right, #c62d27 50%, #b1bdd0 50%);",
+    "images": [
+     "/images/Solo-Fight-7-red-product-image.jpg",
+     "/images/Solo-Fight-7-red-product-image.jpg"
+    ],
+    "alts": [
+     "Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder",
+     "Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder"
+    ]
+   },
+   {
+    "name": "Knight Blue & Mango Yellow",
+    "swatch": "background: linear-gradient(to right, #e0bb43 50%, #182647 50%);",
+    "images": [
+     "/images/Solo-Fight-7-blue-product-image.jpg",
+     "/images/Solo-Fight-7-blue-product-image.jpg"
+    ],
+    "alts": [
+     "Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides",
+     "Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides"
+    ]
+   },
+   {
+    "name": "Play Orange & Forest Green",
+    "swatch": "background: linear-gradient(to right, #d96a25 50%, #326459 50%);",
+    "images": [
+     "/images/Solo-Fight-7-orange-product-image.jpg",
+     "/images/Solo-Fight-7-orange2-product-image.jpg"
+    ],
+    "alts": [
+     "Solo Fight 7 robot-themed tower in play orange and forest green with two spiral tube slides",
+     "Top view of Solo Fight 7 robot tower with ladder and two spiral tube slides"
+    ]
+   }
+  ],
+  "description": "Solo Fight 7 is a robot-themed tower with a ladder up one side and two spiral tube slides winding down from the deck. Next to Solo Fight-5 it takes a little more ground, with a product area of 21'11\" x 10'4\". The spiral tubes give a longer, turning ride that children in the 5 to 12 key user group enjoy repeating. It is listed for ages 5+ with a capacity of 15. Colour choices are Play Red and Lavender Dilly, Knight Blue and Mango Yellow, or Play Orange and Forest Green. Allow a safe play area of 27'11\" x 14'4\". Manufacturing defects in the galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Ask for a layout to see how it sits on your plot.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Robo Romp",
+   "Solo Fight 7"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/robo-romp.html",
+  "image": "/images/Solo-Fight-7-red-product-image.jpg",
+  "cardImage": "/images/Solo-Fight-7-red-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Solo Fight 7 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Robot Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "ROBMPFS02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Lavender Dilly",
+       "swatch": "background: linear-gradient(to right, #c62d27 50%, #b1bdd0 50%);",
+       "images": [
+        "/images/Solo-Fight-7-red-product-image.jpg",
+        "/images/Solo-Fight-7-red-product-image.jpg"
+       ],
+       "alts": [
+        "Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder",
+        "Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder"
+       ]
+      },
+      {
+       "name": "Knight Blue & Mango Yellow",
+       "swatch": "background: linear-gradient(to right, #e0bb43 50%, #182647 50%);",
+       "images": [
+        "/images/Solo-Fight-7-blue-product-image.jpg",
+        "/images/Solo-Fight-7-blue-product-image.jpg"
+       ],
+       "alts": [
+        "Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides",
+        "Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides"
+       ]
+      },
+      {
+       "name": "Play Orange & Forest Green",
+       "swatch": "background: linear-gradient(to right, #d96a25 50%, #326459 50%);",
+       "images": [
+        "/images/Solo-Fight-7-orange-product-image.jpg",
+        "/images/Solo-Fight-7-orange2-product-image.jpg"
+       ],
+       "alts": [
+        "Solo Fight 7 robot-themed tower in play orange and forest green with two spiral tube slides",
+        "Top view of Solo Fight 7 robot tower with ladder and two spiral tube slides"
+       ]
+      }
+     ],
+     "name": "Solo Fight 7"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder\", \"Solo Fight 7 robot-themed tower in play red and lavender with two spiral tube slides and ladder\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-7-red-product-image.jpg\", \"/images/Solo-Fight-7-red-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #c62d27 50%, #b1bdd0 50%)"
+      },
+      "divText": "",
+      "spanText": "Play Red & Lavender Dilly"
+     },
+     {
+      "divDataAlts": "[\"Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides\", \"Solo Fight 7 robot-themed tower in knight blue and mango yellow with two spiral tube slides\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-7-blue-product-image.jpg\", \"/images/Solo-Fight-7-blue-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #e0bb43 50%, #182647 50%)"
+      },
+      "divText": "",
+      "spanText": "Knight Blue & Mango Yellow"
+     },
+     {
+      "divDataAlts": "[\"Solo Fight 7 robot-themed tower in play orange and forest green with two spiral tube slides\", \"Top view of Solo Fight 7 robot tower with ladder and two spiral tube slides\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-7-orange-product-image.jpg\", \"/images/Solo-Fight-7-orange2-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #d96a25 50%, #326459 50%)"
+      },
+      "divText": "",
+      "spanText": "Play Orange & Forest Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/robo-romp.html"
+        },
+        "c": [
+         "Robo Romp"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Solo Fight 7"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Solo Fight 7 is a robot-themed tower with a ladder up one side and two spiral tube slides winding down from the deck. Next to Solo Fight-5 it takes a little more ground, with a product area of 21'11\" x 10'4\". The spiral tubes give a longer, turning ride that children in the 5 to 12 key user group enjoy repeating. It is listed for ages 5+ with a capacity of 15. Colour choices are Play Red and Lavender Dilly, Knight Blue and Mango Yellow, or Play Orange and Forest Green. Allow a safe play area of 27'11\" x 14'4\". Manufacturing defects in the galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Ask for a layout to see how it sits on your plot."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/robo-romp/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Solo Fight 7 ft height robot tower",
+    "imgSrc": "/images/Solo-Fight-7-ft-ht.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "668.02 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "314.96 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Galvanised steel posts carry the deck, ladder and canopy, and the spiral tubes are roto-moulded. Installation is grouted or self-standing to suit your ground. The two tube exits can face different ways, so check both landings on the layout and surface the full 27'11\" x 14'4\" zone. Keep the tubes free of leaves and standing water.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "21'11\" X 10'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "27'11\" x 14'4\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Robo Romp",
+    "https://funplaysystems.com/corecraft/robo-romp.html"
+   ],
+   [
+    "Solo Fight 7 Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/solo-fight-7.html"
+   ]
+  ],
+  "product": {
+   "name": "Solo Fight 7",
+   "sku": "ROBMPFS02",
+   "images": [
+    "/images/Solo-Fight-7-red-product-image.jpg",
+    "/images/Solo-Fight-7-red-product-image.jpg",
+    "/images/Solo-Fight-7-blue-product-image.jpg",
+    "/images/Solo-Fight-7-blue-product-image.jpg",
+    "/images/Solo-Fight-7-orange-product-image.jpg",
+    "/images/Solo-Fight-7-orange2-product-image.jpg"
+   ],
+   "description": "Solo Fight 7 is a robot-themed tower with a ladder up one side and two spiral tube slides winding down from the deck. Next to Solo Fight-5 it takes a little more ground, with a product area of 21'11\" x 10'4\". The spiral tubes give a longer, turning ride that children in the 5 to 12 key user group enjoy repeating. It is listed for ages 5+ with a capacity of 15. Colour choices are Play Red and Lavender Dilly, Knight Blue and Mango Yellow, or Play Orange and Forest Green. Allow a safe play area of 27'11\" x 14'4\". Manufacturing defects in the galvanised pipe, roto-moulded parts, composite laminates and play rope are covered for 3 years. Ask for a layout to see how it sits on your plot.",
+   "category": "Robot Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/robo-romp.html",
+   "colours": [
+    "Play Red & Lavender Dilly",
+    "Knight Blue & Mango Yellow",
+    "Play Orange & Forest Green"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "27'11\" x 14'4\""
+    ],
+    [
+     "Length",
+     "668.02 cm"
+    ],
+    [
+     "Width",
+     "314.96 cm"
+    ]
+   ]
+  }
+ }
+}

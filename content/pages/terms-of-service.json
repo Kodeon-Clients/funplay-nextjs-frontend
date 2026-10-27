@@ -1,0 +1,113 @@
+{
+ "path": "/terms-of-service.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Terms of Service | FunPlay Systems",
+  "description": "Terms and conditions for using funplaysystems.com and for FunPlay Systems Private Limited products and services.",
+  "canonical": "https://funplaysystems.com/terms-of-service.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Terms of Service | FunPlay Systems",
+   "og:description": "Terms and conditions for using funplaysystems.com and for FunPlay Systems Private Limited products and services.",
+   "og:url": "https://funplaysystems.com/terms-of-service.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Terms of Service",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "TermsOfService",
+   "props": {
+    "h1Text": "Terms of Service"
+   }
+  },
+  {
+   "component": "AcceptanceOfTerms",
+   "props": {
+    "h2Text": "1. Acceptance of Terms",
+    "pText": "By accessing and using FunPlay Systems Pvt Ltd's website, you agree to be bound by these Terms and Conditions. If you do not agree with any of these terms, you are prohibited from using or accessing this site.",
+    "h3Text": "2. Use of Content",
+    "pText2": "All content provided on this website is for informational purposes only. It is subject to change without notice.",
+    "h4Text": "3. Intellectual Property",
+    "pText3": "The content, design, and graphics on this website are the property of FunPlay Systems Pvt Ltd and are protected by intellectual property laws. Unauthorized use of any materials on this site may violate copyright, trademark, and other laws.",
+    "items": [
+     {
+      "h5Text": "4. Limitation of Liability",
+      "pText": [
+       "FunPlay Systems Pvt Ltd shall not be liable for any damages arising out of the use or inability to use the materials on this website, even if advised of the possibility of such damage."
+      ]
+     },
+     {
+      "h5Text": "5. Product Information",
+      "pText": [
+       "While we strive to provide accurate product information, we do not warrant the completeness or accuracy of this information. Prices and availability are subject to change without notice."
+      ]
+     },
+     {
+      "h5Text": "6. Third-Party Links",
+      "pText": [
+       "This website may contain links to third-party websites for your convenience. FunPlay Systems Pvt Ltd does not endorse or control the content of these websites and is not responsible for any damages or losses incurred as a result of your use of these links."
+      ]
+     },
+     {
+      "h5Text": "7. Privacy Policy",
+      "pText": [
+       "Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and safeguard your personal information."
+      ]
+     },
+     {
+      "h5Text": "8. Governing Law",
+      "pText": [
+       "These Terms and Conditions shall be governed by and construed in accordance with the laws of [Insert jurisdiction]. Any disputes arising out of these terms shall be subject to the exclusive jurisdiction of the courts in [Insert jurisdiction]."
+      ]
+     },
+     {
+      "h5Text": "9. Updates to Terms",
+      "pText": [
+       "FunPlay Systems Pvt Ltd reserves the right to update or modify these Terms and Conditions at any time without prior notice. It is your responsibility to review these terms periodically for changes."
+      ]
+     },
+     {
+      "h5Text": "10. Contact Information",
+      "pText": [
+       "If you have any questions or concerns regarding these Terms and Conditions, please contact us at ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "mailto:sales@funplaysystems.com"
+        },
+        "c": [
+         "sales@funplaysystems.com"
+        ]
+       },
+       "."
+      ]
+     }
+    ],
+    "pText4": "By using this website, you acknowledge that you have read, understood, and agree to abide by these Terms and Conditions."
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Terms of Service",
+    "https://funplaysystems.com/terms-of-service.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/fun-rower.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fun Rower Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Fun Rower Outdoor Gym Equipment (FFE022) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rower.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fun Rower Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Fun Rower Outdoor Gym Equipment (FFE022) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rower.html",
+   "og:image": "https://funplaysystems.com/images/Fun-Rower-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fun Rower Outdoor Gym Equipment",
+ "data": {
+  "name": "Fun Rower",
+  "sku": "FFE022",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Fun-Rower-product-image.jpg"
+    ],
+    "alts": [
+     "Fun Rower outdoor rowing machine with orange seat and footrests"
+    ]
+   }
+  ],
+  "description": "The Fun Rower copies a rowing action outdoors, with an orange seat and footrests. The user sits, braces the feet and pulls the handles towards the chest, then lets them go back, working the back, arms and legs in one smooth movement. Because it is seated and steady, it suits a wide group, from office staff on a campus to retired residents in a society. It is finished in Play Orange as part of our Fun Fitness range. Ask our sales team for its footprint and warranty terms before you plan the layout. For the Fun Rower, the warranty will be confirmed with your quote; our usual terms cover galvanised pipes for 3 years and bearings for 1 year. Ask us for a layout that groups it with other machines.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Fun Rower"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Fun-Rower-product-image.jpg",
+  "cardImage": "/images/Fun-Rower-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fun Rower ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE022",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Fun-Rower-product-image.jpg"
+       ],
+       "alts": [
+        "Fun Rower outdoor rowing machine with orange seat and footrests"
+       ]
+      }
+     ],
+     "name": "Fun Rower"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fun Rower outdoor rowing machine with orange seat and footrests\"]",
+      "divDataImgs": "[\"/images/Fun-Rower-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fun Rower"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Fun Rower copies a rowing action outdoors, with an orange seat and footrests. The user sits, braces the feet and pulls the handles towards the chest, then lets them go back, working the back, arms and legs in one smooth movement. Because it is seated and steady, it suits a wide group, from office staff on a campus to retired residents in a society. It is finished in Play Orange as part of our Fun Fitness range. Ask our sales team for its footprint and warranty terms before you plan the layout. For the Fun Rower, the warranty will be confirmed with your quote; our usual terms cover galvanised pipes for 3 years and bearings for 1 year. Ask us for a layout that groups it with other machines."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The rowing arm moves on pivots, which are the parts to inspect and grease. The Fun Rower can be self-standing or grouted. Set it on a level base so the seat sits square, and leave room at the front where the handles travel."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Fun Rower Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rower.html"
+   ]
+  ],
+  "product": {
+   "name": "Fun Rower",
+   "sku": "FFE022",
+   "images": [
+    "/images/Fun-Rower-product-image.jpg"
+   ],
+   "description": "The Fun Rower copies a rowing action outdoors, with an orange seat and footrests. The user sits, braces the feet and pulls the handles towards the chest, then lets them go back, working the back, arms and legs in one smooth movement. Because it is seated and steady, it suits a wide group, from office staff on a campus to retired residents in a society. It is finished in Play Orange as part of our Fun Fitness range. Ask our sales team for its footprint and warranty terms before you plan the layout. For the Fun Rower, the warranty will be confirmed with your quote; our usual terms cover galvanised pipes for 3 years and bearings for 1 year. Ask us for a layout that groups it with other machines.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,398 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Roto Platform Merry-Go-Round | CoreCraft | FunPlay Systems",
+  "description": "Roto Platform Merry-Go-Round (FPMGR01) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Roto Platform Merry-Go-Round | CoreCraft | FunPlay Systems",
+   "og:description": "Roto Platform Merry-Go-Round (FPMGR01) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html",
+   "og:image": "https://funplaysystems.com/images/Roto-Platform-MGR-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Roto Platform Merry-Go-Round",
+ "data": {
+  "name": "Roto Platform Merry-Go-Round",
+  "sku": "FPMGR01",
+  "colours": [
+   {
+    "name": "Sea Green & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #62a292 50%,\n                    #ebdc4d 50%\n                  );\n                ",
+    "images": [
+     "/images/Roto-Platform-MGR-Product-Image.jpg"
+    ],
+    "alts": [
+     "Roto Platform MGR green rotating platform merry-go-round with yellow hand rails"
+    ]
+   }
+  ],
+  "description": "The Roto Platform Merry-Go-Round is a green rotating platform ringed with yellow hand rails. Children stand or sit on the deck and hold the rails as it turns. It carries 4 to 6 children, the largest group among our 4' x 4' merry-go-rounds, and is meant for the 5 to 10 years Key User Group. The open deck lets children choose how they ride, which keeps older children interested for longer. The safe play area is 10' x 10'. Colours are Sea Green and Play Yellow. The roto-moulded platform and galvanised rails are covered by our 3-year warranty, with 1 year on bearings. Tell us how many children use your play area and we will suggest the right merry-go-round.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Roto Platform MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/Roto-Platform-MGR-Product-Image.jpg",
+  "cardImage": "/images/Roto-Platform-MGR-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Roto Platform Merry-Go-Round"
+    ],
+    "pText": "FPMGR01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sea Green & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #62a292 50%,\n                    #ebdc4d 50%\n                  );\n                ",
+       "images": [
+        "/images/Roto-Platform-MGR-Product-Image.jpg"
+       ],
+       "alts": [
+        "Roto Platform MGR green rotating platform merry-go-round with yellow hand rails"
+       ]
+      }
+     ],
+     "name": "Roto Platform Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Roto Platform MGR green rotating platform merry-go-round with yellow hand rails\"]",
+      "divDataImgs": "[\"/images/Roto-Platform-MGR-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #62a292 50%, #ebdc4d 50% )"
+      },
+      "divText": "",
+      "spanText": "Sea Green & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Roto Platform MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Roto Platform Merry-Go-Round is a green rotating platform ringed with yellow hand rails. Children stand or sit on the deck and hold the rails as it turns. It carries 4 to 6 children, the largest group among our 4' x 4' merry-go-rounds, and is meant for the 5 to 10 years Key User Group. The open deck lets children choose how they ride, which keeps older children interested for longer. The safe play area is 10' x 10'. Colours are Sea Green and Play Yellow. The roto-moulded platform and galvanised rails are covered by our 3-year warranty, with 1 year on bearings. Tell us how many children use your play area and we will suggest the right merry-go-round."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The platform is roto-moulded and the hand rails are galvanised steel, a pairing that copes with sun and rain. It goes in self-standing or grouted. With up to six children on board, check the central bearing regularly and keep the 10' x 10' zone free of benches, edging and other equipment.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 to 10 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4 - 6"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4' x 4'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10' x 10'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Roto Platform Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Roto Platform Merry-Go-Round",
+   "sku": "FPMGR01",
+   "images": [
+    "/images/Roto-Platform-MGR-Product-Image.jpg"
+   ],
+   "description": "The Roto Platform Merry-Go-Round is a green rotating platform ringed with yellow hand rails. Children stand or sit on the deck and hold the rails as it turns. It carries 4 to 6 children, the largest group among our 4' x 4' merry-go-rounds, and is meant for the 5 to 10 years Key User Group. The open deck lets children choose how they ride, which keeps older children interested for longer. The safe play area is 10' x 10'. Colours are Sea Green and Play Yellow. The roto-moulded platform and galvanised rails are covered by our 3-year warranty, with 1 year on bearings. Tell us how many children use your play area and we will suggest the right merry-go-round.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Sea Green & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "4 - 6"
+    ],
+    [
+     "Safe play area",
+     "10' x 10'"
+    ],
+    [
+     "Colour options",
+     "Sea Green & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

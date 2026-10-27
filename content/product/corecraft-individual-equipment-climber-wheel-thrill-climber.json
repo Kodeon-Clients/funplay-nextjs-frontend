@@ -1,0 +1,378 @@
+{
+ "path": "/corecraft/individual-equipment/climber/wheel-thrill-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Wheel Thrill Climber | CoreCraft | FunPlay Systems",
+  "description": "Wheel Thrill Climber (FPCL09) from the CoreCraft Climbers range: 15 kids at a time, safe play area 16'1\" x 9'7\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/wheel-thrill-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Wheel Thrill Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Wheel Thrill Climber (FPCL09) from the CoreCraft Climbers range: 15 kids at a time, safe play area 16'1\" x 9'7\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/wheel-thrill-climber.html",
+   "og:image": "https://funplaysystems.com/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Wheel Thrill Climber",
+ "data": {
+  "name": "Wheel Thrill Climber",
+  "sku": "FPCL09",
+  "colours": [
+   {
+    "name": "",
+    "swatch": "",
+    "images": [
+     "/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Wheel Thrill Climber A-frame climber with hanging rings, rope net and spinning wheels"
+    ]
+   }
+  ],
+  "description": "Hanging rings, a rope net and a set of spinning wheels all share one A-frame on the Wheel Thrill Climber. Children can climb the net, hang from the rings or turn the wheels, so a small group can play on it at once without waiting for a single route. The spinning wheels add a hands-on element that younger climbers enjoy, while the rings give older children a grip challenge. It takes up 11'1\" x 4'7\" and needs a safe play area of 16'1\" x 9'7\". That makes it a practical choice when a school or park wants several climbing activities on a slim footprint. Galvanised pipe, roto-moulded parts and play rope are covered by our 3-year warranty. Ask us for a quote and a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Wheel Thrill Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg",
+  "cardImage": "/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductWheelThrillClimber",
+   "props": {
+    "h1Text": "Wheel Thrill Climber",
+    "pText": "FPCL09",
+    "spanText": "Previous",
+    "spanText2": "Next",
+    "spanText3": "Multi Color",
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-base-color fw-600 btn-medium btn-rounded d-table d-lg-inline-block lg-mb-15px md-mx-auto popup-with-form",
+       "href": "#contact-form"
+      },
+      "c": [
+       "Get a Quote"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Wheel Thrill Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Hanging rings, a rope net and a set of spinning wheels all share one A-frame on the Wheel Thrill Climber. Children can climb the net, hang from the rings or turn the wheels, so a small group can play on it at once without waiting for a single route. The spinning wheels add a hands-on element that younger climbers enjoy, while the rings give older children a grip challenge. It takes up 11'1\" x 4'7\" and needs a safe play area of 16'1\" x 9'7\". That makes it a practical choice when a school or park wants several climbing activities on a slim footprint. Galvanised pipe, roto-moulded parts and play rope are covered by our 3-year warranty. Ask us for a quote and a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The A-frame is galvanised pipe and the net is play rope, both covered for 3 years. Moving parts such as bearings carry a 1-year warranty. Installation is self-standing or grouted. Check that the wheels spin freely, look over the rings and rope at each maintenance visit, and keep the 16'1\" x 9'7\" zone clear.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "11'1\" x 4'7\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'1\" x 9'7\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Wheel Thrill Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/wheel-thrill-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Wheel Thrill Climber",
+   "sku": "FPCL09",
+   "images": [
+    "/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg"
+   ],
+   "description": "Hanging rings, a rope net and a set of spinning wheels all share one A-frame on the Wheel Thrill Climber. Children can climb the net, hang from the rings or turn the wheels, so a small group can play on it at once without waiting for a single route. The spinning wheels add a hands-on element that younger climbers enjoy, while the rings give older children a grip challenge. It takes up 11'1\" x 4'7\" and needs a safe play area of 16'1\" x 9'7\". That makes it a practical choice when a school or park wants several climbing activities on a slim footprint. Galvanised pipe, roto-moulded parts and play rope are covered by our 3-year warranty. Ask us for a quote and a layout drawing.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "16'1\" x 9'7\""
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

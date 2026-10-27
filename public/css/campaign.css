@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
 
 
 .slider ul {
@@ -43,11 +43,11 @@ body {
 }
 
 .inter {
-    font-family: "Inter", sans-serif;
+    font-family: var(--font-inter), "Inter", sans-serif;
 }
 
 .quicksand {
-    font-family: "Quicksand", sans-serif;
+    font-family: var(--font-quicksand), "Quicksand", sans-serif;
 }
 
 .font_11_32 {
@@ -536,7 +536,7 @@ input[type="file"] {
     transition: 0.4s;
     margin: auto;
     display: block;
-    font-family: "Quicksand", sans-serif;
+    font-family: var(--font-quicksand), "Quicksand", sans-serif;
 }
 
 .box {

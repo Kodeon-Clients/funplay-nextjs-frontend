@@ -1,0 +1,378 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-haryana.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Haryana | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Haryana. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-haryana.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Haryana | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Haryana. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-haryana.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Haryana",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Haryana"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems manufactures outdoor playground equipment for builders, housing societies, schools and municipal parks across Haryana. The state's buyers vary a lot by region. Gurgaon has high-rise projects where the play area sits on a podium or in a landscaped central court. Faridabad has large public parks and older residential sectors. Sonipat, Rohtak, Karnal and Panipat have growing numbers of private schools that want equipment for several age groups."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We build every piece at our factory in Vasai, Maharashtra, with in-house design, roto-moulding and fabrication. The finished equipment travels to Haryana by road, and our team or a dealer in north India installs it. Before you order, we send a layout drawing with the safe play area marked, so the builder, the society committee or the school management can see exactly what goes where. You can approve it or ask for changes before we start manufacturing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Builders and podium play areas",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Builders in Gurgaon and Faridabad often need a play area that looks good in brochures and is ready before handover. On a podium slab we usually suggest self-standing equipment, so the waterproofing is not drilled. Confirm the load with your structural engineer first. On ground-level courts, grouted foundations are usually firmer, and we decide the method after seeing the site. Tell us the handover date early. A themed set from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev series"
+           ]
+          },
+          " or a CoreCraft multi play system gives the area a clear centrepiece. Gurgaon buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-gurgaon.html"
+           },
+           "c": [
+            "playground page for Gurgaon"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Dust, heat and winter fog",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Haryana summers are extremely hot and dusty, and winter brings dense fog. Roto-moulded parts keep their colour in strong sun, and galvanised posts resist rust through the monsoon and the damp winter. Trees on the west side of the play area keep slides cooler on May and June afternoons. Dust collects on slides and decks, so a regular wash keeps them smooth. Rubber flooring under swings and slides is safer than hard paving and easier to keep clean than sand. For adults in the same society, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-haryana.html"
+           },
+           "c": [
+            "outdoor gym equipment in Haryana"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Haryana",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Haryana",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-haryana.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can playground equipment be installed on a podium without drilling?",
+       "a": "Yes. Many pieces can be installed self-standing on a prepared base. Share the podium drawings and your engineer's guidance, and we will suggest equipment that suits the slab."
+      },
+      {
+       "q": "Do you supply playgrounds for new projects before handover?",
+       "a": "Yes. Builders share the site plan and handover date, and we plan the layout, manufacture at Vasai and install. Tell us your timeline early so dispatch can be planned around it."
+      },
+      {
+       "q": "Can we choose colours to match our project?",
+       "a": "Yes. Roto-moulded parts come in 15+ colour shades, and design customisation is available on request. We show the colours on the layout before manufacturing."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Haryana",
+    "h2Text": "Cities we supply in Haryana",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ambala.html"
+        },
+        "c": [
+         "Playground equipment in Ambala"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhiwani.html"
+        },
+        "c": [
+         "Playground equipment in Bhiwani"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-faridabad.html"
+        },
+        "c": [
+         "Playground equipment in Faridabad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gurgaon.html"
+        },
+        "c": [
+         "Playground equipment in Gurgaon"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karnal.html"
+        },
+        "c": [
+         "Playground equipment in Karnal"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-panchkula.html"
+        },
+        "c": [
+         "Playground equipment in Panchkula"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-panipat.html"
+        },
+        "c": [
+         "Playground equipment in Panipat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-rohtak.html"
+        },
+        "c": [
+         "Playground equipment in Rohtak"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-sirsa.html"
+        },
+        "c": [
+         "Playground equipment in Sirsa"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-sonipat.html"
+        },
+        "c": [
+         "Playground equipment in Sonipat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-yamunanagar.html"
+        },
+        "c": [
+         "Playground equipment in Yamunanagar"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Haryana",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-haryana.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Haryana",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Haryana"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Haryana. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can playground equipment be installed on a podium without drilling?",
+    "Yes. Many pieces can be installed self-standing on a prepared base. Share the podium drawings and your engineer's guidance, and we will suggest equipment that suits the slab."
+   ],
+   [
+    "Do you supply playgrounds for new projects before handover?",
+    "Yes. Builders share the site plan and handover date, and we plan the layout, manufacture at Vasai and install. Tell us your timeline early so dispatch can be planned around it."
+   ],
+   [
+    "Can we choose colours to match our project?",
+    "Yes. Roto-moulded parts come in 15+ colour shades, and design customisation is available on request. We show the colours on the layout before manufacturing."
+   ]
+  ]
+ }
+}

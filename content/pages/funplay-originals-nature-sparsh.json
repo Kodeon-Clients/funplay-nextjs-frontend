@@ -1,0 +1,303 @@
+{
+ "path": "/funplay-originals/nature-sparsh.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Nature Play Stations | Nature Sparsh | FunPlay",
+  "description": "Nature Sparsh play stations by FunPlay Originals: natural-look towers, slides and nets for schools and townships.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Nature Play Stations | Nature Sparsh | FunPlay",
+   "og:description": "Nature Sparsh play stations by FunPlay Originals: natural-look towers, slides and nets for schools and townships.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh.html",
+   "og:image": "https://funplaysystems.com/images/Ulta-Ghar-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Nature Sparsh Nature-Inspired Play Stations",
+ "data": {
+  "cardImage": "/images/Ulta-Ghar-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "NatureSparshNatureInspiredPlay",
+   "props": {
+    "h1Text": "Nature Sparsh Nature-Inspired Play Stations",
+    "h2Text": "Nature Sparsh"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Ulta Ghar upside-down house play structure with green tube slide",
+        "imgSrc": "/images/Ulta-Ghar-product-catalogue.jpg",
+        "aHref": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+        "aText": " View Product ",
+        "spanText": "Ulta Ghar",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "38.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #1f584c 50%, #67472e 50% )"
+        }
+       },
+       {
+        "imgAlt": "Aviral banana yellow multi play station with tube slide and net bridge",
+        "imgSrc": "/images/aviral-product-catalogue.jpg",
+        "aHref": "/funplay-originals/nature-sparsh/aviral.html",
+        "aText": " View Product ",
+        "spanText": "Aviral",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "55.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #dab025 50%, #080808 50% )"
+        }
+       },
+       {
+        "imgAlt": "Phula wooden-look play station with spiral slide and stepping arch climber",
+        "imgSrc": "/images/Phula-product-catalogue.webp",
+        "aHref": "/funplay-originals/nature-sparsh/phula.html",
+        "aText": " View Product ",
+        "spanText": "Phula",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "52.7M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #cb8936 0% 33.33%, #ddc7ab 33.33% 66.66%, #2d1900 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Archies wooden arch tower with yellow tube slide and blue slide on grass",
+        "imgSrc": "/images/archies-product-catalogue.webp",
+        "aHref": "/funplay-originals/nature-sparsh/archies.html",
+        "aText": " View Product ",
+        "spanText": "Archies",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "17.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d8d239 0% 33.33%, #7aadc7 33.33% 66.66%, #543408 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Barrel Barrel wooden play tower with blue wavy slide on grass",
+        "imgSrc": "/images/barrel-barrel-product-catalogue.jpg",
+        "aHref": "/funplay-originals/nature-sparsh/barrel-barrel.html",
+        "aText": " View Product ",
+        "spanText": "Barrel Barrel",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "6.8M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #000000 0% 33.33%, #7aadc7 33.33% 66.66%, #6b410d 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Card Pyramid triangular play tower in yellow and red",
+        "imgSrc": "/images/card-pyramid-product-catalogue.webp",
+        "aHref": "/funplay-originals/nature-sparsh/card-pyramid.html",
+        "aText": " View Product ",
+        "spanText": "Card Pyramid",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "4.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #ecd217 50%, #ce0c40 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Card Cook play station with red slide and net climber",
+        "imgSrc": "/images/card-crook-product-catalogue.jpg",
+        "aHref": "/funplay-originals/nature-sparsh/card-cook.html",
+        "aText": " View Product ",
+        "spanText": "Card Cook",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "14.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #97d534 0% 33.33%, #1f79ad 33.33% 66.66%, #df346b 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Fun wooden play frame with red slide, monkey bars and climbers",
+        "imgSrc": "/images/fun-thumb.jpg",
+        "aHref": "/funplay-originals/nature-sparsh/fun.html",
+        "aText": " View Product ",
+        "spanText": "Fun",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "20.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #f5ba00 0% 33.33%, #8bcd1e 33.33% 66.66%, #e11211 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Inframe tilted cube-frame play structure with lemon yellow tube slide",
+        "imgSrc": "/images/Inframe-product-catalogue.webp",
+        "aHref": "/funplay-originals/nature-sparsh/inframe.html",
+        "aText": " View Product ",
+        "spanText": "Inframe",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "22.3M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #c8d500 0% 33.33%, #142048 33.33% 66.66%, #c09b6d 66.66% 100% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh Nature-Inspired Play Stations",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Archies Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html"
+   ],
+   [
+    "Aviral Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/aviral.html"
+   ],
+   [
+    "Barrel Barrel Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/barrel-barrel.html"
+   ],
+   [
+    "Card Cook Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/card-cook.html"
+   ],
+   [
+    "Card Pyramid Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/card-pyramid.html"
+   ],
+   [
+    "Fun Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/fun.html"
+   ],
+   [
+    "Inframe Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html"
+   ],
+   [
+    "Phula Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/phula.html"
+   ],
+   [
+    "Ulta Ghar Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html"
+   ]
+  ]
+ }
+}

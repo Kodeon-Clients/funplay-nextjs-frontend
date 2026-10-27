@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/dumbo-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Dumbo Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Dumbo Spring Rider (FPSR02) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dumbo-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Dumbo Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Dumbo Spring Rider (FPSR02) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dumbo-rider.html",
+   "og:image": "https://funplaysystems.com/images/product-coming-soon.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Dumbo Spring Rider",
+ "data": {
+  "name": "Dumbo Spring Rider",
+  "sku": "FPSR02",
+  "colours": [
+   {
+    "name": "Green",
+    "swatch": "background-color: #498176",
+    "images": [
+     "/images/product-coming-soon.jpg"
+    ],
+    "alts": [
+     "\"Image coming soon\" graphic, replace with a real Dumbo Rider photo"
+    ]
+   }
+  ],
+  "description": "The Dumbo Spring Rider is one of our character spring riders, finished in Green. Like the others in the range, it carries one small child on a steel spring, and children rock or bounce it while holding on. Spring riders are simple, low and gentle, which makes them a safe-feeling first ride for toddlers. Societies and play schools often buy two or three different characters so that children can choose their favourite. If you are planning a toddler corner, the Dumbo Rider can sit beside our duck, horse or dinosaur riders. Its roto-moulded body has a 3-year warranty and the spring a 1-year warranty. Ask us for a photo and a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Dumbo Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/product-coming-soon.jpg",
+  "cardImage": "/images/product-coming-soon.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Dumbo Spring Rider"
+    ],
+    "pText": "FPSR02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Green",
+       "swatch": "background-color: #498176",
+       "images": [
+        "/images/product-coming-soon.jpg"
+       ],
+       "alts": [
+        "\"Image coming soon\" graphic, replace with a real Dumbo Rider photo"
+       ]
+      }
+     ],
+     "name": "Dumbo Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"\\\"Image coming soon\\\" graphic, replace with a real Dumbo Rider photo\"]",
+      "divDataImgs": "[\"/images/product-coming-soon.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#498176"
+      },
+      "divText": "",
+      "spanText": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Dumbo Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Dumbo Spring Rider is one of our character spring riders, finished in Green. Like the others in the range, it carries one small child on a steel spring, and children rock or bounce it while holding on. Spring riders are simple, low and gentle, which makes them a safe-feeling first ride for toddlers. Societies and play schools often buy two or three different characters so that children can choose their favourite. If you are planning a toddler corner, the Dumbo Rider can sit beside our duck, horse or dinosaur riders. Its roto-moulded body has a 3-year warranty and the spring a 1-year warranty. Ask us for a photo and a quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Its body is roto-moulded and fixed to a steel spring. We install it self-standing or with grouting. Keep the ground around the rider clear and soft, check the spring for wear and the base bolts for tightness during maintenance, and replace a worn spring promptly."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Dumbo Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/dumbo-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Dumbo Spring Rider",
+   "sku": "FPSR02",
+   "images": [
+    "/images/product-coming-soon.jpg"
+   ],
+   "description": "The Dumbo Spring Rider is one of our character spring riders, finished in Green. Like the others in the range, it carries one small child on a steel spring, and children rock or bounce it while holding on. Spring riders are simple, low and gentle, which makes them a safe-feeling first ride for toddlers. Societies and play schools often buy two or three different characters so that children can choose their favourite. If you are planning a toddler corner, the Dumbo Rider can sit beside our duck, horse or dinosaur riders. Its roto-moulded body has a 3-year warranty and the spring a 1-year warranty. Ask us for a photo and a quote.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Green"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Green"
+    ]
+   ]
+  }
+ }
+}

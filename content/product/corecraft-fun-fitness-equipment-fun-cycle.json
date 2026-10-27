@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/fun-cycle.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fun Cycle Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Fun Cycle Outdoor Gym Equipment (FFE024) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-cycle.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fun Cycle Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Fun Cycle Outdoor Gym Equipment (FFE024) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-cycle.html",
+   "og:image": "https://funplaysystems.com/images/fun-cycle-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fun Cycle Outdoor Gym Equipment",
+ "data": {
+  "name": "Fun Cycle",
+  "sku": "FFE024",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/fun-cycle-product-image.jpg"
+    ],
+    "alts": [
+     "Fun Cycle outdoor exercise cycle with orange steering wheel and seat"
+    ]
+   }
+  ],
+  "description": "The Fun Cycle is an outdoor exercise cycle with an orange seat and an orange steering wheel. The user pedals in a seated position, which gives a steady leg and cardio workout without the impact of running. Older residents often like it because it feels familiar, and it suits people who walk in the park and want a few minutes of sitting exercise in between. It is finished in Play Orange as part of our Fun Fitness range for parks, societies and walking tracks. The measured drawing and warranty terms are sent with each quote. We will confirm both for the Fun Cycle in your quote, with our standard terms of 3 years on galvanised pipes and 1 year on bearings. Send us your open gym plan and we will add it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Fun Cycle"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/fun-cycle-product-image.jpg",
+  "cardImage": "/images/fun-cycle-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fun Cycle ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE024",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/fun-cycle-product-image.jpg"
+       ],
+       "alts": [
+        "Fun Cycle outdoor exercise cycle with orange steering wheel and seat"
+       ]
+      }
+     ],
+     "name": "Fun Cycle"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fun Cycle outdoor exercise cycle with orange steering wheel and seat\"]",
+      "divDataImgs": "[\"/images/fun-cycle-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fun Cycle"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Fun Cycle is an outdoor exercise cycle with an orange seat and an orange steering wheel. The user pedals in a seated position, which gives a steady leg and cardio workout without the impact of running. Older residents often like it because it feels familiar, and it suits people who walk in the park and want a few minutes of sitting exercise in between. It is finished in Play Orange as part of our Fun Fitness range for parks, societies and walking tracks. The measured drawing and warranty terms are sent with each quote. We will confirm both for the Fun Cycle in your quote, with our standard terms of 3 years on galvanised pipes and 1 year on bearings. Send us your open gym plan and we will add it."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Pedals and cranks turn on bearings, so they need checking and greasing at each service, especially after the rains. The Fun Cycle frame can be bolted self-standing or grouted. Place the cycle where the pedals cannot catch anyone walking past, and keep the seat dry and clean."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Fun Cycle Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-cycle.html"
+   ]
+  ],
+  "product": {
+   "name": "Fun Cycle",
+   "sku": "FFE024",
+   "images": [
+    "/images/fun-cycle-product-image.jpg"
+   ],
+   "description": "The Fun Cycle is an outdoor exercise cycle with an orange seat and an orange steering wheel. The user pedals in a seated position, which gives a steady leg and cardio workout without the impact of running. Older residents often like it because it feels familiar, and it suits people who walk in the park and want a few minutes of sitting exercise in between. It is finished in Play Orange as part of our Fun Fitness range for parks, societies and walking tracks. The measured drawing and warranty terms are sent with each quote. We will confirm both for the Fun Cycle in your quote, with our standard terms of 3 years on galvanised pipes and 1 year on bearings. Send us your open gym plan and we will add it.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

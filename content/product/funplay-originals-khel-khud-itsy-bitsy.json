@@ -1,0 +1,767 @@
+{
+ "path": "/funplay-originals/khel-khud/itsy-bitsy.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Itsy Bitsy Indian Games Play Equipment | FunPlay Systems",
+  "description": "Itsy Bitsy Indian Games Play Equipment (FOKK02), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud/itsy-bitsy.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Itsy Bitsy Indian Games Play Equipment | FunPlay Systems",
+   "og:description": "Itsy Bitsy Indian Games Play Equipment (FOKK02), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud/itsy-bitsy.html",
+   "og:image": "https://funplaysystems.com/images/Itsy-Bitsy.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Itsy Bitsy Indian Games Play Equipment",
+ "data": {
+  "name": "Itsy Bitsy",
+  "sku": "FOKK02",
+  "colours": [
+   {
+    "name": "Cherry Red",
+    "swatch": "\n                  background: conic-gradient(\n                    #d1213c 0% 33.33%,\n                    #4e5ad1 33.33% 66.66%,\n                    #0a0a16 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Itsy-Bitsy.jpg",
+     "/images/Itsy-Bitsy-2.jpg",
+     "/images/Itsy-Bitsy-3.jpg",
+     "/images/Itsy-Bitsy-4.jpg"
+    ],
+    "alts": [
+     "Itsy Bitsy spider-themed playground in cherry red with ladder, bridge and spiral slide",
+     "Front view of Itsy Bitsy spider legs climbing frame with red tower",
+     "Side view of Itsy Bitsy with spider leg climber, hanging bridge and red spiral slide",
+     "Itsy Bitsy spider-themed tower with red slide on a blue web-pattern surface"
+    ]
+   }
+  ],
+  "description": "Itsy Bitsy is a spider-themed playground in Cherry Red. Spider legs form the climbing frame, a hanging bridge crosses to a red tower, and a spiral slide brings children down onto a blue web-pattern surface in one installation. There is also a spider web net, a sideways balancing bar and pretend play panels. It suits ages 5 to 12 and takes up to 15 children. At 36'3\" x 9'6\", it is the longest piece in our Khel-Khud collection, with a safe play area of 42'3\" x 15'6\". Climbing, hanging, balancing and sliding here build gross motor skills and balance. The main materials carry a 3-year warranty. Send us your site photos and we will plan the layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Khel Khud",
+   "Itsy Bitsy"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/khel-khud.html",
+  "image": "/images/Itsy-Bitsy.jpg",
+  "cardImage": "/images/Itsy-Bitsy.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Itsy Bitsy ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Indian Games Play Equipment"
+      ]
+     }
+    ],
+    "pText": "FOKK02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Cherry Red",
+       "swatch": "\n                  background: conic-gradient(\n                    #d1213c 0% 33.33%,\n                    #4e5ad1 33.33% 66.66%,\n                    #0a0a16 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Itsy-Bitsy.jpg",
+        "/images/Itsy-Bitsy-2.jpg",
+        "/images/Itsy-Bitsy-3.jpg",
+        "/images/Itsy-Bitsy-4.jpg"
+       ],
+       "alts": [
+        "Itsy Bitsy spider-themed playground in cherry red with ladder, bridge and spiral slide",
+        "Front view of Itsy Bitsy spider legs climbing frame with red tower",
+        "Side view of Itsy Bitsy with spider leg climber, hanging bridge and red spiral slide",
+        "Itsy Bitsy spider-themed tower with red slide on a blue web-pattern surface"
+       ]
+      }
+     ],
+     "name": "Itsy Bitsy"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Itsy Bitsy spider-themed playground in cherry red with ladder, bridge and spiral slide\", \"Front view of Itsy Bitsy spider legs climbing frame with red tower\", \"Side view of Itsy Bitsy with spider leg climber, hanging bridge and red spiral slide\", \"Itsy Bitsy spider-themed tower with red slide on a blue web-pattern surface\"]",
+      "divDataImgs": "[\"/images/Itsy-Bitsy.jpg\", \"/images/Itsy-Bitsy-2.jpg\", \"/images/Itsy-Bitsy-3.jpg\", \"/images/Itsy-Bitsy-4.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d1213c 0% 33.33%, #4e5ad1 33.33% 66.66%, #0a0a16 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/khel-khud.html"
+        },
+        "c": [
+         "Khel Khud"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Itsy Bitsy"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Itsy Bitsy is a spider-themed playground in Cherry Red. Spider legs form the climbing frame, a hanging bridge crosses to a red tower, and a spiral slide brings children down onto a blue web-pattern surface in one installation. There is also a spider web net, a sideways balancing bar and pretend play panels. It suits ages 5 to 12 and takes up to 15 children. At 36'3\" x 9'6\", it is the longest piece in our Khel-Khud collection, with a safe play area of 42'3\" x 15'6\". Climbing, hanging, balancing and sliding here build gross motor skills and balance. The main materials carry a 3-year warranty. Send us your site photos and we will plan the layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/khel-khud/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Exploration"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Pretend and Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Gross Motor Skills"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balance"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Itsy Bitsy spider play structure",
+    "imgSrc": "/images/Itsy-Bitsy-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1104.9 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "289.56 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Itsy Bitsy uses galvanised pipe for the spider legs and tower, roto-moulded parts for the slide and panels, and play rope for the web net and bridge. Install it self-standing or grouted. Its narrow 9'6\" depth suits a strip along a boundary. Inspect the hanging bridge and web net regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Exploration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Pretend and Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Gross Motor Skills"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balance"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "36'3\" x 9'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "42'3\" x 15'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Itsy Bitsy Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/itsy-bitsy.html"
+   ]
+  ],
+  "product": {
+   "name": "Itsy Bitsy",
+   "sku": "FOKK02",
+   "images": [
+    "/images/Itsy-Bitsy.jpg",
+    "/images/Itsy-Bitsy-2.jpg",
+    "/images/Itsy-Bitsy-3.jpg",
+    "/images/Itsy-Bitsy-4.jpg"
+   ],
+   "description": "Itsy Bitsy is a spider-themed playground in Cherry Red. Spider legs form the climbing frame, a hanging bridge crosses to a red tower, and a spiral slide brings children down onto a blue web-pattern surface in one installation. There is also a spider web net, a sideways balancing bar and pretend play panels. It suits ages 5 to 12 and takes up to 15 children. At 36'3\" x 9'6\", it is the longest piece in our Khel-Khud collection, with a safe play area of 42'3\" x 15'6\". Climbing, hanging, balancing and sliding here build gross motor skills and balance. The main materials carry a 3-year warranty. Send us your site photos and we will plan the layout.",
+   "category": "Indian Games Play Equipment",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/khel-khud.html",
+   "colours": [
+    "Cherry Red"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "42'3\" x 15'6\""
+    ],
+    [
+     "Length",
+     "1104.9 cm"
+    ],
+    [
+     "Width",
+     "289.56 cm"
+    ],
+    [
+     "Skills developed",
+     "Exploration Pretend and Play Gross Motor Skills Balance"
+    ],
+    [
+     "Colour options",
+     "Cherry Red"
+    ]
+   ]
+  }
+ }
+}

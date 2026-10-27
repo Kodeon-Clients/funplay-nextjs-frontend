@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Seating Twister Three Way Outdoor Gym Equipment | FunPlay",
+  "description": "Seating Twister Three Way Outdoor Gym Equipment (FFE019T) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-three-way.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Seating Twister Three Way Outdoor Gym Equipment | FunPlay",
+   "og:description": "Seating Twister Three Way Outdoor Gym Equipment (FFE019T) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-three-way.html",
+   "og:image": "https://funplaysystems.com/images/Seating-twister-Three-Way-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Seating Twister Three Way Outdoor Gym Equipment",
+ "data": {
+  "name": "Seating Twister Three Way",
+  "sku": "FFE019T",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Seating-twister-Three-Way-product-image.jpg"
+    ],
+    "alts": [
+     "Seating Twister Three Way three-user seated waist twister with orange seats"
+    ]
+   }
+  ],
+  "description": "The Seating Twister Three Way has three orange seats arranged around one frame, each with its own handle, so three people can do seated waist twists at the same time. Users face outward in different directions, which keeps the machine compact and lets friends chat while they exercise. It suits busy senior citizens' areas, society gardens and municipal parks where older users come in groups in the morning and evening. All three seats and the frame trim are in Play Orange. Request the drawing and warranty terms from us when you ask for a price. On the Seating Twister Three Way, our standard cover of 3 years on galvanised pipes and 1 year on bearings would apply, which we will confirm. Ask us for a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Seating Twister Three Way"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Seating-twister-Three-Way-product-image.jpg",
+  "cardImage": "/images/Seating-twister-Three-Way-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Seating Twister Three Way ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE019T",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Seating-twister-Three-Way-product-image.jpg"
+       ],
+       "alts": [
+        "Seating Twister Three Way three-user seated waist twister with orange seats"
+       ]
+      }
+     ],
+     "name": "Seating Twister Three Way"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Seating Twister Three Way three-user seated waist twister with orange seats\"]",
+      "divDataImgs": "[\"/images/Seating-twister-Three-Way-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Seating Twister Three Way"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Seating Twister Three Way has three orange seats arranged around one frame, each with its own handle, so three people can do seated waist twists at the same time. Users face outward in different directions, which keeps the machine compact and lets friends chat while they exercise. It suits busy senior citizens' areas, society gardens and municipal parks where older users come in groups in the morning and evening. All three seats and the frame trim are in Play Orange. Request the drawing and warranty terms from us when you ask for a price. On the Seating Twister Three Way, our standard cover of 3 years on galvanised pipes and 1 year on bearings would apply, which we will confirm. Ask us for a layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Three rotating seats share one central frame, so grouting is the safer fixing on most grounds. Check each seat bearing separately during maintenance, because one worn seat can wobble while the others feel fine. Leave a walking gap around the whole unit."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Seating Twister Three Way Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+   ]
+  ],
+  "product": {
+   "name": "Seating Twister Three Way",
+   "sku": "FFE019T",
+   "images": [
+    "/images/Seating-twister-Three-Way-product-image.jpg"
+   ],
+   "description": "The Seating Twister Three Way has three orange seats arranged around one frame, each with its own handle, so three people can do seated waist twists at the same time. Users face outward in different directions, which keeps the machine compact and lets friends chat while they exercise. It suits busy senior citizens' areas, society gardens and municipal parks where older users come in groups in the morning and evening. All three seats and the frame trim are in Play Orange. Request the drawing and warranty terms from us when you ask for a price. On the Seating Twister Three Way, our standard cover of 3 years on galvanised pipes and 1 year on bearings would apply, which we will confirm. Ask us for a layout.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

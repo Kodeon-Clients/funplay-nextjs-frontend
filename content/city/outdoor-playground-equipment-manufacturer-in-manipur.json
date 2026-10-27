@@ -1,0 +1,240 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-manipur.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Manipur | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Manipur. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-manipur.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Manipur | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Manipur. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-manipur.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Manipur",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Manipur"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems designs and manufactures outdoor playground equipment for schools, community grounds, parks and housing colonies in Manipur. Level open ground is easiest to find in the Imphal valley and the towns around it, such as Thoubal and Bishnupur. We also supply district headquarters in the surrounding hills, where sites are smaller and need more planning."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "All equipment is built at our factory in Vasai, near Mumbai, and sent to Manipur by road. A local dealer or our own installation team then installs it, self-standing or grouted depending on the ground. Schools, churches and local clubs in the state often share one ground for play, sport and community events. We plan the playground in a corner that does not get in the way of football or gatherings. We also mark the safe play area on a layout drawing so everyone can see the space it needs."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Valley weather and choosing equipment",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Imphal has mild summers, cold winter mornings and heavy monsoon rain. Low ground near Loktak and the rivers can stay wet for days, so raise the play area and give it a drainage slope. Rubber flooring under swings and slides is safer than bare earth, which turns to mud in the rains. Valley summers are mild, so drainage matters more here than shade. Check swing hangers and bolts after the monsoon, since damp months wear moving parts faster."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For a shared community ground, equipment that many children use at once works best, such as a merry-go-round, a double swing or a structure from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/nature-sparsh.html"
+           },
+           "c": [
+            "Nature Sparsh"
+           ]
+          },
+          " range. Imphal buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-imphal.html"
+           },
+           "c": [
+            "playground page for Imphal"
+           ]
+          },
+          ", and for older children and adults see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-manipur.html"
+           },
+           "c": [
+            "outdoor gym equipment in Manipur"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Manipur",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Manipur",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-manipur.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can a playground share a ground with a football field?",
+       "a": "Yes, if it sits in a corner with clear space around it and away from the goal areas. Our layout drawing shows the safe play area so you can plan the rest of the ground around it."
+      },
+      {
+       "q": "Which surface is best under playground equipment in a wet valley?",
+       "a": "Rubber flooring on a raised, well-drained base. It softens falls and dries much faster than soil or grass after rain. We supply it along with the equipment."
+      },
+      {
+       "q": "Do you supply hill districts outside Imphal?",
+       "a": "Yes, wherever a truck can reach. Tell us the location and road access, and we will plan dispatch and installation with you."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Manipur",
+    "h2Text": "Cities we supply in Manipur",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-imphal.html"
+        },
+        "c": [
+         "Playground equipment in Imphal"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Manipur",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-manipur.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Manipur",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Manipur"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Manipur. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can a playground share a ground with a football field?",
+    "Yes, if it sits in a corner with clear space around it and away from the goal areas. Our layout drawing shows the safe play area so you can plan the rest of the ground around it."
+   ],
+   [
+    "Which surface is best under playground equipment in a wet valley?",
+    "Rubber flooring on a raised, well-drained base. It softens falls and dries much faster than soil or grass after rain. We supply it along with the equipment."
+   ],
+   [
+    "Do you supply hill districts outside Imphal?",
+    "Yes, wherever a truck can reach. Tell us the location and road access, and we will plan dispatch and installation with you."
+   ]
+  ]
+ }
+}

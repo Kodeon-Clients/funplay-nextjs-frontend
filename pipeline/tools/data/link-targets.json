@@ -1,0 +1,1090 @@
+{
+ "series": [
+  {
+   "name": "Castle Crest Castle-Themed Playground Equipment",
+   "path": "/corecraft/castle-crest.html"
+  },
+  {
+   "name": "Clown Capade Circus-Themed Playground Equipment",
+   "path": "/corecraft/clown-capade.html"
+  },
+  {
+   "name": "Forestia Jungle-Themed Playground Equipment",
+   "path": "/corecraft/forestia.html"
+  },
+  {
+   "name": "Outdoor Gym Equipment: Fun Fitness Range",
+   "path": "/corecraft/fun-fitness-equipment.html"
+  },
+  {
+   "name": "Garden Decor: Benches, Gazebos and Pergolas",
+   "path": "/corecraft/garden-decor.html"
+  },
+  {
+   "name": "Individual Playground Equipment",
+   "path": "/corecraft/individual-equipment.html"
+  },
+  {
+   "name": "Playground Climbers and Climbing Frames",
+   "path": "/corecraft/individual-equipment/climber.html"
+  },
+  {
+   "name": "Playground Merry-Go-Rounds",
+   "path": "/corecraft/individual-equipment/merry-go-round.html"
+  },
+  {
+   "name": "Playground See Saws",
+   "path": "/corecraft/individual-equipment/see-saw.html"
+  },
+  {
+   "name": "3 ft Playground Slides",
+   "path": "/corecraft/individual-equipment/slide-3foot-height.html"
+  },
+  {
+   "name": "5 ft Playground Slides",
+   "path": "/corecraft/individual-equipment/slide-5foot-height.html"
+  },
+  {
+   "name": "7 ft Playground Slides",
+   "path": "/corecraft/individual-equipment/slide-7foot-height.html"
+  },
+  {
+   "name": "Playground Spring Riders",
+   "path": "/corecraft/individual-equipment/spring-rider.html"
+  },
+  {
+   "name": "Playground Swings and Swing Sets",
+   "path": "/corecraft/individual-equipment/swing.html"
+  },
+  {
+   "name": "Play Lands Large Multi Play Stations",
+   "path": "/corecraft/play-lands.html"
+  },
+  {
+   "name": "Robo Romp Robot-Themed Playground Equipment",
+   "path": "/corecraft/robo-romp.html"
+  },
+  {
+   "name": "Conceptual Play Structures",
+   "path": "/funplay-originals/conceptual.html"
+  },
+  {
+   "name": "Kagzi Origami-Inspired Play Structures",
+   "path": "/funplay-originals/kagzi.html"
+  },
+  {
+   "name": "Khel Khud Indian Games-Inspired Play Equipment",
+   "path": "/funplay-originals/khel-khud.html"
+  },
+  {
+   "name": "Nature Sparsh Nature-Inspired Play Stations",
+   "path": "/funplay-originals/nature-sparsh.html"
+  },
+  {
+   "name": "Organic Play Nature Play Structures",
+   "path": "/funplay-originals/organic-play.html"
+  },
+  {
+   "name": "Timeless Play Structures",
+   "path": "/funplay-originals/timeless-play.html"
+  },
+  {
+   "name": "Wall Play Interactive Panels",
+   "path": "/funplay-originals/wall-play.html"
+  },
+  {
+   "name": "NexLev Abstract Play Structures",
+   "path": "/nexlev-series/abstract.html"
+  },
+  {
+   "name": "NexLev Wooden Castle Playgrounds",
+   "path": "/nexlev-series/castle.html"
+  },
+  {
+   "name": "NexLev Escapade Adventure Play Structures",
+   "path": "/nexlev-series/escapade.html"
+  },
+  {
+   "name": "NexLev Pinnacle Tepee Play Towers",
+   "path": "/nexlev-series/pinnacle.html"
+  },
+  {
+   "name": "NexLev Solitaire Play Towers",
+   "path": "/nexlev-series/solitaire.html"
+  },
+  {
+   "name": "NexLev Woody Wooden Playground Equipment",
+   "path": "/nexlev-series/woody.html"
+  }
+ ],
+ "fitness_products": [
+  {
+   "name": "Leg Press Cum Seating Twister",
+   "path": "/corecraft/fun-fitness-equipment/#leg-press-cum-seating-twister.html"
+  },
+  {
+   "name": "1 Seating Cum 2 Standing Twister",
+   "path": "/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html"
+  },
+  {
+   "name": "2 Seating Cum 1 Standing Twister",
+   "path": "/corecraft/fun-fitness-equipment/2-seating-cum-1-standing-twister.html"
+  },
+  {
+   "name": "6 Station Multi Gym",
+   "path": "/corecraft/fun-fitness-equipment/6-station-multi-gym.html"
+  },
+  {
+   "name": "8 Station Multi Gym",
+   "path": "/corecraft/fun-fitness-equipment/8-station-multi-gym.html"
+  },
+  {
+   "name": "Shoulder Twirl Double",
+   "path": "/corecraft/fun-fitness-equipment/Shoulder-twirl-double.html"
+  },
+  {
+   "name": "ABB Trainer",
+   "path": "/corecraft/fun-fitness-equipment/abb-trainer.html"
+  },
+  {
+   "name": "Chest Press Cum Shoulder Press",
+   "path": "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html"
+  },
+  {
+   "name": "Chest Press Double",
+   "path": "/corecraft/fun-fitness-equipment/chest-press-double.html"
+  },
+  {
+   "name": "Chest Press",
+   "path": "/corecraft/fun-fitness-equipment/chest-press.html"
+  },
+  {
+   "name": "Cross Fit",
+   "path": "/corecraft/fun-fitness-equipment/cross-fit.html"
+  },
+  {
+   "name": "Fun Cycle",
+   "path": "/corecraft/fun-fitness-equipment/fun-cycle.html"
+  },
+  {
+   "name": "Fun Rider",
+   "path": "/corecraft/fun-fitness-equipment/fun-rider.html"
+  },
+  {
+   "name": "Fun Rower",
+   "path": "/corecraft/fun-fitness-equipment/fun-rower.html"
+  },
+  {
+   "name": "Fun Walker Double",
+   "path": "/corecraft/fun-fitness-equipment/fun-walker-double.html"
+  },
+  {
+   "name": "Fun Walker Single",
+   "path": "/corecraft/fun-fitness-equipment/fun-walker-single.html"
+  },
+  {
+   "name": "Leg Extension",
+   "path": "/corecraft/fun-fitness-equipment/leg-extension.html"
+  },
+  {
+   "name": "Leg Lift Post",
+   "path": "/corecraft/fun-fitness-equipment/leg-lift-post.html"
+  },
+  {
+   "name": "Leg Press Cum Fun Walker Cum Seating Twister",
+   "path": "/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html"
+  },
+  {
+   "name": "Leg Press Cum Parallel Bar",
+   "path": "/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html"
+  },
+  {
+   "name": "Leg Press Cum Pendulum",
+   "path": "/corecraft/fun-fitness-equipment/leg-press-cum-pendulum.html"
+  },
+  {
+   "name": "Leg Press Cum Standing Twister",
+   "path": "/corecraft/fun-fitness-equipment/leg-press-cum-standing-twister.html"
+  },
+  {
+   "name": "Leg Press Double",
+   "path": "/corecraft/fun-fitness-equipment/leg-press-double.html"
+  },
+  {
+   "name": "Leg Press",
+   "path": "/corecraft/fun-fitness-equipment/leg-press.html"
+  },
+  {
+   "name": "Parallel Bar Double",
+   "path": "/corecraft/fun-fitness-equipment/parallel-bar-double.html"
+  },
+  {
+   "name": "Parallel Bar",
+   "path": "/corecraft/fun-fitness-equipment/parallel-bar.html"
+  },
+  {
+   "name": "Pendulum Double",
+   "path": "/corecraft/fun-fitness-equipment/pendulum-double.html"
+  },
+  {
+   "name": "Pendulum",
+   "path": "/corecraft/fun-fitness-equipment/pendulum.html"
+  },
+  {
+   "name": "Pull Up Station",
+   "path": "/corecraft/fun-fitness-equipment/pull-up-station.html"
+  },
+  {
+   "name": "Seating Twister Cum Tai Chi",
+   "path": "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html"
+  },
+  {
+   "name": "Seating Twister Single",
+   "path": "/corecraft/fun-fitness-equipment/seating-twister-single.html"
+  },
+  {
+   "name": "Seating Twister Three Way",
+   "path": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+  },
+  {
+   "name": "Shoulder Press Double",
+   "path": "/corecraft/fun-fitness-equipment/shoulder-press-double.html"
+  },
+  {
+   "name": "Shoulder Press",
+   "path": "/corecraft/fun-fitness-equipment/shoulder-press.html"
+  },
+  {
+   "name": "Shoulder Twirl",
+   "path": "/corecraft/fun-fitness-equipment/shoulder-twirl.html"
+  },
+  {
+   "name": "Ski Trainer",
+   "path": "/corecraft/fun-fitness-equipment/ski-trainer.html"
+  },
+  {
+   "name": "Standing Twister Single",
+   "path": "/corecraft/fun-fitness-equipment/standing-twister-single.html"
+  },
+  {
+   "name": "Step Trainer",
+   "path": "/corecraft/fun-fitness-equipment/step-trainer.html"
+  },
+  {
+   "name": "Tai Chi Cum Standing Twister",
+   "path": "/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html"
+  },
+  {
+   "name": "Tai Chi Double",
+   "path": "/corecraft/fun-fitness-equipment/tai-chi-double.html"
+  },
+  {
+   "name": "Tai Chi",
+   "path": "/corecraft/fun-fitness-equipment/tai-chi.html"
+  },
+  {
+   "name": "Twister Three Way",
+   "path": "/corecraft/fun-fitness-equipment/twister-three-way.html"
+  }
+ ],
+ "originals_products": [
+  {
+   "name": "Chidiyaan",
+   "path": "/funplay-originals/conceptual/chidiyaan.html"
+  },
+  {
+   "name": "City Strange",
+   "path": "/funplay-originals/conceptual/city-strange.html"
+  },
+  {
+   "name": "Flamingo Park",
+   "path": "/funplay-originals/conceptual/flamingo-park.html"
+  },
+  {
+   "name": "Ground Hogs",
+   "path": "/funplay-originals/conceptual/ground-hogs.html"
+  },
+  {
+   "name": "Junk Park",
+   "path": "/funplay-originals/conceptual/junk-park.html"
+  },
+  {
+   "name": "Lady Musance",
+   "path": "/funplay-originals/conceptual/lady-musance.html"
+  },
+  {
+   "name": "Limlet",
+   "path": "/funplay-originals/conceptual/limlet.html"
+  },
+  {
+   "name": "Witchs Enchantment",
+   "path": "/funplay-originals/conceptual/witchs-enchantment.html"
+  },
+  {
+   "name": "Paper Bird",
+   "path": "/funplay-originals/kagzi/paper-bird.html"
+  },
+  {
+   "name": "Paper Boat",
+   "path": "/funplay-originals/kagzi/paper-boat.html"
+  },
+  {
+   "name": "Paper Fish",
+   "path": "/funplay-originals/kagzi/paper-fish.html"
+  },
+  {
+   "name": "Paper Frog",
+   "path": "/funplay-originals/kagzi/paper-frog.html"
+  },
+  {
+   "name": "Paper Mouse",
+   "path": "/funplay-originals/kagzi/paper-mouse.html"
+  },
+  {
+   "name": "Paper Plane",
+   "path": "/funplay-originals/kagzi/paper-plane.html"
+  },
+  {
+   "name": "Bellatrix",
+   "path": "/funplay-originals/khel-khud/bellatrix.html"
+  },
+  {
+   "name": "Candilicious Play",
+   "path": "/funplay-originals/khel-khud/candilicious-play.html"
+  },
+  {
+   "name": "Goblin Gully",
+   "path": "/funplay-originals/khel-khud/goblin-gully.html"
+  },
+  {
+   "name": "Into The Cheeze",
+   "path": "/funplay-originals/khel-khud/into-the-cheeze.html"
+  },
+  {
+   "name": "Itsy Bitsy",
+   "path": "/funplay-originals/khel-khud/itsy-bitsy.html"
+  },
+  {
+   "name": "Roo Pocket",
+   "path": "/funplay-originals/khel-khud/roo-pocket.html"
+  },
+  {
+   "name": "Shapestatic",
+   "path": "/funplay-originals/khel-khud/shapestatic.html"
+  },
+  {
+   "name": "Sky Hop",
+   "path": "/funplay-originals/khel-khud/sky-hop.html"
+  },
+  {
+   "name": "Toddlers Twist",
+   "path": "/funplay-originals/khel-khud/toddlers-twist.html"
+  },
+  {
+   "name": "Archies",
+   "path": "/funplay-originals/nature-sparsh/archies.html"
+  },
+  {
+   "name": "Aviral",
+   "path": "/funplay-originals/nature-sparsh/aviral.html"
+  },
+  {
+   "name": "Barrel Barrel",
+   "path": "/funplay-originals/nature-sparsh/barrel-barrel.html"
+  },
+  {
+   "name": "Card Cook",
+   "path": "/funplay-originals/nature-sparsh/card-cook.html"
+  },
+  {
+   "name": "Card Pyramid",
+   "path": "/funplay-originals/nature-sparsh/card-pyramid.html"
+  },
+  {
+   "name": "Fun",
+   "path": "/funplay-originals/nature-sparsh/fun.html"
+  },
+  {
+   "name": "Inframe",
+   "path": "/funplay-originals/nature-sparsh/inframe.html"
+  },
+  {
+   "name": "Phula",
+   "path": "/funplay-originals/nature-sparsh/phula.html"
+  },
+  {
+   "name": "Ulta Ghar",
+   "path": "/funplay-originals/nature-sparsh/ulta-ghar.html"
+  },
+  {
+   "name": "Cipu Sittu",
+   "path": "/funplay-originals/organic-play/cipu-sittu.html"
+  },
+  {
+   "name": "Ghogalo",
+   "path": "/funplay-originals/organic-play/ghogalo.html"
+  },
+  {
+   "name": "Hittu",
+   "path": "/funplay-originals/organic-play/hittu.html"
+  },
+  {
+   "name": "Kukura",
+   "path": "/funplay-originals/organic-play/kukura.html"
+  },
+  {
+   "name": "Monstera",
+   "path": "/funplay-originals/organic-play/monstera.html"
+  },
+  {
+   "name": "Pachkili",
+   "path": "/funplay-originals/organic-play/pachkili.html"
+  },
+  {
+   "name": "Shinga",
+   "path": "/funplay-originals/organic-play/shinga.html"
+  },
+  {
+   "name": "Toucan",
+   "path": "/funplay-originals/organic-play/toucan.html"
+  },
+  {
+   "name": "Unt Savari",
+   "path": "/funplay-originals/organic-play/unt-savari.html"
+  },
+  {
+   "name": "Chausar",
+   "path": "/funplay-originals/timeless-play/chausar.html"
+  },
+  {
+   "name": "Fugadi",
+   "path": "/funplay-originals/timeless-play/fugadi.html"
+  },
+  {
+   "name": "Paheli",
+   "path": "/funplay-originals/timeless-play/paheli.html"
+  },
+  {
+   "name": "Patang",
+   "path": "/funplay-originals/timeless-play/patang.html"
+  },
+  {
+   "name": "Dahi Handi",
+   "path": "/funplay-originals/wall-play/dahi-handi.html"
+  },
+  {
+   "name": "Geo Board",
+   "path": "/funplay-originals/wall-play/geoboard.html"
+  },
+  {
+   "name": "Ghar Ghar",
+   "path": "/funplay-originals/wall-play/ghar-ghar.html"
+  },
+  {
+   "name": "Udanchu",
+   "path": "/funplay-originals/wall-play/udanchu.html"
+  }
+ ],
+ "nexlev_products": [
+  {
+   "name": "Dravmo",
+   "path": "/nexlev-series/abstract/dravmo.html"
+  },
+  {
+   "name": "Ernoto",
+   "path": "/nexlev-series/abstract/ernoto.html"
+  },
+  {
+   "name": "Eromofy",
+   "path": "/nexlev-series/abstract/eromofy.html"
+  },
+  {
+   "name": "Rengvo",
+   "path": "/nexlev-series/abstract/rengvo.html"
+  },
+  {
+   "name": "Arthur",
+   "path": "/nexlev-series/castle/arthur.html"
+  },
+  {
+   "name": "Gonthina",
+   "path": "/nexlev-series/castle/gonthina.html"
+  },
+  {
+   "name": "Palamu",
+   "path": "/nexlev-series/castle/palamu.html"
+  },
+  {
+   "name": "Sunspear",
+   "path": "/nexlev-series/castle/sunspear.html"
+  },
+  {
+   "name": "Aviator",
+   "path": "/nexlev-series/escapade/aviator.html"
+  },
+  {
+   "name": "Combat",
+   "path": "/nexlev-series/escapade/combat.html"
+  },
+  {
+   "name": "Crossette",
+   "path": "/nexlev-series/escapade/crossette.html"
+  },
+  {
+   "name": "Frisk",
+   "path": "/nexlev-series/escapade/frisk.html"
+  },
+  {
+   "name": "Frolic",
+   "path": "/nexlev-series/escapade/frolic.html"
+  },
+  {
+   "name": "Thunder Bolt",
+   "path": "/nexlev-series/escapade/thunder-bolt.html"
+  },
+  {
+   "name": "Tidal",
+   "path": "/nexlev-series/escapade/tidal.html"
+  },
+  {
+   "name": "Tri Trap",
+   "path": "/nexlev-series/escapade/tri-trap.html"
+  },
+  {
+   "name": "Apex",
+   "path": "/nexlev-series/pinnacle/apex.html"
+  },
+  {
+   "name": "Bouldering",
+   "path": "/nexlev-series/pinnacle/bouldering.html"
+  },
+  {
+   "name": "Capstone",
+   "path": "/nexlev-series/pinnacle/capstone.html"
+  },
+  {
+   "name": "Crestro",
+   "path": "/nexlev-series/pinnacle/crestro.html"
+  },
+  {
+   "name": "Glory",
+   "path": "/nexlev-series/pinnacle/glory.html"
+  },
+  {
+   "name": "Groovy",
+   "path": "/nexlev-series/pinnacle/groovy.html"
+  },
+  {
+   "name": "Peak",
+   "path": "/nexlev-series/pinnacle/peak.html"
+  },
+  {
+   "name": "Prime",
+   "path": "/nexlev-series/pinnacle/prime.html"
+  },
+  {
+   "name": "Sway",
+   "path": "/nexlev-series/pinnacle/sway.html"
+  },
+  {
+   "name": "Vertex",
+   "path": "/nexlev-series/pinnacle/vertex.html"
+  },
+  {
+   "name": "Chalet",
+   "path": "/nexlev-series/solitaire/chalet.html"
+  },
+  {
+   "name": "Jager",
+   "path": "/nexlev-series/solitaire/jager.html"
+  },
+  {
+   "name": "Baobab",
+   "path": "/nexlev-series/woody/baobab.html"
+  },
+  {
+   "name": "Beaber",
+   "path": "/nexlev-series/woody/beaber.html"
+  },
+  {
+   "name": "Colga",
+   "path": "/nexlev-series/woody/colga.html"
+  },
+  {
+   "name": "Conifer",
+   "path": "/nexlev-series/woody/conifer.html"
+  },
+  {
+   "name": "El Dorado",
+   "path": "/nexlev-series/woody/el-dorado.html"
+  },
+  {
+   "name": "Montana",
+   "path": "/nexlev-series/woody/montana.html"
+  },
+  {
+   "name": "Skuhoom",
+   "path": "/nexlev-series/woody/skuhoom.html"
+  },
+  {
+   "name": "Sundarban",
+   "path": "/nexlev-series/woody/sundarban.html"
+  },
+  {
+   "name": "Teton",
+   "path": "/nexlev-series/woody/teton.html"
+  },
+  {
+   "name": "Toss",
+   "path": "/nexlev-series/woody/toss.html"
+  },
+  {
+   "name": "Wiggle",
+   "path": "/nexlev-series/woody/wiggle.html"
+  },
+  {
+   "name": "Woody Go Round",
+   "path": "/nexlev-series/woody/woody-go-round.html"
+  }
+ ],
+ "corecraft_play_products": [
+  {
+   "name": "Crown Court 3",
+   "path": "/corecraft/castle-crest/crown-court-3.html"
+  },
+  {
+   "name": "Crown Court 7",
+   "path": "/corecraft/castle-crest/crown-court-7.html"
+  },
+  {
+   "name": "Fortress Fun",
+   "path": "/corecraft/castle-crest/fortress-fun.html"
+  },
+  {
+   "name": "Noble Nook",
+   "path": "/corecraft/castle-crest/noble-nook.html"
+  },
+  {
+   "name": "Royal Rise",
+   "path": "/corecraft/castle-crest/royal-rise.html"
+  },
+  {
+   "name": "Jambore 3",
+   "path": "/corecraft/clown-capade/Jambore-3.html"
+  },
+  {
+   "name": "Chuckle Chums",
+   "path": "/corecraft/clown-capade/chuckle-chums.html"
+  },
+  {
+   "name": "Jambore 5",
+   "path": "/corecraft/clown-capade/jambore-5.html"
+  },
+  {
+   "name": "Jumbo Jive",
+   "path": "/corecraft/clown-capade/jumbo-jive.html"
+  },
+  {
+   "name": "Tumble Twin",
+   "path": "/corecraft/clown-capade/tumble-twin.html"
+  },
+  {
+   "name": "Blossam Brook",
+   "path": "/corecraft/forestia/blossam-brook.html"
+  },
+  {
+   "name": "Gloracia",
+   "path": "/corecraft/forestia/gloracia.html"
+  },
+  {
+   "name": "Jungle Jive-l1",
+   "path": "/corecraft/forestia/jungle-jive-l1.html"
+  },
+  {
+   "name": "Jungle Jive-l2",
+   "path": "/corecraft/forestia/jungle-jive-l2.html"
+  },
+  {
+   "name": "King Kong Play Park",
+   "path": "/corecraft/forestia/king-kong-play-park.html"
+  },
+  {
+   "name": "Igloo Climber",
+   "path": "/corecraft/individual-equipment/climber/Igloo-climber.html"
+  },
+  {
+   "name": "Abstract Climber",
+   "path": "/corecraft/individual-equipment/climber/abstract-climber.html"
+  },
+  {
+   "name": "Balancing Beam",
+   "path": "/corecraft/individual-equipment/climber/balancing-beam.html"
+  },
+  {
+   "name": "Balancing Bridge",
+   "path": "/corecraft/individual-equipment/climber/balancing-bridge.html"
+  },
+  {
+   "name": "Crawling Tunnel",
+   "path": "/corecraft/individual-equipment/climber/crawling-tunnel.html"
+  },
+  {
+   "name": "Crest Climber",
+   "path": "/corecraft/individual-equipment/climber/crest-climber.html"
+  },
+  {
+   "name": "Disc Challanger",
+   "path": "/corecraft/individual-equipment/climber/disc-challenger.html"
+  },
+  {
+   "name": "Droopy Climber",
+   "path": "/corecraft/individual-equipment/climber/droopy-climber.html"
+  },
+  {
+   "name": "Hopping Pod",
+   "path": "/corecraft/individual-equipment/climber/hopping-pod.html"
+  },
+  {
+   "name": "Jumping Jacks",
+   "path": "/corecraft/individual-equipment/climber/jumping-jacks.html"
+  },
+  {
+   "name": "Leo Climber",
+   "path": "/corecraft/individual-equipment/climber/leo-climber.html"
+  },
+  {
+   "name": "Loop Climber",
+   "path": "/corecraft/individual-equipment/climber/loop-climber.html"
+  },
+  {
+   "name": "Monkey Climber",
+   "path": "/corecraft/individual-equipment/climber/monkey-climber.html"
+  },
+  {
+   "name": "Mushroom Climber",
+   "path": "/corecraft/individual-equipment/climber/mushroom-climber.html"
+  },
+  {
+   "name": "Net Rock Climber",
+   "path": "/corecraft/individual-equipment/climber/net-rock-climber.html"
+  },
+  {
+   "name": "Orbit Climber",
+   "path": "/corecraft/individual-equipment/climber/orbit-climber.html"
+  },
+  {
+   "name": "S Bridge Climber",
+   "path": "/corecraft/individual-equipment/climber/s-bridge-climber.html"
+  },
+  {
+   "name": "Straight Net",
+   "path": "/corecraft/individual-equipment/climber/straight-net.html"
+  },
+  {
+   "name": "Tornado Climber",
+   "path": "/corecraft/individual-equipment/climber/tornado-climber.html"
+  },
+  {
+   "name": "Trampoline",
+   "path": "/corecraft/individual-equipment/climber/trampoline.html"
+  },
+  {
+   "name": "Wall Rock Climber",
+   "path": "/corecraft/individual-equipment/climber/wall-rock-climber.html"
+  },
+  {
+   "name": "Wheel Thrill Climber",
+   "path": "/corecraft/individual-equipment/climber/wheel-thrill-climber.html"
+  },
+  {
+   "name": "Animal Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/animal-mgr.html"
+  },
+  {
+   "name": "Bucket Spinner Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/bucket-spinner-mgr.html"
+  },
+  {
+   "name": "Cage Spinner",
+   "path": "/corecraft/individual-equipment/merry-go-round/cage-spinner.html"
+  },
+  {
+   "name": "Flower Spinner",
+   "path": "/corecraft/individual-equipment/merry-go-round/flower-spinner.html"
+  },
+  {
+   "name": "Four Seater Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/four-seater-mgr.html"
+  },
+  {
+   "name": "Horse Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/horse-mgr.html"
+  },
+  {
+   "name": "Jumbo Four Seater Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/jumbo-four-seater-mgr.html"
+  },
+  {
+   "name": "Laminate Standing Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/laminate-standing-mgr.html"
+  },
+  {
+   "name": "Roto Platform Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/roto-platform-mgr.html"
+  },
+  {
+   "name": "Roto Seating Merry-Go-Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html"
+  },
+  {
+   "name": "Roto Wheel Go Round",
+   "path": "/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html"
+  },
+  {
+   "name": "Deluxe Junior See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/deluxe-junior-see-saw.html"
+  },
+  {
+   "name": "Deluxe Multi See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/deluxe-multi-see-saw.html"
+  },
+  {
+   "name": "Double See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/double-see-saw.html"
+  },
+  {
+   "name": "Horse See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/horse-see-saw.html"
+  },
+  {
+   "name": "Rainbow See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/rainbow-see-saw.html"
+  },
+  {
+   "name": "Standing See Saw",
+   "path": "/corecraft/individual-equipment/see-saw/standing-see-saw.html"
+  },
+  {
+   "name": "Curve Slide",
+   "path": "/corecraft/individual-equipment/slide-3foot-height/curve-slide.html"
+  },
+  {
+   "name": "Double Wave Slide",
+   "path": "/corecraft/individual-equipment/slide-3foot-height/double-wave-slide.html"
+  },
+  {
+   "name": "Shrimpm Slide",
+   "path": "/corecraft/individual-equipment/slide-3foot-height/shrimp-slide.html"
+  },
+  {
+   "name": "Straight Open Slide",
+   "path": "/corecraft/individual-equipment/slide-3foot-height/straight-open-slide.html"
+  },
+  {
+   "name": "Curve Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/curve-slide.html"
+  },
+  {
+   "name": "Double Wave Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/double-wave-slide.html"
+  },
+  {
+   "name": "S Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/s-slide.html"
+  },
+  {
+   "name": "Spiral Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/spiral-slide.html"
+  },
+  {
+   "name": "Spiral Tunnel Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/spiral-tunnel-slide.html"
+  },
+  {
+   "name": "Straight Tunnel Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/straight-tunnel-slide.html"
+  },
+  {
+   "name": "Wave Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/wave-slide.html"
+  },
+  {
+   "name": "Zig Zag Slide",
+   "path": "/corecraft/individual-equipment/slide-5foot-height/zig-zag-slide.html"
+  },
+  {
+   "name": "Curve Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/curve-slide.html"
+  },
+  {
+   "name": "Spiral Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html"
+  },
+  {
+   "name": "Spiral Tunnel Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html"
+  },
+  {
+   "name": "Straight Open Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/straight-open-slide.html"
+  },
+  {
+   "name": "Strtaight Tunnel Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/strtaight-tunnel-slide.html"
+  },
+  {
+   "name": "Zig Zag Slide",
+   "path": "/corecraft/individual-equipment/slide-7foot-height/zig-zag-slide.html"
+  },
+  {
+   "name": "Aeroplane Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/aeroplane-rider.html"
+  },
+  {
+   "name": "Alligator Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/alligator-rider.html"
+  },
+  {
+   "name": "Bike Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/bike-rider.html"
+  },
+  {
+   "name": "Dino Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/dino-rider.html"
+  },
+  {
+   "name": "Duck Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/duck-rider.html"
+  },
+  {
+   "name": "Dumbo Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/dumbo-rider.html"
+  },
+  {
+   "name": "Horse Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/horse-rider.html"
+  },
+  {
+   "name": "See Horse Spring Rider",
+   "path": "/corecraft/individual-equipment/spring-rider/see-horse-rider.html"
+  },
+  {
+   "name": "Curve Post Swing",
+   "path": "/corecraft/individual-equipment/swing/curve-post-swing.html"
+  },
+  {
+   "name": "Double Arc Swing",
+   "path": "/corecraft/individual-equipment/swing/double-arc-swing.html"
+  },
+  {
+   "name": "Double Post Swing",
+   "path": "/corecraft/individual-equipment/swing/double-post-swing.html"
+  },
+  {
+   "name": "Double Swing",
+   "path": "/corecraft/individual-equipment/swing/double-swing.html"
+  },
+  {
+   "name": "Giraffe Swing",
+   "path": "/corecraft/individual-equipment/swing/giraffe-swing.html"
+  },
+  {
+   "name": "In-Curve Post Swing",
+   "path": "/corecraft/individual-equipment/swing/in-curve-post-swing.html"
+  },
+  {
+   "name": "Mother Child Swing",
+   "path": "/corecraft/individual-equipment/swing/mother-child-swing.html"
+  },
+  {
+   "name": "Toddler Swing",
+   "path": "/corecraft/individual-equipment/swing/toddler-swing.html"
+  },
+  {
+   "name": "Azure Space",
+   "path": "/corecraft/play-lands/azure-space.html"
+  },
+  {
+   "name": "Coral Cascade",
+   "path": "/corecraft/play-lands/coral-cascade.html"
+  },
+  {
+   "name": "Fun Field",
+   "path": "/corecraft/play-lands/fun-field.html"
+  },
+  {
+   "name": "Giants Galore",
+   "path": "/corecraft/play-lands/giants-galore.html"
+  },
+  {
+   "name": "Gloden Hour",
+   "path": "/corecraft/play-lands/gloden-hour.html"
+  },
+  {
+   "name": "Joy Ridge",
+   "path": "/corecraft/play-lands/joy-ridge.html"
+  },
+  {
+   "name": "Play Pulse",
+   "path": "/corecraft/play-lands/play-pulse.html"
+  },
+  {
+   "name": "Thrill Trail",
+   "path": "/corecraft/play-lands/thrill-trail.html"
+  },
+  {
+   "name": "Tiny Tot",
+   "path": "/corecraft/play-lands/tiny-tot.html"
+  },
+  {
+   "name": "We Wonderland",
+   "path": "/corecraft/play-lands/we-wonderland.html"
+  },
+  {
+   "name": "Dual Bot",
+   "path": "/corecraft/robo-romp/dual-bot.html"
+  },
+  {
+   "name": "Robo Kingdom",
+   "path": "/corecraft/robo-romp/robo-kingdom.html"
+  },
+  {
+   "name": "Solo Fight-5",
+   "path": "/corecraft/robo-romp/solo-fight-5.html"
+  },
+  {
+   "name": "Solo Fight 7",
+   "path": "/corecraft/robo-romp/solo-fight-7.html"
+  },
+  {
+   "name": "Triple Threat",
+   "path": "/corecraft/robo-romp/triple-threat.html"
+  }
+ ],
+ "pages": [
+  {
+   "name": "Contact us / get a quote",
+   "path": "/contact-us.html"
+  },
+  {
+   "name": "Our Network (all states and cities)",
+   "path": "/our-network.html"
+  },
+  {
+   "name": "Outdoor gym equipment across India",
+   "path": "/outdoor-gym-equipment-manufacturer-supplier-india.html"
+  },
+  {
+   "name": "Projects",
+   "path": "/Projects.html"
+  },
+  {
+   "name": "Rubber flooring and surfaces blog",
+   "path": "/blog/school-playground-surface-materials-which-one-is-best.html"
+  },
+  {
+   "name": "Playground safety dos and don'ts",
+   "path": "/blog/playground-safety-dos-and-donts-for-kids.html"
+  }
+ ]
+}

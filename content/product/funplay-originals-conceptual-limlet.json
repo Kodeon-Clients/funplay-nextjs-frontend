@@ -1,0 +1,244 @@
+{
+ "path": "/funplay-originals/conceptual/limlet.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Limlet Concept Play Structure | FunPlay Originals | FunPlay",
+  "description": "Limlet Concept Play Structure (FOC006), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/limlet.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Limlet Concept Play Structure | FunPlay Originals | FunPlay",
+   "og:description": "Limlet Concept Play Structure (FOC006), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/limlet.html",
+   "og:image": "https://funplaysystems.com/images/Orange-Render-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Limlet Concept Play Structure",
+ "data": {
+  "name": "Limlet",
+  "sku": "FOC006",
+  "colours": [
+   {
+    "name": "Banana Yellow & Cherry Red",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e0b24a 50%,\n                    #d83609 50%\n                  );\n                ",
+    "images": [
+     "/images/Orange-Render-1.jpg",
+     "/images/Orange-Render-2.jpg",
+     "/images/Orange-Render-3.jpg",
+     "/images/Orange-Render-4.jpg",
+     "/images/Orange-Render-5.jpg"
+    ],
+    "alts": [
+     "Limlet play area in banana yellow and cherry with arch climbers, slide, swing and spinner",
+     "Limlet play cluster with arched climbing frames, red slide and nest swing",
+     "Side view of Limlet play area with curved arch climber, slide and swings",
+     "Limlet yellow and cherry play set with arch climbers, slide, spinner seats and swings",
+     "Close view of Limlet yellow arch climber with red slide"
+    ]
+   }
+  ],
+  "description": "Limlet is a concept play area from our Funplay Originals Conceptual collection, laid out as a cluster of pieces rather than one tower. Yellow arch climbers curve over the space, a red slide runs off the main arch, and a nest swing and spinner seats sit alongside. Because the pieces stand apart, children can climb, slide, swing and spin in different corners at the same time while parents sit close by. The finish is Banana Yellow with Cherry Red. We have not published an age group, capacity or safe play area for Limlet yet, so we size each layout to the site. Share your plot dimensions and photos and we will send a layout drawing with the safe zone marked.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Limlet"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Orange-Render-1.jpg",
+  "cardImage": "/images/Orange-Render-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Limlet ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Concept Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOC006",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow & Cherry Red",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e0b24a 50%,\n                    #d83609 50%\n                  );\n                ",
+       "images": [
+        "/images/Orange-Render-1.jpg",
+        "/images/Orange-Render-2.jpg",
+        "/images/Orange-Render-3.jpg",
+        "/images/Orange-Render-4.jpg",
+        "/images/Orange-Render-5.jpg"
+       ],
+       "alts": [
+        "Limlet play area in banana yellow and cherry with arch climbers, slide, swing and spinner",
+        "Limlet play cluster with arched climbing frames, red slide and nest swing",
+        "Side view of Limlet play area with curved arch climber, slide and swings",
+        "Limlet yellow and cherry play set with arch climbers, slide, spinner seats and swings",
+        "Close view of Limlet yellow arch climber with red slide"
+       ]
+      }
+     ],
+     "name": "Limlet"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Limlet play area in banana yellow and cherry with arch climbers, slide, swing and spinner\", \"Limlet play cluster with arched climbing frames, red slide and nest swing\", \"Side view of Limlet play area with curved arch climber, slide and swings\", \"Limlet yellow and cherry play set with arch climbers, slide, spinner seats and swings\", \"Close view of Limlet yellow arch climber with red slide\"]",
+      "divDataImgs": "[\"/images/Orange-Render-1.jpg\", \"/images/Orange-Render-2.jpg\", \"/images/Orange-Render-3.jpg\", \"/images/Orange-Render-4.jpg\", \"/images/Orange-Render-5.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e0b24a 50%, #d83609 50% )"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow & Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Limlet"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Limlet is a concept play area from our Funplay Originals Conceptual collection, laid out as a cluster of pieces rather than one tower. Yellow arch climbers curve over the space, a red slide runs off the main arch, and a nest swing and spinner seats sit alongside. Because the pieces stand apart, children can climb, slide, swing and spin in different corners at the same time while parents sit close by. The finish is Banana Yellow with Cherry Red. We have not published an age group, capacity or safe play area for Limlet yet, so we size each layout to the site. Share your plot dimensions and photos and we will send a layout drawing with the safe zone marked."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Limlet is planned per site, so the final specification depends on which arch climbers, swings and spinners you keep in the cluster. Each element gets its own safe zone on our layout drawing, and the swings need clear space in front and behind. We fix the pieces self-standing or grouted to suit your ground. Ask our team for the material and warranty details of your chosen configuration."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Limlet Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/limlet.html"
+   ]
+  ],
+  "product": {
+   "name": "Limlet",
+   "sku": "FOC006",
+   "images": [
+    "/images/Orange-Render-1.jpg",
+    "/images/Orange-Render-2.jpg",
+    "/images/Orange-Render-3.jpg",
+    "/images/Orange-Render-4.jpg",
+    "/images/Orange-Render-5.jpg"
+   ],
+   "description": "Limlet is a concept play area from our Funplay Originals Conceptual collection, laid out as a cluster of pieces rather than one tower. Yellow arch climbers curve over the space, a red slide runs off the main arch, and a nest swing and spinner seats sit alongside. Because the pieces stand apart, children can climb, slide, swing and spin in different corners at the same time while parents sit close by. The finish is Banana Yellow with Cherry Red. We have not published an age group, capacity or safe play area for Limlet yet, so we size each layout to the site. Share your plot dimensions and photos and we will send a layout drawing with the safe zone marked.",
+   "category": "Concept Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Banana Yellow & Cherry Red"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Banana Yellow & Cherry Red"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,742 @@
+{
+ "path": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Ulta Ghar Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Ulta Ghar Nature Play Station (FONS01), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "Ulta Ghar Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Ulta Ghar Nature Play Station (FONS01), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:image": "https://funplaysystems.com/images/Ulta-Ghar1.jpg",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html",
+   "og:type": "product",
+   "og:site_name": "Fun Play Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Ulta Ghar Nature Play Station | FunPlay Originals | FunPlay",
+   "twitter:description": "Ulta Ghar Nature Play Station (FONS01), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "twitter:image": "https://funplaysystems.com/images/Ulta-Ghar1.jpg",
+   "twitter:site": "@funplayindia",
+   "twitter:creator": "@funplayindia"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Ulta Ghar Nature Play Station",
+ "data": {
+  "name": "Ulta Ghar",
+  "sku": "FONS01",
+  "colours": [
+   {
+    "name": "Forest Green",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #1f584c 50%,\n                    #67472e 50%\n                  );\n                ",
+    "images": [
+     "/images/Ulta-Ghar1.jpg",
+     "/images/Ulta-Ghar2.jpg",
+     "/images/Ulta-Ghar3.jpg",
+     "/images/Ulta-Ghar4.jpg"
+    ],
+    "alts": [
+     "Ulta Ghar upside-down house play structure with green tube slide and drop climber",
+     "Top view of Ulta Ghar showing tower, tube slide and tilted house climber",
+     "Ulta Ghar upside-down wooden house with green slide and net drop climber",
+     "Side view of Ulta Ghar with tilted house, green tube slide and climbing net"
+    ]
+   }
+  ],
+  "description": "Ulta Ghar is an upside-down house for children aged 3 to 8, built around a drop climber that surprises children the first time they find it. A tall tower with a green tube slide stands beside the tilted house, so one group can climb while another slides down. Up to 15 children can play at once within a safe play area of 17'11\" x 16'8\". Play on Ulta Ghar involves sliding and climbing, and it builds coordination, cooperative play, creativity and confidence with height. It belongs to our Nature Sparsh collection, comes in Forest Green, and carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a layout drawing and a quote for your school, society or park.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Ulta Ghar"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Ulta-Ghar1.jpg",
+  "cardImage": "/images/Ulta-Ghar1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Ulta Ghar ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Forest Green",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #1f584c 50%,\n                    #67472e 50%\n                  );\n                ",
+       "images": [
+        "/images/Ulta-Ghar1.jpg",
+        "/images/Ulta-Ghar2.jpg",
+        "/images/Ulta-Ghar3.jpg",
+        "/images/Ulta-Ghar4.jpg"
+       ],
+       "alts": [
+        "Ulta Ghar upside-down house play structure with green tube slide and drop climber",
+        "Top view of Ulta Ghar showing tower, tube slide and tilted house climber",
+        "Ulta Ghar upside-down wooden house with green slide and net drop climber",
+        "Side view of Ulta Ghar with tilted house, green tube slide and climbing net"
+       ]
+      }
+     ],
+     "name": "Ulta Ghar"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Ulta Ghar upside-down house play structure with green tube slide and drop climber\", \"Top view of Ulta Ghar showing tower, tube slide and tilted house climber\", \"Ulta Ghar upside-down wooden house with green slide and net drop climber\", \"Side view of Ulta Ghar with tilted house, green tube slide and climbing net\"]",
+      "divDataImgs": "[\"/images/Ulta-Ghar1.jpg\", \"/images/Ulta-Ghar2.jpg\", \"/images/Ulta-Ghar3.jpg\", \"/images/Ulta-Ghar4.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #1f584c 50%, #67472e 50% )"
+      },
+      "divText": "",
+      "spanText": "Forest Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Ulta Ghar"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Ulta Ghar is an upside-down house for children aged 3 to 8, built around a drop climber that surprises children the first time they find it. A tall tower with a green tube slide stands beside the tilted house, so one group can climb while another slides down. Up to 15 children can play at once within a safe play area of 17'11\" x 16'8\". Play on Ulta Ghar involves sliding and climbing, and it builds coordination, cooperative play, creativity and confidence with height. It belongs to our Nature Sparsh collection, comes in Forest Green, and carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a layout drawing and a quote for your school, society or park."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-8 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Cooperative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Creativity"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Height Exploration"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Ulta Ghar play structure",
+    "imgSrc": "/images/Ulta-Ghar-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "408.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "355.6 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Crafted with precision, 'Ulta Ghar' includes a distinctive drop climber and is designed to meet the highest safety and quality standards, ensuring a thrilling yet secure play adventure for children.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 8 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cooperative Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creativity"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Height Exploration"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "13’5” x 11’8”"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17’11” x 16’8”"
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Ulta Ghar Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/ulta-ghar.html"
+   ]
+  ],
+  "product": {
+   "name": "Ulta Ghar",
+   "sku": "FONS01",
+   "images": [
+    "/images/Ulta-Ghar1.jpg",
+    "/images/Ulta-Ghar2.jpg",
+    "/images/Ulta-Ghar3.jpg",
+    "/images/Ulta-Ghar4.jpg"
+   ],
+   "description": "Ulta Ghar is an upside-down house for children aged 3 to 8, built around a drop climber that surprises children the first time they find it. A tall tower with a green tube slide stands beside the tilted house, so one group can climb while another slides down. Up to 15 children can play at once within a safe play area of 17'11\" x 16'8\". Play on Ulta Ghar involves sliding and climbing, and it builds coordination, cooperative play, creativity and confidence with height. It belongs to our Nature Sparsh collection, comes in Forest Green, and carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a layout drawing and a quote for your school, society or park.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Forest Green"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 8 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Length",
+     "408.94 cm"
+    ],
+    [
+     "Width",
+     "355.6 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Coordination Cooperative Play Creativity Height Exploration"
+    ],
+    [
+     "Colour options",
+     "Forest Green"
+    ]
+   ]
+  }
+ }
+}

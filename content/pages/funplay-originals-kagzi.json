@@ -1,0 +1,224 @@
+{
+ "path": "/funplay-originals/kagzi.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Origami Play Structures | Kagzi | FunPlay Originals",
+  "description": "Kagzi origami-inspired play structures: paper boat, bird, fish, frog and plane designs that climb, slide and swing.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Origami Play Structures | Kagzi | FunPlay Originals",
+   "og:description": "Kagzi origami-inspired play structures: paper boat, bird, fish, frog and plane designs that climb, slide and swing.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi.html",
+   "og:image": "https://funplaysystems.com/images/Paper-Boat-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Kagzi Origami-Inspired Play Structures",
+ "data": {
+  "cardImage": "/images/Paper-Boat-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "KagziOrigamiInspiredPlayStructures",
+   "props": {
+    "h1Text": "Kagzi Origami-Inspired Play Structures",
+    "h2Text": "Kagzi"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Paper Boat origami play station with slide and net tunnel",
+        "imgSrc": "/images/Paper-Boat-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-boat.html",
+        "aText": " View Product ",
+        "spanText": "Paper Boat",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "23.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #a2ceda 50%, #c92c4b 50% )"
+        }
+       },
+       {
+        "imgAlt": "Paper Bird origami crane climber with rope net in baby blue",
+        "imgSrc": "/images/Paper-Bird-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-bird.html",
+        "aText": " View Product ",
+        "spanText": "Paper Bird",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "10.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #499ccb 0% 33.33%, #235da0 33.33% 66.66%, #0c0c12 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Paper Plane play tower with yellow slides and paper-plane wings",
+        "imgSrc": "/images/Paper-Plane-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-plane.html",
+        "aText": " View Product ",
+        "spanText": "Paper plane",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "27.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #e04a6b 0% 33.33%, #bbc500 33.33% 66.66%, #0a0a0d 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Paper Fish origami fish-themed swing set",
+        "imgSrc": "/images/paper-fish-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-fish.html",
+        "aText": " View Product ",
+        "spanText": "Paper fish",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "8.8M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #b75d00 0% 33.33%, #87b3c4 33.33% 66.66%, #e3dd00 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Paper Mouse origami crawl tunnel on a pink safety surface",
+        "imgSrc": "/images/Paper-Mouse-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-mouse.html",
+        "aText": " View Product ",
+        "spanText": "Paper Mouse",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "7.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #e1b5cb 0% 33.33%, #e1b5ca 33.33% 66.66%, #79c3e1 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Paper Frog origami spring rider in dark green",
+        "imgSrc": "/images/Paper-Frog-product-catalogue.jpg",
+        "aHref": "/funplay-originals/kagzi/paper-frog.html",
+        "aText": " View Product ",
+        "spanText": "Paper Frog",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "0.34M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #224f47 0% 33.33%, #ffc900 33.33% 66.66%, #030304 66.66% 100% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Kagzi Origami-Inspired Play Structures",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Paper Bird Origami Play Structure",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-bird.html"
+   ],
+   [
+    "Paper Boat Origami Play Structure",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-boat.html"
+   ],
+   [
+    "Paper Fish Swing Set",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-fish.html"
+   ],
+   [
+    "Paper Frog",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-frog.html"
+   ],
+   [
+    "Paper Mouse Crawl Tunnel",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-mouse.html"
+   ],
+   [
+    "Paper Plane Origami Play Structure",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-plane.html"
+   ]
+  ]
+ }
+}

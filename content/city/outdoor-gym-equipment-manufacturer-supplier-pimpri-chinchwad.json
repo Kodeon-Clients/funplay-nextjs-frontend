@@ -1,0 +1,372 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-pimpri-chinchwad.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Pimpri Chinchwad | FunPlay",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Pimpri Chinchwad. Made in our Vasai factory. Get a.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-pimpri-chinchwad.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Outdoor Gym Equipment Supplier in Pimpri Chinchwad | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Pimpri Chinchwad. Made in our Vasai factory. Get a.",
+   "og:url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-pimpri-chinchwad.html",
+   "og:image": "https://funplaysystems.com/images/Fun-Walker-Single-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Pimpri Chinchwad",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Pimpri Chinchwad"
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Pimpri Chinchwad",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Pimpri Chinchwad grew around its automobile and engineering plants in Bhosari, Pimpri and Chinchwad, and newer housing in Wakad, Ravet and Moshi has filled in around them. FunPlay Systems is an outdoor gym equipment supplier in Pimpri Chinchwad for large housing societies, factory campuses, schools and the gardens of the Pimpri Chinchwad Municipal Corporation. Our Vasai factory is about 130 km away, a short road trip across the ghats."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Our own team or a dealer installs the machines once they reach the site. The climate is easy for outdoor exercise for much of the year, with warm summers, a steady monsoon from June to September and cool, dry winters. Big societies here can have hundreds of flats and a long podium or garden. That scale suits one central frame for groups, with smaller machines spread along the walking track."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Group stations for a large society or plant",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "An engineering plant or a big society needs a gym that several people can use at once. The ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/8-station-multi-gym.html"
+           },
+           "c": [
+            "8 Station Multi Gym"
+           ]
+          },
+          " puts eight exercises on one frame, so a group from the same shift can work through it together. Beside it, a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+           },
+           "c": [
+            "Seating Twister Three Way"
+           ]
+          },
+          " gives three seated places for older residents or anyone easing back into exercise."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "On a podium, check with your structural engineer how the frame will be fixed, and leave a clear zone that does not cut across the fire tender path. One of our Maharashtra sites is shown on the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/raymond-thane.html"
+           },
+           "c": [
+            "Raymond, Thane project page"
+           ]
+          },
+          ". For children's equipment, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html"
+           },
+           "c": [
+            "playground equipment in Pimpri Chinchwad"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Pimpri Chinchwad",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 130 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Maharashtra",
+       "value": "Raymond, Thane",
+       "href": "/projects/raymond-thane.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Pimpri Chinchwad",
+       "href": "/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can a factory in Bhosari MIDC set up an outdoor gym for workers?",
+       "a": "Yes. Share the open area, a few photos and how many workers use the canteen per shift. We will suggest machines and send a layout drawing with a quote."
+      },
+      {
+       "q": "Can the gym go on a podium slab?",
+       "a": "Often, yes. The fixing method depends on the slab, so your structural engineer should approve it. We show each machine's footprint and clear space on the layout drawing."
+      },
+      {
+       "q": "When should we plan the installation?",
+       "a": "Before June or after the monsoon ends. Grouted footings need a few dry days to set, so we agree the installation date with you after you approve the layout."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Pimpri Chinchwad Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-gym-equipment-manufacturer-supplier-india.html",
+    "aText": "Outdoor gym equipment across India",
+    "spanText": "Pimpri Chinchwad",
+    "h2Text": "Outdoor gym equipment suppliers near Pimpri Chinchwad",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-pune.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Pune"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-navi-mumbai.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Navi Mumbai"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-kalyan-dombivli.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Kalyan Dombivli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-thane.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Thane"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-ahmednagar.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Ahmednagar"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for playground equipment in Pimpri Chinchwad? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-pimpri-chinchwad.html"
+        },
+        "c": [
+         "Playground equipment in Pimpri Chinchwad"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-india.html"
+        },
+        "c": [
+         "See all cities we serve in Outdoor gym equipment across India"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "India",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-india.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Pimpri Chinchwad",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-pimpri-chinchwad.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Pimpri Chinchwad",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Pimpri Chinchwad",
+    "state": "Maharashtra"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Pimpri Chinchwad. Made in our Vasai factory. Get a."
+  },
+  "faq": [
+   [
+    "Can a factory in Bhosari MIDC set up an outdoor gym for workers?",
+    "Yes. Share the open area, a few photos and how many workers use the canteen per shift. We will suggest machines and send a layout drawing with a quote."
+   ],
+   [
+    "Can the gym go on a podium slab?",
+    "Often, yes. The fixing method depends on the slab, so your structural engineer should approve it. We show each machine's footprint and clear space on the layout drawing."
+   ],
+   [
+    "When should we plan the installation?",
+    "Before June or after the monsoon ends. Grouted footings need a few dry days to set, so we agree the installation date with you after you approve the layout."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "path": "/funplay-originals.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "FunPlay Originals: Designer Play Equipment | FunPlay",
+  "description": "FunPlay Originals: award-winning, India-inspired play structures designed in-house, from origami climbers to nature and traditional games play.",
+  "canonical": "https://funplaysystems.com/funplay-originals.html",
+  "robots": "index, follow",
+  "og": {
+   "og:title": "FunPlay Originals: Designer Play Equipment | FunPlay",
+   "og:description": "FunPlay Originals: award-winning, India-inspired play structures designed in-house, from origami climbers to nature and traditional games play.",
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/funplay-originals.html",
+   "og:image": "https://funplaysystems.com/images/Nature_Sparsh_thumb.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "FunPlay Originals Unique Playground Equipment",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "FunPlay Originals: Designer Play Equipment | FunPlay",
+   "twitter:description": "FunPlay Originals: award-winning, India-inspired play structures designed in-house, from origami climbers to nature and traditional games play.",
+   "twitter:image": "https://funplaysystems.com/images/og-banner.jpg",
+   "twitter:image:alt": "FunPlay Originals Unique Playground Equipment"
+  }
+ },
+ "h1": "FunPlay Originals Designer Play Equipment",
+ "data": {
+  "cardImage": "/images/Nature_Sparsh_thumb.jpg"
+ },
+ "sections": [
+  {
+   "component": "FunplayOriginalsDesignerPlay",
+   "props": {
+    "h1Text": "FunPlay Originals Designer Play Equipment",
+    "pText": "Discover our original and innovative playground designs that bring joy and creativity to every play space."
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "h2Text": "Explore Our Original Playground Collections",
+    "pText": "Each collection in FunPlay Originals represents our commitment to innovation and creativity, offering unique play experiences that inspire imagination and promote joyful active play.",
+    "divText": [
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-base-color me-10px",
+       "href": "/blog.html"
+      },
+      "c": [
+       "Read Our Blog"
+      ]
+     },
+     " ",
+     {
+      "tag": "a",
+      "attrs": {
+       "className": "btn btn-small btn-outline-dark-gray",
+       "href": "/contact-us.html"
+      },
+      "c": [
+       "Get Quote"
+      ]
+     }
+    ],
+    "items": [
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px position-relative z-index-1",
+      "aHref": "/funplay-originals/nature-sparsh.html",
+      "aAriaLabel": "Nature sparsh",
+      "imgAlt": "Nature Sparsh series yellow multi play station with tube slide and net bridge",
+      "imgSrc": "/images/Nature_Sparsh_thumb.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Nature sparsh",
+      "pText": "Natural touch playground equipment connecting children with nature",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px position-relative z-index-1",
+      "aHref": "/funplay-originals/kagzi.html",
+      "aAriaLabel": "Kagzi",
+      "imgAlt": "Kagzi series origami boat play station with slide and net tunnel",
+      "imgSrc": "/images/Kagazi-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Kagzi",
+      "pText": "Original inspired playground designs with artistic flair",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 sm-mb-30px position-relative z-index-1",
+      "aHref": "/funplay-originals/organic-play.html",
+      "aAriaLabel": "Organic play",
+      "imgAlt": "Organic Play series: Monstera twin-tower play station with yellow slides",
+      "imgSrc": "/images/Organic-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Organic play",
+      "pText": "Natural elements playground equipment for organic play experiences",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 position-relative z-index-1",
+      "aHref": "/funplay-originals/khel-khud.html",
+      "aAriaLabel": "Khel Khud",
+      "imgAlt": "Khel Kud series tunnel play structure with slides and star climber",
+      "imgSrc": "/images/Khel-Kud-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28",
+      "spanText": "Khel Khud",
+      "pText": "Indigenous traditional playground equipment celebrating Indian culture",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/funplay-originals/timeless-play.html",
+      "aAriaLabel": "Timeless Play",
+      "imgAlt": "Paheli puzzle-themed play structure, Timeless Play series",
+      "imgSrc": "/images/Timeless-Play-Zone-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Timeless Play",
+      "pText": "Nostalgic vintage playground equipment for timeless play experiences",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/funplay-originals/wall-play.html",
+      "aAriaLabel": "Wall Play",
+      "imgAlt": "Dahi Handi stacked figure climber, Wall Play series",
+      "imgSrc": "/images/Wall-Play-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Wall Play",
+      "pText": "Innovative wall-mounted playground equipment with creative designs",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     },
+     {
+      "divClass": "col interactive-banner-style-05 lg-mb-30px mt-2 mb-2 position-relative z-index-1",
+      "aHref": "/funplay-originals/conceptual.html",
+      "aAriaLabel": "Conceptual",
+      "imgAlt": "Innovative Concepts series: flamingo-themed play area with red frames and swings",
+      "imgSrc": "/images/Innovative-Concepts-thumb-image.jpg",
+      "divText": "Funplay Originals",
+      "spanClass": "alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px",
+      "spanText": "Conceptual",
+      "pText": "Innovative conceptual playground designs pushing creative boundaries",
+      "items": [
+       {
+        "divClass": "position-absolute left-0px top-150px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"
+       },
+       {
+        "divClass": "box-overlay bg-gradient-gray-light-dark-transparent z-index-minus-1"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals Designer Play Equipment",
+    "https://funplaysystems.com/funplay-originals.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Conceptual Play Structures",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Kagzi Origami-Inspired Play Structures",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Khel Khud Indian Games-Inspired Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Nature Sparsh Nature-Inspired Play Stations",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Organic Play Nature Play Structures",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Timeless Play Structures",
+    "https://funplaysystems.com/funplay-originals/timeless-play.html"
+   ],
+   [
+    "Wall Play Interactive Panels",
+    "https://funplaysystems.com/funplay-originals/wall-play.html"
+   ]
+  ]
+ }
+}

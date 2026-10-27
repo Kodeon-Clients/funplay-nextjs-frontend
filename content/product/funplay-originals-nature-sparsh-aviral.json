@@ -1,0 +1,787 @@
+{
+ "path": "/funplay-originals/nature-sparsh/aviral.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Aviral Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Aviral Nature Play Station (FONS02), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/aviral.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Aviral Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Aviral Nature Play Station (FONS02), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/aviral.html",
+   "og:image": "https://funplaysystems.com/images/Aviral-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Aviral Nature Play Station",
+ "data": {
+  "name": "Aviral",
+  "sku": "FONS02",
+  "colours": [
+   {
+    "name": "Banana Yellow",
+    "swatch": "background-color: #dcb228",
+    "images": [
+     "/images/Aviral-1.jpg",
+     "/images/Aviral-2.jpg",
+     "/images/Aviral-3.jpg",
+     "/images/Aviral-4.jpg",
+     "/images/Aviral-5.jpg",
+     "/images/Aviral-6.jpg",
+     "/images/Aviral-7.jpg",
+     "/images/Aviral-8.jpg",
+     "/images/Aviral-9.jpg",
+     "/images/Aviral-10.jpg"
+    ],
+    "alts": [
+     "Aviral banana yellow multi play station with tube slide and overhead net bridge",
+     "Aerial view of Aviral on a yellow hopscotch safety surface",
+     "Aviral play station with yellow tube slide, net bridge and spring climbers",
+     "Side view of Aviral with open slide, tube slide and overhead hopscotch ladder",
+     "Top-angle view of Aviral multi play station on a yellow surface",
+     "Front view of Aviral showing slide, climber and hopscotch net bridge",
+     "Aviral yellow multi play station with tube slide and overhead net walkway",
+     "Side view of Aviral with open slide, net bridge and tube slide",
+     "Aerial view of Aviral playground on a curved yellow safety surface",
+     "Aviral yellow play station with tube slide, black frame and rope net bridge"
+    ]
+   }
+  ],
+  "description": "Aviral is a multi play station in Banana Yellow with a minimal, open design. Its standout feature is an overhead hopscotch ladder, and the photos show it standing on a yellow hopscotch-pattern safety surface. Children climb spring climbers, cross an overhead net bridge and come down by a tube slide or an open slide. The station is open to ages 3 to 12, so younger siblings can play alongside older children. It takes up to 15 children, covers 27'5\" x 21'9\" and needs a safe play area of 32'5\" x 26'9\". Sliding, climbing and hopping build coordination, cooperative play, creativity and confidence with height. The pipes, moulded parts, laminates and rope carry a 3-year warranty. Ask us for a quote for your park or society.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Aviral"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Aviral-1.jpg",
+  "cardImage": "/images/Aviral-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#fff6d9",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Aviral ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow",
+       "swatch": "background-color: #dcb228",
+       "images": [
+        "/images/Aviral-1.jpg",
+        "/images/Aviral-2.jpg",
+        "/images/Aviral-3.jpg",
+        "/images/Aviral-4.jpg",
+        "/images/Aviral-5.jpg",
+        "/images/Aviral-6.jpg",
+        "/images/Aviral-7.jpg",
+        "/images/Aviral-8.jpg",
+        "/images/Aviral-9.jpg",
+        "/images/Aviral-10.jpg"
+       ],
+       "alts": [
+        "Aviral banana yellow multi play station with tube slide and overhead net bridge",
+        "Aerial view of Aviral on a yellow hopscotch safety surface",
+        "Aviral play station with yellow tube slide, net bridge and spring climbers",
+        "Side view of Aviral with open slide, tube slide and overhead hopscotch ladder",
+        "Top-angle view of Aviral multi play station on a yellow surface",
+        "Front view of Aviral showing slide, climber and hopscotch net bridge",
+        "Aviral yellow multi play station with tube slide and overhead net walkway",
+        "Side view of Aviral with open slide, net bridge and tube slide",
+        "Aerial view of Aviral playground on a curved yellow safety surface",
+        "Aviral yellow play station with tube slide, black frame and rope net bridge"
+       ]
+      }
+     ],
+     "name": "Aviral"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Aviral banana yellow multi play station with tube slide and overhead net bridge\", \"Aerial view of Aviral on a yellow hopscotch safety surface\", \"Aviral play station with yellow tube slide, net bridge and spring climbers\", \"Side view of Aviral with open slide, tube slide and overhead hopscotch ladder\", \"Top-angle view of Aviral multi play station on a yellow surface\", \"Front view of Aviral showing slide, climber and hopscotch net bridge\", \"Aviral yellow multi play station with tube slide and overhead net walkway\", \"Side view of Aviral with open slide, net bridge and tube slide\", \"Aerial view of Aviral playground on a curved yellow safety surface\", \"Aviral yellow play station with tube slide, black frame and rope net bridge\"]",
+      "divDataImgs": "[\"/images/Aviral-1.jpg\", \"/images/Aviral-2.jpg\", \"/images/Aviral-3.jpg\", \"/images/Aviral-4.jpg\", \"/images/Aviral-5.jpg\", \"/images/Aviral-6.jpg\", \"/images/Aviral-7.jpg\", \"/images/Aviral-8.jpg\", \"/images/Aviral-9.jpg\", \"/images/Aviral-10.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#dcb228"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Aviral"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Aviral is a multi play station in Banana Yellow with a minimal, open design. Its standout feature is an overhead hopscotch ladder, and the photos show it standing on a yellow hopscotch-pattern safety surface. Children climb spring climbers, cross an overhead net bridge and come down by a tube slide or an open slide. The station is open to ages 3 to 12, so younger siblings can play alongside older children. It takes up to 15 children, covers 27'5\" x 21'9\" and needs a safe play area of 32'5\" x 26'9\". Sliding, climbing and hopping build coordination, cooperative play, creativity and confidence with height. The pipes, moulded parts, laminates and rope carry a 3-year warranty. Ask us for a quote for your park or society."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Cooperative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Creativity"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Height Exploration"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Aviral play structure",
+    "imgSrc": "/images/Aviral-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "835.66 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "662.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Aviral is among the larger Nature Sparsh stations, so plan for the full 32'5\" x 26'9\" zone before choosing a spot. It is fixed self-standing or grouted. The spring climbers should be checked for wear, since springs carry a 1-year warranty. Inspect the net bridge and both slides as part of routine maintenance.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hopping",
+      "imgSrc": "/images/hoping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hopping"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cooperative Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creativity"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Height Exploration"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "27'5\" x 21'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "32'5\" x 26'9\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Aviral Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/aviral.html"
+   ]
+  ],
+  "product": {
+   "name": "Aviral",
+   "sku": "FONS02",
+   "images": [
+    "/images/Aviral-1.jpg",
+    "/images/Aviral-2.jpg",
+    "/images/Aviral-3.jpg",
+    "/images/Aviral-4.jpg",
+    "/images/Aviral-5.jpg",
+    "/images/Aviral-6.jpg"
+   ],
+   "description": "Aviral is a multi play station in Banana Yellow with a minimal, open design. Its standout feature is an overhead hopscotch ladder, and the photos show it standing on a yellow hopscotch-pattern safety surface. Children climb spring climbers, cross an overhead net bridge and come down by a tube slide or an open slide. The station is open to ages 3 to 12, so younger siblings can play alongside older children. It takes up to 15 children, covers 27'5\" x 21'9\" and needs a safe play area of 32'5\" x 26'9\". Sliding, climbing and hopping build coordination, cooperative play, creativity and confidence with height. The pipes, moulded parts, laminates and rope carry a 3-year warranty. Ask us for a quote for your park or society.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Banana Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "32'5\" x 26'9\""
+    ],
+    [
+     "Length",
+     "835.66 cm"
+    ],
+    [
+     "Width",
+     "662.94 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Hopping"
+    ],
+    [
+     "Skills developed",
+     "Coordination Cooperative Play Creativity Height Exploration"
+    ],
+    [
+     "Colour options",
+     "Banana Yellow"
+    ]
+   ]
+  }
+ }
+}

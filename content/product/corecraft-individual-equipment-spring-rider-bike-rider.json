@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/individual-equipment/spring-rider/bike-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Bike Spring Rider | CoreCraft | FunPlay Systems",
+  "description": "Bike Spring Rider (FPSR08) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/bike-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Bike Spring Rider | CoreCraft | FunPlay Systems",
+   "og:description": "Bike Spring Rider (FPSR08) from the CoreCraft Spring Riders range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/bike-rider.html",
+   "og:image": "https://funplaysystems.com/images/Spring-Riders-5.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Bike Spring Rider",
+ "data": {
+  "name": "Bike Spring Rider",
+  "sku": "FPSR08",
+  "colours": [
+   {
+    "name": "Play Red",
+    "swatch": "background-color: #c52b24",
+    "images": [
+     "/images/Spring-Riders-5.jpg"
+    ],
+    "alts": [
+     "Bike Rider red bike-shaped spring rider for kids"
+    ]
+   }
+  ],
+  "description": "The Bike Spring Rider is shaped like a red motorbike, with a seat and handlebars, mounted on a spring. A child climbs on, grips the handlebars and rocks it as if riding. Children who are too young for a real cycle love the pretend ride, and it gives them practice in balance and holding on. The Play Red colour stands out in a toddler corner and pairs well with a road or traffic theme. It needs very little ground, so a play school or society garden can fit it alongside other riders. Our 3-year warranty covers its roto-moulded body, and the spring carries 1 year. Ask us for a quote on a set of riders.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Spring Rider",
+   "Bike Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/spring-rider.html",
+  "image": "/images/Spring-Riders-5.jpg",
+  "cardImage": "/images/Spring-Riders-5.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Bike Spring Rider"
+    ],
+    "pText": "FPSR08",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red",
+       "swatch": "background-color: #c52b24",
+       "images": [
+        "/images/Spring-Riders-5.jpg"
+       ],
+       "alts": [
+        "Bike Rider red bike-shaped spring rider for kids"
+       ]
+      }
+     ],
+     "name": "Bike Spring Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Bike Rider red bike-shaped spring rider for kids\"]",
+      "divDataImgs": "[\"/images/Spring-Riders-5.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#c52b24"
+      },
+      "divText": "",
+      "spanText": "Play Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/spring-rider.html"
+        },
+        "c": [
+         "Spring Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Bike Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Bike Spring Rider is shaped like a red motorbike, with a seat and handlebars, mounted on a spring. A child climbs on, grips the handlebars and rocks it as if riding. Children who are too young for a real cycle love the pretend ride, and it gives them practice in balance and holding on. The Play Red colour stands out in a toddler corner and pairs well with a road or traffic theme. It needs very little ground, so a play school or society garden can fit it alongside other riders. Our 3-year warranty covers its roto-moulded body, and the spring carries 1 year. Ask us for a quote on a set of riders."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The bike body is roto-moulded and fixed to a steel spring. We set it up self-standing or grouted. Use an impact-absorbing surface under the rider, keep space around it for its rocking movement, and check the handlebars, spring and base bolts during routine maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider.html"
+   ],
+   [
+    "Bike Spring Rider",
+    "https://funplaysystems.com/corecraft/individual-equipment/spring-rider/bike-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Bike Spring Rider",
+   "sku": "FPSR08",
+   "images": [
+    "/images/Spring-Riders-5.jpg"
+   ],
+   "description": "The Bike Spring Rider is shaped like a red motorbike, with a seat and handlebars, mounted on a spring. A child climbs on, grips the handlebars and rocks it as if riding. Children who are too young for a real cycle love the pretend ride, and it gives them practice in balance and holding on. The Play Red colour stands out in a toddler corner and pairs well with a road or traffic theme. It needs very little ground, so a play school or society garden can fit it alongside other riders. Our 3-year warranty covers its roto-moulded body, and the spring carries 1 year. Ask us for a quote on a set of riders.",
+   "category": "Spring Rider",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/spring-rider.html",
+   "colours": [
+    "Play Red"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red"
+    ]
+   ]
+  }
+ }
+}

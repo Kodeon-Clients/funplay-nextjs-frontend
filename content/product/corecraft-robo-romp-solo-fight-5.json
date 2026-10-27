@@ -1,0 +1,725 @@
+{
+ "path": "/corecraft/robo-romp/solo-fight-5.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Solo Fight-5 Robot Multi Play Station | CoreCraft | FunPlay",
+  "description": "Solo Fight-5 Robot Multi Play Station (ROBMPFS01) from the CoreCraft Robo Romp range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Solo Fight-5 Robot Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Solo Fight-5 Robot Multi Play Station (ROBMPFS01) from the CoreCraft Robo Romp range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html",
+   "og:image": "https://funplaysystems.com/images/Solo-Fight-5-green-product.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Solo Fight-5 Robot Multi Play Station",
+ "data": {
+  "name": "Solo Fight-5",
+  "sku": "ROBMPFS01",
+  "colours": [
+   {
+    "name": "Forest Green & Sea Green",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #142e3b 50%,\n                    #43726e 50%\n                  );\n                ",
+    "images": [
+     "/images/Solo-Fight-5-green-product.jpg",
+     "/images/Solo-Fight-5-green-product.jpg"
+    ],
+    "alts": [
+     "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green",
+     "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green"
+    ]
+   },
+   {
+    "name": "Knight Blue & Lavender Dilly",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #283561 50%,\n                    #afbdd4 50%\n                  );\n                ",
+    "images": [
+     "/images/Solo-Fight-5-blue-product.jpg",
+     "/images/Solo-Fight-5-blue-product.jpg"
+    ],
+    "alts": [
+     "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue",
+     "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue"
+    ]
+   },
+   {
+    "name": "Play Orange & Baby Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e17128 50%,\n                    #87cadc 50%\n                  );\n                ",
+    "images": [
+     "/images/Solo-Fight-5-orange-product.jpg",
+     "/images/Solo-Fight-5-orange2-product.jpg"
+    ],
+    "alts": [
+     "Solo Fight-5 robot-themed tower in play orange and baby blue with two tube slides and climbing wall",
+     "Top view of Solo Fight-5 robot tower with two curved tube slides"
+    ]
+   }
+  ],
+  "description": "Solo Fight-5 is a single robot-themed tower with two tube slides and a climbing wall, made for sites with limited room. Its product area is 18'6\" x 9'5\", so it fits a narrow strip beside a society clubhouse or along a school boundary. Children climb the wall to the deck and take either tube slide back down. Key users are 5 to 12 years, with an age group of 5+. It comes in Forest Green and Sea Green, Knight Blue and Lavender Dilly, or Play Orange and Baby Blue. The safe play area is 22'6\" x 15'5\" and the listed capacity is 15. Solo Fight-5 carries a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your space and we will confirm the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Robo Romp",
+   "Solo Fight 5"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/robo-romp.html",
+  "image": "/images/Solo-Fight-5-green-product.jpg",
+  "cardImage": "/images/Solo-Fight-5-green-product.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Solo Fight-5 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Robot Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "ROBMPFS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Forest Green & Sea Green",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #142e3b 50%,\n                    #43726e 50%\n                  );\n                ",
+       "images": [
+        "/images/Solo-Fight-5-green-product.jpg",
+        "/images/Solo-Fight-5-green-product.jpg"
+       ],
+       "alts": [
+        "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green",
+        "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green"
+       ]
+      },
+      {
+       "name": "Knight Blue & Lavender Dilly",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #283561 50%,\n                    #afbdd4 50%\n                  );\n                ",
+       "images": [
+        "/images/Solo-Fight-5-blue-product.jpg",
+        "/images/Solo-Fight-5-blue-product.jpg"
+       ],
+       "alts": [
+        "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue",
+        "Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue"
+       ]
+      },
+      {
+       "name": "Play Orange & Baby Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e17128 50%,\n                    #87cadc 50%\n                  );\n                ",
+       "images": [
+        "/images/Solo-Fight-5-orange-product.jpg",
+        "/images/Solo-Fight-5-orange2-product.jpg"
+       ],
+       "alts": [
+        "Solo Fight-5 robot-themed tower in play orange and baby blue with two tube slides and climbing wall",
+        "Top view of Solo Fight-5 robot tower with two curved tube slides"
+       ]
+      }
+     ],
+     "name": "Solo Fight-5"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green\", \"Solo Fight-5 robot-themed tower with two tube slides and climbing wall in forest green\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-5-green-product.jpg\", \"/images/Solo-Fight-5-green-product.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #142e3b 50%, #43726e 50% )"
+      },
+      "divText": "",
+      "spanText": "Forest Green & Sea Green"
+     },
+     {
+      "divDataAlts": "[\"Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue\", \"Solo Fight-5 robot-themed tower with two tube slides and climbing wall in knight blue\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-5-blue-product.jpg\", \"/images/Solo-Fight-5-blue-product.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #283561 50%, #afbdd4 50% )"
+      },
+      "divText": "",
+      "spanText": "Knight Blue & Lavender Dilly"
+     },
+     {
+      "divDataAlts": "[\"Solo Fight-5 robot-themed tower in play orange and baby blue with two tube slides and climbing wall\", \"Top view of Solo Fight-5 robot tower with two curved tube slides\"]",
+      "divDataImgs": "[\"/images/Solo-Fight-5-orange-product.jpg\", \"/images/Solo-Fight-5-orange2-product.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e17128 50%, #87cadc 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange & Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/robo-romp.html"
+        },
+        "c": [
+         "Robo Romp"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Solo Fight 5"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Solo Fight-5 is a single robot-themed tower with two tube slides and a climbing wall, made for sites with limited room. Its product area is 18'6\" x 9'5\", so it fits a narrow strip beside a society clubhouse or along a school boundary. Children climb the wall to the deck and take either tube slide back down. Key users are 5 to 12 years, with an age group of 5+. It comes in Forest Green and Sea Green, Knight Blue and Lavender Dilly, or Play Orange and Baby Blue. The safe play area is 22'6\" x 15'5\" and the listed capacity is 15. Solo Fight-5 carries a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your space and we will confirm the fit."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/robo-romp/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Solo Fight 5 ft height robot tower",
+    "imgSrc": "/images/Solo-Fight-5-ft-ht.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "563.88 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "287.02 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The tower frame is galvanised steel, and the robot canopy, climbing wall and both tube slides are roto-moulded. It goes in as a self-standing unit or is grouted into the ground. Both tube exits need soft flooring within the 22'6\" x 15'5\" zone. Check the wall holds and tube joints for wear, and clear rainwater from the tubes after heavy rain.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "18'6\" x 9'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "22'6\" x 15'5\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Robo Romp",
+    "https://funplaysystems.com/corecraft/robo-romp.html"
+   ],
+   [
+    "Solo Fight-5 Robot Multi Play Station",
+    "https://funplaysystems.com/corecraft/robo-romp/solo-fight-5.html"
+   ]
+  ],
+  "product": {
+   "name": "Solo Fight-5",
+   "sku": "ROBMPFS01",
+   "images": [
+    "/images/Solo-Fight-5-green-product.jpg",
+    "/images/Solo-Fight-5-green-product.jpg",
+    "/images/Solo-Fight-5-blue-product.jpg",
+    "/images/Solo-Fight-5-blue-product.jpg",
+    "/images/Solo-Fight-5-orange-product.jpg",
+    "/images/Solo-Fight-5-orange2-product.jpg"
+   ],
+   "description": "Solo Fight-5 is a single robot-themed tower with two tube slides and a climbing wall, made for sites with limited room. Its product area is 18'6\" x 9'5\", so it fits a narrow strip beside a society clubhouse or along a school boundary. Children climb the wall to the deck and take either tube slide back down. Key users are 5 to 12 years, with an age group of 5+. It comes in Forest Green and Sea Green, Knight Blue and Lavender Dilly, or Play Orange and Baby Blue. The safe play area is 22'6\" x 15'5\" and the listed capacity is 15. Solo Fight-5 carries a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Send us your space and we will confirm the fit.",
+   "category": "Robot Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/robo-romp.html",
+   "colours": [
+    "Forest Green & Sea Green",
+    "Knight Blue & Lavender Dilly",
+    "Play Orange & Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "22'6\" x 15'5\""
+    ],
+    [
+     "Length",
+     "563.88 cm"
+    ],
+    [
+     "Width",
+     "287.02 cm"
+    ]
+   ]
+  }
+ }
+}

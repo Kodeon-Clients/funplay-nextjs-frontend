@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/droopy-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Droopy Climber | CoreCraft | FunPlay Systems",
+  "description": "Droopy Climber (FPCL05) from the CoreCraft Climbers range: 15 kids at a time, safe play area 16'2\" x 8'. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/droopy-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Droopy Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Droopy Climber (FPCL05) from the CoreCraft Climbers range: 15 kids at a time, safe play area 16'2\" x 8'. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/droopy-climber.html",
+   "og:image": "https://funplaysystems.com/images/DROOPY-CLIMBER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Droopy Climber",
+ "data": {
+  "name": "Droopy Climber",
+  "sku": "FPCL05",
+  "colours": [
+   {
+    "name": "Horizon Teal",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #99bebf 50%,\n                    #99bebf 50%\n                  );\n                ",
+    "images": [
+     "/images/DROOPY-CLIMBER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Droopy Climber teal overhead ladder climber with side ladders and bird figure"
+    ]
+   }
+  ],
+  "description": "A red bird perched on the top bar gives the Droopy Climber its character. Below it, a teal overhead ladder with triangular hand grips spans two upright frames, each with a ladder for getting up and down. Children grab the triangles one after another to move across, which builds grip and upper-body strength, and the bird gives younger ones something to point at and talk about. The product area is 11'2\" x 3', narrow enough for the side of a society garden, and the safe play area is 16'2\" x 8'. It is finished in Horizon Teal. Its galvanised pipe, roto-moulded parts, composite laminates and play rope are covered by our 3-year warranty. For a red and yellow option, see the Crest Climber, or ask us for a layout and quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Droopy Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/DROOPY-CLIMBER-Product-Image.jpg",
+  "cardImage": "/images/DROOPY-CLIMBER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Droopy Climber"
+    ],
+    "pText": "FPCL05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Horizon Teal",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #99bebf 50%,\n                    #99bebf 50%\n                  );\n                ",
+       "images": [
+        "/images/DROOPY-CLIMBER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Droopy Climber teal overhead ladder climber with side ladders and bird figure"
+       ]
+      }
+     ],
+     "name": "Droopy Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Droopy Climber teal overhead ladder climber with side ladders and bird figure\"]",
+      "divDataImgs": "[\"/images/DROOPY-CLIMBER-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #99bebf 50%, #99bebf 50% )"
+      },
+      "divText": "",
+      "spanText": "Horizon Teal"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Droopy Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "A red bird perched on the top bar gives the Droopy Climber its character. Below it, a teal overhead ladder with triangular hand grips spans two upright frames, each with a ladder for getting up and down. Children grab the triangles one after another to move across, which builds grip and upper-body strength, and the bird gives younger ones something to point at and talk about. The product area is 11'2\" x 3', narrow enough for the side of a society garden, and the safe play area is 16'2\" x 8'. It is finished in Horizon Teal. Its galvanised pipe, roto-moulded parts, composite laminates and play rope are covered by our 3-year warranty. For a red and yellow option, see the Crest Climber, or ask us for a layout and quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Galvanised uprights carry the overhead ladder and are grouted or installed self-standing to suit the soil. Check the hand grips and the fixing of the bird figure at each service visit. Rubber flooring under the full run of grips is the right surface, because children will drop from the bars. Keep the 16'2\" x 8' zone free of benches.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "11'2\" x 3'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'2\" x 8'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Droopy Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/droopy-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Droopy Climber",
+   "sku": "FPCL05",
+   "images": [
+    "/images/DROOPY-CLIMBER-Product-Image.jpg"
+   ],
+   "description": "A red bird perched on the top bar gives the Droopy Climber its character. Below it, a teal overhead ladder with triangular hand grips spans two upright frames, each with a ladder for getting up and down. Children grab the triangles one after another to move across, which builds grip and upper-body strength, and the bird gives younger ones something to point at and talk about. The product area is 11'2\" x 3', narrow enough for the side of a society garden, and the safe play area is 16'2\" x 8'. It is finished in Horizon Teal. Its galvanised pipe, roto-moulded parts, composite laminates and play rope are covered by our 3-year warranty. For a red and yellow option, see the Crest Climber, or ask us for a layout and quote.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Horizon Teal"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "16'2\" x 8'"
+    ],
+    [
+     "Colour options",
+     "Horizon Teal"
+    ]
+   ]
+  }
+ }
+}

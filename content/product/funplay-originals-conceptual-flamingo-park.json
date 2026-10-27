@@ -1,0 +1,240 @@
+{
+ "path": "/funplay-originals/conceptual/flamingo-park.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Flamingo Park Concept Play Structure | FunPlay Systems",
+  "description": "Flamingo Park Concept Play Structure (FOC008), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Flamingo Park Concept Play Structure | FunPlay Systems",
+   "og:description": "Flamingo Park Concept Play Structure (FOC008), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html",
+   "og:image": "https://funplaysystems.com/images/Flamingo-Render-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Flamingo Park Concept Play Structure",
+ "data": {
+  "name": "Flamingo Park",
+  "sku": "FOC008",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #d40726 0% 33.33%,\n                    #416d71 33.33% 66.66%,\n                    #ba6d18 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Flamingo-Render-1.jpg",
+     "/images/Flamingo-Render-2.jpg",
+     "/images/Flamingo-Render-3.jpg"
+    ],
+    "alts": [
+     "Flamingo Park flamingo-themed play area with red curved frames, swings and net climber",
+     "Side view of Flamingo Park with red flamingo-shaped frames, hammock swing and seating",
+     "Top view of Flamingo Park flamingo play area on a circular blue surface"
+    ]
+   }
+  ],
+  "description": "Flamingo Park uses tall red curved frames shaped like flamingo necks to hold swings, a hammock swing and a net climber. The page presents it as a place for children, parents and grandparents together, with balancing exercises, loop and net climbers, and seating close by. A child can swing while a grandparent sits a few steps away, and older children can try the climbers. That mix fits a public garden or a large society lawn where families spend their evenings. The renders show it laid out on a circular blue surface. As a Funplay Originals concept, its age group, size and safe play area are confirmed in the layout drawing. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope where the final design uses them. Ask us to adapt it to your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Flamingo Park"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Flamingo-Render-1.jpg",
+  "cardImage": "/images/Flamingo-Render-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Flamingo Park ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Concept Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOC008",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #d40726 0% 33.33%,\n                    #416d71 33.33% 66.66%,\n                    #ba6d18 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Flamingo-Render-1.jpg",
+        "/images/Flamingo-Render-2.jpg",
+        "/images/Flamingo-Render-3.jpg"
+       ],
+       "alts": [
+        "Flamingo Park flamingo-themed play area with red curved frames, swings and net climber",
+        "Side view of Flamingo Park with red flamingo-shaped frames, hammock swing and seating",
+        "Top view of Flamingo Park flamingo play area on a circular blue surface"
+       ]
+      }
+     ],
+     "name": "Flamingo Park"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Flamingo Park flamingo-themed play area with red curved frames, swings and net climber\", \"Side view of Flamingo Park with red flamingo-shaped frames, hammock swing and seating\", \"Top view of Flamingo Park flamingo play area on a circular blue surface\"]",
+      "divDataImgs": "[\"/images/Flamingo-Render-1.jpg\", \"/images/Flamingo-Render-2.jpg\", \"/images/Flamingo-Render-3.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d40726 0% 33.33%, #416d71 33.33% 66.66%, #ba6d18 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Flamingo Park"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Flamingo Park uses tall red curved frames shaped like flamingo necks to hold swings, a hammock swing and a net climber. The page presents it as a place for children, parents and grandparents together, with balancing exercises, loop and net climbers, and seating close by. A child can swing while a grandparent sits a few steps away, and older children can try the climbers. That mix fits a public garden or a large society lawn where families spend their evenings. The renders show it laid out on a circular blue surface. As a Funplay Originals concept, its age group, size and safe play area are confirmed in the layout drawing. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope where the final design uses them. Ask us to adapt it to your site."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Detailed specifications are shared with the concept drawing. Our team specifies the frames, swing fittings and nets when we prepare your layout, and we choose a self-standing or grouted installation for the ground. Swings and the hammock need clear space in front and behind. Check swing hangers, ropes and bolts regularly."
+     },
+     {
+      "pText": "At the heart of Flamingo Park lies a family swing and a cozy seating section, encouraging people of all ages to gather, interact, and create lasting memories in a communal atmosphere of relaxation and joy."
+     },
+     {
+      "pText": "Our Park isn’t just about play. It’s about bringing generations together, fostering meaningful connections, and promoting active lifestyles. Come, join the flock at Flamingo Park, where every moment is a celebration of togetherness and vitality!"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Flamingo Park Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/flamingo-park.html"
+   ]
+  ],
+  "product": {
+   "name": "Flamingo Park",
+   "sku": "FOC008",
+   "images": [
+    "/images/Flamingo-Render-1.jpg",
+    "/images/Flamingo-Render-2.jpg",
+    "/images/Flamingo-Render-3.jpg"
+   ],
+   "description": "Flamingo Park uses tall red curved frames shaped like flamingo necks to hold swings, a hammock swing and a net climber. The page presents it as a place for children, parents and grandparents together, with balancing exercises, loop and net climbers, and seating close by. A child can swing while a grandparent sits a few steps away, and older children can try the climbers. That mix fits a public garden or a large society lawn where families spend their evenings. The renders show it laid out on a circular blue surface. As a Funplay Originals concept, its age group, size and safe play area are confirmed in the layout drawing. Our 3-year warranty covers galvanised pipe, roto-moulded parts, composite laminates and play rope where the final design uses them. Ask us to adapt it to your site.",
+   "category": "Concept Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

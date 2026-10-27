@@ -1,0 +1,815 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment in Karnataka & Andhra Pradesh | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Karnataka & Andhra Pradesh. Made in our Vasai factory. Get a free.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Karnataka & Andhra Pradesh. Made in our Vasai factory. Get a free.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Karnataka & Andhra Pradesh",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Karnataka & Andhra Pradesh"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems supplies outdoor playground equipment to builders, schools, housing societies, resorts and municipal parks across Karnataka and Andhra Pradesh. The two states cover very different ground, from Bengaluru's apartment towers and the wet Karnataka coast to the dry interior and the long Andhra coastline on the Bay of Bengal."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "All our equipment is made at our factory in Vasai, near Mumbai, with in-house design, roto-moulding and fabrication. We send it south by road, and our installation team or a dealer in the region installs it, self-standing or grouted. In Bengaluru most enquiries come from gated communities and schools. Mysuru, Mangaluru, Hubballi and Belagavi have schools and city parks. In Andhra Pradesh, Visakhapatnam, Vijayawada, Guntur, Nellore and Tirupati have growing housing projects and schools. Send us the site size, the age group and photos, and we will draw a layout with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Coast, plateau and dry interior",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Mangaluru and the Karnataka coast get very heavy monsoon rain and salt air, so galvanised posts and roto-moulded parts are the safe choice there, with a well-drained base. Bengaluru's weather is mild, but sites are often small, so compact multi play systems work best. Mysuru and Hubballi sit inland and are drier than the coast, with hot summers before the monsoon. North Karnataka and the Rayalaseema region of Andhra are hot and dry, and shade over slides matters more than drainage. Visakhapatnam and the Andhra coast face cyclones, so grouted foundations are worth the extra effort."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Where to start",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Bengaluru buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-bangalore.html"
+           },
+           "c": [
+            "playground page for Bangalore"
+           ]
+          },
+          ", and coastal Andhra buyers our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html"
+           },
+           "c": [
+            "playground page for Visakhapatnam"
+           ]
+          },
+          ". Schools looking for structures designed by our own team can browse ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals.html"
+           },
+           "c": [
+            "Funplay Originals"
+           ]
+          },
+          ". For a list of the regions we cover and how our dealers work, see ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/our-network.html"
+           },
+           "c": [
+            "our network"
+           ]
+          },
+          ". A school in Hubballi and a gated community in Vijayawada need different equipment, so we plan each site from its own photos and measurements. Whichever city you are in, the process is the same: photos and measurements first, then a layout and a quote."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Karnataka & Andhra Pradesh",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Which equipment suits a small apartment play area in Bengaluru?",
+       "a": "A compact multi play system that combines slides, climbers and decks in one footprint, plus a swing or spring rider if space allows. Share the dimensions and we will show what fits on a layout drawing."
+      },
+      {
+       "q": "Is your equipment safe to install near the sea in Visakhapatnam or Mangaluru?",
+       "a": "Galvanised steel and roto-moulded plastic resist rust in salt air. Rinse the equipment from time to time and follow the maintenance steps we share at handover."
+      },
+      {
+       "q": "Do you install in smaller towns in Karnataka and Andhra Pradesh?",
+       "a": "Yes. We deliver by road from Vasai to towns across both states, and our team or a regional dealer installs the equipment."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Karnataka And Andhrapradesh Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Karnataka & Andhra Pradesh",
+    "h2Text": "Cities we supply in Karnataka & Andhra Pradesh",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bangalore.html"
+        },
+        "c": [
+         "Playground equipment in Bangalore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-belgaum.html"
+        },
+        "c": [
+         "Playground equipment in Belgaum"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bellary.html"
+        },
+        "c": [
+         "Playground equipment in Bellary"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bidar.html"
+        },
+        "c": [
+         "Playground equipment in Bidar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bijapur.html"
+        },
+        "c": [
+         "Playground equipment in Bijapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-davanagere.html"
+        },
+        "c": [
+         "Playground equipment in Davanagere"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gulbarga.html"
+        },
+        "c": [
+         "Playground equipment in Gulbarga"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-hospet.html"
+        },
+        "c": [
+         "Playground equipment in Hospet"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mangalore.html"
+        },
+        "c": [
+         "Playground equipment in Mangalore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mysore.html"
+        },
+        "c": [
+         "Playground equipment in Mysore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-raichur.html"
+        },
+        "c": [
+         "Playground equipment in Raichur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-shimoga.html"
+        },
+        "c": [
+         "Playground equipment in Shimoga"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tumkur.html"
+        },
+        "c": [
+         "Playground equipment in Tumkur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-udupi.html"
+        },
+        "c": [
+         "Playground equipment in Udupi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-adoni.html"
+        },
+        "c": [
+         "Playground equipment in Adoni"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-amaravati.html"
+        },
+        "c": [
+         "Playground equipment in Amaravati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-anantapur.html"
+        },
+        "c": [
+         "Playground equipment in Anantapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhimavaram.html"
+        },
+        "c": [
+         "Playground equipment in Bhimavaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-chittoor.html"
+        },
+        "c": [
+         "Playground equipment in Chittoor"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dharmavaram.html"
+        },
+        "c": [
+         "Playground equipment in Dharmavaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-eluru.html"
+        },
+        "c": [
+         "Playground equipment in Eluru"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-gudivada.html"
+        },
+        "c": [
+         "Playground equipment in Gudivada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-guntakal.html"
+        },
+        "c": [
+         "Playground equipment in Guntakal"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-guntur.html"
+        },
+        "c": [
+         "Playground equipment in Guntur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-hindupur.html"
+        },
+        "c": [
+         "Playground equipment in Hindupur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kadapa.html"
+        },
+        "c": [
+         "Playground equipment in Kadapa"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kakinada.html"
+        },
+        "c": [
+         "Playground equipment in Kakinada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kavali.html"
+        },
+        "c": [
+         "Playground equipment in Kavali"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kurnool.html"
+        },
+        "c": [
+         "Playground equipment in Kurnool"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-machilipatnam.html"
+        },
+        "c": [
+         "Playground equipment in Machilipatnam"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-madanapalle.html"
+        },
+        "c": [
+         "Playground equipment in Madanapalle"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-nandyal.html"
+        },
+        "c": [
+         "Playground equipment in Nandyal"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-narasaraopet.html"
+        },
+        "c": [
+         "Playground equipment in Narasaraopet"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-nellore.html"
+        },
+        "c": [
+         "Playground equipment in Nellore"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ongole.html"
+        },
+        "c": [
+         "Playground equipment in Ongole"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-proddatur.html"
+        },
+        "c": [
+         "Playground equipment in Proddatur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-rajahmundry.html"
+        },
+        "c": [
+         "Playground equipment in Rajahmundry"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-srikakulam.html"
+        },
+        "c": [
+         "Playground equipment in Srikakulam"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tadepalligudem.html"
+        },
+        "c": [
+         "Playground equipment in Tadepalligudem"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tadipatri.html"
+        },
+        "c": [
+         "Playground equipment in Tadipatri"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tenali.html"
+        },
+        "c": [
+         "Playground equipment in Tenali"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tirupati.html"
+        },
+        "c": [
+         "Playground equipment in Tirupati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-vijayanagaram.html"
+        },
+        "c": [
+         "Playground equipment in Vijayanagaram"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-vijayawada.html"
+        },
+        "c": [
+         "Playground equipment in Vijayawada"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-visakhapatnam.html"
+        },
+        "c": [
+         "Playground equipment in Visakhapatnam"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Playground Equipment in Karnataka & Andhra Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-karnataka-and-andhrapradesh.html"
+   ]
+  ],
+  "service": {
+   "name": "Playground Equipment in Karnataka & Andhra Pradesh",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Karnataka & Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Karnataka & Andhra Pradesh. Made in our Vasai factory. Get a free."
+  },
+  "faq": [
+   [
+    "Which equipment suits a small apartment play area in Bengaluru?",
+    "A compact multi play system that combines slides, climbers and decks in one footprint, plus a swing or spring rider if space allows. Share the dimensions and we will show what fits on a layout drawing."
+   ],
+   [
+    "Is your equipment safe to install near the sea in Visakhapatnam or Mangaluru?",
+    "Galvanised steel and roto-moulded plastic resist rust in salt air. Rinse the equipment from time to time and follow the maintenance steps we share at handover."
+   ],
+   [
+    "Do you install in smaller towns in Karnataka and Andhra Pradesh?",
+    "Yes. We deliver by road from Vasai to towns across both states, and our team or a regional dealer installs the equipment."
+   ]
+  ]
+ }
+}

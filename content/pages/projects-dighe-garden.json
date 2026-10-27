@@ -1,0 +1,89 @@
+{
+ "path": "/projects/dighe-garden.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Dighe Garden, Thane: Public Playground Project | FunPlay",
+  "description": "See the playground FunPlay Systems designed and installed at Dighe Garden, Thane: inclusive play equipment for a busy public garden. View photos of the project.",
+  "canonical": "https://funplaysystems.com/projects/dighe-garden.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/Fun-Field-product-catalogue.jpg",
+  "project": {
+   "title": "Dighe Garden",
+   "location": "THANE"
+  }
+ },
+ "sections": [
+  {
+   "component": "DigheGarden",
+   "props": {
+    "h1Text": "Dighe Garden",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "THANE"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "A public garden in Thane fitted with inclusive play equipment that gets children and parents outdoors."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "aText": " View Product ",
+    "spanText": "Fun Field",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "178.4M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS"
+   }
+  }
+ ],
+ "h1": "Dighe Garden",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Dighe Garden",
+    "https://funplaysystems.com/projects/dighe-garden.html"
+   ]
+  ],
+  "project": {
+   "name": "Dighe Garden",
+   "location": "THANE"
+  }
+ }
+}

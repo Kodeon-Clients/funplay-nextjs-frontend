@@ -1,0 +1,726 @@
+{
+ "path": "/funplay-originals/nature-sparsh/inframe.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Inframe Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Inframe Nature Play Station (FONS09), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Inframe Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Inframe Nature Play Station (FONS09), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html",
+   "og:image": "https://funplaysystems.com/images/Inframe.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Inframe Nature Play Station",
+ "data": {
+  "name": "Inframe",
+  "sku": "FONS09",
+  "colours": [
+   {
+    "name": "Lemon Yellow",
+    "swatch": "\n                  background: conic-gradient(\n                    #c8d500 0% 33.33%,\n                    #142048 33.33% 66.66%,\n                    #c09b6d 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Inframe.jpg"
+    ],
+    "alts": [
+     "Inframe tilted cube-frame play structure in lemon yellow and navy with tube slide and nets"
+    ]
+   }
+  ],
+  "description": "Inframe is a tilted cube frame that invites children to picture themselves inside a picture frame and then find a way out. The structure is Lemon Yellow with navy, and it carries a tube slide, rope nets, a spiral climber and a geoboard where children can make shapes. It suits ages 5 to 12, takes up to 15 children, and needs a safe play area of 21'9\" x 19'3\" for a product area of 16'3\" x 14'9\". The mix of climbing, sliding and shape-making builds hand-eye coordination, arm strength, imagination and thinking skills. As part of our Nature Sparsh range it carries a 3-year warranty on its main materials. Write to sales@funplaysystems.com with your site details.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Inframe"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Inframe.jpg",
+  "cardImage": "/images/Inframe.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Inframe ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS09",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Lemon Yellow",
+       "swatch": "\n                  background: conic-gradient(\n                    #c8d500 0% 33.33%,\n                    #142048 33.33% 66.66%,\n                    #c09b6d 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Inframe.jpg"
+       ],
+       "alts": [
+        "Inframe tilted cube-frame play structure in lemon yellow and navy with tube slide and nets"
+       ]
+      }
+     ],
+     "name": "Inframe"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Inframe tilted cube-frame play structure in lemon yellow and navy with tube slide and nets\"]",
+      "divDataImgs": "[\"/images/Inframe.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #c8d500 0% 33.33%, #142048 33.33% 66.66%, #c09b6d 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Lemon Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Inframe"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Inframe is a tilted cube frame that invites children to picture themselves inside a picture frame and then find a way out. The structure is Lemon Yellow with navy, and it carries a tube slide, rope nets, a spiral climber and a geoboard where children can make shapes. It suits ages 5 to 12, takes up to 15 children, and needs a safe play area of 21'9\" x 19'3\" for a product area of 16'3\" x 14'9\". The mix of climbing, sliding and shape-making builds hand-eye coordination, arm strength, imagination and thinking skills. As part of our Nature Sparsh range it carries a 3-year warranty on its main materials. Write to sales@funplaysystems.com with your site details."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imagination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hand-eye Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cognitive Ability"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Arm Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Inframe play structure with slide",
+    "imgSrc": "/images/Inframe-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1740 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "824 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "800 cm"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The tilted cube is galvanised pipe with roto-moulded and composite parts and play rope nets. It is installed self-standing or grouted. Because the frame leans, check the safe zone on the low side carefully on our layout drawing. Inspect the geoboard ropes and the slide joints during regular maintenance.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imagination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hand-eye Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cognitive Ability"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Arm Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'3\" x 14'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "21'9\" x 19'3\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Inframe Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/inframe.html"
+   ]
+  ],
+  "product": {
+   "name": "Inframe",
+   "sku": "FONS09",
+   "images": [
+    "/images/Inframe.jpg"
+   ],
+   "description": "Inframe is a tilted cube frame that invites children to picture themselves inside a picture frame and then find a way out. The structure is Lemon Yellow with navy, and it carries a tube slide, rope nets, a spiral climber and a geoboard where children can make shapes. It suits ages 5 to 12, takes up to 15 children, and needs a safe play area of 21'9\" x 19'3\" for a product area of 16'3\" x 14'9\". The mix of climbing, sliding and shape-making builds hand-eye coordination, arm strength, imagination and thinking skills. As part of our Nature Sparsh range it carries a 3-year warranty on its main materials. Write to sales@funplaysystems.com with your site details.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Lemon Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "21'9\" x 19'3\""
+    ],
+    [
+     "Length",
+     "1740 cm"
+    ],
+    [
+     "Width",
+     "824 cm"
+    ],
+    [
+     "Height",
+     "800 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Sliding"
+    ],
+    [
+     "Colour options",
+     "Lemon Yellow"
+    ]
+   ]
+  }
+ }
+}

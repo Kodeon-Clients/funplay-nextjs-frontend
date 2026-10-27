@@ -1,0 +1,357 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-jharkhand.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Jharkhand | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jharkhand. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jharkhand.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Jharkhand | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jharkhand. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jharkhand.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Jharkhand",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Jharkhand"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Jharkhand's company towns were some of the first places in the region to plan proper parks, and they still buy a large share of the state's playground equipment. FunPlay Systems supplies these townships in Jamshedpur, Bokaro and Dhanbad, along with schools, housing societies and municipal parks in Ranchi, Hazaribagh, Ramgarh and Medininagar."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We design and build everything at our own factory in Vasai, Maharashtra. It has in-house roto-moulding, fabrication and quality inspection, and we have been making play equipment there since 2002. The finished equipment goes to Jharkhand by road, and our team or a dealer in eastern India installs it, self-standing or grouted. Tell us about the site, such as a school ground, a society garden or a township park, and the age group of the children. We will send a layout drawing that marks the safe play area around each piece."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Plateau, coal belt and what changes between them",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Ranchi and Hazaribagh sit higher on the Chota Nagpur plateau and stay milder than the coal belt around Dhanbad, which gets very hot before the monsoon. The whole state gets good rain from the monsoon. In mining areas, fine dust settles on slides and decks, so rinse them every few weeks. Rocky plateau ground can make digging for foundations slow, and a self-standing base is often quicker there. A township with several parks can have all of them planned together on one set of drawings."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Ranchi schools and societies often choose a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/robo-romp.html"
+           },
+           "c": [
+            "Robo Romp"
+           ]
+          },
+          " or other themed multi play system. Ranchi buyers can read our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-ranchi.html"
+           },
+           "c": [
+            "playground page for Ranchi"
+           ]
+          },
+          ", and for adults see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-jharkhand.html"
+           },
+           "c": [
+            "outdoor gym equipment in Jharkhand"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Jharkhand",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Jharkhand",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-jharkhand.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you install playground equipment on rocky ground?",
+       "a": "Yes. Where digging is difficult, we often use a self-standing base on a level, prepared surface. Our team or dealer checks the ground and confirms the method before installation."
+      },
+      {
+       "q": "How do I keep playground equipment clean in a dusty mining town?",
+       "a": "Wash slides, decks and panels with plain water every few weeks, and check moving parts such as swing bearings more often. Roto-moulded parts clean easily and do not rust."
+      },
+      {
+       "q": "Do you supply township parks in Jamshedpur and Bokaro?",
+       "a": "Yes. We plan, manufacture and install for township parks and schools across the steel and coal belt. Share the park layout and we will suggest equipment."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Jharkhand",
+    "h2Text": "Cities we supply in Jharkhand",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bokaro.html"
+        },
+        "c": [
+         "Playground equipment in Bokaro"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-deoghar.html"
+        },
+        "c": [
+         "Playground equipment in Deoghar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dhanbad.html"
+        },
+        "c": [
+         "Playground equipment in Dhanbad"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-giridih.html"
+        },
+        "c": [
+         "Playground equipment in Giridih"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-hazaribagh.html"
+        },
+        "c": [
+         "Playground equipment in Hazaribagh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jamshedpur.html"
+        },
+        "c": [
+         "Playground equipment in Jamshedpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mango.html"
+        },
+        "c": [
+         "Playground equipment in Mango"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-phusro.html"
+        },
+        "c": [
+         "Playground equipment in Phusro"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ramgarh.html"
+        },
+        "c": [
+         "Playground equipment in Ramgarh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ranchi.html"
+        },
+        "c": [
+         "Playground equipment in Ranchi"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Jharkhand",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-jharkhand.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Jharkhand",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Jharkhand"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Jharkhand. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you install playground equipment on rocky ground?",
+    "Yes. Where digging is difficult, we often use a self-standing base on a level, prepared surface. Our team or dealer checks the ground and confirms the method before installation."
+   ],
+   [
+    "How do I keep playground equipment clean in a dusty mining town?",
+    "Wash slides, decks and panels with plain water every few weeks, and check moving parts such as swing bearings more often. Roto-moulded parts clean easily and do not rust."
+   ],
+   [
+    "Do you supply township parks in Jamshedpur and Bokaro?",
+    "Yes. We plan, manufacture and install for township parks and schools across the steel and coal belt. Share the park layout and we will suggest equipment."
+   ]
+  ]
+ }
+}

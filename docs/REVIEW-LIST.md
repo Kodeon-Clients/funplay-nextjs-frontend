@@ -78,3 +78,31 @@ Kidzlet, Koochie, Arihant Play, GN Enterprises, Play On India, Nidhi Play System
 
 - Submit `https://funplaysystems.com/sitemap.xml` in Search Console and watch the Pages report for 404s for two to three weeks.
 - Use `docs/keyword-map.xlsx` as the reference for titles and H1s: one main keyword per page, and the Search Console queries each page should win.
+
+## 9. Code refactor (October)
+
+The developer's refactor brief and the structured-data review are done; details and before/after
+numbers are in `docs/REFACTOR-REPORT.md`. Nothing visible changed. Points for FunPlay:
+
+- **Job postings**: the career pages show no posting date, so the structured data uses 19 October 2026 and
+  "full time". Confirm or send the real values.
+- **Ratings and reviews removed from structured data**: the old pages declared star ratings and reviews
+  that were not shown on the page, and "Contact for Pricing" as a price. Google treats both as spam
+  signals, so they are gone. Real customer reviews can be added once they are shown on the site.
+- **Colour contrast**: some light grey text and white-on-colour buttons are below the accessibility
+  contrast guideline. Changing them changes the look, so it is your call.
+- **Tracking scripts**: Google Tag Manager tags and the Tawk.to chat widget are now the biggest cost in
+  page speed. Worth checking which tags are still needed.
+
+## 10. Content sheet (October)
+
+The SEO team can now edit titles, meta descriptions, H1s, Open Graph tags, alt texts and page text in
+a Google Sheet and publish from it (guide: `docs/CONTENT-SHEET.md`). To decide:
+
+- **Who owns the Google account** that holds the sheet and the service account (FunPlay or Kode/On),
+  and who gets edit access. Anyone with edit access can publish to the live site.
+- **Who presses "Publish live"**: we suggest the team publishes to preview and one named person
+  publishes live.
+- Text the same on every city or product page (template text) and the header, footer and forms are
+  not in the sheet; changes there stay with the developer.
+

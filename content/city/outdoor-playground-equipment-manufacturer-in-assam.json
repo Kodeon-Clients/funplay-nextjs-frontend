@@ -1,0 +1,369 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-assam.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Assam | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Assam. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-assam.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Assam | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Assam. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-assam.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Assam",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Assam"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Assam gets more rain than most of India, and a playground here has to cope with wet ground for months at a stretch. FunPlay Systems designs and manufactures outdoor playground equipment for schools, housing societies, parks, tea estates and institutions across the state. Our factory is in Vasai East, Maharashtra, and we send equipment to Assam by road for installation by our team or a dealer."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Guwahati has most of the state's apartment projects and large private schools. Towns in Upper Assam, such as Jorhat, Dibrugarh and Tinsukia, have schools, clubs and estate colonies of their own, and the Barak Valley around Silchar is a separate market again. Each area has its own mix of buyers. Wherever your site is, we start from its size, the age group of the children and a few photos, then send a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Planning for the Brahmaputra valley's rain",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "The monsoon in Assam starts early and runs long, and low-lying areas flood in most years. Raise the play area above the surrounding ground and give it a drainage slope, so water runs off instead of pooling under the equipment. Rubber flooring on that raised base dries faster than soil and cushions falls, and we supply it with the equipment."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Humidity also brings moss and algae on shaded surfaces. Scrub decks and steps from time to time so they do not turn slippery. Roto-moulded plastic does not rust, and galvanised steel posts are protected by their zinc coating, which is why we use both throughout our ranges."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Supplying Guwahati, Upper Assam and the Barak Valley",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "In Guwahati, builders and housing societies usually want a compact multi play system for a podium or garden. Schools across the state want equipment for several age groups on one ground, with separate zones for the youngest children. See our pages for ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-guwahati.html"
+           },
+           "c": [
+            "Guwahati"
+           ]
+          },
+          " and ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-silchar.html"
+           },
+           "c": [
+            "Silchar"
+           ]
+          },
+          " for city details."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Tea estate schools and colonies often have open land but little shade, so plan trees or a gazebo beside the play area. Nature-themed pieces from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/nature-sparsh.html"
+           },
+           "c": [
+            "Nature Sparsh"
+           ]
+          },
+          " collection fit that green setting well. For adults, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-assam.html"
+           },
+           "c": [
+            "outdoor gym equipment in Assam"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Assam",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Assam",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-assam.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you install playground equipment across Assam?",
+       "a": "Yes. We send equipment by road from our Vasai factory to Guwahati and other towns in the state, and install it through our own team or a dealer, grouted or self-standing."
+      },
+      {
+       "q": "What surface works best under play equipment in a flood-prone area?",
+       "a": "Rubber flooring on a raised, well-drained base. It cushions falls, dries faster than soil after rain and keeps children off mud. We can supply it along with the equipment."
+      },
+      {
+       "q": "Can you plan a playground for a tea estate school?",
+       "a": "Yes. Share the size of the ground, the age groups and photos. We will suggest pieces that suit a large group of children and mark the safe play area on a layout drawing."
+      },
+      {
+       "q": "What warranty do you give on playground equipment?",
+       "a": "Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts. It covers manufacturing defects when installed and maintained as per our instructions."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Assam",
+    "h2Text": "Cities we supply in Assam",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bongaigaon.html"
+        },
+        "c": [
+         "Playground equipment in Bongaigaon"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dibrugarh.html"
+        },
+        "c": [
+         "Playground equipment in Dibrugarh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-dispur.html"
+        },
+        "c": [
+         "Playground equipment in Dispur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-guwahati.html"
+        },
+        "c": [
+         "Playground equipment in Guwahati"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-jorhat.html"
+        },
+        "c": [
+         "Playground equipment in Jorhat"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-silchar.html"
+        },
+        "c": [
+         "Playground equipment in Silchar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tezpur.html"
+        },
+        "c": [
+         "Playground equipment in Tezpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tinsukia.html"
+        },
+        "c": [
+         "Playground equipment in Tinsukia"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Assam",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-assam.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Assam",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Assam"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Assam. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you install playground equipment across Assam?",
+    "Yes. We send equipment by road from our Vasai factory to Guwahati and other towns in the state, and install it through our own team or a dealer, grouted or self-standing."
+   ],
+   [
+    "What surface works best under play equipment in a flood-prone area?",
+    "Rubber flooring on a raised, well-drained base. It cushions falls, dries faster than soil after rain and keeps children off mud. We can supply it along with the equipment."
+   ],
+   [
+    "Can you plan a playground for a tea estate school?",
+    "Yes. Share the size of the ground, the age groups and photos. We will suggest pieces that suit a large group of children and mark the safe play area on a layout drawing."
+   ],
+   [
+    "What warranty do you give on playground equipment?",
+    "Three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and one year on springs, bearings and spare parts. It covers manufacturing defects when installed and maintained as per our instructions."
+   ]
+  ]
+ }
+}

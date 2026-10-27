@@ -1,0 +1,786 @@
+{
+ "path": "/corecraft/forestia/blossam-brook.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Blossam Brook Jungle Multi Play Station | FunPlay Systems",
+  "description": "Blossam Brook Jungle Multi Play Station (F0RMPFS04) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Blossam Brook Jungle Multi Play Station | FunPlay Systems",
+   "og:description": "Blossam Brook Jungle Multi Play Station (F0RMPFS04) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia/blossam-brook.html",
+   "og:image": "https://funplaysystems.com/images/BlossomBrook-green-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Blossam Brook Jungle Multi Play Station",
+ "data": {
+  "name": "Blossam Brook",
+  "sku": "F0RMPFS04",
+  "colours": [
+   {
+    "name": "Play Red",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c9222f 50%,\n                    #8faca8 50%\n                  );\n                ",
+    "images": [
+     "/images/BlossomBrook-green-product-image.jpg",
+     "/images/BlossomBrook-green2-product-image.jpg"
+    ],
+    "alts": [
+     "Blossam Brook nature-themed play station in teal and red with palm trees, slides and net bridge",
+     "Top view of Blossam Brook playground showing towers, slides and curved activity trail"
+    ]
+   },
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e28733 50%,\n                    #416573 50%\n                  );\n                ",
+    "images": [
+     "/images/BlossomBrook-orange-product-image.jpg",
+     "/images/BlossomBrook-orange-product-image.jpg"
+    ],
+    "alts": [
+     "Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge",
+     "Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge"
+    ]
+   },
+   {
+    "name": "Knight Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #2c528d 50%,\n                    #95b2ae 50%\n                  );\n                ",
+    "images": [
+     "/images/BlossomBrook-blue-product-image.jpg",
+     "/images/BlossomBrook-blue-product-image.jpg"
+    ],
+    "alts": [
+     "Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods",
+     "Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods"
+    ]
+   }
+  ],
+  "description": "Blossam Brook brings the outdoors into the play structure. Palm tree towers rise over slides and a net bridge, and a curved activity trail winds along one side for children to follow on foot. Along that trail they balance, hop and crawl, then climb the towers and slide down. Blossam Brook is meant for ages 3 to 12. The product area is 34'9\" x 25'3\" and the safe play area is 39'9\" x 31'3\", so it needs a generous lawn in a park, school or township. Blossam Brook is offered in Play Red, Play Orange or Knight Blue, and capacity is listed as 15 children. Its galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us how the trail can line up with your existing paths.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Forestia",
+   "Blossam Brook/li>"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/forestia.html",
+  "image": "/images/BlossomBrook-green-product-image.jpg",
+  "cardImage": "/images/BlossomBrook-green-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Blossam Brook ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Jungle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "F0RMPFS04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c9222f 50%,\n                    #8faca8 50%\n                  );\n                ",
+       "images": [
+        "/images/BlossomBrook-green-product-image.jpg",
+        "/images/BlossomBrook-green2-product-image.jpg"
+       ],
+       "alts": [
+        "Blossam Brook nature-themed play station in teal and red with palm trees, slides and net bridge",
+        "Top view of Blossam Brook playground showing towers, slides and curved activity trail"
+       ]
+      },
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e28733 50%,\n                    #416573 50%\n                  );\n                ",
+       "images": [
+        "/images/BlossomBrook-orange-product-image.jpg",
+        "/images/BlossomBrook-orange-product-image.jpg"
+       ],
+       "alts": [
+        "Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge",
+        "Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge"
+       ]
+      },
+      {
+       "name": "Knight Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #2c528d 50%,\n                    #95b2ae 50%\n                  );\n                ",
+       "images": [
+        "/images/BlossomBrook-blue-product-image.jpg",
+        "/images/BlossomBrook-blue-product-image.jpg"
+       ],
+       "alts": [
+        "Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods",
+        "Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods"
+       ]
+      }
+     ],
+     "name": "Blossam Brook"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Blossam Brook nature-themed play station in teal and red with palm trees, slides and net bridge\", \"Top view of Blossam Brook playground showing towers, slides and curved activity trail\"]",
+      "divDataImgs": "[\"/images/BlossomBrook-green-product-image.jpg\", \"/images/BlossomBrook-green2-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #c9222f 50%, #8faca8 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red"
+     },
+     {
+      "divDataAlts": "[\"Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge\", \"Blossam Brook nature-themed playground in play orange with palm tree towers, slides and net bridge\"]",
+      "divDataImgs": "[\"/images/BlossomBrook-orange-product-image.jpg\", \"/images/BlossomBrook-orange-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e28733 50%, #416573 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     },
+     {
+      "divDataAlts": "[\"Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods\", \"Blossam Brook nature-themed playground in knight blue with palm trees, slides and stepping pods\"]",
+      "divDataImgs": "[\"/images/BlossomBrook-blue-product-image.jpg\", \"/images/BlossomBrook-blue-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #2c528d 50%, #95b2ae 50% )"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/forestia.html"
+        },
+        "c": [
+         "Forestia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Blossam Brook/li>"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Blossam Brook brings the outdoors into the play structure. Palm tree towers rise over slides and a net bridge, and a curved activity trail winds along one side for children to follow on foot. Along that trail they balance, hop and crawl, then climb the towers and slide down. Blossam Brook is meant for ages 3 to 12. The product area is 34'9\" x 25'3\" and the safe play area is 39'9\" x 31'3\", so it needs a generous lawn in a park, school or township. Blossam Brook is offered in Play Red, Play Orange or Knight Blue, and capacity is listed as 15 children. Its galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us how the trail can line up with your existing paths."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/forestia/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hopping"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Crawling"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Blossom Brook playground layout",
+    "imgSrc": "/images/BlossomBrook.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1059.18 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "769.62 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The activity trail sits low to the ground, so children often step onto it from the edges. Treat the whole 39'9\" x 31'3\" area as play space and cover it with an impact-absorbing surface. Towers are galvanised pipe with roto-moulded parts and a play rope net bridge. We install self-standing or grouted to suit the soil.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hopping",
+      "imgSrc": "/images/hoping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hopping"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "34'9\" x 25'3\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "39'9\" x 31'3\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "Blossam Brook Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/blossam-brook.html"
+   ]
+  ],
+  "product": {
+   "name": "Blossam Brook",
+   "sku": "F0RMPFS04",
+   "images": [
+    "/images/BlossomBrook-green-product-image.jpg",
+    "/images/BlossomBrook-green2-product-image.jpg",
+    "/images/BlossomBrook-orange-product-image.jpg",
+    "/images/BlossomBrook-orange-product-image.jpg",
+    "/images/BlossomBrook-blue-product-image.jpg",
+    "/images/BlossomBrook-blue-product-image.jpg"
+   ],
+   "description": "Blossam Brook brings the outdoors into the play structure. Palm tree towers rise over slides and a net bridge, and a curved activity trail winds along one side for children to follow on foot. Along that trail they balance, hop and crawl, then climb the towers and slide down. Blossam Brook is meant for ages 3 to 12. The product area is 34'9\" x 25'3\" and the safe play area is 39'9\" x 31'3\", so it needs a generous lawn in a park, school or township. Blossam Brook is offered in Play Red, Play Orange or Knight Blue, and capacity is listed as 15 children. Its galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us how the trail can line up with your existing paths.",
+   "category": "Jungle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/forestia.html",
+   "colours": [
+    "Play Red",
+    "Play Orange",
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "39'9\" x 31'3\""
+    ],
+    [
+     "Length",
+     "1059.18 cm"
+    ],
+    [
+     "Width",
+     "769.62 cm"
+    ],
+    [
+     "Colour options",
+     "Play Red, Play Orange, Knight Blue"
+    ]
+   ]
+  }
+ }
+}

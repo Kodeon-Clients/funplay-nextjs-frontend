@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Seating Twister Cum Tai Chi Outdoor Gym Equipment | FunPlay",
+  "description": "Seating Twister Cum Tai Chi Outdoor Gym Equipment (FFE020) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Seating Twister Cum Tai Chi Outdoor Gym Equipment | FunPlay",
+   "og:description": "Seating Twister Cum Tai Chi Outdoor Gym Equipment (FFE020) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html",
+   "og:image": "https://funplaysystems.com/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Seating Twister Cum Tai Chi Outdoor Gym Equipment",
+ "data": {
+  "name": "Seating Twister Cum Tai Chi",
+  "sku": "FFE020",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg"
+    ],
+    "alts": [
+     "Seating Twister Cum Tai Chi outdoor gym combo with seated twister and tai chi spinner wheels"
+    ]
+   }
+  ],
+  "description": "The Seating Twister Cum Tai Chi puts two gentle exercises on one frame. On the seated twister, the user sits and turns the hips from side to side while holding a handle. On the tai chi side, the user stands and turns two spinner wheels with the hands, working the shoulders and arms. Both movements are slow and controlled, which makes this a good choice for a senior citizens' corner or a society garden where older residents gather. It comes in Play Orange and is part of our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. For the Seating Twister Cum Tai Chi, standard terms of 3 years on galvanised pipes and 1 year on bearings will be confirmed in your quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Seating Twister Cum Tai Chi"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg",
+  "cardImage": "/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Seating Twister Cum Tai Chi ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE020",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg"
+       ],
+       "alts": [
+        "Seating Twister Cum Tai Chi outdoor gym combo with seated twister and tai chi spinner wheels"
+       ]
+      }
+     ],
+     "name": "Seating Twister Cum Tai Chi"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Seating Twister Cum Tai Chi outdoor gym combo with seated twister and tai chi spinner wheels\"]",
+      "divDataImgs": "[\"/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Seating Twister Cum Tai Chi"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Seating Twister Cum Tai Chi puts two gentle exercises on one frame. On the seated twister, the user sits and turns the hips from side to side while holding a handle. On the tai chi side, the user stands and turns two spinner wheels with the hands, working the shoulders and arms. Both movements are slow and controlled, which makes this a good choice for a senior citizens' corner or a society garden where older residents gather. It comes in Play Orange and is part of our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. For the Seating Twister Cum Tai Chi, standard terms of 3 years on galvanised pipes and 1 year on bearings will be confirmed in your quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The twister seat and the two tai chi wheels all turn on bearings, so check them for free movement at each service. This combination goes in self-standing or grouted. Position it so the standing user at the wheels has room behind them, and keep the seat dry."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Seating Twister Cum Tai Chi Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html"
+   ]
+  ],
+  "product": {
+   "name": "Seating Twister Cum Tai Chi",
+   "sku": "FFE020",
+   "images": [
+    "/images/Seating-Twister-Cum-Tai-Chi-product-image.jpg"
+   ],
+   "description": "The Seating Twister Cum Tai Chi puts two gentle exercises on one frame. On the seated twister, the user sits and turns the hips from side to side while holding a handle. On the tai chi side, the user stands and turns two spinner wheels with the hands, working the shoulders and arms. Both movements are slow and controlled, which makes this a good choice for a senior citizens' corner or a society garden where older residents gather. It comes in Play Orange and is part of our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. For the Seating Twister Cum Tai Chi, standard terms of 3 years on galvanised pipes and 1 year on bearings will be confirmed in your quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

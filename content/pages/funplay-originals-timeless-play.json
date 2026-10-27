@@ -1,0 +1,162 @@
+{
+ "path": "/funplay-originals/timeless-play.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Timeless Play Structures | FunPlay Originals",
+  "description": "Timeless Play by FunPlay Originals: puzzle, kite and classic-game play structures with a nostalgic twist.",
+  "canonical": "https://funplaysystems.com/funplay-originals/timeless-play.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Timeless Play Structures | FunPlay Originals",
+   "og:description": "Timeless Play by FunPlay Originals: puzzle, kite and classic-game play structures with a nostalgic twist.",
+   "og:url": "https://funplaysystems.com/funplay-originals/timeless-play.html",
+   "og:image": "https://funplaysystems.com/images/Patang-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Timeless Play Structures",
+ "data": {
+  "cardImage": "/images/Patang-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "TimelessPlayStructures",
+   "props": {
+    "h1Text": "Timeless Play Structures",
+    "h2Text": "Timeless Play"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Patang kite-themed swing set with colourful canopy panels",
+      "imgSrc": "/images/Patang-product-catalogue.jpg",
+      "aHref": "/funplay-originals/timeless-play/patang.html",
+      "aText": " View Product ",
+      "spanText": "Patang",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "7.9M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Chausar board-game-inspired play structure with slides and climbers",
+      "imgSrc": "/images/Chausar-product-catalogue.jpg",
+      "aHref": "/funplay-originals/timeless-play/chausar.html",
+      "aText": " View Product ",
+      "spanText": "Chausar",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "88.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #9d0003 0% 20%, #dbd900 20% 40%, #4ca5c1 40% 60%, #17584b 60% 80%, #46527b 80% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Paheli puzzle-themed play structure with purple tower and two slides",
+      "imgSrc": "/images/Paheli-product-catalogue.jpg",
+      "aHref": "/funplay-originals/timeless-play/paheli.html",
+      "aText": " View Product ",
+      "spanText": "Paheli",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "25.8M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #cc5306 0% 20%, #dbd900 20% 40%, #584ba9 40% 60%, #2e85b3 60% 80%, #2d7eac 80% 100% )"
+      }
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Fugadi",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "35.9M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Timeless Play Structures",
+    "https://funplaysystems.com/funplay-originals/timeless-play.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Chausar Play Structure",
+    "https://funplaysystems.com/funplay-originals/timeless-play/chausar.html"
+   ],
+   [
+    "Fugadi Revolving Play Pole",
+    "https://funplaysystems.com/funplay-originals/timeless-play/fugadi.html"
+   ],
+   [
+    "Paheli Play Structure",
+    "https://funplaysystems.com/funplay-originals/timeless-play/paheli.html"
+   ],
+   [
+    "Patang Kite Swing Set",
+    "https://funplaysystems.com/funplay-originals/timeless-play/patang.html"
+   ]
+  ]
+ }
+}

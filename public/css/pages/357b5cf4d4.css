@@ -1,0 +1,8 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+@media (max-width: 768px) {
+      .col.testimonials-style-01 {
+        width: 100% !important;
+      }
+    }
+}

@@ -1,0 +1,398 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Roto Seating Merry-Go-Round | CoreCraft | FunPlay Systems",
+  "description": "Roto Seating Merry-Go-Round (FPMGR03) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Roto Seating Merry-Go-Round | CoreCraft | FunPlay Systems",
+   "og:description": "Roto Seating Merry-Go-Round (FPMGR03) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html",
+   "og:image": "https://funplaysystems.com/images/roto-seating-MGR-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Roto Seating Merry-Go-Round",
+ "data": {
+  "name": "Roto Seating Merry-Go-Round",
+  "sku": "FPMGR03",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #1f3463 0% 33.33%,\n                    #ead16d 33.33% 66.66%,\n                    #c2e7ef 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/roto-seating-MGR-product-image.jpg"
+    ],
+    "alts": [
+     "Roto Seating MGR rotating seating merry-go-round with yellow seat and steel canopy frame"
+    ]
+   }
+  ],
+  "description": "On the Roto Seating Merry-Go-Round, children sit on a yellow moulded seat under a steel canopy frame while the unit turns. The canopy frame gives the ride a distinct shape and gives children something to hold above their heads. It seats three and is meant for the 5 to 10 years Key User Group. The product area is 4' x 4' and the safe play area is 10' x 10', so it fits a school or society play area without taking much ground. The finish is multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded parts against manufacturing defects, and the bearing has a 1-year warranty. Ask us for a layout drawing showing where it fits.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Roto Seating MGR"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/roto-seating-MGR-product-image.jpg",
+  "cardImage": "/images/roto-seating-MGR-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Roto Seating Merry-Go-Round"
+    ],
+    "pText": "FPMGR03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #1f3463 0% 33.33%,\n                    #ead16d 33.33% 66.66%,\n                    #c2e7ef 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/roto-seating-MGR-product-image.jpg"
+       ],
+       "alts": [
+        "Roto Seating MGR rotating seating merry-go-round with yellow seat and steel canopy frame"
+       ]
+      }
+     ],
+     "name": "Roto Seating Merry-Go-Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Roto Seating MGR rotating seating merry-go-round with yellow seat and steel canopy frame\"]",
+      "divDataImgs": "[\"/images/roto-seating-MGR-product-image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #1f3463 0% 33.33%, #ead16d 33.33% 66.66%, #c2e7ef 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Roto Seating MGR"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "On the Roto Seating Merry-Go-Round, children sit on a yellow moulded seat under a steel canopy frame while the unit turns. The canopy frame gives the ride a distinct shape and gives children something to hold above their heads. It seats three and is meant for the 5 to 10 years Key User Group. The product area is 4' x 4' and the safe play area is 10' x 10', so it fits a school or society play area without taking much ground. The finish is multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded parts against manufacturing defects, and the bearing has a 1-year warranty. Ask us for a layout drawing showing where it fits."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The canopy frame is galvanised steel and the seat is roto-moulded plastic. Installation is self-standing or grouted. Keep the 10' x 10' area clear around the turning seat, and during maintenance check the canopy joints and the bearing so the ride turns smoothly.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 to 10 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4' x 4'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10' x 10'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Roto Seating Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-seating-mgr.html"
+   ]
+  ],
+  "product": {
+   "name": "Roto Seating Merry-Go-Round",
+   "sku": "FPMGR03",
+   "images": [
+    "/images/roto-seating-MGR-product-image.jpg"
+   ],
+   "description": "On the Roto Seating Merry-Go-Round, children sit on a yellow moulded seat under a steel canopy frame while the unit turns. The canopy frame gives the ride a distinct shape and gives children something to hold above their heads. It seats three and is meant for the 5 to 10 years Key User Group. The product area is 4' x 4' and the safe play area is 10' x 10', so it fits a school or society play area without taking much ground. The finish is multi colour. Our 3-year warranty covers galvanised pipe and roto-moulded parts against manufacturing defects, and the bearing has a 1-year warranty. Ask us for a layout drawing showing where it fits.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "3"
+    ],
+    [
+     "Safe play area",
+     "10' x 10'"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

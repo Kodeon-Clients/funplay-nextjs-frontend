@@ -1,0 +1,417 @@
+{
+ "path": "/corecraft/individual-equipment/swing/curve-post-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Curve Post Swing | CoreCraft | FunPlay Systems",
+  "description": "Curve Post Swing (FPSW03) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/swing/curve-post-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Curve Post Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Curve Post Swing (FPSW03) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/swing/curve-post-swing.html",
+   "og:image": "https://funplaysystems.com/images/CURVE-Post-SWING-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Curve Post Swing",
+ "data": {
+  "name": "Curve Post Swing",
+  "sku": "FPSW03",
+  "colours": [
+   {
+    "name": "Horizon Teal",
+    "swatch": "background-color: #99bebf;",
+    "images": [
+     "/images/CURVE-Post-SWING-Product-Image.jpg"
+    ],
+    "alts": [
+     "Curve Post Swing two-seat swing set with curved teal posts and yellow seats"
+    ]
+   }
+  ],
+  "description": "The Curve Post Swing is a two-seat swing set with curved teal posts and bright yellow seats, made for children aged 6 to 12. Two children can swing at the same time, and the curved frame gives it a softer look than a straight A-frame in a school or society garden. It needs a safe play area of about 11'1\" x 13'3\". It comes in Horizon Teal and carries a 3-year warranty on the galvanised pipes and a 1-year warranty on bearings and spare parts. Send us your site size and we will show you where it fits on a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Swing",
+   "Curve Post Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/swing.html",
+  "image": "/images/CURVE-Post-SWING-Product-Image.jpg",
+  "cardImage": "/images/CURVE-Post-SWING-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Curve Post Swing"
+    ],
+    "pText": "FPSW03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Horizon Teal",
+       "swatch": "background-color: #99bebf;",
+       "images": [
+        "/images/CURVE-Post-SWING-Product-Image.jpg"
+       ],
+       "alts": [
+        "Curve Post Swing two-seat swing set with curved teal posts and yellow seats"
+       ]
+      }
+     ],
+     "name": "Curve Post Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Curve Post Swing two-seat swing set with curved teal posts and yellow seats\"]",
+      "divDataImgs": "[\"/images/CURVE-Post-SWING-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#99bebf"
+      },
+      "divText": "",
+      "spanText": "Horizon Teal"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/swing.html"
+        },
+        "c": [
+         "Swing"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Curve Post Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Curve Post Swing is a two-seat swing set with curved teal posts and bright yellow seats, made for children aged 6 to 12. Two children can swing at the same time, and the curved frame gives it a softer look than a straight A-frame in a school or society garden. It needs a safe play area of about 11'1\" x 13'3\". It comes in Horizon Teal and carries a 3-year warranty on the galvanised pipes and a 1-year warranty on bearings and spare parts. Send us your site size and we will show you where it fits on a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications4",
+   "props": {
+    "pText": "The frame is galvanised pipe, so it handles rain and humidity without rusting through. It can be installed self-standing or grouted, depending on your ground. Keep the swing zone free of benches and walkways, lay an impact-absorbing surface such as rubber flooring under the seats, and check the chains and bearings during routine maintenance.",
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2"
+     }
+    ],
+    "items2": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 9'1\" x 2'11\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 11'1\" x 13'3\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+   ],
+   [
+    "Curve Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/curve-post-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Curve Post Swing",
+   "sku": "FPSW03",
+   "images": [
+    "/images/CURVE-Post-SWING-Product-Image.jpg"
+   ],
+   "description": "The Curve Post Swing is a two-seat swing set with curved teal posts and bright yellow seats, made for children aged 6 to 12. Two children can swing at the same time, and the curved frame gives it a softer look than a straight A-frame in a school or society garden. It needs a safe play area of about 11'1\" x 13'3\". It comes in Horizon Teal and carries a 3-year warranty on the galvanised pipes and a 1-year warranty on bearings and spare parts. Send us your site size and we will show you where it fits on a layout drawing.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/swing.html",
+   "colours": [
+    "Horizon Teal"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "6 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "6+ Years"
+    ],
+    [
+     "User capacity",
+     "2"
+    ],
+    [
+     "Safe play area",
+     "Diameter 11'1\" x 13'3\""
+    ],
+    [
+     "Colour options",
+     "Horizon Teal"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/flower-spinner.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Flower Spinner | CoreCraft | FunPlay Systems",
+  "description": "Flower Spinner (FPSP03) from the CoreCraft Merry-Go-Rounds range: ages 3+ yrs, 1 kids at a time. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/flower-spinner.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Flower Spinner | CoreCraft | FunPlay Systems",
+   "og:description": "Flower Spinner (FPSP03) from the CoreCraft Merry-Go-Rounds range: ages 3+ yrs, 1 kids at a time. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/flower-spinner.html",
+   "og:image": "https://funplaysystems.com/images/FLOWER-SPINNER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Flower Spinner",
+ "data": {
+  "name": "Flower Spinner",
+  "sku": "FPSP03",
+  "colours": [
+   {
+    "name": "Royal Turquoise",
+    "swatch": "background-color: #2d5366",
+    "images": [
+     "/images/FLOWER-SPINNER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Flower Spinner single-seat flower spinner in royal turquoise"
+    ]
+   }
+  ],
+  "description": "Shaped like a flower and finished in Royal Turquoise, the Flower Spinner is a single-seat spinner for children in the 3 to 6 years Key User Group. One child sits on it at a time and turns it round, learning to hold on and keep steady as it spins. The flower shape gives a nursery garden or society toddler corner a soft, friendly look. It also pairs well with our other spinners if you want a small cluster. Roto-moulded parts on the Flower Spinner are covered by our 3-year warranty, with 1 year on bearings. Ask us for a layout drawing if you are planning a small play area around it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Flower Spinner"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/FLOWER-SPINNER-Product-Image.jpg",
+  "cardImage": "/images/FLOWER-SPINNER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Flower Spinner"
+    ],
+    "pText": "FPSP03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Royal Turquoise",
+       "swatch": "background-color: #2d5366",
+       "images": [
+        "/images/FLOWER-SPINNER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Flower Spinner single-seat flower spinner in royal turquoise"
+       ]
+      }
+     ],
+     "name": "Flower Spinner"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Flower Spinner single-seat flower spinner in royal turquoise\"]",
+      "divDataImgs": "[\"/images/FLOWER-SPINNER-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2d5366"
+      },
+      "divText": "",
+      "spanText": "Royal Turquoise"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Flower Spinner"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Shaped like a flower and finished in Royal Turquoise, the Flower Spinner is a single-seat spinner for children in the 3 to 6 years Key User Group. One child sits on it at a time and turns it round, learning to hold on and keep steady as it spins. The flower shape gives a nursery garden or society toddler corner a soft, friendly look. It also pairs well with our other spinners if you want a small cluster. Roto-moulded parts on the Flower Spinner are covered by our 3-year warranty, with 1 year on bearings. Ask us for a layout drawing if you are planning a small play area around it."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The flower seat is roto-moulded and the support is galvanised steel, both resistant to rust and weather. It can be installed self-standing or grouted, depending on your ground. Leave open space around it so a spinning child stays clear of other pieces, and check that the seat turns freely during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 to 6 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "1"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Flower Spinner",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/flower-spinner.html"
+   ]
+  ],
+  "product": {
+   "name": "Flower Spinner",
+   "sku": "FPSP03",
+   "images": [
+    "/images/FLOWER-SPINNER-Product-Image.jpg"
+   ],
+   "description": "Shaped like a flower and finished in Royal Turquoise, the Flower Spinner is a single-seat spinner for children in the 3 to 6 years Key User Group. One child sits on it at a time and turns it round, learning to hold on and keep steady as it spins. The flower shape gives a nursery garden or society toddler corner a soft, friendly look. It also pairs well with our other spinners if you want a small cluster. Roto-moulded parts on the Flower Spinner are covered by our 3-year warranty, with 1 year on bearings. Ask us for a layout drawing if you are planning a small play area around it.",
+   "category": "Spinner",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Royal Turquoise"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "1"
+    ],
+    [
+     "Colour options",
+     "Royal Turquoise"
+    ]
+   ]
+  }
+ }
+}

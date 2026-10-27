@@ -1,0 +1,226 @@
+{
+ "path": "/blog/creating-child-friendly-play-zones-in-residential-areas.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Child-Friendly Play Zones for Residential Areas | FunPlay",
+  "description": "How to plan a child-friendly play zone in a housing society: location, age zoning, equipment, surfacing and maintenance.",
+  "canonical": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html",
+  "robots": null,
+  "og": {
+   "og:title": "Child-Friendly Play Zones for Residential Areas | FunPlay",
+   "og:description": "How to plan a child-friendly play zone in a housing society: location, age zoning, equipment, surfacing and maintenance.",
+   "og:image": "https://funplaysystems.com/images/creating-outdoor-images.JPG",
+   "og:url": "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html",
+   "og:type": "article",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Child-Friendly Play Zones for Residential Areas | FunPlay",
+   "twitter:description": "How to plan a child-friendly play zone in a housing society: location, age zoning, equipment, surfacing and maintenance.",
+   "twitter:image": "https://funplaysystems.com/images/creating-outdoor-images.JPG"
+  }
+ },
+ "h1": "Creating Child-Friendly Play Zones in Residential Areas",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/breaking-the-myth-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "10 July 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Creating Child-Friendly Play Zones in Residential Areas",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent",
+   "props": {
+    "article": {
+     "slug": "creating-child-friendly-play-zones-in-residential-areas"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "residential play zones india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "playground equipment for housing societies"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "child friendly gated communities"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "safe play areas in apartments"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "funplay residential playgrounds"
+      ]
+     }
+    ],
+    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+    "imgSrc": "/images/g2.jpg",
+    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "11 October 2026"
+     }
+    ],
+    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc2": "/images/about_us2.jpg",
+    "imgAlt2": "Playground Design Ideas for Small Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc3": "/images/funplay-innovative-images.JPG",
+    "imgAlt3": "Blending Play Equipment with Green Spaces",
+    "items3": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Creating Child-Friendly Play Zones in Residential Areas",
+    "https://funplaysystems.com/blog/creating-child-friendly-play-zones-in-residential-areas.html"
+   ]
+  ],
+  "article": {
+   "headline": "Creating Child-Friendly Play Zones in Residential Areas",
+   "description": "How to plan a child-friendly play zone in a housing society: location, age zoning, equipment, surfacing and maintenance.",
+   "image": "https://funplaysystems.com/images/creating-outdoor-images.JPG",
+   "datePublished": "2025-07-10",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

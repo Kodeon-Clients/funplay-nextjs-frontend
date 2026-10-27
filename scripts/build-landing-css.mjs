@@ -10,8 +10,10 @@ import postcss from "postcss";
 import tailwind from "@tailwindcss/postcss";
 
 const root = process.cwd();
+// page records kept by the generators: pipeline/tools in the delivered package, ../tools in the working copy
+const tools = fs.existsSync(path.join(root, "pipeline/tools")) ? path.join(root, "pipeline/tools") : path.join(root, "../tools");
 const pages = ["/thankyou.html"];
-const recs = JSON.parse(fs.readFileSync(path.join(root, "content/pages/core.json"), "utf8"));
+const recs = JSON.parse(fs.readFileSync(path.join(tools, "records/pages/core.json"), "utf8"));
 const html = recs.filter((r) => pages.includes(r.path)).map((r) => r.body).join("\n");
 const tmpDir = path.join(root, ".landing-tmp");
 fs.mkdirSync(tmpDir, { recursive: true });
@@ -25,11 +27,11 @@ const out = props.join("") + "@layer tw-landing{" + css + "}";
 fs.mkdirSync(path.join(root, "public/css"), { recursive: true });
 fs.writeFileSync(path.join(root, "public/css/landing-tw.css"), out);
 fs.rmSync(tmpDir, { recursive: true, force: true });
-// standalone landing pages (content/standalone): their Tailwind keeps the native layers (as the CDN did), so the
+// paid-ads landing pages (records/standalone): their Tailwind keeps the native layers (as the CDN did), so the
 // unlayered vendors.min.css wins over it just like on the original page.
 {
   fs.mkdirSync(tmpDir, { recursive: true });
-  const sa = path.join(root, "content/standalone");
+  const sa = path.join(tools, "records/standalone");
   fs.writeFileSync(path.join(tmpDir, "content.html"), fs.readdirSync(sa).map((f) => fs.readFileSync(path.join(sa, f), "utf8")).join("\n"));
   const r = await postcss([tailwind({ base: tmpDir, optimize: { minify: true } })]).process(input, { from: path.join(tmpDir, "input.css") });
   fs.writeFileSync(path.join(root, "public/css/standalone-tw.css"), r.css);

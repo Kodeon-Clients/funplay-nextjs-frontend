@@ -1,0 +1,41 @@
+{
+ "path": "/404.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "404 Error",
+  "description": "funplaysystems",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "404",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "Ooops!",
+    "h1Text": "404",
+    "h2Text": "Page not found!",
+    "pText2": "The resource you are looking for doesn't exist or might have been removed.",
+    "text": "Back to homepage"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "404",
+    "https://funplaysystems.com/404.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,676 @@
+{
+ "path": "/corecraft/forestia/jungle-jive-l1.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Jungle Jive-l1 Jungle Multi Play Station | FunPlay Systems",
+  "description": "Jungle Jive-l1 Jungle Multi Play Station (F0RMPFS01) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l1.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Jungle Jive-l1 Jungle Multi Play Station | FunPlay Systems",
+   "og:description": "Jungle Jive-l1 Jungle Multi Play Station (F0RMPFS01) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l1.html",
+   "og:image": "https://funplaysystems.com/images/JungleJive-Level1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Jungle Jive-l1 Jungle Multi Play Station",
+ "data": {
+  "name": "Jungle Jive-l1",
+  "sku": "F0RMPFS01",
+  "colours": [
+   {
+    "name": "Mango Yellow & Forest Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f5d865 50%,\n                    #427e77 50%\n                  );\n                ",
+    "images": [
+     "/images/JungleJive-Level1-product-image.jpg",
+     "/images/JungleJive-Level1-product-image2.jpg"
+    ],
+    "alts": [
+     "Jungle Jive-l1 jungle-themed playground in mango yellow with flower canopy, slide and swing",
+     "Top view of Jungle Jive-l1 jungle playground with flower canopy, slide and swing beam"
+    ]
+   }
+  ],
+  "description": "Jungle Jive-l1 is the entry piece of our Forestia jungle series, built for children aged 3 to 9. A large flower-shaped canopy shades the tower, with a slide on one side and a swing beam on the other. That mix gives small children two very different things to do in a compact space: climbing up and sliding down, or taking turns on the swing. The product area is 14'8\" x 13'5\" and the safe play area is 20'8\" x 17'5\". It comes in Mango Yellow, and capacity is listed as 15 children. Jungle Jive-l1 is covered by a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. If you are planning a toddler zone, tell us your site size and we will suggest pieces to go around it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Forestia",
+   "Jungle Jive-l1/li>"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/forestia.html",
+  "image": "/images/JungleJive-Level1-product-image.jpg",
+  "cardImage": "/images/JungleJive-Level1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Jungle Jive-l1 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Jungle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "F0RMPFS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mango Yellow & Forest Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f5d865 50%,\n                    #427e77 50%\n                  );\n                ",
+       "images": [
+        "/images/JungleJive-Level1-product-image.jpg",
+        "/images/JungleJive-Level1-product-image2.jpg"
+       ],
+       "alts": [
+        "Jungle Jive-l1 jungle-themed playground in mango yellow with flower canopy, slide and swing",
+        "Top view of Jungle Jive-l1 jungle playground with flower canopy, slide and swing beam"
+       ]
+      }
+     ],
+     "name": "Jungle Jive-l1"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Jungle Jive-l1 jungle-themed playground in mango yellow with flower canopy, slide and swing\", \"Top view of Jungle Jive-l1 jungle playground with flower canopy, slide and swing beam\"]",
+      "divDataImgs": "[\"/images/JungleJive-Level1-product-image.jpg\", \"/images/JungleJive-Level1-product-image2.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #f5d865 50%, #427e77 50% )"
+      },
+      "divText": "",
+      "spanText": "Mango Yellow & Forest Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/forestia.html"
+        },
+        "c": [
+         "Forestia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Jungle Jive-l1/li>"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Jungle Jive-l1 is the entry piece of our Forestia jungle series, built for children aged 3 to 9. A large flower-shaped canopy shades the tower, with a slide on one side and a swing beam on the other. That mix gives small children two very different things to do in a compact space: climbing up and sliding down, or taking turns on the swing. The product area is 14'8\" x 13'5\" and the safe play area is 20'8\" x 17'5\". It comes in Mango Yellow, and capacity is listed as 15 children. Jungle Jive-l1 is covered by a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. If you are planning a toddler zone, tell us your site size and we will suggest pieces to go around it."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/forestia/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-9 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Jungle Jive Level 1 play station",
+    "imgSrc": "/images/JungleJive_Level-1.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "447.04 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "408.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The flower canopy is roto-moulded, which keeps the deck shaded and adds no rusting surfaces. The tower and swing beam are galvanised pipe, installed self-standing or grouted. Leave clear space in front of and behind the swing seat within the 20'8\" x 17'5\" safe zone, and check the swing hangers regularly.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "14'8\" x 13'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'8\" x 17'5\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "Jungle Jive-l1 Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/jungle-jive-l1.html"
+   ]
+  ],
+  "product": {
+   "name": "Jungle Jive-l1",
+   "sku": "F0RMPFS01",
+   "images": [
+    "/images/JungleJive-Level1-product-image.jpg",
+    "/images/JungleJive-Level1-product-image2.jpg"
+   ],
+   "description": "Jungle Jive-l1 is the entry piece of our Forestia jungle series, built for children aged 3 to 9. A large flower-shaped canopy shades the tower, with a slide on one side and a swing beam on the other. That mix gives small children two very different things to do in a compact space: climbing up and sliding down, or taking turns on the swing. The product area is 14'8\" x 13'5\" and the safe play area is 20'8\" x 17'5\". It comes in Mango Yellow, and capacity is listed as 15 children. Jungle Jive-l1 is covered by a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. If you are planning a toddler zone, tell us your site size and we will suggest pieces to go around it.",
+   "category": "Jungle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/forestia.html",
+   "colours": [
+    "Mango Yellow & Forest Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "20'8\" x 17'5\""
+    ],
+    [
+     "Length",
+     "447.04 cm"
+    ],
+    [
+     "Width",
+     "408.94 cm"
+    ],
+    [
+     "Colour options",
+     "Mango Yellow & Forest Yellow"
+    ]
+   ]
+  }
+ }
+}

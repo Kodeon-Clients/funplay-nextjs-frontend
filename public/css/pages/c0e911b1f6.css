@@ -1,0 +1,92 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+.img-placeholder,
+    .product-card {
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    * {
+      font-family: var(--font-quicksand), Quicksand, sans-serif;
+      font-weight: 500;
+    }
+
+    .clientele-swiper .swiper-slide {
+      display: flex;
+      background: white;
+      justify-content: center;
+      align-items: center;
+      border-radius: 30px;
+      height: 90px;
+    }
+
+    .clientele-swiper img,
+    .swiper-slide img {
+      max-width: 150px;
+      max-height: 100px;
+      object-fit: contain;
+      /* Remove grayscale and opacity */
+      filter: none !important;
+      transition: none;
+    }
+
+    .clientele-swiper img:hover,
+    .swiper-slide img:hover {
+      /* Remove hover-specific filter */
+      filter: none !important;
+    }
+
+    .clientele-swiper img:hover {
+      filter: grayscale(0);
+    }
+
+    .img-placeholder {
+      height: 200px;
+      background-size: cover;
+      background-position: center;
+      border-radius: 1rem;
+    }
+
+    .img-placeholder:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .product-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+    }
+
+    .swiper {
+      padding: 38px 0;
+      background: #fff;
+    }
+
+    .swiper-slide {
+      text-align: center !important;
+      display: flex;
+      align-items: center !important;
+      justify-content: center !important;
+    }
+
+    .swiper-slide img {
+      max-height: 80px;
+      object-fit: contain;
+      filter: grayscale(1) opacity(0.7);
+      transition: 0.3s;
+    }
+
+    .swiper-slide img:hover {
+      filter: grayscale(0) opacity(1);
+    }
+
+    .fade-in {
+      opacity: 0;
+      animation: 1s forwards fadeIn;
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+}

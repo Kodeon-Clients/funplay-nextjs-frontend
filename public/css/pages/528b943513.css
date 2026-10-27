@@ -1,0 +1,21 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+input[type="file"] {
+            display: none;
+        }
+
+        .career-inner-row {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .career-cv-resume-label {
+            width: 100%;
+            margin-bottom: 16px;
+            text-align: left;
+        }
+
+        .career-inner-row li {
+            list-style: disclosure-closed;
+        }
+}

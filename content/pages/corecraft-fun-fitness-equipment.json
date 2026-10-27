@@ -1,0 +1,915 @@
+{
+ "path": "/corecraft/fun-fitness-equipment.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Manufacturer | Fun Fitness | FunPlay",
+  "description": "39 outdoor gym machines by FunPlay: air walkers, leg press, chest press, twisters and multi-station gyms for parks and societies. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Outdoor Gym Equipment Manufacturer | Fun Fitness | FunPlay",
+   "og:description": "39 outdoor gym machines by FunPlay: air walkers, leg press, chest press, twisters and multi-station gyms for parks and societies. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment.html",
+   "og:image": "https://funplaysystems.com/images/Fun-Walker-Single-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "bb71275d2f"
+ ],
+ "h1": "Outdoor Gym Equipment: Fun Fitness Range",
+ "data": {
+  "cardImage": "/images/Fun-Walker-Single-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "OutdoorGymEquipmentFun",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Active play"
+      ]
+     }
+    ],
+    "h1Text": "Outdoor Gym Equipment: Fun Fitness Range"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Fun Walker Single outdoor air walker with orange pedals",
+      "imgSrc": "/images/Fun-Walker-Single-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/fun-walker-single.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Fun Walker Single"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fun Walker Double two-user outdoor air walker with orange pedals",
+      "imgSrc": "/images/Fun-Walker-Double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/fun-walker-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Fun Walker Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Step trainer outdoor gym machine with orange pedals",
+      "imgSrc": "/images/Step-Trainer-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/step-trainer.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Step Trainer"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Ski trainer outdoor cross-country exerciser with orange footplates",
+      "imgSrc": "/images/Ski-Trainer-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/ski-trainer.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Ski Trainer"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Single-user outdoor chest press station with orange seat",
+      "imgSrc": "/images/chest-press-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/chest-press.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Chest Press"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Two-user outdoor chest press station with orange seats",
+      "imgSrc": "/images/chest-press-double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/chest-press-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Chest Press Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Two-user shoulder press outdoor gym station with orange seats",
+      "imgSrc": "/images/shoulder-press-double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/shoulder-press-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Shoulder Press Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Chest press cum shoulder press outdoor gym station with orange seats",
+      "imgSrc": "/images/chest-cum-shoulder-press-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Chest Press Cum Shoulder Press"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Pull-up station outdoor gym frame in grey",
+      "imgSrc": "/images/pull-up-station-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/pull-up-station.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Pull Up Station"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Single-user outdoor leg press with orange seat",
+      "imgSrc": "/images/leg-press-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Two-user outdoor leg press with orange seats",
+      "imgSrc": "/images/leg-press-double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg press cum parallel bar outdoor gym station with orange seat",
+      "imgSrc": "/images/Leg-Cum-Parallel-Bar-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press Cum parallel Bar"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg press cum pendulum outdoor gym combo with orange seats",
+      "imgSrc": "/images/leg-press-cum-pendulum-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press-cum-pendulum.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press Cum Pendulum"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg press cum standing twister outdoor gym combo with orange seat and wheel",
+      "imgSrc": "/images/leg-press-cum-standing-twister-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press-cum-standing-twister.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press Cum Standing Twister"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg press cum fun walker cum seating outdoor gym combo",
+      "imgSrc": "/images/Leg-Press-Cum-fun-Walker-Cum-Seating-Twister-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Press Cum fun Walker Cum Seating Twister"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg extension outdoor gym station in grey",
+      "imgSrc": "/images/Leg-Extension-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-extension.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Extension"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Leg lift post outdoor gym station with orange seat and wheel",
+      "imgSrc": "/images/Leg-Lift-Post-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/leg-lift-post.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Leg Lift Post"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Tai chi spinner outdoor gym station with two orange hand wheels",
+      "imgSrc": "/images/Tai-chi-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/tai-chi.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Tai Chi"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Tai chi spinner outdoor gym station with two orange hand wheels",
+      "imgSrc": "/images/Tai-chi-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/tai-chi-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Tai Chi Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Tai chi cum standing twister outdoor gym station with orange wheels",
+      "imgSrc": "/images/Tai-chi-cum-standing-twister-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Tai Chi Cum Standing Twister"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Standing twister single outdoor gym station with orange wheel and footplate",
+      "imgSrc": "/images/Standing-twister-Single-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/standing-twister-single.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Standing Twister Single"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Seating twister single outdoor gym station with orange seat and wheel",
+      "imgSrc": "/images/Seating-Twister-Single-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/seating-twister-single.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Seating Twister Single"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Three-way standing twister outdoor gym station with orange footplates",
+      "imgSrc": "/images/twister-three-way-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/twister-three-way.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Twister Three Way"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Three-way seating twister outdoor gym station with orange seats",
+      "imgSrc": "/images/Seating-twister-Three-Way-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/seating-twister-three-way.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Seating Twister Three Way"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "2 seating cum 1 standing twister outdoor gym equipment with orange seats",
+      "imgSrc": "/images/2-seating-cum-1-standing-twister-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/2-seating-cum-1-standing-twister.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "2 Seating Cum 1 Standing Twister"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "1 seating cum 2 standing twister outdoor gym equipment with orange seats",
+      "imgSrc": "/images/1-seating-cum-2-standing-twister-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "1 Seating Cum 2 Standing Twister"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Seating twister cum tai chi outdoor gym station with orange wheels and seat",
+      "imgSrc": "/images/Seating-Twister-Cum-Tai-Chi-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Seating Twister Cum Tai Chi"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Single-user pendulum swing exerciser with orange footplate",
+      "imgSrc": "/images/pendulum-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/pendulum.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Pendulum"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Two-user pendulum swing exerciser with orange footplates",
+      "imgSrc": "/images/pendulum-double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/pendulum-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Pendulum Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fun Rower outdoor rowing machine with orange seat and footrests",
+      "imgSrc": "/images/Fun-Rower-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/fun-rower.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Fun Rower"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fun Rider outdoor horse-rider exercise machine with orange seat",
+      "imgSrc": "/images/Fun-Rider-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/fun-rider.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Fun Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fun Cycle outdoor exercise cycle with orange seat and steering wheel",
+      "imgSrc": "/images/Fun-Cycle-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/fun-cycle.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Fun Cycle"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "ABB trainer outdoor ab bench with orange backrest",
+      "imgSrc": "/images/abb-trainer-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/abb-trainer.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "ABB Trainer"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Parallel bar outdoor gym station in grey",
+      "imgSrc": "/images/parallel-bar-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/parallel-bar.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Parallel Bar"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Shoulder twirl outdoor gym wheel in grey",
+      "imgSrc": "/images/Shoulder-twirl-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/shoulder-twirl.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Shoulder Twirl"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Two-user shoulder twirl wheel outdoor gym station",
+      "imgSrc": "/images/shoulder-twirl-double-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/Shoulder-twirl-double.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Shoulder Twirl Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Parallel bar outdoor gym station in grey",
+      "imgSrc": "/images/parallel-bar-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/parallel-bar.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Parallel Bar Double"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "8 station multi gym outdoor fitness frame with orange seats",
+      "imgSrc": "/images/8-station-multi-gym-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/8-station-multi-gym.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "8 Station Multi Gym"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "6 station multi gym outdoor fitness frame with orange seats and handles",
+      "imgSrc": "/images/6-station-multi-gym-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/6-station-multi-gym.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "6 Station Multi gym"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Cross Fit outdoor gym frame with monkey bars and exercise stations",
+      "imgSrc": "/images/cross-fit-product-catalogue.jpg",
+      "aHref": "/corecraft/fun-fitness-equipment/cross-fit.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Cross Fit"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Outdoor Gym Equipment: Fun Fitness Range",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "1 Seating Cum 2 Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/1-seating-cum-2-standing-twister.html"
+   ],
+   [
+    "2 Seating Cum 1 Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/2-seating-cum-1-standing-twister.html"
+   ],
+   [
+    "6 Station Multi Gym Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/6-station-multi-gym.html"
+   ],
+   [
+    "8 Station Multi Gym Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/8-station-multi-gym.html"
+   ],
+   [
+    "Shoulder Twirl Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/Shoulder-twirl-double.html"
+   ],
+   [
+    "ABB Trainer Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/abb-trainer.html"
+   ],
+   [
+    "Chest Press Cum Shoulder Press Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html"
+   ],
+   [
+    "Chest Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press-double.html"
+   ],
+   [
+    "Chest Press Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press.html"
+   ],
+   [
+    "Cross Fit Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/cross-fit.html"
+   ],
+   [
+    "Fun Cycle Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-cycle.html"
+   ],
+   [
+    "Fun Rider Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html"
+   ],
+   [
+    "Fun Rower Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rower.html"
+   ],
+   [
+    "Fun Walker Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-walker-double.html"
+   ],
+   [
+    "Fun Walker Single Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-walker-single.html"
+   ],
+   [
+    "Leg Extension Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-extension.html"
+   ],
+   [
+    "Leg Lift Post Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-lift-post.html"
+   ],
+   [
+    "Leg Press Cum Fun Walker Cum Seating Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-fun-walker-cum-seating-twister.html"
+   ],
+   [
+    "Leg Press Cum Parallel Bar Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html"
+   ],
+   [
+    "Leg Press Cum Pendulum Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-pendulum.html"
+   ],
+   [
+    "Leg Press Cum Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-standing-twister.html"
+   ],
+   [
+    "Leg Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-double.html"
+   ],
+   [
+    "Leg Press Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press.html"
+   ],
+   [
+    "Parallel Bar Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/parallel-bar.html"
+   ],
+   [
+    "Pendulum Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/pendulum-double.html"
+   ],
+   [
+    "Pendulum Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/pendulum.html"
+   ],
+   [
+    "Pull Up Station Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/pull-up-station.html"
+   ],
+   [
+    "Seating Twister Cum Tai Chi Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html"
+   ],
+   [
+    "Seating Twister Single Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-single.html"
+   ],
+   [
+    "Seating Twister Three Way Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-three-way.html"
+   ],
+   [
+    "Shoulder Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-press-double.html"
+   ],
+   [
+    "Shoulder Twirl Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-twirl.html"
+   ],
+   [
+    "Ski Trainer Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/ski-trainer.html"
+   ],
+   [
+    "Standing Twister Single Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/standing-twister-single.html"
+   ],
+   [
+    "Step Trainer Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/step-trainer.html"
+   ],
+   [
+    "Tai Chi Cum Standing Twister Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi-cum-standing-twister.html"
+   ],
+   [
+    "Tai Chi Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi-double.html"
+   ],
+   [
+    "Tai Chi Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/tai-chi.html"
+   ],
+   [
+    "Twister Three Way Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/twister-three-way.html"
+   ]
+  ]
+ }
+}

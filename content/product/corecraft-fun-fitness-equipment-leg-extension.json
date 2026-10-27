@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-extension.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Extension Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Leg Extension Outdoor Gym Equipment (FFE014) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-extension.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Extension Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Leg Extension Outdoor Gym Equipment (FFE014) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-extension.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Extension-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Extension Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Extension",
+  "sku": "FFE014",
+  "colours": [
+   {
+    "name": "Ocean Grey",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Extension-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Extension outdoor leg extension station in ocean grey"
+    ]
+   }
+  ],
+  "description": "The Leg Extension is a seated station in Ocean Grey for strengthening the front of the thighs. The user sits, hooks the feet behind a pad and straightens the legs, then lowers them under control. Older users like it for building leg strength for stairs. It fits well beside an air walker in a park or society gym. It belongs to our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. Our sales team will confirm the Leg Extension's warranty; our standard terms are 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to add it to your open gym layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Extension"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Extension-product-image.jpg",
+  "cardImage": "/images/Leg-Extension-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Extension ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE014",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Ocean Grey",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Extension-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Extension outdoor leg extension station in ocean grey"
+       ]
+      }
+     ],
+     "name": "Leg Extension"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Extension outdoor leg extension station in ocean grey\"]",
+      "divDataImgs": "[\"/images/Leg-Extension-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #adbcbb 50%, #adbcbb 50% )"
+      },
+      "divText": "",
+      "spanText": "Ocean Grey"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Extension"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Leg Extension is a seated station in Ocean Grey for strengthening the front of the thighs. The user sits, hooks the feet behind a pad and straightens the legs, then lowers them under control. Older users like it for building leg strength for stairs. It fits well beside an air walker in a park or society gym. It belongs to our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. Our sales team will confirm the Leg Extension's warranty; our standard terms are 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to add it to your open gym layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The leg arm pivots under the seat, so check that joint and the seat bolts at each service. The Leg Extension can be installed self-standing or grouted. Leave room in front of the seat for the leg arm's full swing, and keep the seat surface clean of dust and leaves."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Extension Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-extension.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Extension",
+   "sku": "FFE014",
+   "images": [
+    "/images/Leg-Extension-product-image.jpg"
+   ],
+   "description": "The Leg Extension is a seated station in Ocean Grey for strengthening the front of the thighs. The user sits, hooks the feet behind a pad and straightens the legs, then lowers them under control. Older users like it for building leg strength for stairs. It fits well beside an air walker in a park or society gym. It belongs to our Fun Fitness range. Exact dimensions and warranty terms are shared with the layout drawing. Our sales team will confirm the Leg Extension's warranty; our standard terms are 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to add it to your open gym layout.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Ocean Grey"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Ocean Grey"
+    ]
+   ]
+  }
+ }
+}

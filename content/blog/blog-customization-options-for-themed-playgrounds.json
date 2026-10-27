@@ -1,0 +1,309 @@
+{
+ "path": "/blog/customization-options-for-themed-playgrounds.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Themed Playground Customization Options | FunPlay",
+  "description": "Castle, jungle, robot or custom brand themes: how FunPlay customises playground colours, shapes and layouts for your site.",
+  "canonical": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "og": {
+   "og:title": "Themed Playground Customization Options | FunPlay",
+   "og:description": "Castle, jungle, robot or custom brand themes: how FunPlay customises playground colours, shapes and layouts for your site.",
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Themed Playground Customization Options | FunPlay",
+   "twitter:description": "Castle, jungle, robot or custom brand themes: how FunPlay customises playground colours, shapes and layouts for your site.",
+   "twitter:image": "https://funplaysystems.com/images/g12.jpg",
+   "twitter:site": "@funplaysystems"
+  }
+ },
+ "h1": "Customization Options for Themed Playgrounds",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/play-based-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "22 September 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Customization Options for Themed Playgrounds",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent3",
+   "props": {
+    "article": {
+     "slug": "customization-options-for-themed-playgrounds"
+    },
+    "items": [
+     {
+      "detailsOpen": true,
+      "summaryText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "name"
+        },
+        "c": [
+         "Can I customize a playground even if I have limited space?"
+        ]
+       }
+      ],
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "text"
+        },
+        "c": [
+         "Yes. Modular units and storytelling themes like Paper Boat and Phula are perfect for compact layouts and can be tailored to fit any space constraints."
+        ]
+       }
+      ]
+     },
+     {
+      "detailsOpen": true,
+      "summaryText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "name"
+        },
+        "c": [
+         "How much does a custom-themed playground cost?"
+        ]
+       }
+      ],
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "text"
+        },
+        "c": [
+         "Costs vary by theme complexity, material, and size, but modular manufacturers like FunPlay offer scalable options to fit different budgets."
+        ]
+       }
+      ]
+     },
+     {
+      "detailsOpen": true,
+      "summaryText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "name"
+        },
+        "c": [
+         "What age groups can themed playgrounds cater to?"
+        ]
+       }
+      ],
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "itemProp": "text"
+        },
+        "c": [
+         "With the right layout and equipment, they can engage toddlers to tweens, and even offer adult-friendly fitness integrations."
+        ]
+       }
+      ]
+     }
+    ],
+    "h3Text": "Related Reading",
+    "items2": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/blog/playground-design-ideas-for-small-spaces.html"
+        },
+        "c": [
+         "Playground Design Ideas for Small Spaces"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/blog/top-trends-in-playground-design.html"
+        },
+        "c": [
+         "Top Trends in Playground Design"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/blog/what-every-school-playground-should-include.html"
+        },
+        "c": [
+         "What Every School Playground Should Include, coming soon"
+        ]
+       }
+      ]
+     }
+    ],
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Themed Playground Customization"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Playground Design Options"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Modular Playground Systems"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Custom Play Equipment"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Playground Storytelling Themes"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Customization Options for Themed Playgrounds",
+    "https://funplaysystems.com/blog/customization-options-for-themed-playgrounds.html"
+   ]
+  ],
+  "article": {
+   "headline": "Customization Options for Themed Playgrounds",
+   "description": "Castle, jungle, robot or custom brand themes: how FunPlay customises playground colours, shapes and layouts for your site.",
+   "image": "https://funplaysystems.com/images/author-icon.jpg",
+   "datePublished": "2024-09-19",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

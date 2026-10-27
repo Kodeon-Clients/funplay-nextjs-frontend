@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/bastion-bench.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Bastion Bench | CoreCraft | FunPlay Systems",
+  "description": "Bastion Bench (FPGD007) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Bastion Bench | CoreCraft | FunPlay Systems",
+   "og:description": "Bastion Bench (FPGD007) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html",
+   "og:image": "https://funplaysystems.com/images/bastion-bench-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Bastion Bench",
+ "data": {
+  "name": "Bastion Bench",
+  "sku": "FPGD007",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/bastion-bench-product-image.jpg"
+    ],
+    "alts": [
+     "Bastion Bench outdoor bench with wooden slats and black steel frame"
+    ]
+   }
+  ],
+  "description": "The Bastion Bench is a park bench with wooden slats on a black steel frame. The plain lines of the frame suit modern housing societies and corporate campuses, where it can line a walking path or sit at the edge of a play area for parents. Benches placed near a play zone let parents and grandparents watch children from outside the safe play area, which is where we usually show them on a layout. It is part of our CoreCraft garden decor range, and the listed colour is Sand Beige. We share the length, seating capacity and warranty terms of the Bastion Bench with your quote. We will confirm those details with your quote and can mark bench positions on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Bastion Bench"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/bastion-bench-product-image.jpg",
+  "cardImage": "/images/bastion-bench-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Bastion Bench"
+    ],
+    "pText": "FPGD007",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/bastion-bench-product-image.jpg"
+       ],
+       "alts": [
+        "Bastion Bench outdoor bench with wooden slats and black steel frame"
+       ]
+      }
+     ],
+     "name": "Bastion Bench"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Bastion Bench outdoor bench with wooden slats and black steel frame\"]",
+      "divDataImgs": "[\"/images/bastion-bench-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Bastion Bench"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Bastion Bench is a park bench with wooden slats on a black steel frame. The plain lines of the frame suit modern housing societies and corporate campuses, where it can line a walking path or sit at the edge of a play area for parents. Benches placed near a play zone let parents and grandparents watch children from outside the safe play area, which is where we usually show them on a layout. It is part of our CoreCraft garden decor range, and the listed colour is Sand Beige. We share the length, seating capacity and warranty terms of the Bastion Bench with your quote. We will confirm those details with your quote and can mark bench positions on your layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Bastion Bench legs are fixed self-standing on a slab or grouted into the ground, so the bench cannot be dragged into a play zone. Check the slat fixings and frame bolts during routine maintenance, and clear leaves from between the slats so water drains away."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Bastion Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/bastion-bench.html"
+   ]
+  ],
+  "product": {
+   "name": "Bastion Bench",
+   "sku": "FPGD007",
+   "images": [
+    "/images/bastion-bench-product-image.jpg"
+   ],
+   "description": "The Bastion Bench is a park bench with wooden slats on a black steel frame. The plain lines of the frame suit modern housing societies and corporate campuses, where it can line a walking path or sit at the edge of a play area for parents. Benches placed near a play zone let parents and grandparents watch children from outside the safe play area, which is where we usually show them on a layout. It is part of our CoreCraft garden decor range, and the listed colour is Sand Beige. We share the length, seating capacity and warranty terms of the Bastion Bench with your quote. We will confirm those details with your quote and can mark bench positions on your layout drawing.",
+   "category": "Park Bench",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

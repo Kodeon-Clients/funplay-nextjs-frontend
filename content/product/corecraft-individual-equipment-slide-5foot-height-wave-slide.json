@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-5foot-height/wave-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Wave Slide (5 ft) | CoreCraft | FunPlay Systems",
+  "description": "Wave Slide (5 ft) (FPRS12) from the CoreCraft 5 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/wave-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Wave Slide (5 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Wave Slide (5 ft) (FPRS12) from the CoreCraft 5 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/wave-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-2-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Wave Slide (5 ft)",
+ "data": {
+  "name": "Wave Slide",
+  "sku": "FPRS12",
+  "colours": [
+   {
+    "name": "Play Red",
+    "swatch": "background-color: #e20e35",
+    "images": [
+     "/images/Slides-2-5foot.jpg"
+    ],
+    "alts": [
+     "Wave Slide red wave slide with steel ladder"
+    ]
+   }
+  ],
+  "description": "The Wave Slide is a single red lane that rises and dips as it comes down from a 5 ft steel ladder. The waves slow the child slightly at each bump and then speed them up again, which makes a short slide feel livelier. It is a single-lane version of our Double Wave Slide, so it fits a smaller space or a lower budget. Schools often use a wave slide alongside a swing or climber to give children a quick ride between other activities. The colour is Play Red. Our standard warranty covers galvanised pipes and roto-moulded parts for 3 years. Ask us for a quote and a layout drawing for your play area.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-5foot-height",
+   "Wave Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+  "image": "/images/Slides-2-5foot.jpg",
+  "cardImage": "/images/Slides-2-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Wave Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(5 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS12",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red",
+       "swatch": "background-color: #e20e35",
+       "images": [
+        "/images/Slides-2-5foot.jpg"
+       ],
+       "alts": [
+        "Wave Slide red wave slide with steel ladder"
+       ]
+      }
+     ],
+     "name": "Wave Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Wave Slide red wave slide with steel ladder\"]",
+      "divDataImgs": "[\"/images/Slides-2-5foot.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#e20e35"
+      },
+      "divText": "",
+      "spanText": "Play Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-5foot-height.html"
+        },
+        "c": [
+         "Slide-5foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Wave Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Wave Slide is a single red lane that rises and dips as it comes down from a 5 ft steel ladder. The waves slow the child slightly at each bump and then speed them up again, which makes a short slide feel livelier. It is a single-lane version of our Double Wave Slide, so it fits a smaller space or a lower budget. Schools often use a wave slide alongside a swing or climber to give children a quick ride between other activities. The colour is Play Red. Our standard warranty covers galvanised pipes and roto-moulded parts for 3 years. Ask us for a quote and a layout drawing for your play area."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The wave-profile bed is moulded and the ladder is galvanised steel. Our team fixes it self-standing or by grouting. Keep a soft surface at the foot of the slide, and check the slide bed for cracks and the ladder for loose fittings during regular maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-5foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height.html"
+   ],
+   [
+    "Wave Slide (5 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/wave-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Wave Slide",
+   "sku": "FPRS12",
+   "images": [
+    "/images/Slides-2-5foot.jpg"
+   ],
+   "description": "The Wave Slide is a single red lane that rises and dips as it comes down from a 5 ft steel ladder. The waves slow the child slightly at each bump and then speed them up again, which makes a short slide feel livelier. It is a single-lane version of our Double Wave Slide, so it fits a smaller space or a lower budget. Schools often use a wave slide alongside a swing or climber to give children a quick ride between other activities. The colour is Play Red. Our standard warranty covers galvanised pipes and roto-moulded parts for 3 years. Ask us for a quote and a layout drawing for your play area.",
+   "category": "5 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+   "colours": [
+    "Play Red"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red"
+    ]
+   ]
+  }
+ }
+}

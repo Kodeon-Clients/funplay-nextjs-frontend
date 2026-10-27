@@ -1,0 +1,200 @@
+{
+ "path": "/corecraft/individual-equipment/slide-5foot-height/curve-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Curve Slide",
+  "description": "The 5-Foot Curve Slide by Fun Play Systems offers a thrilling and safe sliding experience with a smooth curve, perfect for kids to enjoy exciting playtime.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/curve-slide.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Curve Slide",
+ "data": {
+  "name": "Curve Slide",
+  "sku": "FPRS14",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/Slides-8-5foot.jpg"
+    ],
+    "alts": [
+     "Curve Slide red and yellow curved slide with steel ladder"
+    ]
+   }
+  ],
+  "description": "At 5 ft high, this Curve Slide gives children a longer, faster ride than our 3 ft version while staying manageable for a primary school or society garden. The red and yellow slide bends to one side on the way down, and children climb up by a steel ladder. The curve means the exit points away from the ladder, which helps you plan the slide into a corner of the play area. A 5 ft slide sits in the middle of our height range, so it suits mixed groups of younger and older children. We warranty its galvanised pipes and roto-moulded parts for 3 years when installed and maintained as we advise. Ask us whether a taller slide would suit your children better.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-5foot-height",
+   "Curve Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+  "image": "/images/Slides-8-5foot.jpg",
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Curve Slide"
+    ],
+    "pText": "FPRS14",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e20e35 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/Slides-8-5foot.jpg"
+       ],
+       "alts": [
+        "Curve Slide red and yellow curved slide with steel ladder"
+       ]
+      }
+     ],
+     "name": "Curve Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Curve Slide red and yellow curved slide with steel ladder\"]",
+      "divDataImgs": "[\"/images/Slides-8-5foot.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e20e35 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-5foot-height.html"
+        },
+        "c": [
+         "Slide-5foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Curve Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600 h3",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "At 5 ft high, this Curve Slide gives children a longer, faster ride than our 3 ft version while staying manageable for a primary school or society garden. The red and yellow slide bends to one side on the way down, and children climb up by a steel ladder. The curve means the exit points away from the ladder, which helps you plan the slide into a corner of the play area. A 5 ft slide sits in the middle of our height range, so it suits mixed groups of younger and older children. We warranty its galvanised pipes and roto-moulded parts for 3 years when installed and maintained as we advise. Ask us whether a taller slide would suit your children better."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The ladder and supports are galvanised steel and the curved bed is a weather-proof moulding. We grout it into the ground or set it on a self-standing base. Keep an impact-absorbing surface at the foot and beside the ladder, and inspect the joints and steps during maintenance."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-5foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height.html"
+   ],
+   [
+    "Curve Slide",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-5foot-height/curve-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Curve Slide",
+   "sku": "FPRS14",
+   "images": [
+    "/images/Slides-8-5foot.jpg"
+   ],
+   "description": "At 5 ft high, this Curve Slide gives children a longer, faster ride than our 3 ft version while staying manageable for a primary school or society garden. The red and yellow slide bends to one side on the way down, and children climb up by a steel ladder. The curve means the exit points away from the ladder, which helps you plan the slide into a corner of the play area. A 5 ft slide sits in the middle of our height range, so it suits mixed groups of younger and older children. We warranty its galvanised pipes and roto-moulded parts for 3 years when installed and maintained as we advise. Ask us whether a taller slide would suit your children better.",
+   "category": "/corecraft/individual-equipment/slide-5foot-height.html",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-5foot-height.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": []
+  }
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "path": "/about-us.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "About FunPlay Systems | Playground Makers Since 2002",
+  "description": "FunPlay Systems has designed and built playground equipment in India since 2002: 150+ people, a 45,000 sq ft factory in Vasai and 15,000+ installations.",
+  "canonical": "https://funplaysystems.com/about-us.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "About FunPlay Systems | Playground Makers Since 2002",
+   "og:description": "FunPlay Systems has designed and built playground equipment in India since 2002: 150+ people, a 45,000 sq ft factory in Vasai and 15,000+ installations.",
+   "og:url": "https://funplaysystems.com/about-us.html",
+   "og:image": "https://funplaysystems.com/images/sir-image.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "About FunPlay Systems: Playground Equipment Makers Since 2002",
+ "data": {
+  "cardImage": "/images/sir-image.png"
+ },
+ "sections": [
+  {
+   "component": "AboutFunplaySystemsPlayground",
+   "props": {
+    "h1Text": "About FunPlay Systems: Playground Equipment Makers Since 2002",
+    "h2Text": "About Us"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "items": [
+     {
+      "pClass": "alt-font fw-500 text-dark-gray ls-minus-1px shadow-none",
+      "pDataAnimationDelay": "1500",
+      "pDataShadowAnimation": "true",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": [
+       "We take pride in our focus on ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-500 text-base-color"
+        },
+        "c": [
+         "safety, speed, and adding value"
+        ]
+       },
+       " to enrich kids lives. Our mission goes beyond structures to nurture life skills for a well-rounded future."
+      ]
+     },
+     {
+      "pClass": "mb-5px alt-font text-dark-gray fw-400",
+      "pText": [
+       "- Suraj Shetty, Director"
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "divClass": "col last-paragraph-no-margin sm-mb-40px",
+      "items": [
+       {
+        "pClass": "alt-font fw-900 text-dark-gray m-0",
+        "pStyle": {
+         "fontSize": "3.8rem",
+         "lineHeight": "3.8rem"
+        },
+        "pText": "22+"
+       },
+       {
+        "pText": "Years Of Experiences"
+       }
+      ]
+     },
+     {
+      "divClass": "col last-paragraph-no-margin sm-mb-40px",
+      "items": [
+       {
+        "pClass": "alt-font fw-900 text-dark-gray m-0",
+        "pStyle": {
+         "fontSize": "3.8rem",
+         "lineHeight": "3.8rem"
+        },
+        "pText": "150+"
+       },
+       {
+        "pText": "Employees"
+       }
+      ]
+     },
+     {
+      "divClass": "col last-paragraph-no-margin xs-mb-40px",
+      "items": [
+       {
+        "pClass": "alt-font fw-900 text-dark-gray m-0",
+        "pStyle": {
+         "fontSize": "3.8rem",
+         "lineHeight": "3.8rem"
+        },
+        "pText": "15,000+"
+       },
+       {
+        "pText": "Installations Nationwide"
+       }
+      ]
+     },
+     {
+      "divClass": "col last-paragraph-no-margin",
+      "items": [
+       {
+        "pClass": "alt-font fw-900 text-dark-gray m-0",
+        "pStyle": {
+         "fontSize": "3.8rem",
+         "lineHeight": "3.8rem"
+        },
+        "pText": "45,000"
+       },
+       {
+        "pText": "Sq. ft. Manufacturing Facility"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "pClass": "alt-font text-dark-gray fw-600 ls-minus-1px shadow-none",
+      "pDataAnimationDelay": "1000",
+      "pDataShadowAnimation": "true",
+      "pStyle": {
+       "fontSize": "2.813rem",
+       "lineHeight": "3.125rem"
+      },
+      "pText": "Why Us?"
+     },
+     {
+      "pClass": "mb-5px alt-font text-dark-gray fw-400",
+      "pText": "Turn your playground dreams to reality"
+     }
+    ],
+    "items2": [
+     {
+      "spanText": [
+       "We Design ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "text-base-color"
+        },
+        "c": [
+         "Original Concepts"
+        ]
+       }
+      ],
+      "pText": "We have dedicated R&D Team to work upon innovative concepts. Most of our products are also protected by design registration."
+     },
+     {
+      "spanText": [
+       "We Craft ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "text-base-color"
+        },
+        "c": [
+         "Unique Play"
+        ]
+       },
+       " Experiences"
+      ],
+      "pText": "All our products are crafted with play as the central character, emphasizing the importance of creating enjoyable experiences."
+     },
+     {
+      "spanText": [
+       "We Develop ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "text-base-color"
+        },
+        "c": [
+         "Inhouse"
+        ]
+       }
+      ],
+      "pText": "Inhouse Roto Molding Plant, Tested and Certified Raw Materials, Weather proof and Corrosion Resistant Materials, Customization Options Available"
+     },
+     {
+      "spanText": [
+       "We provide ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "text-base-color"
+        },
+        "c": [
+         "After-Sales"
+        ]
+       },
+       " Service"
+      ],
+      "pText": "Post that we have an Annual Maintenance Contract (AMC) that includes servicing of moving parts, inspection of wooden parts, and refinishing if required."
+     },
+     {
+      "spanText": [
+       "We provide ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "text-base-color"
+        },
+        "c": [
+         "Customizations"
+        ]
+       },
+       " "
+      ],
+      "pText": "Our collaborative approach ensures each space is fun, safe, and reflects your vision. Whereas our tailored approach ensures that your play space is not only fun and safe but also distinctively yours."
+     }
+    ],
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer & Supplier of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Our Vision",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "To craft a joyful planet, by bringing power of play in people’s lives"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "We take care of our people, they take care of our customers"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "We are not done until our customer smiles"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "If its not safe, its not us"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "We Create, we Innovate and Deliver no matter what"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-block w-75 md-w-100 text-center fs-26 mx-auto"
+        },
+        "c": [
+         "Play shouldn’t cost the planet"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ObjectFitContain",
+   "props": {
+    "items": [
+     {
+      "pClass": "alt-font text-dark-gray fw-600 ls-minus-1px shadow-none",
+      "pDataAnimationDelay": "1000",
+      "pDataShadowAnimation": "true",
+      "pStyle": {
+       "fontSize": "2.813rem",
+       "lineHeight": "3.125rem"
+      },
+      "pText": "Our Story"
+     },
+     {
+      "pClass": "mb-5px alt-font text-dark-gray fw-400",
+      "pText": "Turn your playground dreams to reality"
+     }
+    ],
+    "items2": [
+     {
+      "pClass": "card-title",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": "Establishment of company “Funmold Engineering\""
+     },
+     {
+      "pClass": "card-text",
+      "pText": "FunPlay Systems traces its roots back to 2002, when director Suraj Shetty, a gold medalist in engineering, envisioned starting a small business producing rotational moulded products. While working his day job, he began designing his own rotational moulding machine, a process that took a year of dedication. In 2003, Fun Mould Engineers was born. Mr. Shetty handled production using his passion for rotational moulding. The company started with just 5 moulds and 4 playground products. At the time, the playground industry in India was transitioning from metal to plastic parts. Mr. Shetty recognized plastic's potential to take over the industry. Leveraging his contacts, he provided spare parts to playground companies across India. As the sole manufacturer with an in-house rotational moulding machine, Fun Mould dominated the spare parts market. They started as just 3 people with 5 workers in a 3,000 sq. ft. facility."
+     }
+    ],
+    "items3": [
+     {
+      "imgSrc": "/images/Timeline1.svg",
+      "items": [
+       {
+        "pClass": "card-title",
+        "pStyle": {
+         "fontSize": "2.375rem",
+         "lineHeight": "2.7rem"
+        },
+        "pText": "Renamed to “Funplay Systems” and Started Playground Equipment"
+       },
+       {
+        "pClass": "card-text",
+        "pText": "By 2005, he received his first order to fully manufacture a plastic playground slide. Without a sales team, he single-handedly managed every aspect. The years 2005 to 2010 marked Fun Mould's entry into playground systems, investing in new designs and products. After establishing itself in playground spare parts, Fun Mould Engineers set its sights on manufacturing full playground systems. They aggressively expanded their offerings from 2005 to 2010 with new slides, railings, canopies and more. As the company grew, so did the team. In 2005, with over 6 staff members and 50 workers, Fun Mould changed its name to Funplay Systems. By then, plastic had become dominant in the industry."
+       }
+      ],
+      "imgAlt": "Early FunPlay wooden playground installation, black and white archive photo",
+      "imgSrc2": "/images/h1.jpg",
+      "pClass": "text-center fw-00 pt-5px",
+      "pText": "First Installed Multi-Play Product"
+     },
+     {
+      "imgSrc": "/images/Timeline3.svg",
+      "items": [
+       {
+        "pClass": "card-title",
+        "pStyle": {
+         "fontSize": "2.375rem",
+         "lineHeight": "2.7rem"
+        },
+        "pText": "Entirely converted to Roto Plastic Playground Equipment"
+       },
+       {
+        "pClass": "card-text",
+        "pText": "Funplay transitioned from an engineering company into one that designs and innovates. They moved away from using fibre, focusing exclusively on LLDPE plastic playgrounds and their experience with engineering enabled them to become pioneers in the playground industry."
+       }
+      ],
+      "imgAlt": "FunPlay team group photo, black and white archive",
+      "imgSrc2": "/images/h3.jpg",
+      "pClass": "text-center fw-600 pt-5px",
+      "pText": "Team 2015-16"
+     },
+     {
+      "imgSrc": "/images/Timeline4.svg",
+      "items": [
+       {
+        "pClass": "card-title",
+        "pStyle": {
+         "fontSize": "2.375rem",
+         "lineHeight": "2.7rem"
+        },
+        "pText": "Shifted to 45000 sq. ft Factory Setup turned to ”Fun Play Systems Pvt. Ltd.”"
+       },
+       {
+        "pClass": "card-text",
+        "pText": "By 2016, Funplay was a recognized leader in quality, design and innovation. They set up dedicated departments for HR, design and distribution in their 45,000 sq. ft. facility. With in-house manufacturing and imported machinery, Funplay could realise any design imaginings. Every year since 2016, Funplay has made it their mission to introduce breakthrough products and systems. Meticulous planning and research goes into brainstorming future innovations years in advance."
+       }
+      ],
+      "imgAlt": "FunPlay receiving an industry award on stage",
+      "imgSrc2": "/images/h4.jpg",
+      "pClass": "text-center fw-600 pt-5px",
+      "pText": "Awarded with “Entrepreneur Of The Year 2024” Title"
+     }
+    ],
+    "items4": [
+     {
+      "pClass": "card-title",
+      "pStyle": {
+       "fontSize": "2.375rem",
+       "lineHeight": "2.7rem"
+      },
+      "pText": "Revolutionalizing playgrounds with our original and innovative design solutions"
+     },
+     {
+      "pClass": "card-text",
+      "pText": "In 2022, Funplay pioneered engineered and natural wood playgrounds in India. Within 6 months, the market accepted these sustainable materials used in Europe. On April 9th, 2024, we unveiled a range of artistic designs that are truly one-of-a-kind that reflects childhood nostalgia, natural wonders and traditional game play."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section7",
+   "props": {
+    "divText": "Team"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "About FunPlay Systems: Playground Equipment Makers Since 2002",
+    "https://funplaysystems.com/about-us.html"
+   ]
+  ],
+  "pageType": "AboutPage"
+ }
+}

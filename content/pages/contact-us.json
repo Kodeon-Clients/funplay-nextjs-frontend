@@ -1,0 +1,405 @@
+{
+ "path": "/contact-us.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Contact FunPlay Systems | Get a Playground Equipment Quote",
+  "description": "Call +91 902 830 2266 or email sales@funplaysystems.com. FunPlay Systems, Vasai East, Palghar, Maharashtra 401208. Open Mon–Sat, 9:00 AM–6:30 PM.",
+  "canonical": "https://funplaysystems.com/contact-us.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Contact FunPlay Systems | Get a Playground Equipment Quote",
+   "og:description": "Call +91 902 830 2266 or email sales@funplaysystems.com. FunPlay Systems, Vasai East, Palghar, Maharashtra 401208. Open Mon–Sat, 9:00 AM–6:30 PM.",
+   "og:url": "https://funplaysystems.com/contact-us.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Contact FunPlay Systems",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "ContactFunplaySystems",
+   "props": {
+    "h1Text": "Contact FunPlay Systems",
+    "h2Text": "Contact us"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "spanText": "Office",
+    "pText": [
+     "Fun Play Systems Private Limited,",
+     {
+      "tag": "br"
+     },
+     "Unit No.5, S. Nanda Business Park, Survey No. 33/2, Opposite Anupam Stationery, Shiv Shankar Road, Sagpada, Devdhal, Kaman Bhiwandi Road, Vasai East, District Palghar, Maharashtra 401208."
+    ],
+    "spanText2": "Call us directly",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block"
+      },
+      "c": [
+       "Sales Support: ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-base-color-hover",
+         "href": "tel:+919028302266"
+        },
+        "c": [
+         "+91 902 830 2266"
+        ]
+       }
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block"
+      },
+      "c": [
+       "After Sales Support: ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-base-color-hover",
+         "href": "tel:+91 7385300921"
+        },
+        "c": [
+         "+91 738 530 0921"
+        ]
+       }
+      ]
+     }
+    ],
+    "spanText3": "E-mail us",
+    "divText2": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block"
+      },
+      "c": [
+       "Sales Support: ",
+       {
+        "tag": "br"
+       },
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-base-color-hover",
+         "href": "mailto:sales@funplaysystems.com"
+        },
+        "c": [
+         "sales@funplaysystems.com"
+        ]
+       }
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block"
+      },
+      "c": [
+       "After Sales Support: ",
+       {
+        "tag": "br"
+       },
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-base-color-hover",
+         "href": "mailto:aftersales@funplaysystems.com"
+        },
+        "c": [
+         "aftersales@funplaysystems.com"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "HowWeCanHelp",
+   "props": {
+    "spanText": "Feel free to get in touch!",
+    "h3Text": "How we can help you?",
+    "items": [
+     {
+      "inputClass": "box-shadow-quadruple-large input-name form-control required",
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "email",
+      "inputPlaceholder": "Your email address*",
+      "inputType": "email",
+      "inputAriaLabel": "Your email address"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputRequired": true,
+      "inputTitle": "Please enter a valid 10 digit phone number only."
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "location",
+      "inputPlaceholder": "Your location*",
+      "inputType": "text",
+      "inputAriaLabel": "Your location"
+     }
+    ],
+    "items2": [
+     {
+      "selectName": "state",
+      "selectAriaLabel": "State",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Please select your state*"
+       },
+       {
+        "optionValue": "Andaman and Nicobar Islands",
+        "optionText": "Andaman and Nicobar Islands"
+       },
+       {
+        "optionValue": "Andhra Pradesh",
+        "optionText": "Andhra Pradesh"
+       },
+       {
+        "optionValue": "Arunachal Pradesh",
+        "optionText": "Arunachal Pradesh"
+       },
+       {
+        "optionValue": "Assam",
+        "optionText": "Assam"
+       },
+       {
+        "optionValue": "Bihar",
+        "optionText": "Bihar"
+       },
+       {
+        "optionValue": "Chandigarh",
+        "optionText": "Chandigarh"
+       },
+       {
+        "optionValue": "Chhattisgarh",
+        "optionText": "Chhattisgarh"
+       },
+       {
+        "optionValue": "Dadra and Nagar Haveli",
+        "optionText": "Dadra and Nagar Haveli"
+       },
+       {
+        "optionValue": "Daman and Diu",
+        "optionText": "Daman and Diu"
+       },
+       {
+        "optionValue": "Delhi",
+        "optionText": "Delhi"
+       },
+       {
+        "optionValue": "Goa",
+        "optionText": "Goa"
+       },
+       {
+        "optionValue": "Gujarat",
+        "optionText": "Gujarat"
+       },
+       {
+        "optionValue": "Haryana",
+        "optionText": "Haryana"
+       },
+       {
+        "optionValue": "Himachal Pradesh",
+        "optionText": "Himachal Pradesh"
+       },
+       {
+        "optionValue": "Jammu and Kashmir",
+        "optionText": "Jammu and Kashmir"
+       },
+       {
+        "optionValue": "Jharkhand",
+        "optionText": "Jharkhand"
+       },
+       {
+        "optionValue": "Karnataka",
+        "optionText": "Karnataka"
+       },
+       {
+        "optionValue": "Kerala",
+        "optionText": "Kerala"
+       },
+       {
+        "optionValue": "Ladakh",
+        "optionText": "Ladakh"
+       },
+       {
+        "optionValue": "Lakshadweep",
+        "optionText": "Lakshadweep"
+       },
+       {
+        "optionValue": "Madhya Pradesh",
+        "optionText": "Madhya Pradesh"
+       },
+       {
+        "optionValue": "Maharashtra",
+        "optionText": "Maharashtra"
+       },
+       {
+        "optionValue": "Manipur",
+        "optionText": "Manipur"
+       },
+       {
+        "optionValue": "Meghalaya",
+        "optionText": "Meghalaya"
+       },
+       {
+        "optionValue": "Mizoram",
+        "optionText": "Mizoram"
+       },
+       {
+        "optionValue": "Nagaland",
+        "optionText": "Nagaland"
+       },
+       {
+        "optionValue": "Odisha",
+        "optionText": "Odisha"
+       },
+       {
+        "optionValue": "Puducherry",
+        "optionText": "Puducherry"
+       },
+       {
+        "optionValue": "Punjab",
+        "optionText": "Punjab"
+       },
+       {
+        "optionValue": "Rajasthan",
+        "optionText": "Rajasthan"
+       },
+       {
+        "optionValue": "Sikkim",
+        "optionText": "Sikkim"
+       },
+       {
+        "optionValue": "Tamil Nadu",
+        "optionText": "Tamil Nadu"
+       },
+       {
+        "optionValue": "Telangana",
+        "optionText": "Telangana"
+       },
+       {
+        "optionValue": "Tripura",
+        "optionText": "Tripura"
+       },
+       {
+        "optionValue": "Uttar Pradesh",
+        "optionText": "Uttar Pradesh"
+       },
+       {
+        "optionValue": "Uttarakhand",
+        "optionText": "Uttarakhand"
+       },
+       {
+        "optionValue": "West Bengal",
+        "optionText": "West Bengal"
+       }
+      ]
+     },
+     {
+      "selectName": "customerType",
+      "selectAriaLabel": "Category",
+      "items": [
+       {
+        "optionValue": "",
+        "optionText": "Select your category"
+       },
+       {
+        "optionValue": "Architect",
+        "optionText": "Architect"
+       },
+       {
+        "optionValue": "Builder",
+        "optionText": "Builder"
+       },
+       {
+        "optionValue": "Clubs and Resort",
+        "optionText": "Clubs and Resort"
+       },
+       {
+        "optionValue": "Corporate",
+        "optionText": "Corporate"
+       },
+       {
+        "optionValue": "Dealer",
+        "optionText": "Dealer"
+       },
+       {
+        "optionValue": "Government",
+        "optionText": "Government"
+       },
+       {
+        "optionValue": "Hotels",
+        "optionText": "Hotels"
+       },
+       {
+        "optionValue": "Society",
+        "optionText": "Society"
+       },
+       {
+        "optionValue": "School",
+        "optionText": "School"
+       },
+       {
+        "optionValue": "Others",
+        "optionText": "Others"
+       }
+      ]
+     }
+    ],
+    "divText": "0 / 300",
+    "pText": "We are committed to protecting your privacy. We will never collect information about you without your explicit consent.",
+    "buttonText": "send message"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Contact FunPlay Systems",
+    "https://funplaysystems.com/contact-us.html"
+   ]
+  ],
+  "pageType": "ContactPage"
+ }
+}

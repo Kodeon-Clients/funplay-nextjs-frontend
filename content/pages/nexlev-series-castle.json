@@ -1,0 +1,172 @@
+{
+ "path": "/nexlev-series/castle.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Wooden Castle Playgrounds | NexLev Series | FunPlay",
+  "description": "NexLev wooden-finish castle playgrounds with towers, bridges and tube slides for schools and resorts. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/castle.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Wooden Castle Playgrounds | NexLev Series | FunPlay",
+   "og:description": "NexLev wooden-finish castle playgrounds with towers, bridges and tube slides for schools and resorts. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/castle.html",
+   "og:image": "https://funplaysystems.com/images/arthur-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Wooden Castle Playgrounds",
+ "data": {
+  "cardImage": "/images/arthur-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevWoodenCastlePlaygrounds",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Majestic forts"
+      ]
+     }
+    ],
+    "h1Text": "NexLev Wooden Castle Playgrounds"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Arthur brown castle playground with turquoise and pink slides",
+      "imgSrc": "/images/arthur-product-catalogue.jpg",
+      "aHref": "/nexlev-series/castle/arthur.html",
+      "aText": " View Product ",
+      "spanText": "Arthur",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "94.0M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "99 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #ff0000 0% 33.33%, #0000ff 33.33% 66.66%, #00ff00 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Gonthina twin-tower fort playground with green tube slides and rope bridge",
+      "imgSrc": "/images/GONTHINA-img.jpg",
+      "aHref": "/nexlev-series/castle/gonthina.html",
+      "aText": " View Product ",
+      "spanText": "Gonthina",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "110.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "80 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #b3eb51 0% 33.33%, #495d33 33.33% 66.66%, #6d3524 66.66% 100% )"
+      }
+     },
+     {
+      "imgAlt": "Palamu castle-themed fort playground with blue tube slides and climbing wall",
+      "imgSrc": "/images/PALAMU-img.jpg",
+      "aHref": "/nexlev-series/castle/palamu.html",
+      "aText": " View Product ",
+      "spanText": "Palamu",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "110.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "80 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #2d5885 0% 33.33%, #393d46 33.33% 66.66%, #f48b85 66.66% 100% )"
+      }
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Sunspear",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "89.4M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "60 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Wooden Castle Playgrounds",
+    "https://funplaysystems.com/nexlev-series/castle.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Arthur Wooden Castle Playground",
+    "https://funplaysystems.com/nexlev-series/castle/arthur.html"
+   ],
+   [
+    "Gonthina Wooden Castle Playground",
+    "https://funplaysystems.com/nexlev-series/castle/gonthina.html"
+   ],
+   [
+    "Palamu Wooden Castle Playground",
+    "https://funplaysystems.com/nexlev-series/castle/palamu.html"
+   ],
+   [
+    "Sunspear Wooden Castle Playground",
+    "https://funplaysystems.com/nexlev-series/castle/sunspear.html"
+   ]
+  ]
+ }
+}

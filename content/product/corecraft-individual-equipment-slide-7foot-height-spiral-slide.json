@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Spiral Slide (7 ft) | CoreCraft | FunPlay Systems",
+  "description": "Spiral Slide (7 ft) (FPRS24) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Spiral Slide (7 ft) | CoreCraft | FunPlay Systems",
+   "og:description": "Spiral Slide (7 ft) (FPRS24) from the CoreCraft 7 ft Slides range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html",
+   "og:image": "https://funplaysystems.com/images/Slides-5-5foot.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Spiral Slide (7 ft)",
+ "data": {
+  "name": "Spiral Slide",
+  "sku": "FPRS24",
+  "colours": [
+   {
+    "name": "Play Red",
+    "swatch": "background-color: #e20e35",
+    "images": [
+     "/images/Slides-5-5foot.jpg"
+    ],
+    "alts": [
+     "Spiral Slide red spiral slide with steel ladder"
+    ]
+   }
+  ],
+  "description": "Wrapping a 7 ft drop into a tight red spiral, this slide gives older children a fast, turning ride on a small footprint. A steel ladder leads to the top, and the open spiral lets children see where they are going as they go round. It suits primary and middle school grounds, municipal parks and resort play areas where the users are bigger and want more thrill than a low slide gives. The spiral also looks striking from a distance, which helps a park or society play area stand out. Our 3-year warranty applies to the galvanised ladder and roto-moulded spiral. Send us your site details for a quote and layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Slide-7foot-height",
+   "Spiral Slide"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+  "image": "/images/Slides-5-5foot.jpg",
+  "cardImage": "/images/Slides-5-5foot.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Spiral Slide ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "(7 ft)"
+      ]
+     }
+    ],
+    "pText": "FPRS24",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red",
+       "swatch": "background-color: #e20e35",
+       "images": [
+        "/images/Slides-5-5foot.jpg"
+       ],
+       "alts": [
+        "Spiral Slide red spiral slide with steel ladder"
+       ]
+      }
+     ],
+     "name": "Spiral Slide"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Spiral Slide red spiral slide with steel ladder\"]",
+      "divDataImgs": "[\"/images/Slides-5-5foot.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#e20e35"
+      },
+      "divText": "",
+      "spanText": "Play Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/slide-7foot-height.html"
+        },
+        "c": [
+         "Slide-7foot-height"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Spiral Slide"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Wrapping a 7 ft drop into a tight red spiral, this slide gives older children a fast, turning ride on a small footprint. A steel ladder leads to the top, and the open spiral lets children see where they are going as they go round. It suits primary and middle school grounds, municipal parks and resort play areas where the users are bigger and want more thrill than a low slide gives. The spiral also looks striking from a distance, which helps a park or society play area stand out. Our 3-year warranty applies to the galvanised ladder and roto-moulded spiral. Send us your site details for a quote and layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The ladder and centre support are galvanised steel and the spiral bed is a weather-proof moulding. Installation is by grouting or a self-standing base. Mark the exit on your layout because it does not face the ladder. Keep a soft surface there and check the spiral joints and ladder fixings regularly."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Slide-7foot-height",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height.html"
+   ],
+   [
+    "Spiral Slide (7 ft)",
+    "https://funplaysystems.com/corecraft/individual-equipment/slide-7foot-height/spiral-slide.html"
+   ]
+  ],
+  "product": {
+   "name": "Spiral Slide",
+   "sku": "FPRS24",
+   "images": [
+    "/images/Slides-5-5foot.jpg"
+   ],
+   "description": "Wrapping a 7 ft drop into a tight red spiral, this slide gives older children a fast, turning ride on a small footprint. A steel ladder leads to the top, and the open spiral lets children see where they are going as they go round. It suits primary and middle school grounds, municipal parks and resort play areas where the users are bigger and want more thrill than a low slide gives. The spiral also looks striking from a distance, which helps a park or society play area stand out. Our 3-year warranty applies to the galvanised ladder and roto-moulded spiral. Send us your site details for a quote and layout.",
+   "category": "7 ft Playground Slide",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/slide-7foot-height.html",
+   "colours": [
+    "Play Red"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Red"
+    ]
+   ]
+  }
+ }
+}

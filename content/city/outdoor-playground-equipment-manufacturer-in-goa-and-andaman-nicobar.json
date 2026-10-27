@@ -1,0 +1,262 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-goa-and-andaman-&-nicobar.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment, Goa & Andaman and Nicobar Islands",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Goa & Andaman and Nicobar Islands. Made in our Vasai factory. Get.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-goa-and-andaman-&-nicobar.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Goa & Andaman and Nicobar Islands. Made in our Vasai factory. Get.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-goa-and-andaman-&-nicobar.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Goa & Andaman and Nicobar Islands",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Goa & Andaman and Nicobar Islands"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Goa and the Andaman and Nicobar Islands both sit on the sea, and salt air is the first thing we plan for on any play area there. FunPlay Systems designs and manufactures outdoor playground equipment for resorts, hotels, villa projects, schools and public spaces in both places. We make every piece at our factory in Vasai East, Maharashtra, using galvanised steel and roto-moulded plastic that stand up well to a coastal climate."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Goa has a large hospitality trade, so beach resorts, hotels and holiday villa projects are natural buyers, along with schools and housing societies in towns such as Panaji, Margao, Mapusa and Vasco. On the islands, schools, government institutions and hotels in and around Port Blair are the likely buyers. Island orders need more planning than mainland ones. Wherever your site is, share its size, the age group and a few photos, and we will send a layout drawing with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Salt air and a heavy monsoon",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Sea breeze carries salt well inland, and bare steel near the coast can start to rust quickly. Our galvanised pipes have a zinc coating that protects the steel, and roto-moulded plastic parts do not corrode. Even so, rinse the equipment with fresh water from time to time and follow the maintenance steps we share at handover."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Goa gets very heavy rain from June to September, and the islands have a long wet season too. Build the play area on a raised base with a drainage slope, and use rubber flooring instead of sand or soil under swings and slides. For resort lawns that need shade for parents, our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/garden-decor.html"
+           },
+           "c": [
+            "gazebos and pergolas"
+           ]
+          },
+          " sit well beside the play zone."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Reaching Goa by road and the islands by sea",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Goa is on the same west coast as our factory, and the equipment travels down by road for installation by our team or a dealer. For buyers in Goa's towns, see our page for ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-panaji.html"
+           },
+           "c": [
+            "Panaji"
+           ]
+          },
+          ". Resorts that want a feature piece often look at our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series.html"
+           },
+           "c": [
+            "NexLev Series"
+           ]
+          },
+          " of larger play towers and wooden structures."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "The Andaman and Nicobar Islands have no road link to the mainland, so the last part of the route is by ship. Talk to us early about your location, so we can plan the packing and the shipping arrangements with you. On exposed island sites, grouting the posts into open ground is usually the steadier option."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Goa & Andaman and Nicobar Islands",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you supply playground equipment to resorts in Goa?",
+       "a": "Yes. We make the equipment at our Vasai factory, send it to Goa by road and install it with our own team or a dealer. Share the resort plan and photos, and we will suggest a layout."
+      },
+      {
+       "q": "Can you send equipment to Port Blair or other islands?",
+       "a": "Yes, though the final leg has to go by sea. Tell us the exact location early, and we will plan the packing and discuss shipping with you before you confirm the order."
+      },
+      {
+       "q": "How do we protect equipment from salt air near the beach?",
+       "a": "Choose galvanised steel and roto-moulded plastic, which resist corrosion, and rinse the equipment with fresh water from time to time. Check bolts and fittings regularly and follow our maintenance instructions to keep the warranty valid."
+      },
+      {
+       "q": "What does the warranty cover in coastal areas?",
+       "a": "The same as anywhere in India. Galvanised pipes, roto-moulded parts, composite laminates and play rope carry 3 years, and springs, bearings and spare parts carry 1 year, for manufacturing defects when maintained as per our instructions."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Goa & Andaman and Nicobar Islands",
+    "h2Text": "Cities we supply in Goa & Andaman and Nicobar Islands",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-panaji.html"
+        },
+        "c": [
+         "Playground equipment in Panaji"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Playground Equipment, Goa & Andaman and Nicobar Islands",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-goa-and-andaman-&-nicobar.html"
+   ]
+  ],
+  "service": {
+   "name": "Playground Equipment, Goa & Andaman and Nicobar Islands",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Goa & Andaman and Nicobar Islands"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Goa & Andaman and Nicobar Islands. Made in our Vasai factory. Get."
+  },
+  "faq": [
+   [
+    "Do you supply playground equipment to resorts in Goa?",
+    "Yes. We make the equipment at our Vasai factory, send it to Goa by road and install it with our own team or a dealer. Share the resort plan and photos, and we will suggest a layout."
+   ],
+   [
+    "Can you send equipment to Port Blair or other islands?",
+    "Yes, though the final leg has to go by sea. Tell us the exact location early, and we will plan the packing and discuss shipping with you before you confirm the order."
+   ],
+   [
+    "How do we protect equipment from salt air near the beach?",
+    "Choose galvanised steel and roto-moulded plastic, which resist corrosion, and rinse the equipment with fresh water from time to time. Check bolts and fittings regularly and follow our maintenance instructions to keep the warranty valid."
+   ],
+   [
+    "What does the warranty cover in coastal areas?",
+    "The same as anywhere in India. Galvanised pipes, roto-moulded parts, composite laminates and play rope carry 3 years, and springs, bearings and spare parts carry 1 year, for manufacturing defects when maintained as per our instructions."
+   ]
+  ]
+ }
+}

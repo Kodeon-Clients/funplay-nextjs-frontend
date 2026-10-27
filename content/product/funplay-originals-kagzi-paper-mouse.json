@@ -1,0 +1,748 @@
+{
+ "path": "/funplay-originals/kagzi/paper-mouse.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Paper Mouse Crawl Tunnel | FunPlay Originals | FunPlay",
+  "description": "Paper Mouse Crawl Tunnel (FOK05), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/kagzi/paper-mouse.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Paper Mouse Crawl Tunnel | FunPlay Originals | FunPlay",
+   "og:description": "Paper Mouse Crawl Tunnel (FOK05), a FunPlay Originals Kagzi design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/kagzi/paper-mouse.html",
+   "og:image": "https://funplaysystems.com/images/Paper-Mouse-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Paper Mouse Crawl Tunnel",
+ "data": {
+  "name": "Paper Mouse",
+  "sku": "FOK05",
+  "colours": [
+   {
+    "name": "Pink Pearl",
+    "swatch": "\n                  background: conic-gradient(\n                    #e1b5cb 0% 33.33%,\n                    #e1b5ca 33.33% 66.66%,\n                    #79c3e1 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Paper-Mouse-1.jpg",
+     "/images/Paper-Mouse-2.jpg",
+     "/images/Paper-Mouse-3.jpg",
+     "/images/Paper-Mouse-4.jpg",
+     "/images/Paper-Mouse-5.jpg"
+    ],
+    "alts": [
+     "Paper Mouse origami mouse-shaped crawl tunnel in pink and grey on a pink safety surface",
+     "Top view of Paper Mouse crawl tunnel with wavy tail balance path",
+     "Front view of Paper Mouse origami mouse tunnel with round opening",
+     "Paper Mouse pink and grey origami mouse tunnel with black wavy balance tail",
+     "Paper Mouse mouse-themed crawl-through tunnel on a pink paw-print surface"
+    ]
+   }
+  ],
+  "description": "Paper Mouse is a crawl tunnel for younger children, shaped like an origami mouse in Pink Pearl and grey. The round front opening leads into the tunnel, and a black wavy tail behind it doubles as a balance path. The teeth-shaped form gives small hands something to hang from. Children aged 3 to 12 can crawl, balance and hang here, which builds balance, imaginative play and cooperative play. The structure is long and narrow at 17'8\" x 4'6\", so it can run along a boundary wall, with a safe play area of 22'8\" x 9'6\". One installation used a pink paw-print surface to match. It carries a 3-year warranty. Ask us for a drawing of how it fits your play area.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "kagzi",
+   "Paper Mouse"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/kagzi.html",
+  "image": "/images/Paper-Mouse-1.jpg",
+  "cardImage": "/images/Paper-Mouse-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Paper Mouse ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Crawl Tunnel"
+      ]
+     }
+    ],
+    "pText": "FOK05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Pink Pearl",
+       "swatch": "\n                  background: conic-gradient(\n                    #e1b5cb 0% 33.33%,\n                    #e1b5ca 33.33% 66.66%,\n                    #79c3e1 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Paper-Mouse-1.jpg",
+        "/images/Paper-Mouse-2.jpg",
+        "/images/Paper-Mouse-3.jpg",
+        "/images/Paper-Mouse-4.jpg",
+        "/images/Paper-Mouse-5.jpg"
+       ],
+       "alts": [
+        "Paper Mouse origami mouse-shaped crawl tunnel in pink and grey on a pink safety surface",
+        "Top view of Paper Mouse crawl tunnel with wavy tail balance path",
+        "Front view of Paper Mouse origami mouse tunnel with round opening",
+        "Paper Mouse pink and grey origami mouse tunnel with black wavy balance tail",
+        "Paper Mouse mouse-themed crawl-through tunnel on a pink paw-print surface"
+       ]
+      }
+     ],
+     "name": "Paper Mouse"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Paper Mouse origami mouse-shaped crawl tunnel in pink and grey on a pink safety surface\", \"Top view of Paper Mouse crawl tunnel with wavy tail balance path\", \"Front view of Paper Mouse origami mouse tunnel with round opening\", \"Paper Mouse pink and grey origami mouse tunnel with black wavy balance tail\", \"Paper Mouse mouse-themed crawl-through tunnel on a pink paw-print surface\"]",
+      "divDataImgs": "[\"/images/Paper-Mouse-1.jpg\", \"/images/Paper-Mouse-2.jpg\", \"/images/Paper-Mouse-3.jpg\", \"/images/Paper-Mouse-4.jpg\", \"/images/Paper-Mouse-5.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #e1b5cb 0% 33.33%, #e1b5ca 33.33% 66.66%, #79c3e1 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Pink Pearl"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/kagzi.html"
+        },
+        "c": [
+         "kagzi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Paper Mouse"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Paper Mouse is a crawl tunnel for younger children, shaped like an origami mouse in Pink Pearl and grey. The round front opening leads into the tunnel, and a black wavy tail behind it doubles as a balance path. The teeth-shaped form gives small hands something to hang from. Children aged 3 to 12 can crawl, balance and hang here, which builds balance, imaginative play and cooperative play. The structure is long and narrow at 17'8\" x 4'6\", so it can run along a boundary wall, with a safe play area of 22'8\" x 9'6\". One installation used a pink paw-print surface to match. It carries a 3-year warranty. Ask us for a drawing of how it fits your play area."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/kagzi/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Imaginative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Cooperative Play"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Paper Mouse crawl tunnel with wavy tail",
+    "imgSrc": "/images/Mouse-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1740 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "824 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "800 cm"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Paper Mouse uses roto-moulded and composite parts on a galvanised pipe frame, covered for 3 years when installed and maintained as instructed. Installation is self-standing or grouted. Because the youngest children use it, keep impact flooring along the full length of the tail and check inside the tunnel for debris during cleaning.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Imaginative Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Cooperative Play"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'8\" x 4'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "22'8\" x 9'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "kagzi",
+    "https://funplaysystems.com/funplay-originals/kagzi.html"
+   ],
+   [
+    "Paper Mouse Crawl Tunnel",
+    "https://funplaysystems.com/funplay-originals/kagzi/paper-mouse.html"
+   ]
+  ],
+  "product": {
+   "name": "Paper Mouse",
+   "sku": "FOK05",
+   "images": [
+    "/images/Paper-Mouse-1.jpg",
+    "/images/Paper-Mouse-2.jpg",
+    "/images/Paper-Mouse-3.jpg",
+    "/images/Paper-Mouse-4.jpg",
+    "/images/Paper-Mouse-5.jpg"
+   ],
+   "description": "Paper Mouse is a crawl tunnel for younger children, shaped like an origami mouse in Pink Pearl and grey. The round front opening leads into the tunnel, and a black wavy tail behind it doubles as a balance path. The teeth-shaped form gives small hands something to hang from. Children aged 3 to 12 can crawl, balance and hang here, which builds balance, imaginative play and cooperative play. The structure is long and narrow at 17'8\" x 4'6\", so it can run along a boundary wall, with a safe play area of 22'8\" x 9'6\". One installation used a pink paw-print surface to match. It carries a 3-year warranty. Ask us for a drawing of how it fits your play area.",
+   "category": "Crawl Tunnel",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/kagzi.html",
+   "colours": [
+    "Pink Pearl"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "22'8\" x 9'6\""
+    ],
+    [
+     "Length",
+     "1740 cm"
+    ],
+    [
+     "Width",
+     "824 cm"
+    ],
+    [
+     "Height",
+     "800 cm"
+    ],
+    [
+     "Activities",
+     "Crawling Balancing Hanging"
+    ],
+    [
+     "Skills developed",
+     "Imaginative Play Balancing Cooperative Play"
+    ],
+    [
+     "Colour options",
+     "Pink Pearl"
+    ]
+   ]
+  }
+ }
+}

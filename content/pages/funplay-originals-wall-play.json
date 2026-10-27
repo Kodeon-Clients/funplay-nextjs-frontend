@@ -1,0 +1,162 @@
+{
+ "path": "/funplay-originals/wall-play.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Interactive Wall Play Panels | FunPlay Originals",
+  "description": "Wall Play panels by FunPlay Originals: peg boards, figure climbers and play houses for small spaces and pre-schools.",
+  "canonical": "https://funplaysystems.com/funplay-originals/wall-play.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Interactive Wall Play Panels | FunPlay Originals",
+   "og:description": "Wall Play panels by FunPlay Originals: peg boards, figure climbers and play houses for small spaces and pre-schools.",
+   "og:url": "https://funplaysystems.com/funplay-originals/wall-play.html",
+   "og:image": "https://funplaysystems.com/images/udanchu-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Wall Play Interactive Panels",
+ "data": {
+  "cardImage": "/images/udanchu-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "WallPlayInteractivePanels",
+   "props": {
+    "h1Text": "Wall Play Interactive Panels",
+    "h2Text": "Wall Play"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Udanchu dragonfly play tower with yellow slide",
+      "imgSrc": "/images/udanchu-product-catalogue.jpg",
+      "aHref": "/funplay-originals/wall-play/udanchu.html",
+      "aText": " View Product ",
+      "spanText": "Udanchu",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "13.8M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #fce300 50%, #fce300 50% )"
+      }
+     },
+     {
+      "imgAlt": "Ghar Ghar purple play house with yellow slide and tunnel",
+      "imgSrc": "/images/ghar-ghar-product-catalogue.jpg",
+      "aHref": "/funplay-originals/wall-play/ghar-ghar.html",
+      "aText": " View Product ",
+      "spanText": "Ghar Ghar",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "19.1M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e49624 50%, #e49624 50% )"
+      }
+     },
+     {
+      "imgAlt": "Dahi Handi stacked figure climber in multi-colour",
+      "imgSrc": "/images/Dahi-Handi-product-catalogue.jpg",
+      "aHref": "/funplay-originals/wall-play/dahi-handi.html",
+      "aText": " View Product ",
+      "spanText": "Dahi Handi",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "0.26M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "divStyle": {
+       "background": "conic-gradient( #e0ca24 0% 20%, #c31826 20% 40%, #526683 40% 60%, #142c37 60% 80%, #84adaf 80% 100% )"
+      }
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Geoboard",
+    "spanText2": "5+ YEARS",
+    "spanText3": [
+     "2.6M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Wall Play Interactive Panels",
+    "https://funplaysystems.com/funplay-originals/wall-play.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Dahi Handi Figure Climber",
+    "https://funplaysystems.com/funplay-originals/wall-play/dahi-handi.html"
+   ],
+   [
+    "Geo Board Play Panel",
+    "https://funplaysystems.com/funplay-originals/wall-play/geoboard.html"
+   ],
+   [
+    "Ghar Ghar Play Panel",
+    "https://funplaysystems.com/funplay-originals/wall-play/ghar-ghar.html"
+   ],
+   [
+    "Udanchu Play Panel",
+    "https://funplaysystems.com/funplay-originals/wall-play/udanchu.html"
+   ]
+  ]
+ }
+}

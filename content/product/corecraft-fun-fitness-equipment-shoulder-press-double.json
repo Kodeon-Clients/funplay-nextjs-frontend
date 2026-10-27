@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/shoulder-press-double.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Shoulder Press Double Outdoor Gym Equipment | FunPlay",
+  "description": "Shoulder Press Double Outdoor Gym Equipment (FFE006D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-press-double.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Shoulder Press Double Outdoor Gym Equipment | FunPlay",
+   "og:description": "Shoulder Press Double Outdoor Gym Equipment (FFE006D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-press-double.html",
+   "og:image": "https://funplaysystems.com/images/Shoulder-Press-Double-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Shoulder Press Double Outdoor Gym Equipment",
+ "data": {
+  "name": "Shoulder Press Double",
+  "sku": "FFE006D",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Shoulder-Press-Double-product-image.jpg"
+    ],
+    "alts": [
+     "Shoulder Press Double two-user outdoor shoulder press station with orange seats"
+    ]
+   }
+  ],
+  "description": "The Shoulder Press Double has two seats with handles above shoulder height, so two users can press upward side by side. Each user sits with the back against the rest, pushes the handles up and lets them come down slowly, working the shoulders, upper back and arms against body weight. It is a common pick for corporate campuses and college gyms, where users train in pairs before or after work. The Shoulder Press Double comes in Play Orange with orange seats as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard terms are 3 years on galvanised pipes and 1 year on bearings, and we will confirm cover for this machine. Ask us for a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Shoulder Press Double"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Shoulder-Press-Double-product-image.jpg",
+  "cardImage": "/images/Shoulder-Press-Double-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Shoulder Press Double ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE006D",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Shoulder-Press-Double-product-image.jpg"
+       ],
+       "alts": [
+        "Shoulder Press Double two-user outdoor shoulder press station with orange seats"
+       ]
+      }
+     ],
+     "name": "Shoulder Press Double"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Shoulder Press Double two-user outdoor shoulder press station with orange seats\"]",
+      "divDataImgs": "[\"/images/Shoulder-Press-Double-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Shoulder Press Double"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Shoulder Press Double has two seats with handles above shoulder height, so two users can press upward side by side. Each user sits with the back against the rest, pushes the handles up and lets them come down slowly, working the shoulders, upper back and arms against body weight. It is a common pick for corporate campuses and college gyms, where users train in pairs before or after work. The Shoulder Press Double comes in Play Orange with orange seats as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard terms are 3 years on galvanised pipes and 1 year on bearings, and we will confirm cover for this machine. Ask us for a quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Each pressing arm swings on a pivot above the seat, so the pivots and seat bolts need checks during routine service. The double frame is installed self-standing or grouted after a site visit. Keep the area above and in front of both seats clear of low branches."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Shoulder Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-press-double.html"
+   ]
+  ],
+  "product": {
+   "name": "Shoulder Press Double",
+   "sku": "FFE006D",
+   "images": [
+    "/images/Shoulder-Press-Double-product-image.jpg"
+   ],
+   "description": "The Shoulder Press Double has two seats with handles above shoulder height, so two users can press upward side by side. Each user sits with the back against the rest, pushes the handles up and lets them come down slowly, working the shoulders, upper back and arms against body weight. It is a common pick for corporate campuses and college gyms, where users train in pairs before or after work. The Shoulder Press Double comes in Play Orange with orange seats as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard terms are 3 years on galvanised pipes and 1 year on bearings, and we will confirm cover for this machine. Ask us for a quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

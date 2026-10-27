@@ -1,0 +1,347 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-patna.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Patna | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Patna. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-patna.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Patna | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Patna. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-patna.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Patna",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection3",
+   "props": {}
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Patna"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Patna has a large number of private schools, and several of them run more than one branch across the city and in nearby towns. When a school group sets up new playgrounds, it often wants every campus to look and work the same way, so that parents recognise the school and staff follow one maintenance routine. Planning several sites at once is something we can help with."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "FunPlay Systems manufactures outdoor playground equipment at our factory in Vasai, about 1,430 km from Patna, and sends it to Bihar by road. Our installation team or a Bihar dealer sets it up. We also supply housing societies, apartment builders and parks along the Ganga. Send us the size of each campus play area, the age groups and photos. We will prepare a layout drawing for each site with the safe play area marked."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer & Supplier of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "One playground design across several campuses",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Choose a core set of equipment that fits your smallest campus, then add pieces where there is more space. For example, a ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/play-lands.html"
+           },
+           "c": [
+            "multi play system"
+           ]
+          },
+          " and a set of ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment/spring-rider.html"
+           },
+           "c": [
+            "spring riders"
+           ]
+          },
+          " at every branch, with swings or a merry-go-round added on the larger grounds."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Keep the same colour scheme everywhere. We offer more than 15 roto-moulded shades, so a school can match its uniform or logo. One set of maintenance steps and one after-sales contact then cover every campus. Patna's monsoon brings heavy rain, so check drainage at each site before installation. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-bihar.html"
+           },
+           "c": [
+            "Bihar page"
+           ]
+          },
+          " covers other towns we supply."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Patna",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,430 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Patna",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-patna.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you supply the same playground to several of our Patna branches?",
+       "a": "Yes. We can plan a standard set of equipment for all branches and adjust it for each site, with a separate layout drawing for every campus."
+      },
+      {
+       "q": "Who do we contact for after-sales support?",
+       "a": "Our after-sales team on +91 738 530 0921 or aftersales@funplaysystems.com, Monday to Saturday from 9:00 AM to 6:30 PM."
+      },
+      {
+       "q": "Do you deliver to Patna and nearby towns such as Danapur and Hajipur?",
+       "a": "Yes. We dispatch by road from Vasai and install through our own team or a dealer working in Bihar. The process is the same as for a Patna site."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-bihar.html",
+    "aText": "Bihar",
+    "spanText": "Patna",
+    "h2Text": "Playground equipment suppliers near Patna",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-danapur.html"
+        },
+        "c": [
+         "Playground equipment in Danapur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-hajipur.html"
+        },
+        "c": [
+         "Playground equipment in Hajipur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-chapra.html"
+        },
+        "c": [
+         "Playground equipment in Chapra"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-arrah.html"
+        },
+        "c": [
+         "Playground equipment in Arrah"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bihar-sharif.html"
+        },
+        "c": [
+         "Playground equipment in Bihar Sharif"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Patna? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-patna.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Patna"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bihar.html"
+        },
+        "c": [
+         "See all cities we serve in Bihar"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Bihar",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-bihar.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Patna",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-patna.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Patna",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Patna",
+    "state": "Bihar"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Patna. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you supply the same playground to several of our Patna branches?",
+    "Yes. We can plan a standard set of equipment for all branches and adjust it for each site, with a separate layout drawing for every campus."
+   ],
+   [
+    "Who do we contact for after-sales support?",
+    "Our after-sales team on +91 738 530 0921 or aftersales@funplaysystems.com, Monday to Saturday from 9:00 AM to 6:30 PM."
+   ],
+   [
+    "Do you deliver to Patna and nearby towns such as Danapur and Hajipur?",
+    "Yes. We dispatch by road from Vasai and install through our own team or a dealer working in Bihar. The process is the same as for a Patna site."
+   ]
+  ]
+ }
+}

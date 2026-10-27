@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Press Cum Parallel Bar Outdoor Gym Equipment | FunPlay",
+  "description": "Leg Press Cum Parallel Bar Outdoor Gym Equipment (FFE009) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Press Cum Parallel Bar Outdoor Gym Equipment | FunPlay",
+   "og:description": "Leg Press Cum Parallel Bar Outdoor Gym Equipment (FFE009) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Cum-Parallel-Bar-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Press Cum Parallel Bar Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Press Cum Parallel Bar",
+  "sku": "FFE009",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Cum-Parallel-Bar-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Press Cum Parallel Bar outdoor gym combo with leg press seat and parallel bars"
+    ]
+   }
+  ],
+  "description": "The Leg Press Cum Parallel Bar pairs a seated leg press with a set of parallel bars. On the leg press, the user sits and pushes the footplates away to work the thighs and hips. On the parallel bars, stronger users do dips and supported leg raises, while older users can hold them for balance during stretches. That spread of uses makes it a good single purchase for a school, college or society gym. Our Fun Fitness listing gives it in Play Orange. We confirm the footprint and the warranty on this unit in writing with your quote. We will confirm the Leg Press Cum Parallel Bar warranty with your quote; our standard terms are 3 years on galvanised pipes and 1 year on bearings. Send us your site size and we will mark its position.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Press Cum Parallel Bar"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Cum-Parallel-Bar-product-image.jpg",
+  "cardImage": "/images/Leg-Cum-Parallel-Bar-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Press Cum Parallel Bar ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE009",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Cum-Parallel-Bar-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Press Cum Parallel Bar outdoor gym combo with leg press seat and parallel bars"
+       ]
+      }
+     ],
+     "name": "Leg Press Cum Parallel Bar"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Press Cum Parallel Bar outdoor gym combo with leg press seat and parallel bars\"]",
+      "divDataImgs": "[\"/images/Leg-Cum-Parallel-Bar-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Press Cum Parallel Bar"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Leg Press Cum Parallel Bar pairs a seated leg press with a set of parallel bars. On the leg press, the user sits and pushes the footplates away to work the thighs and hips. On the parallel bars, stronger users do dips and supported leg raises, while older users can hold them for balance during stretches. That spread of uses makes it a good single purchase for a school, college or society gym. Our Fun Fitness listing gives it in Play Orange. We confirm the footprint and the warranty on this unit in writing with your quote. We will confirm the Leg Press Cum Parallel Bar warranty with your quote; our standard terms are 3 years on galvanised pipes and 1 year on bearings. Send us your site size and we will mark its position."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The parallel bars carry full body weight during dips, so the frame is best grouted. The leg press seat swings on pivots that need regular checks. Lay rubber flooring under the bars, where users step down, and keep the bars free of rust spots and loose fittings."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Press Cum Parallel Bar Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-press-cum-parallel-bar.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Press Cum Parallel Bar",
+   "sku": "FFE009",
+   "images": [
+    "/images/Leg-Cum-Parallel-Bar-product-image.jpg"
+   ],
+   "description": "The Leg Press Cum Parallel Bar pairs a seated leg press with a set of parallel bars. On the leg press, the user sits and pushes the footplates away to work the thighs and hips. On the parallel bars, stronger users do dips and supported leg raises, while older users can hold them for balance during stretches. That spread of uses makes it a good single purchase for a school, college or society gym. Our Fun Fitness listing gives it in Play Orange. We confirm the footprint and the warranty on this unit in writing with your quote. We will confirm the Leg Press Cum Parallel Bar warranty with your quote; our standard terms are 3 years on galvanised pipes and 1 year on bearings. Send us your site size and we will mark its position.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

@@ -14,7 +14,7 @@ paths = []
 for l in open("tools/list-of-pages.txt", encoding="utf-8"):
     l = l.strip().replace("https://funplaysystems.com", "")
     if l.startswith("/") or l == "": paths.append(l or "/")
-for f in glob.glob("site/content/pages/*.json"):
+for f in glob.glob("tools/records/pages/*.json"):
     for r in json.load(open(f)): paths.append(r["path"])
 res = collections.Counter(); bad = []
 for p in sorted(set(paths)):

@@ -1,0 +1,334 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-kumbakonam.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Kumbakonam | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kumbakonam. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kumbakonam.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Kumbakonam | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kumbakonam. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kumbakonam.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Kumbakonam",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Kumbakonam"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Kumbakonam is a temple town in the Cauvery delta, and many of the institutions that run schools and community spaces here are trusts and religious bodies. They tend to buy carefully and expect equipment to last for many years in heat and seasonal floods. FunPlay Systems designs and builds outdoor playground equipment at our Vasai factory, about 1,160 km away, and sends it to Tamil Nadu by road."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Elsewhere in the state, we have installed a resort playground in Dindigul, and we supply schools, trusts, societies and parks across the region. Send us your site size, the age group and a few photos. We will reply with suggested equipment and a layout drawing with the safe play area marked, and install through our team or a dealer once you approve."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Flat delta ground and drainage",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "The delta is flat, and during the north-east monsoon from October to December water can stand on open ground for days. Do not place a playground in the lowest part of a compound. Raise the base slightly above the surrounding ground, slope it towards a drain and use rubber flooring, which dries far faster than soil."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "You can see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/dindigul-resorts-tamil-nadu.html"
+           },
+           "c": [
+            "Dindigul resort project"
+           ]
+          },
+          " for an example of our work in the state. For trusts and schools that want something with an Indian character, our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/timeless-play.html"
+           },
+           "c": [
+            "Timeless Play"
+           ]
+          },
+          " structures draw on traditional games, and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " collection is built around group play. Galvanised frames and roto-moulded parts carry a 3-year warranty against manufacturing defects."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Kumbakonam",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,160 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Tamil Nadu",
+       "value": "Resort playground, Dindigul",
+       "href": "/projects/dindigul-resorts-tamil-nadu.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Kumbakonam",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-kumbakonam.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you supply playground equipment to temple trusts in Kumbakonam?",
+       "a": "Yes. We supply trusts, schools, societies and parks. Share your site details and we will suggest equipment and send a layout drawing before you approve a quote."
+      },
+      {
+       "q": "How do we keep the play area usable in the rainy season?",
+       "a": "Raise the base slightly, slope it towards a drain and lay rubber flooring. Avoid the lowest corner of the compound, where water collects first."
+      },
+      {
+       "q": "Do you have equipment based on Indian games?",
+       "a": "Yes. Our Funplay Originals range includes Timeless Play and Khel Khud, designed by our own team with many pieces inspired by Indian games and nature."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Kumbakonam Contact Immediately"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html",
+    "aText": "Kerala & Tamil Nadu",
+    "spanText": "Kumbakonam",
+    "h2Text": "Playground equipment suppliers near Kumbakonam",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-thanjavur.html"
+        },
+        "c": [
+         "Playground equipment in Thanjavur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-tiruchirappalli.html"
+        },
+        "c": [
+         "Playground equipment in Tiruchirappalli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ozhukarai.html"
+        },
+        "c": [
+         "Playground equipment in Ozhukarai"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-karaikudi.html"
+        },
+        "c": [
+         "Playground equipment in Karaikudi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-salem.html"
+        },
+        "c": [
+         "Playground equipment in Salem"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html"
+        },
+        "c": [
+         "See all cities we serve in Kerala & Tamil Nadu"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Kerala & Tamil Nadu",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kerala-and-tamilnadu.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Kumbakonam",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-kumbakonam.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Kumbakonam",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Kumbakonam",
+    "state": "Tamil Nadu"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Kumbakonam. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you supply playground equipment to temple trusts in Kumbakonam?",
+    "Yes. We supply trusts, schools, societies and parks. Share your site details and we will suggest equipment and send a layout drawing before you approve a quote."
+   ],
+   [
+    "How do we keep the play area usable in the rainy season?",
+    "Raise the base slightly, slope it towards a drain and lay rubber flooring. Avoid the lowest corner of the compound, where water collects first."
+   ],
+   [
+    "Do you have equipment based on Indian games?",
+    "Yes. Our Funplay Originals range includes Timeless Play and Khel Khud, designed by our own team with many pieces inspired by Indian games and nature."
+   ]
+  ]
+ }
+}

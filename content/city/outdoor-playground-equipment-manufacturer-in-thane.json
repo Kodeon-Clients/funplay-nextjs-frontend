@@ -1,0 +1,435 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-thane.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Thane | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Thane. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thane.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Thane | FunPlay Systems",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Thane. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thane.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Thane",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Thane"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Thane is about 20 km from our factory in Vasai East, closer than any other large city we serve. It is also where we installed play equipment for Raymond, so a Thane buyer can see our work in their own city. FunPlay Systems has designed and manufactured outdoor playground equipment since 2002, and every piece for Thane is made in our 45,000 sq ft unit."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "The city has two very different kinds of sites. The old centre around the lakes has established societies with small gardens and equipment that is due for replacement. Along Ghodbunder Road and Pokhran Road, large townships plan play areas that serve hundreds of families. We work with both, and with the schools and municipal gardens in between."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Our project for Raymond in Thane",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/projects/raymond-thane.html"
+           },
+           "c": [
+            "Raymond Thane project"
+           ]
+          },
+          " is a useful reference for builders and committees planning a large residential play area. It followed the same steps as any FunPlay job. We took the site details, drew a layout with the safe play area, and after approval we manufactured, dispatched and installed."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "If you are a developer in Thane, ask us for the layout early. It is easier to plan drainage, lighting and seating around the play area before the garden work starts."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Township play areas on Ghodbunder Road",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "A township garden has to serve toddlers, primary children and teenagers at once. We split it into zones. Low slides and spring riders go near the seating where parents sit, and a taller tower with climbing nets sits further away for older children."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "For that taller tower, the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/nexlev-series/pinnacle.html"
+           },
+           "c": [
+            "NexLev Pinnacle"
+           ]
+          },
+          " tepee play towers give a strong centrepiece. Townships close to the Yeoor hills see heavy rain and dense tree cover. Leave space between the equipment and large trees, and keep the play surface clear of fallen branches."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Replacing equipment in older societies",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "In Naupada, Panchpakhadi and the older parts of the city, many society gardens still have welded swings and slides from decades ago. Rust usually starts where the post meets the ground. Our galvanised posts are protected by a zinc coating along their whole length, and the play parts are roto-moulded in more than 15 colour shades."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Small gardens rarely fit more than a few pieces. Two swings and a compact slide unit, with rubber flooring underneath, is a sensible start that a committee can add to later."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Nearby cities and adult fitness",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Because Thane sits so close to our factory, our team often combines work here with sites in neighbouring cities such as ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-mira-bhayandar.html"
+           },
+           "c": [
+            "Mira Bhayandar"
+           ]
+          },
+          ". Spare parts and after sales visits are simpler to arrange at this distance."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Thane's lakeside promenades and society gardens also draw walkers every morning. For exercise stations beside a play area, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-thane.html"
+           },
+           "c": [
+            "outdoor gym equipment in Thane"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Thane",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 20 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Reference project in Maharashtra",
+       "value": "Raymond, Thane",
+       "href": "/projects/raymond-thane.html"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Thane",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-thane.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Have you installed playground equipment in Thane before?",
+       "a": "Yes. We installed play equipment for Raymond in Thane, and the project is listed on our website. Our factory in Vasai East is about 20 km away, so we can manufacture, deliver and install for Thane sites with our own team."
+      },
+      {
+       "q": "Can you plan separate play zones in a large township?",
+       "a": "Yes. Tell us the garden size, how many families live there and the age groups you expect. We draw separate zones for toddlers and older children, mark the safe play area for each piece and show where seating can go."
+      },
+      {
+       "q": "Our society garden is small and shaded by trees. What works?",
+       "a": "A few individual pieces placed clear of tree roots and low branches, such as swings, a spring rider and a small slide. Rubber flooring underneath stays usable in the rains. Send photos and we will suggest a layout."
+      },
+      {
+       "q": "How do we reach your after sales team?",
+       "a": "Call +91 738 530 0921 or write to aftersales@funplaysystems.com, Monday to Saturday, 9:00 AM to 6:30 PM. Share the site name and photos of the part that needs attention, and the team will guide you."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html",
+    "aText": "Maharashtra",
+    "spanText": "Thane",
+    "h2Text": "Playground equipment suppliers near Thane",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bhiwandi.html"
+        },
+        "c": [
+         "Playground equipment in Bhiwandi"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-mira-bhayandar.html"
+        },
+        "c": [
+         "Playground equipment in Mira Bhayandar"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-navi-mumbai.html"
+        },
+        "c": [
+         "Playground equipment in Navi Mumbai"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kalyan-dombivli.html"
+        },
+        "c": [
+         "Playground equipment in Kalyan Dombivli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ulhasnagar.html"
+        },
+        "c": [
+         "Playground equipment in Ulhasnagar"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Thane? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-thane.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Thane"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+        },
+        "c": [
+         "See all cities we serve in Maharashtra"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Maharashtra",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-maharashtra.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Thane",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-thane.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Thane",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Thane",
+    "state": "Maharashtra"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Thane. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Have you installed playground equipment in Thane before?",
+    "Yes. We installed play equipment for Raymond in Thane, and the project is listed on our website. Our factory in Vasai East is about 20 km away, so we can manufacture, deliver and install for Thane sites with our own team."
+   ],
+   [
+    "Can you plan separate play zones in a large township?",
+    "Yes. Tell us the garden size, how many families live there and the age groups you expect. We draw separate zones for toddlers and older children, mark the safe play area for each piece and show where seating can go."
+   ],
+   [
+    "Our society garden is small and shaded by trees. What works?",
+    "A few individual pieces placed clear of tree roots and low branches, such as swings, a spring rider and a small slide. Rubber flooring underneath stays usable in the rains. Send photos and we will suggest a layout."
+   ],
+   [
+    "How do we reach your after sales team?",
+    "Call +91 738 530 0921 or write to aftersales@funplaysystems.com, Monday to Saturday, 9:00 AM to 6:30 PM. Share the site name and photos of the part that needs attention, and the team will guide you."
+   ]
+  ]
+ }
+}

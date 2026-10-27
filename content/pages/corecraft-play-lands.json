@@ -1,0 +1,334 @@
+{
+ "path": "/corecraft/play-lands.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Large Multi Play Stations | Play Lands | FunPlay",
+  "description": "Play Lands large multi play stations by FunPlay for parks, townships and schools: multiple towers, slides and climbers. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Large Multi Play Stations | Play Lands | FunPlay",
+   "og:description": "Play Lands large multi play stations by FunPlay for parks, townships and schools: multiple towers, slides and climbers. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands.html",
+   "og:image": "https://funplaysystems.com/images/Giant-Galore-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Play Lands Large Multi Play Stations",
+ "data": {
+  "cardImage": "/images/Giant-Galore-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "PlayLandsLargeMulti",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Imaginative fun"
+      ]
+     }
+    ],
+    "h1Text": "Play Lands Large Multi Play Stations"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Giants Galore red and blue mega playground with towers and tube slides",
+        "imgSrc": "/images/Giant-Galore-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/giants-galore.html",
+        "aText": " View Product ",
+        "spanText": "Giants Galore",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "238.2M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #c6343b 50%, #81bfd1 50% )"
+        }
+       },
+       {
+        "imgAlt": "Joy Ridge playground in orange and lavender with tube slides and bridges",
+        "imgSrc": "/images/JoyRidge-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/joy-ridge.html",
+        "aText": " View Product ",
+        "spanText": "Joy Ridge",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "147.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #dc6408 50%, #bdc9dd 50% )"
+        }
+       },
+       {
+        "imgAlt": "Fun Field large jungle-themed multi play station with towers and slides",
+        "imgSrc": "/images/Fun-Field-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/fun-field.html",
+        "aText": " View Product ",
+        "spanText": "Fun Field",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "178.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #c5cb00 50%, #3a755a 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Golden Hour orange and yellow play station with tube slide and rock wall",
+        "imgSrc": "/images/golden-hour-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/gloden-hour.html",
+        "aText": " View Product ",
+        "spanText": "Gloden Hour",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "75.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #f05c00 50%, #e3d600 50% )"
+        }
+       },
+       {
+        "imgAlt": "Play Pulse multi-colour playground with towers, tube slides and nets",
+        "imgSrc": "/images/PlayPulse-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/play-pulse.html",
+        "aText": " View Product ",
+        "spanText": "Play Pulse",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "141.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #e27f0c 0% 33.33%, #334297 33.33% 66.66%, #e1e300 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Thrill Trail pink and sand playground with mushroom canopies, slides and swings",
+        "imgSrc": "/images/Thrill-Trail-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/thrill-trail.html",
+        "aText": " View Product ",
+        "spanText": "Thrill trail",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "143.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #e50026 50%, #dcc6a9 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Azure Scape space-themed multi play station in sky blue and knight blue",
+        "imgSrc": "/images/Azure-Scape-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/azure-space.html",
+        "aText": " View Product ",
+        "spanText": "Azure Space",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "90.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #66b0cf 50%, #202f5b 50% )"
+        }
+       },
+       {
+        "imgAlt": "Coral Cascade multi play station in play orange with slides and climbing nets",
+        "imgSrc": "/images/Coral-Cascade-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/coral-cascade.html",
+        "aText": " View Product ",
+        "spanText": "Coral Cascade",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "71.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #ee4800 50%, #254656 50% )"
+        }
+       },
+       {
+        "imgAlt": "Tiny Tot small play station with yellow tube slide and dark canopy",
+        "imgSrc": "/images/Tiny-Tot-product-catalogue.jpg",
+        "aHref": "/corecraft/play-lands/tiny-tot.html",
+        "aText": " View Product ",
+        "spanText": "Tiny Tot",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "73.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #1d3845 50%, #c4ae00 50% )"
+        }
+       }
+      ]
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "We Wonderland",
+    "spanText2": "3+ YEARS",
+    "spanText3": [
+     "41.6M",
+     {
+      "tag": "sup",
+      "c": [
+       "2"
+      ]
+     }
+    ],
+    "spanText4": "21 USERS",
+    "items2": [
+     {},
+     {}
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands Large Multi Play Stations",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Azure Space Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/azure-space.html"
+   ],
+   [
+    "Coral Cascade Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/coral-cascade.html"
+   ],
+   [
+    "Fun Field Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/fun-field.html"
+   ],
+   [
+    "Giants Galore Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/giants-galore.html"
+   ],
+   [
+    "Gloden Hour Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/gloden-hour.html"
+   ],
+   [
+    "Joy Ridge Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/joy-ridge.html"
+   ],
+   [
+    "Play Pulse Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/play-pulse.html"
+   ],
+   [
+    "Thrill Trail Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/thrill-trail.html"
+   ],
+   [
+    "Tiny Tot Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/tiny-tot.html"
+   ],
+   [
+    "We Wonderland Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html"
+   ]
+  ]
+ }
+}

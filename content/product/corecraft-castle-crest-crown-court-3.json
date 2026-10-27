@@ -1,0 +1,657 @@
+{
+ "path": "/corecraft/castle-crest/crown-court-3.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Crown Court 3 Castle Multi Play Station | FunPlay Systems",
+  "description": "Crown Court 3 Castle Multi Play Station (CASMPFS01) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/castle-crest/crown-court-3.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Crown Court 3 Castle Multi Play Station | FunPlay Systems",
+   "og:description": "Crown Court 3 Castle Multi Play Station (CASMPFS01) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/castle-crest/crown-court-3.html",
+   "og:image": "https://funplaysystems.com/images/Crown-Court3-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Crown Court 3 Castle Multi Play Station",
+ "data": {
+  "name": "Crown Court 3",
+  "sku": "CASMPFS01",
+  "colours": [
+   {
+    "name": "Knight Blue & Baby Blue",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #24333c 50%,\n                    #4b879a 50%\n                  );\n                ",
+    "images": [
+     "/images/Crown-Court3-product-image.jpg",
+     "/images/Crown-Court3-2product-image.jpg"
+    ],
+    "alts": [
+     "Crown Court 3 castle-themed multi play station in knight blue with spire canopy and straight slide",
+     "Top view of Crown Court 3 playground showing octagonal platform and slide layout"
+    ]
+   }
+  ],
+  "description": "Crown Court 3 is the smallest piece in our Castle Crest series, a single castle tower in Knight Blue and Baby Blue with a pointed spire canopy and one straight slide. Seen from above, the play deck is octagonal, so children can step onto it from more than one side. It suits children aged 3 to 9, and play centres on climbing up and sliding down. The listing gives a capacity of 15 children and a product area of 9'2\" x 12'5\". With a safe play area of 15'2\" x 18'5\", it fits easily into a society garden or a nursery corner. Crown Court 3 carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Share your site photos and we will place it on a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Castle Crest",
+   "Crown Court 3"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/castle-crest.html",
+  "image": "/images/Crown-Court3-product-image.jpg",
+  "cardImage": "/images/Crown-Court3-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Crown Court 3 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Castle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "CASMPFS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue & Baby Blue",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #24333c 50%,\n                    #4b879a 50%\n                  );\n                ",
+       "images": [
+        "/images/Crown-Court3-product-image.jpg",
+        "/images/Crown-Court3-2product-image.jpg"
+       ],
+       "alts": [
+        "Crown Court 3 castle-themed multi play station in knight blue with spire canopy and straight slide",
+        "Top view of Crown Court 3 playground showing octagonal platform and slide layout"
+       ]
+      }
+     ],
+     "name": "Crown Court 3"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Crown Court 3 castle-themed multi play station in knight blue with spire canopy and straight slide\", \"Top view of Crown Court 3 playground showing octagonal platform and slide layout\"]",
+      "divDataImgs": "[\"/images/Crown-Court3-product-image.jpg\", \"/images/Crown-Court3-2product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #24333c 50%, #4b879a 50% )"
+      },
+      "divText": "",
+      "spanText": "Knight Blue & Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/castle-crest.html"
+        },
+        "c": [
+         "Castle Crest"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Crown Court 3"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Crown Court 3 is the smallest piece in our Castle Crest series, a single castle tower in Knight Blue and Baby Blue with a pointed spire canopy and one straight slide. Seen from above, the play deck is octagonal, so children can step onto it from more than one side. It suits children aged 3 to 9, and play centres on climbing up and sliding down. The listing gives a capacity of 15 children and a product area of 9'2\" x 12'5\". With a safe play area of 15'2\" x 18'5\", it fits easily into a society garden or a nursery corner. Crown Court 3 carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Share your site photos and we will place it on a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/castle-crest/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-9 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Crown Court 3 ft height play station",
+    "imgSrc": "/images/Crown-Court-3ft-ht.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "378.46 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "279.4 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The tower frame is galvanised pipe, and the canopy, slide and panels are roto-moulded, so nothing on the outside depends on paint to stop rust. We install it self-standing or grouted, depending on your ground. Keep the 15'2\" x 18'5\" safe zone clear, give extra room at the slide exit, and check the canopy fixings during routine maintenance.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "9'2\" x 12'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15'2\" x 18'5\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Castle Crest",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ],
+   [
+    "Crown Court 3 Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/crown-court-3.html"
+   ]
+  ],
+  "product": {
+   "name": "Crown Court 3",
+   "sku": "CASMPFS01",
+   "images": [
+    "/images/Crown-Court3-product-image.jpg",
+    "/images/Crown-Court3-2product-image.jpg"
+   ],
+   "description": "Crown Court 3 is the smallest piece in our Castle Crest series, a single castle tower in Knight Blue and Baby Blue with a pointed spire canopy and one straight slide. Seen from above, the play deck is octagonal, so children can step onto it from more than one side. It suits children aged 3 to 9, and play centres on climbing up and sliding down. The listing gives a capacity of 15 children and a product area of 9'2\" x 12'5\". With a safe play area of 15'2\" x 18'5\", it fits easily into a society garden or a nursery corner. Crown Court 3 carries a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Share your site photos and we will place it on a layout drawing.",
+   "category": "Castle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/castle-crest.html",
+   "colours": [
+    "Knight Blue & Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "15'2\" x 18'5\""
+    ],
+    [
+     "Length",
+     "378.46 cm"
+    ],
+    [
+     "Width",
+     "279.4 cm"
+    ],
+    [
+     "Colour options",
+     "Knight Blue & Baby Blue"
+    ]
+   ]
+  }
+ }
+}

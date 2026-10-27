@@ -1,0 +1,184 @@
+{
+ "path": "/careers/design-engineer.html",
+ "type": "career",
+ "header": "light",
+ "seo": {
+  "title": "Design Engineer Job | FunPlay Systems, Vasai",
+  "description": "Apply for the Design Engineer role at FunPlay Systems, Vasai. Design playground and outdoor gym equipment for manufacture.",
+  "canonical": "https://funplaysystems.com/careers/design-engineer.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Design Engineer Job | FunPlay Systems, Vasai",
+   "og:description": "Apply for the Design Engineer role at FunPlay Systems, Vasai. Design playground and outdoor gym equipment for manufacture.",
+   "og:url": "https://funplaysystems.com/careers/design-engineer.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "528b943513"
+ ],
+ "h1": "Design Engineer",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "DesignEngineer",
+   "props": {
+    "h1Text": "Design Engineer"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "text": "🚀 We’re Hiring NOW | Design Engineer (SolidWorks) | Funplay Systems Pvt. Ltd. ",
+    "items": [
+     {},
+     {}
+    ],
+    "text2": " If SolidWorks is your playground and you love turning ideas into real, buildable designs. We want to hear from you! 👇 ",
+    "items2": [
+     {},
+     {}
+    ],
+    "text3": " At Funplay Systems Pvt. Ltd., we’re growing fast and looking for a Design Engineer who can bring concepts to life with precision and practicality. ",
+    "items3": [
+     {},
+     {}
+    ],
+    "bText": [
+     "⚡ What we’re looking for:",
+     {
+      "tag": "br"
+     }
+    ],
+    "items4": [
+     {
+      "liText": "Strong hands-on experience in SolidWorks"
+     },
+     {
+      "liText": "Ability to create production-ready 2D/3D designs"
+     },
+     {
+      "liText": "Understanding of fabrication, materials & structures"
+     },
+     {
+      "liText": "A proactive, solution-driven mindset"
+     }
+    ],
+    "bText2": [
+     "🔥 What you’ll do:",
+     {
+      "tag": "br"
+     }
+    ],
+    "items5": [
+     {
+      "liText": "Design and develop play equipment & structures"
+     },
+     {
+      "liText": "Create detailed drawings for manufacturing"
+     },
+     {
+      "liText": "Work closely with cross-functional teams"
+     },
+     {
+      "liText": "Solve real-world engineering challenges"
+     }
+    ],
+    "bText3": [
+     "💡 Why join us?",
+     {
+      "tag": "br"
+     }
+    ],
+    "items6": [
+     {
+      "liText": "Fast-paced, growth-driven environment"
+     },
+     {
+      "liText": "High ownership and real impact"
+     },
+     {
+      "liText": "Opportunity to see your designs come to life"
+     }
+    ],
+    "text4": " If you’re ready to build, innovate, and grow, this is your chance. ",
+    "items7": [
+     {},
+     {}
+    ],
+    "text5": " 📩 Send your resume to: ",
+    "bText4": [
+     {
+      "tag": "a",
+      "attrs": {
+       "href": "mailto:hr@funplaysystems.com"
+      },
+      "c": [
+       "hr@funplaysystems.com"
+      ]
+     }
+    ],
+    "items8": [
+     {},
+     {}
+    ],
+    "text6": " #Hiring #DesignEngineer #SolidWorks #EngineeringJobs #HiringNow #Manufacturing #MechanicalDesign #CareerOpportunity",
+    "items9": [
+     {
+      "inputClass": "box-shadow-quadruple-large input-name form-control required",
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "email",
+      "inputPlaceholder": "Your email address*",
+      "inputType": "email",
+      "inputAriaLabel": "Your email address"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputRequired": true,
+      "inputTitle": "Please enter a valid 10 digit phone number only."
+     }
+    ],
+    "labelText": "Upload Resume/CV*",
+    "pText": "We are committed to protecting your privacy. We will never collect information about you without your explicit consent."
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Design Engineer",
+    "https://funplaysystems.com/careers/design-engineer.html"
+   ]
+  ],
+  "job": {
+   "title": "Design Engineer",
+   "description": "Design Engineer 🚀 We’re Hiring NOW | Design Engineer (SolidWorks) | Funplay Systems Pvt. Ltd. If SolidWorks is your playground and you love turning ideas into real, buildable designs. We want to hear from you! 👇 At Funplay Systems Pvt. Ltd., we’re growing fast and looking for a Design Engineer who can bring concepts to life with precision and practicality. ⚡ What we’re looking for: Strong hands-on experience in SolidWorks Ability to create production-ready 2D/3D designs Understanding of fabrication, materials & structures A proactive, solution-driven mindset 🔥 What you’ll do: Design and develop play equipment & structures Create detailed drawings for manufacturing Work closely with cross-functional teams Solve real-world engineering challenges 💡 Why join us? Fast-paced, growth-driven environment High ownership and real impact Opportunity to see your designs come to life If you’re ready to build, innovate, and grow, this is your chance. 📩 Send your resume to: hr@funplaysystems.com #Hiring #DesignEngineer #SolidWorks #EngineeringJobs #HiringNow #Manufacturing #MechanicalDesign #CareerOpportunity",
+   "datePosted": "2026-10-19",
+   "employmentType": "FULL_TIME",
+   "email": "hr@funplaysystems.com"
+  }
+ }
+}

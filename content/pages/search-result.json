@@ -1,0 +1,39 @@
+{
+ "path": "/search-result.html",
+ "type": "page",
+ "header": "light",
+ "seo": {
+  "title": "Fun play systems",
+  "description": "funplaysystems",
+  "canonical": null,
+  "robots": "noindex, follow",
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "No Product Found",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "NoProductFound",
+   "props": {
+    "h1Text": "No Product Found",
+    "aText": "Back To Home"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "No Product Found",
+    "https://funplaysystems.com/search-result.html"
+   ]
+  ],
+  "pageType": "SearchResultsPage"
+ }
+}

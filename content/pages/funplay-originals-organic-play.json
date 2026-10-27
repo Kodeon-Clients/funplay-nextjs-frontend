@@ -1,0 +1,351 @@
+{
+ "path": "/funplay-originals/organic-play.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Organic Nature Play Structures | FunPlay Originals",
+  "description": "Organic Play by FunPlay Originals: snail, bird, leaf and parrot play structures that bring nature into the playground.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Organic Nature Play Structures | FunPlay Originals",
+   "og:description": "Organic Play by FunPlay Originals: snail, bird, leaf and parrot play structures that bring nature into the playground.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play.html",
+   "og:image": "https://funplaysystems.com/images/Ghogalo-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Organic Play Nature Play Structures",
+ "data": {
+  "cardImage": "/images/Ghogalo-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "OrganicPlayNaturePlay",
+   "props": {
+    "h1Text": "Organic Play Nature Play Structures",
+    "h2Text": "Organic Play"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Ghogalo snail-shaped barrel roller with rope net climber",
+        "imgSrc": "/images/Ghogalo-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/ghogalo.html",
+        "aText": " View Product ",
+        "spanText": "Ghogalo",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "19.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #007588 0% 33.33%, #007588 33.33% 66.66%, #007588 66.66% 100% )"
+          }
+         },
+         {
+          "divStyle": {
+           "background": "conic-gradient( #244e60 0% 33.33%, #244e60 33.33% 66.66%, #244e60 66.66% 100% )",
+           "marginLeft": "-10px"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Toucan bird-shaped play structure with arched climber and blue slide",
+        "imgSrc": "/images/Toucan-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/toucan.html",
+        "aText": " View Product ",
+        "spanText": "Toucan",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "10.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #cdbf00 0% 16.66%, #6eb0cf 16.66% 33.33%, #b21228 33.33% 50%, #79a931 50% 66.66%, #323237 66.66% 83.33%, #7e5f36 83.33% 100% )"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Pachkili parrot-faced play tower with crawl tunnel and net climber",
+        "imgSrc": "/images/Pachakili-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/pachkili.html",
+        "aText": " View Product ",
+        "spanText": "Pachkili",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "5.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #8abb2c 0% 33.33%, #3b6864 33.33% 66.66%, #1b2f3d 66.66% 100% )"
+          }
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Hittu bird-faced play tower with twin green slides",
+        "imgSrc": "/images/Hittu-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/hittu.html",
+        "aText": " View Product ",
+        "spanText": "Hittu",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "28.9M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #389622 0% 33.33%, #b26671 33.33% 66.66%, #c7c4c5 66.66% 100% )"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Shinga bull-horn spiral climbers in cherry red on a grass base",
+        "imgSrc": "/images/Shinga-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/shinga.html",
+        "aText": " View Product ",
+        "spanText": "Shinga",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "10.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #b13f47 0% 33.33%, #b13f47 33.33% 66.66%, #b13f47 66.66% 100% )"
+          }
+         },
+         {
+          "divStyle": {
+           "background": "conic-gradient( #c6511a 0% 33.33%, #c6511a 33.33% 66.66%, #c6511a 66.66% 100% )",
+           "marginLeft": "-10px"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Monstera leaf-themed twin-tower play station with yellow slides",
+        "imgSrc": "/images/Monstera-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/monstera.html",
+        "aText": " View Product ",
+        "spanText": "Monstera",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "45.3M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #bdc700 0% 33.33%, #1f3d3e 33.33% 66.66%, #253a4d 66.66% 100% )"
+          }
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Unt Savari camel-shaped spring rider in mango yellow",
+        "imgSrc": "/images/Unt-Savari-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/unt-savari.html",
+        "aText": " View Product ",
+        "spanText": "Unt savari",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "0.5M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #c58227 0% 33.33%, #c58227 33.33% 66.66%, #c58227 66.66% 100% )"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Kukura rooster-shaped spring rider",
+        "imgSrc": "/images/Kukura-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/kukura.html",
+        "aText": " View Product ",
+        "spanText": "Kukura",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "4.4M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "conic-gradient( #181717 0% 25%, #3e9c00 25% 50%, #d4d200 50% 75%, #ca7600 75% 100% )"
+          }
+         }
+        ]
+       },
+       {
+        "imgAlt": "Cipu Sittu sky blue shark-fin merry-go-round",
+        "imgSrc": "/images/Cippu-Sittu-product-catalogue.jpg",
+        "aHref": "/funplay-originals/organic-play/cipu-sittu.html",
+        "aText": " View Product ",
+        "spanText": "Cipu Sittu",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "2.3M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "items": [
+         {
+          "divStyle": {
+           "background": "linear-gradient( to right, #5793bc 50%, #30385a 50% )"
+          }
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play Nature Play Structures",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Cipu Sittu Merry-Go-Round",
+    "https://funplaysystems.com/funplay-originals/organic-play/cipu-sittu.html"
+   ],
+   [
+    "Ghogalo Barrel Roller Climber",
+    "https://funplaysystems.com/funplay-originals/organic-play/ghogalo.html"
+   ],
+   [
+    "Hittu Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/hittu.html"
+   ],
+   [
+    "Kukura",
+    "https://funplaysystems.com/funplay-originals/organic-play/kukura.html"
+   ],
+   [
+    "Monstera Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/monstera.html"
+   ],
+   [
+    "Pachkili Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/pachkili.html"
+   ],
+   [
+    "Shinga Spiral Climber",
+    "https://funplaysystems.com/funplay-originals/organic-play/shinga.html"
+   ],
+   [
+    "Toucan Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/toucan.html"
+   ],
+   [
+    "Unt Savari",
+    "https://funplaysystems.com/funplay-originals/organic-play/unt-savari.html"
+   ]
+  ]
+ }
+}

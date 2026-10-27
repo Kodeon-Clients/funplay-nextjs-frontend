@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/Igloo-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Igloo Climber | CoreCraft | FunPlay Systems",
+  "description": "Igloo Climber (FPCL03) from the CoreCraft Climbers range: 15 kids at a time, safe play area 17'11\" x 17'11\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/Igloo-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Igloo Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Igloo Climber (FPCL03) from the CoreCraft Climbers range: 15 kids at a time, safe play area 17'11\" x 17'11\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/Igloo-climber.html",
+   "og:image": "https://funplaysystems.com/images/IGLOO-CLIMBER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Igloo Climber",
+ "data": {
+  "name": "Igloo Climber",
+  "sku": "FPCL03",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #7c8ca0 0% 33.33%,\n                    #3b6d64 33.33% 66.66%,\n                    #e1e300 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/IGLOO-CLIMBER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Igloo Climber dome-shaped rope net climber with hanging seats for kids"
+    ]
+   }
+  ],
+  "description": "Igloo Climber is a round frame of curved grey steel arches with a rope net stretched across the top and down the sides. Four seats hang on chains inside the frame, two in green and two in yellow, so children can climb the outer net and then rest or swing underneath. It packs climbing, crawling and gentle swinging into a product area of 12'11\" x 12'11\", with a safe play area of 17'11\" x 17'11\" around it. That makes it a good single piece for a school or society corner where a group needs to stay busy. Tell us the ages of your children and we will confirm it suits them. The colour is Multi Color, and there is a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to add it to your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Igloo Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/IGLOO-CLIMBER-Product-Image.jpg",
+  "cardImage": "/images/IGLOO-CLIMBER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Igloo Climber"
+    ],
+    "pText": "FPCL03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #7c8ca0 0% 33.33%,\n                    #3b6d64 33.33% 66.66%,\n                    #e1e300 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/IGLOO-CLIMBER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Igloo Climber dome-shaped rope net climber with hanging seats for kids"
+       ]
+      }
+     ],
+     "name": "Igloo Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Igloo Climber dome-shaped rope net climber with hanging seats for kids\"]",
+      "divDataImgs": "[\"/images/IGLOO-CLIMBER-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #7c8ca0 0% 33.33%, #3b6d64 33.33% 66.66%, #e1e300 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Igloo Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Igloo Climber is a round frame of curved grey steel arches with a rope net stretched across the top and down the sides. Four seats hang on chains inside the frame, two in green and two in yellow, so children can climb the outer net and then rest or swing underneath. It packs climbing, crawling and gentle swinging into a product area of 12'11\" x 12'11\", with a safe play area of 17'11\" x 17'11\" around it. That makes it a good single piece for a school or society corner where a group needs to stay busy. Tell us the ages of your children and we will confirm it suits them. The colour is Multi Color, and there is a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to add it to your layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The arches are galvanised pipe and the net is play rope, both covered for 3 years. The hanging seats and chains move constantly, so check them often; under our standard terms, bearings and spare parts carry 1 year of cover. Install it self-standing or grouted, keep the 17'11\" x 17'11\" zone clear and lay rubber flooring under the seats.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "12'11\" x 12'11\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'11\" x 17'11\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Igloo Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/Igloo-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Igloo Climber",
+   "sku": "FPCL03",
+   "images": [
+    "/images/IGLOO-CLIMBER-Product-Image.jpg"
+   ],
+   "description": "Igloo Climber is a round frame of curved grey steel arches with a rope net stretched across the top and down the sides. Four seats hang on chains inside the frame, two in green and two in yellow, so children can climb the outer net and then rest or swing underneath. It packs climbing, crawling and gentle swinging into a product area of 12'11\" x 12'11\", with a safe play area of 17'11\" x 17'11\" around it. That makes it a good single piece for a school or society corner where a group needs to stay busy. Tell us the ages of your children and we will confirm it suits them. The colour is Multi Color, and there is a 3-year warranty on galvanised pipe, roto-moulded parts, composite laminates and play rope. Ask us to add it to your layout drawing.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "17'11\" x 17'11\""
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

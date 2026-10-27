@@ -1,0 +1,70 @@
+{
+ "path": "/projects/raymond-thane.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "Raymond, Thane: Residential Playground Project | FunPlay",
+  "description": "Photos of the playground FunPlay Systems designed and installed for Raymond's residential development in Thane. Outdoor play equipment for a large township.",
+  "canonical": "https://funplaysystems.com/projects/dighe-garden.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": null,
+  "project": {
+   "title": "Raymond",
+   "location": "THANE"
+  }
+ },
+ "sections": [
+  {
+   "component": "Raymond",
+   "props": {
+    "h1Text": "Raymond",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "THANE"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "Playground equipment for Raymond's residential development in Thane, planned with the project team from the site plan stage."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  }
+ ],
+ "h1": "Raymond",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "Raymond",
+    "https://funplaysystems.com/projects/raymond-thane.html"
+   ]
+  ],
+  "project": {
+   "name": "Raymond",
+   "location": "THANE"
+  }
+ }
+}

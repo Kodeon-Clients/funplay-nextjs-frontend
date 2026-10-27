@@ -1,0 +1,744 @@
+{
+ "path": "/corecraft/castle-crest/noble-nook.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Noble Nook Castle Multi Play Station | CoreCraft | FunPlay",
+  "description": "Noble Nook Castle Multi Play Station (CASMPFS04) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/castle-crest/noble-nook.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Noble Nook Castle Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Noble Nook Castle Multi Play Station (CASMPFS04) from the CoreCraft Castle Crest range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/castle-crest/noble-nook.html",
+   "og:image": "https://funplaysystems.com/images/castle-crest-noble-nook-orange.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Noble Nook Castle Multi Play Station",
+ "data": {
+  "name": "Noble Nook",
+  "sku": "CASMPFS04",
+  "colours": [
+   {
+    "name": "Lavender Dilly & Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #da6612 50%,\n                    #b4c1db 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-crest-noble-nook-orange.jpg",
+     "/images/castle-crest-noble-nook-orange.jpg"
+    ],
+    "alts": [
+     "Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings",
+     "Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings"
+    ]
+   },
+   {
+    "name": "Knight Blue & Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #26374c 50%,\n                    #bba78c 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-crest-noble-nook-dark.jpg",
+     "/images/castle-crest-noble-nook.jpg"
+    ],
+    "alts": [
+     "Noble Nook castle playground in knight blue and sand beige with net bridge, slides and swing",
+     "Top view of Noble Nook castle multi play station showing two towers linked by a net bridge"
+    ]
+   },
+   {
+    "name": "Knight Blue & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #212a59 50%,\n                    #d4cb00 50%\n                  );\n                ",
+    "images": [
+     "/images/castle-crest-noble-nook-blue.jpg",
+     "/images/castle-crest-noble-nook-blue.jpg"
+    ],
+    "alts": [
+     "Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing",
+     "Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing"
+    ]
+   }
+  ],
+  "description": "Noble Nook is a long castle layout with two towers joined by a rope bridge and a set of swings, so children cross from one turret to the other before sliding down. The pictured version is Lavender Dilly with Play Orange, and it is also available in Knight Blue with Sand Beige or Knight Blue with Play Yellow. It suits children aged 3 to 12, and play includes climbing, sliding and swinging. At 40' x 21'1\", with a safe play area of 45' x 26'1\", it works best along the length of a park or a rectangular school ground. Capacity is listed as 15 children. Our 3-year warranty on Noble Nook covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us your plot dimensions and we will show how it sits on your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Castle Crest",
+   "Noble Nook"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/castle-crest.html",
+  "image": "/images/castle-crest-noble-nook-orange.jpg",
+  "cardImage": "/images/castle-crest-noble-nook-orange.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Noble Nook ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Castle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "CASMPFS04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Lavender Dilly & Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #da6612 50%,\n                    #b4c1db 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-crest-noble-nook-orange.jpg",
+        "/images/castle-crest-noble-nook-orange.jpg"
+       ],
+       "alts": [
+        "Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings",
+        "Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings"
+       ]
+      },
+      {
+       "name": "Knight Blue & Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #26374c 50%,\n                    #bba78c 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-crest-noble-nook-dark.jpg",
+        "/images/castle-crest-noble-nook.jpg"
+       ],
+       "alts": [
+        "Noble Nook castle playground in knight blue and sand beige with net bridge, slides and swing",
+        "Top view of Noble Nook castle multi play station showing two towers linked by a net bridge"
+       ]
+      },
+      {
+       "name": "Knight Blue & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #212a59 50%,\n                    #d4cb00 50%\n                  );\n                ",
+       "images": [
+        "/images/castle-crest-noble-nook-blue.jpg",
+        "/images/castle-crest-noble-nook-blue.jpg"
+       ],
+       "alts": [
+        "Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing",
+        "Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing"
+       ]
+      }
+     ],
+     "name": "Noble Nook"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings\", \"Noble Nook castle playground in lavender and play orange with twin towers, rope bridge and swings\"]",
+      "divDataImgs": "[\"/images/castle-crest-noble-nook-orange.jpg\", \"/images/castle-crest-noble-nook-orange.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #da6612 50%, #b4c1db 50% )"
+      },
+      "divText": "",
+      "spanText": "Lavender Dilly & Play Orange"
+     },
+     {
+      "divDataAlts": "[\"Noble Nook castle playground in knight blue and sand beige with net bridge, slides and swing\", \"Top view of Noble Nook castle multi play station showing two towers linked by a net bridge\"]",
+      "divDataImgs": "[\"/images/castle-crest-noble-nook-dark.jpg\", \"/images/castle-crest-noble-nook.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #26374c 50%, #bba78c 50% )"
+      },
+      "divText": "",
+      "spanText": "Knight Blue & Sand Beige"
+     },
+     {
+      "divDataAlts": "[\"Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing\", \"Noble Nook castle playground in knight blue and yellow with net bridge, tube slide and swing\"]",
+      "divDataImgs": "[\"/images/castle-crest-noble-nook-blue.jpg\", \"/images/castle-crest-noble-nook-blue.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #212a59 50%, #d4cb00 50% )"
+      },
+      "divText": "",
+      "spanText": "Knight Blue & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/castle-crest.html"
+        },
+        "c": [
+         "Castle Crest"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Noble Nook"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Noble Nook is a long castle layout with two towers joined by a rope bridge and a set of swings, so children cross from one turret to the other before sliding down. The pictured version is Lavender Dilly with Play Orange, and it is also available in Knight Blue with Sand Beige or Knight Blue with Play Yellow. It suits children aged 3 to 12, and play includes climbing, sliding and swinging. At 40' x 21'1\", with a safe play area of 45' x 26'1\", it works best along the length of a park or a rectangular school ground. Capacity is listed as 15 children. Our 3-year warranty on Noble Nook covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us your plot dimensions and we will show how it sits on your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/castle-crest/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Noble Nook castle playground",
+    "imgSrc": "/images/NobleNook.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1219.2 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "642.62 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The rope bridge is the part that needs the most attention over time, so check the rope and its end fixings during each maintenance visit. Towers are galvanised pipe with roto-moulded components, set self-standing or grouted. Keep the full 45' x 26'1\" zone clear, and leave a wider gap in the swing area so children walking past are not in the swing path.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "40' x 21'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "45' x 26'1\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Castle Crest",
+    "https://funplaysystems.com/corecraft/castle-crest.html"
+   ],
+   [
+    "Noble Nook Castle Multi Play Station",
+    "https://funplaysystems.com/corecraft/castle-crest/noble-nook.html"
+   ]
+  ],
+  "product": {
+   "name": "Noble Nook",
+   "sku": "CASMPFS04",
+   "images": [
+    "/images/castle-crest-noble-nook-orange.jpg",
+    "/images/castle-crest-noble-nook-orange.jpg",
+    "/images/castle-crest-noble-nook-dark.jpg",
+    "/images/castle-crest-noble-nook.jpg",
+    "/images/castle-crest-noble-nook-blue.jpg",
+    "/images/castle-crest-noble-nook-blue.jpg"
+   ],
+   "description": "Noble Nook is a long castle layout with two towers joined by a rope bridge and a set of swings, so children cross from one turret to the other before sliding down. The pictured version is Lavender Dilly with Play Orange, and it is also available in Knight Blue with Sand Beige or Knight Blue with Play Yellow. It suits children aged 3 to 12, and play includes climbing, sliding and swinging. At 40' x 21'1\", with a safe play area of 45' x 26'1\", it works best along the length of a park or a rectangular school ground. Capacity is listed as 15 children. Our 3-year warranty on Noble Nook covers the galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us your plot dimensions and we will show how it sits on your site.",
+   "category": "Castle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/castle-crest.html",
+   "colours": [
+    "Lavender Dilly & Play Orange",
+    "Knight Blue & Sand Beige",
+    "Knight Blue & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "45' x 26'1\""
+    ],
+    [
+     "Length",
+     "1219.2 cm"
+    ],
+    [
+     "Width",
+     "642.62 cm"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,11 @@
+/*
+  ads.html loaded its own <style> block before the theme stylesheets, all unlayered, so the theme won
+  wherever selectors tied. This route group reproduces that order exactly.
+*/
+@import "../../styles/ads-page.css";
+@import "../../styles/theme/vendors.css";
+@import "../../styles/theme/icon.css";
+@import "../../styles/theme/style.css";
+@import "../../styles/theme/responsive.css";
+@import "../../styles/icons.css";
+@import "../../styles/site.css";

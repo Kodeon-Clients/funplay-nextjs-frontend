@@ -1,0 +1,303 @@
+{
+ "path": "/funplay-originals/khel-khud.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Indian Games Play Equipment | Khel Khud | FunPlay",
+  "description": "Khel Khud play equipment inspired by Indian games and stories: Chausar, Patang, Fugadi, Shinga and more by FunPlay Originals.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Indian Games Play Equipment | Khel Khud | FunPlay",
+   "og:description": "Khel Khud play equipment inspired by Indian games and stories: Chausar, Patang, Fugadi, Shinga and more by FunPlay Originals.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud.html",
+   "og:image": "https://funplaysystems.com/images/Bellatrix-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Khel Khud Indian Games-Inspired Play Equipment",
+ "data": {
+  "cardImage": "/images/Bellatrix-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "KhelKhudIndianGamesInspired",
+   "props": {
+    "h1Text": "Khel Khud Indian Games-Inspired Play Equipment",
+    "h2Text": "Khel Khud"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "items": [
+       {
+        "imgAlt": "Bellatrix star-shaped geometric climber with red slide",
+        "imgSrc": "/images/Bellatrix-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/bellatrix.html",
+        "aText": " View Product ",
+        "spanText": "Bellatrix",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "22.3M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d21832 0% 33.33%, #dec82b 33.33% 66.66%, #788a94 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Itsy Bitsy spider-themed play tower with red slide on a web-pattern surface",
+        "imgSrc": "/images/Itsy-Bitsy-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/itsy-bitsy.html",
+        "aText": " View Product ",
+        "spanText": "Itsy Bitsy",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "32.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #d1213c 0% 33.33%, #4e5ad1 33.33% 66.66%, #0a0a16 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Shapestatic climber with blue sphere, red cube cage and rope tunnel",
+        "imgSrc": "/images/Shapetastic-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/shapestatic.html",
+        "aText": " View Product ",
+        "spanText": "Shapestatic",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "34.0M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #0b4486 0% 33.33%, #a83135 33.33% 66.66%, #e4b812 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Roo Pocket kangaroo-themed play tower with trampoline and slide",
+        "imgSrc": "/images/Roo-Pocket-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/roo-pocket.html",
+        "aText": " View Product ",
+        "spanText": "Roo Pocket",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "6.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #e4b812 0% 33.33%, #e4b812 33.33% 66.66%, #e4b812 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Into The Cheese yellow tower with spiral tube slide",
+        "imgSrc": "/images/Into-The-Cheeze-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/into-the-cheeze.html",
+        "aText": " View Product ",
+        "spanText": "Into The Cheeze",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "NA.M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #e4b812 0% 33.33%, #e4b812 33.33% 66.66%, #e4b812 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Candilicious Play station with yellow panels and red tube slide",
+        "imgSrc": "/images/candilicious-play-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/candilicious-play.html",
+        "aText": " View Product ",
+        "spanText": "Candilicious Play",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "29.6M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #c0b536 0% 33.33%, #cf344e 33.33% 66.66%, #7798a6 66.66% 100% )"
+        }
+       }
+      ]
+     },
+     {
+      "items": [
+       {
+        "imgAlt": "Toddlers Twist play cube with green slide and swing on a pink surface",
+        "imgSrc": "/images/Todlers-Twist-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/toddlers-twist.html",
+        "aText": " View Product ",
+        "spanText": "Toddlers Twist",
+        "spanText2": "3+ YEARS",
+        "spanText3": [
+         "20.7M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #3c6159 50%, #dd1366 50% )"
+        }
+       },
+       {
+        "imgAlt": "Goblin Gully tunnel play structure with green and grey tubes and red slide",
+        "imgSrc": "/images/goblin-gully-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/goblin-gully.html",
+        "aText": " View Product ",
+        "spanText": "Goblin Gully",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "34.8M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "conic-gradient( #3d655e 0% 33.33%, #bfc8d4 33.33% 66.66%, #c7183c 66.66% 100% )"
+        }
+       },
+       {
+        "imgAlt": "Sky Hop wooden crane-shaped hopping post with stepping pads",
+        "imgSrc": "/images/Sky-Hop-product-catalogue.jpg",
+        "aHref": "/funplay-originals/khel-khud/sky-hop.html",
+        "aText": " View Product ",
+        "spanText": "Sky Hop",
+        "spanText2": "5+ YEARS",
+        "spanText3": [
+         "2.1M",
+         {
+          "tag": "sup",
+          "c": [
+           "2"
+          ]
+         }
+        ],
+        "spanText4": "21 USERS",
+        "divStyle": {
+         "background": "linear-gradient( to right, #405057 50%, #f5caa0 50% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "FunPlay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud Indian Games-Inspired Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Bellatrix Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/bellatrix.html"
+   ],
+   [
+    "Candilicious Play Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/candilicious-play.html"
+   ],
+   [
+    "Goblin Gully Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/goblin-gully.html"
+   ],
+   [
+    "Into The Cheeze Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/into-the-cheeze.html"
+   ],
+   [
+    "Itsy Bitsy Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/itsy-bitsy.html"
+   ],
+   [
+    "Roo Pocket Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/roo-pocket.html"
+   ],
+   [
+    "Shapestatic Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/shapestatic.html"
+   ],
+   [
+    "Sky Hop Hopping Posts",
+    "https://funplaysystems.com/funplay-originals/khel-khud/sky-hop.html"
+   ],
+   [
+    "Toddlers Twist Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/toddlers-twist.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/cross-fit.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Cross Fit Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Cross Fit Outdoor Gym Equipment (FFE029C) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/cross-fit.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Cross Fit Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Cross Fit Outdoor Gym Equipment (FFE029C) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/cross-fit.html",
+   "og:image": "https://funplaysystems.com/images/cross-fit-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Cross Fit Outdoor Gym Equipment",
+ "data": {
+  "name": "Cross Fit",
+  "sku": "FFE029C",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/cross-fit-product-image.jpg"
+    ],
+    "alts": [
+     "Cross Fit outdoor cross-fit frame with monkey bars, pull-up bars and exercise stations"
+    ]
+   }
+  ],
+  "description": "Cross Fit is a frame built for bodyweight training, with monkey bars, pull-up bars and several exercise stations on one structure. Users can hang and travel along the monkey bars, do pull-ups at different heights and use the other stations for push and core work. It suits younger, stronger users such as college students, sports clubs and corporate fitness groups, and it gives a society gym a training area that feels different from the usual machines. Cross Fit comes in Play Orange as part of our Fun Fitness range. Ask us for the station list and a drawing before you plan the space. Our standard terms cover galvanised pipes for 3 years, and the warranty for Cross Fit will be confirmed in your quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Cross Fit"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/cross-fit-product-image.jpg",
+  "cardImage": "/images/cross-fit-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Cross Fit ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE029C",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/cross-fit-product-image.jpg"
+       ],
+       "alts": [
+        "Cross Fit outdoor cross-fit frame with monkey bars, pull-up bars and exercise stations"
+       ]
+      }
+     ],
+     "name": "Cross Fit"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Cross Fit outdoor cross-fit frame with monkey bars, pull-up bars and exercise stations\"]",
+      "divDataImgs": "[\"/images/cross-fit-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Cross Fit"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Cross Fit is a frame built for bodyweight training, with monkey bars, pull-up bars and several exercise stations on one structure. Users can hang and travel along the monkey bars, do pull-ups at different heights and use the other stations for push and core work. It suits younger, stronger users such as college students, sports clubs and corporate fitness groups, and it gives a society gym a training area that feels different from the usual machines. Cross Fit comes in Play Orange as part of our Fun Fitness range. Ask us for the station list and a drawing before you plan the space. Our standard terms cover galvanised pipes for 3 years, and the warranty for Cross Fit will be confirmed in your quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Users hang from the bars and drop to the ground, so lay rubber flooring under the whole frame rather than just around it. Cross Fit is normally grouted because of the hanging loads. With no bearings in a bar frame, maintenance is mainly checking bolts, welds and the grip surface of the bars."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Cross Fit Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/cross-fit.html"
+   ]
+  ],
+  "product": {
+   "name": "Cross Fit",
+   "sku": "FFE029C",
+   "images": [
+    "/images/cross-fit-product-image.jpg"
+   ],
+   "description": "Cross Fit is a frame built for bodyweight training, with monkey bars, pull-up bars and several exercise stations on one structure. Users can hang and travel along the monkey bars, do pull-ups at different heights and use the other stations for push and core work. It suits younger, stronger users such as college students, sports clubs and corporate fitness groups, and it gives a society gym a training area that feels different from the usual machines. Cross Fit comes in Play Orange as part of our Fun Fitness range. Ask us for the station list and a drawing before you plan the space. Our standard terms cover galvanised pipes for 3 years, and the warranty for Cross Fit will be confirmed in your quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/orbit-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Orbit Climber | CoreCraft | FunPlay Systems",
+  "description": "Orbit Climber (FPCL04) from the CoreCraft Climbers range: 15 kids at a time, safe play area 15'4\" x 15'4\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/orbit-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Orbit Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Orbit Climber (FPCL04) from the CoreCraft Climbers range: 15 kids at a time, safe play area 15'4\" x 15'4\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/orbit-climber.html",
+   "og:image": "https://funplaysystems.com/images/ORBIT-CLIMBER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Orbit Climber",
+ "data": {
+  "name": "Orbit Climber",
+  "sku": "FPCL04",
+  "colours": [
+   {
+    "name": "Ocean Grey",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+    "images": [
+     "/images/ORBIT-CLIMBER-Product-Image.jpg"
+    ],
+    "alts": [
+     "Orbit Climber dome-shaped spider web rope climber in ocean grey"
+    ]
+   }
+  ],
+  "description": "Shaped like a dome and strung like a spider web, the Orbit Climber gives a group of children a rope frame they can climb from any side. There is no fixed route. Children find their own path up the web, sit near the top and call to friends below, which turns climbing into a shared game. The rope gives slightly with each step, so they learn to balance as they go. The dome covers 10'4\" x 10'4\" and needs a square safe play area of 15'4\" x 15'4\". It comes in Ocean Grey, a calm colour that sits well among trees or lawns. Play rope and galvanised pipe are covered by our 3-year warranty. Ask for a layout drawing showing the dome on your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Orbit Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/ORBIT-CLIMBER-Product-Image.jpg",
+  "cardImage": "/images/ORBIT-CLIMBER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Orbit Climber"
+    ],
+    "pText": "FPCL04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Ocean Grey",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+       "images": [
+        "/images/ORBIT-CLIMBER-Product-Image.jpg"
+       ],
+       "alts": [
+        "Orbit Climber dome-shaped spider web rope climber in ocean grey"
+       ]
+      }
+     ],
+     "name": "Orbit Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Orbit Climber dome-shaped spider web rope climber in ocean grey\"]",
+      "divDataImgs": "[\"/images/ORBIT-CLIMBER-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #adbcbb 50%, #adbcbb 50% )"
+      },
+      "divText": ">",
+      "spanText": "Ocean Grey"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Orbit Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Shaped like a dome and strung like a spider web, the Orbit Climber gives a group of children a rope frame they can climb from any side. There is no fixed route. Children find their own path up the web, sit near the top and call to friends below, which turns climbing into a shared game. The rope gives slightly with each step, so they learn to balance as they go. The dome covers 10'4\" x 10'4\" and needs a square safe play area of 15'4\" x 15'4\". It comes in Ocean Grey, a calm colour that sits well among trees or lawns. Play rope and galvanised pipe are covered by our 3-year warranty. Ask for a layout drawing showing the dome on your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The Orbit Climber combines galvanised pipe with a play rope web, both under our 3-year warranty against manufacturing defects. We install it self-standing or grouted, depending on the ground. Keep the full 15'4\" x 15'4\" square clear on all four sides, since children climb off in every direction, and inspect the rope joints during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10'4\" x 10'4\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15'4\" x 15'4\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Orbit Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/orbit-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Orbit Climber",
+   "sku": "FPCL04",
+   "images": [
+    "/images/ORBIT-CLIMBER-Product-Image.jpg"
+   ],
+   "description": "Shaped like a dome and strung like a spider web, the Orbit Climber gives a group of children a rope frame they can climb from any side. There is no fixed route. Children find their own path up the web, sit near the top and call to friends below, which turns climbing into a shared game. The rope gives slightly with each step, so they learn to balance as they go. The dome covers 10'4\" x 10'4\" and needs a square safe play area of 15'4\" x 15'4\". It comes in Ocean Grey, a calm colour that sits well among trees or lawns. Play rope and galvanised pipe are covered by our 3-year warranty. Ask for a layout drawing showing the dome on your site.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Ocean Grey"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "15'4\" x 15'4\""
+    ],
+    [
+     "Colour options",
+     "> Ocean Grey"
+    ]
+   ]
+  }
+ }
+}

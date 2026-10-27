@@ -1,0 +1,49 @@
+{
+ "path": "/thank-you-campaign.html",
+ "type": "page",
+ "header": "light",
+ "seo": {
+  "title": "Thank You",
+  "description": "funplaysystems",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "styles": [
+  "d43cbaf8ea"
+ ],
+ "h1": "Thank You!",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "ThankYouContainer2",
+   "props": {
+    "h1Text": "Thank You!",
+    "pText": [
+     "Your submission has been received. Thanks for sharing your feedback.",
+     {
+      "tag": "br"
+     },
+     "If you’d like a quicker response, you can reach our team instantly on WhatsApp."
+    ],
+    "spanText": "or",
+    "aText": "Go to Website"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Thank You!",
+    "https://funplaysystems.com/thank-you-campaign.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "path": "/careers/business-development-executive.html",
+ "type": "career",
+ "header": "light",
+ "seo": {
+  "title": "Business Development Executive Job | FunPlay Systems",
+  "description": "Apply for the Business Development Executive role at FunPlay Systems, Vasai. Sell playground equipment to builders, schools and government buyers.",
+  "canonical": "https://funplaysystems.com/careers/business-development-executive.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Business Development Executive Job | FunPlay Systems",
+   "og:description": "Apply for the Business Development Executive role at FunPlay Systems, Vasai. Sell playground equipment to builders, schools and government buyers.",
+   "og:url": "https://funplaysystems.com/careers/business-development-executive.html",
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "528b943513"
+ ],
+ "h1": "Business Development Executive",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "BusinessDevelopmentExecutive",
+   "props": {
+    "h1Text": "Business Development Executive"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "text": "🚀 We’re Hiring NOW | Business Development Executive (BDE) | Funplay Systems Pvt. Ltd.",
+    "items": [
+     {},
+     {}
+    ],
+    "text2": " If you have a passion for sales, enjoy being on the field, and know how to turn opportunities into business. We want to hear from you! 👇",
+    "items2": [
+     {},
+     {}
+    ],
+    "text3": " At Funplay Systems Pvt. Ltd., we’re expanding rapidly and looking for dynamic Business Development Executives who can drive growth and build strong client relationships.",
+    "items3": [
+     {},
+     {}
+    ],
+    "bText": [
+     "📍 Location:",
+     {
+      "tag": "br"
+     }
+    ],
+    "text4": " Chennai | Bangalore | Hyderabad | Mumbai (Central Line) | Surat",
+    "items4": [
+     {},
+     {}
+    ],
+    "bText2": [
+     "💰 Salary:",
+     {
+      "tag": "br"
+     }
+    ],
+    "text5": " As per industry standards",
+    "items5": [
+     {},
+     {}
+    ],
+    "bText3": [
+     "⚡ What we’re looking for:",
+     {
+      "tag": "br"
+     }
+    ],
+    "items6": [
+     {
+      "liText": "Minimum 2 years of experience in Business Development / Sales"
+     },
+     {
+      "liText": "Strong communication & negotiation skills"
+     },
+     {
+      "liText": "Willingness to travel and handle field work"
+     },
+     {
+      "liText": "Self-driven, target-oriented mindset"
+     }
+    ],
+    "bText4": [
+     "🔥 What you’ll do:",
+     {
+      "tag": "br"
+     }
+    ],
+    "items7": [
+     {
+      "liText": "Generate new business opportunities and leads"
+     },
+     {
+      "liText": "Meet clients and conduct site visits"
+     },
+     {
+      "liText": "Build and maintain strong customer relationships"
+     },
+     {
+      "liText": "Coordinate with internal teams for project execution"
+     },
+     {
+      "liText": "Achieve sales targets and contribute to company growth"
+     }
+    ],
+    "bText5": [
+     "📊 Reporting:",
+     {
+      "tag": "br"
+     }
+    ],
+    "text6": " Directly reporting to HOD ",
+    "items8": [
+     {},
+     {}
+    ],
+    "bText6": [
+     "💡 Why join us?",
+     {
+      "tag": "br"
+     }
+    ],
+    "items9": [
+     {
+      "liText": "Fast-growing and energetic work environment"
+     },
+     {
+      "liText": "High ownership and performance-driven culture"
+     },
+     {
+      "liText": "Opportunity to grow your career in a thriving industry"
+     }
+    ],
+    "text7": " If you’re ready to take challenges head-on and grow with us, this is your chance! ",
+    "items10": [
+     {},
+     {}
+    ],
+    "text8": " 📩 Send your resume to: ",
+    "bText7": [
+     {
+      "tag": "a",
+      "attrs": {
+       "href": "mailto:hr@funplaysystems.com"
+      },
+      "c": [
+       "hr@funplaysystems.com"
+      ]
+     }
+    ],
+    "items11": [
+     {
+      "inputClass": "box-shadow-quadruple-large input-name form-control required",
+      "inputName": "name",
+      "inputPlaceholder": "Your name*",
+      "inputType": "text",
+      "inputAriaLabel": "Your name"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "email",
+      "inputPlaceholder": "Your email address*",
+      "inputType": "email",
+      "inputAriaLabel": "Your email address"
+     },
+     {
+      "inputClass": "box-shadow-quadruple-large form-control required",
+      "inputName": "phone",
+      "inputPlaceholder": "Your phone number*",
+      "inputType": "tel",
+      "inputAriaLabel": "Your phone number",
+      "inputPattern": "^[0-9]{10}$",
+      "inputRequired": true,
+      "inputTitle": "Please enter a valid 10 digit phone number only."
+     }
+    ],
+    "labelText": "Upload Resume/CV*",
+    "pText": "We are committed to protecting your privacy. We will never collect information about you without your explicit consent."
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Business Development Executive",
+    "https://funplaysystems.com/careers/business-development-executive.html"
+   ]
+  ],
+  "job": {
+   "title": "Business Development Executive",
+   "description": "Business Development Executive 🚀 We’re Hiring NOW | Business Development Executive (BDE) | Funplay Systems Pvt. Ltd. If you have a passion for sales, enjoy being on the field, and know how to turn opportunities into business. We want to hear from you! 👇 At Funplay Systems Pvt. Ltd., we’re expanding rapidly and looking for dynamic Business Development Executives who can drive growth and build strong client relationships. 📍 Location: Chennai | Bangalore | Hyderabad | Mumbai (Central Line) | Surat 💰 Salary: As per industry standards ⚡ What we’re looking for: Minimum 2 years of experience in Business Development / Sales Strong communication & negotiation skills Willingness to travel and handle field work Self-driven, target-oriented mindset 🔥 What you’ll do: Generate new business opportunities and leads Meet clients and conduct site visits Build and maintain strong customer relationships Coordinate with internal teams for project execution Achieve sales targets and contribute to company growth 📊 Reporting: Directly reporting to HOD 💡 Why join us? Fast-growing and energetic work environment High ownership and performance-driven culture Opportunity to grow your career in a thriving industry If you’re ready to take challenges head-on and grow with us, this is your chance! 📩 Send your resume to: hr@funplaysystems.com",
+   "datePosted": "2026-10-19",
+   "employmentType": "FULL_TIME",
+   "email": "hr@funplaysystems.com"
+  }
+ }
+}

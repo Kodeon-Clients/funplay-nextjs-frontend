@@ -1,0 +1,724 @@
+{
+ "path": "/funplay-originals/nature-sparsh/barrel-barrel.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Barrel Barrel Nature Play Station | FunPlay Systems",
+  "description": "Barrel Barrel Nature Play Station (FONS05), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/barrel-barrel.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Barrel Barrel Nature Play Station | FunPlay Systems",
+   "og:description": "Barrel Barrel Nature Play Station (FONS05), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/barrel-barrel.html",
+   "og:image": "https://funplaysystems.com/images/Barrel.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Barrel Barrel Nature Play Station",
+ "data": {
+  "name": "Barrel Barrel",
+  "sku": "FONS05",
+  "colours": [
+   {
+    "name": "Baby Blue",
+    "swatch": "\n                  background: conic-gradient(\n                    #000000 0% 33.33%,\n                    #7aadc7 33.33% 66.66%,\n                    #6b410d 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Barrel.jpg",
+     "/images/Barrel-2.jpg",
+     "/images/Barrel3.jpg"
+    ],
+    "alts": [
+     "Barrel Barrel wooden barrel play tower with blue wavy slide and cage top on grass",
+     "Close view of Barrel Barrel wooden barrel tower with blue climbing holds and arch opening",
+     "Inside view of Barrel Barrel rope net climber within the wooden barrel"
+    ]
+   }
+  ],
+  "description": "Barrel Barrel is a play tower in the shape of a wooden barrel, with a Baby Blue wavy slide and a cage on top. Children climb in through an arch opening, up a rope net inside the barrel and out onto the top, then slide down. Blue climbing holds on the outside give a second way up. Parents can join in at the base, and the design invites play between children and adults. It suits ages 5 to 12. The tower is small, with a product area of 13'7\" x 5'4\" and a safe play area of 19'2\" x 10'4\". It builds arm strength, coordination and interactive play. Up to 15 children can use it at once, and the main structure carries a 3-year warranty. Tell us your corner size for a fit check.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Barrel Barrel"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Barrel.jpg",
+  "cardImage": "/images/Barrel.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#e3f1fa",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Barrel Barrel ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Baby Blue",
+       "swatch": "\n                  background: conic-gradient(\n                    #000000 0% 33.33%,\n                    #7aadc7 33.33% 66.66%,\n                    #6b410d 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Barrel.jpg",
+        "/images/Barrel-2.jpg",
+        "/images/Barrel3.jpg"
+       ],
+       "alts": [
+        "Barrel Barrel wooden barrel play tower with blue wavy slide and cage top on grass",
+        "Close view of Barrel Barrel wooden barrel tower with blue climbing holds and arch opening",
+        "Inside view of Barrel Barrel rope net climber within the wooden barrel"
+       ]
+      }
+     ],
+     "name": "Barrel Barrel"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Barrel Barrel wooden barrel play tower with blue wavy slide and cage top on grass\", \"Close view of Barrel Barrel wooden barrel tower with blue climbing holds and arch opening\", \"Inside view of Barrel Barrel rope net climber within the wooden barrel\"]",
+      "divDataImgs": "[\"/images/Barrel.jpg\", \"/images/Barrel-2.jpg\", \"/images/Barrel3.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #000000 0% 33.33%, #7aadc7 33.33% 66.66%, #6b410d 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Barrel Barrel"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Barrel Barrel is a play tower in the shape of a wooden barrel, with a Baby Blue wavy slide and a cage on top. Children climb in through an arch opening, up a rope net inside the barrel and out onto the top, then slide down. Blue climbing holds on the outside give a second way up. Parents can join in at the base, and the design invites play between children and adults. It suits ages 5 to 12. The tower is small, with a product area of 13'7\" x 5'4\" and a safe play area of 19'2\" x 10'4\". It builds arm strength, coordination and interactive play. Up to 15 children can use it at once, and the main structure carries a 3-year warranty. Tell us your corner size for a fit check."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Interactive Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Arm Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Barrel Barrel play tower and slide",
+    "imgSrc": "/images/Barrel-Barrel-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1740 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "824 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Barrel Barrel combines a galvanised pipe frame, composite panels and an internal play rope net. Installation is self-standing or grouted. The inside of the barrel should be checked during cleaning for leaves and water, especially after the monsoon. Keep impact flooring at the slide exit and around the climbing holds.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Interactive Play"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Arm Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "13'7\" x 5'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "19'2\" x 10'4\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Barrel Barrel Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/barrel-barrel.html"
+   ]
+  ],
+  "product": {
+   "name": "Barrel Barrel",
+   "sku": "FONS05",
+   "images": [
+    "/images/Barrel.jpg",
+    "/images/Barrel-2.jpg",
+    "/images/Barrel3.jpg"
+   ],
+   "description": "Barrel Barrel is a play tower in the shape of a wooden barrel, with a Baby Blue wavy slide and a cage on top. Children climb in through an arch opening, up a rope net inside the barrel and out onto the top, then slide down. Blue climbing holds on the outside give a second way up. Parents can join in at the base, and the design invites play between children and adults. It suits ages 5 to 12. The tower is small, with a product area of 13'7\" x 5'4\" and a safe play area of 19'2\" x 10'4\". It builds arm strength, coordination and interactive play. Up to 15 children can use it at once, and the main structure carries a 3-year warranty. Tell us your corner size for a fit check.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "19'2\" x 10'4\""
+    ],
+    [
+     "Length",
+     "1740 cm"
+    ],
+    [
+     "Width",
+     "824 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Coordination Interactive Play Arm Strength"
+    ],
+    [
+     "Colour options",
+     "Baby Blue"
+    ]
+   ]
+  }
+ }
+}

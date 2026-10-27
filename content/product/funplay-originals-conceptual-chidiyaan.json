@@ -1,0 +1,235 @@
+{
+ "path": "/funplay-originals/conceptual/chidiyaan.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Chidiyaan Concept Play Structure | FunPlay Systems",
+  "description": "Chidiyaan Concept Play Structure (FOC004), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Chidiyaan Concept Play Structure | FunPlay Systems",
+   "og:description": "Chidiyaan Concept Play Structure (FOC004), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html",
+   "og:image": "https://funplaysystems.com/images/Chidiya-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Chidiyaan Concept Play Structure",
+ "data": {
+  "name": "Chidiyaan",
+  "sku": "FOC004",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #d5003e 0% 33.33%,\n                    #2765c9 33.33% 66.66%,\n                    #e0ca47 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Chidiya-1.jpg",
+     "/images/Chidiya-2.jpg"
+    ],
+    "alts": [
+     "Chidiyaan bird-themed play area on grass with dome climber, red slides and yellow tower",
+     "Chidiyaan play area with dome tent climber, twin slides and bird spring riders"
+    ]
+   }
+  ],
+  "description": "Chidiyaan is a concept play area from Funplay Originals, the range our own design team develops. It takes the house sparrow, a familiar bird around Indian homes and courtyards, and turns its shape into simple pieces children can play on. The renders show a dome climber shaped like a tent, a yellow tower with twin red slides and bird-shaped spring riders, set out on a lawn. Children can climb over the dome, race each other down the slides and rock on the riders. Because it is a concept, the pieces and size are worked out for your site, and the layout drawing will show the age group and safe play area. Our standard warranty gives 3 years on galvanised pipe and roto-moulded parts and 1 year on springs. Write to us if you would like it planned into your park or school.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Chidiyaan"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Chidiya-1.jpg",
+  "cardImage": "/images/Chidiya-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Chidiyaan ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Concept Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOC004",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #d5003e 0% 33.33%,\n                    #2765c9 33.33% 66.66%,\n                    #e0ca47 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Chidiya-1.jpg",
+        "/images/Chidiya-2.jpg"
+       ],
+       "alts": [
+        "Chidiyaan bird-themed play area on grass with dome climber, red slides and yellow tower",
+        "Chidiyaan play area with dome tent climber, twin slides and bird spring riders"
+       ]
+      }
+     ],
+     "name": "Chidiyaan"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Chidiyaan bird-themed play area on grass with dome climber, red slides and yellow tower\", \"Chidiyaan play area with dome tent climber, twin slides and bird spring riders\"]",
+      "divDataImgs": "[\"/images/Chidiya-1.jpg\", \"/images/Chidiya-2.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d5003e 0% 33.33%, #2765c9 33.33% 66.66%, #e0ca47 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Chidiyaan"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Chidiyaan is a concept play area from Funplay Originals, the range our own design team develops. It takes the house sparrow, a familiar bird around Indian homes and courtyards, and turns its shape into simple pieces children can play on. The renders show a dome climber shaped like a tent, a yellow tower with twin red slides and bird-shaped spring riders, set out on a lawn. Children can climb over the dome, race each other down the slides and rock on the riders. Because it is a concept, the pieces and size are worked out for your site, and the layout drawing will show the age group and safe play area. Our standard warranty gives 3 years on galvanised pipe and roto-moulded parts and 1 year on springs. Write to us if you would like it planned into your park or school."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "We prepare the specification for Chidiyaan with you, using the galvanised steel frames, roto-moulded parts and springs found across our range. Installation is self-standing or grouted to suit the ground. The dome, slides and spring riders each need their own safe zone, which the layout will mark. Spring riders need a spring check at each maintenance visit."
+     },
+     {
+      "pText": "At the heart of Chiddiyaan lies a unique double seesaw, designed to mimic the movements of sparrows in flight. Children can engage in pretend play, imagining themselves soaring through the skies on the backs of these delightful birds."
+     },
+     {
+      "pText": "Join us as we journey into the enchanting world of birds, where every moment is filled with wonder and the joy of discovery. Let your imagination take flight with Chiddiyaan!"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Chidiyaan Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/chidiyaan.html"
+   ]
+  ],
+  "product": {
+   "name": "Chidiyaan",
+   "sku": "FOC004",
+   "images": [
+    "/images/Chidiya-1.jpg",
+    "/images/Chidiya-2.jpg"
+   ],
+   "description": "Chidiyaan is a concept play area from Funplay Originals, the range our own design team develops. It takes the house sparrow, a familiar bird around Indian homes and courtyards, and turns its shape into simple pieces children can play on. The renders show a dome climber shaped like a tent, a yellow tower with twin red slides and bird-shaped spring riders, set out on a lawn. Children can climb over the dome, race each other down the slides and rock on the riders. Because it is a concept, the pieces and size are worked out for your site, and the layout drawing will show the age group and safe play area. Our standard warranty gives 3 years on galvanised pipe and roto-moulded parts and 1 year on springs. Write to us if you would like it planned into your park or school.",
+   "category": "Concept Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

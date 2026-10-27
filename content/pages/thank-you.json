@@ -1,0 +1,32 @@
+{
+ "path": "/thank-you.html",
+ "type": "page",
+ "header": "light",
+ "seo": {
+  "title": "Thank You",
+  "description": "funplaysystems",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "styles": [
+  "d43cbaf8ea"
+ ],
+ "h1": "Thank You!",
+ "data": {
+  "cardImage": null
+ },
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Thank You!",
+    "https://funplaysystems.com/thank-you.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,727 @@
+{
+ "path": "/funplay-originals/wall-play/ghar-ghar.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Ghar Ghar Play Panel | FunPlay Originals | FunPlay Systems",
+  "description": "Ghar Ghar Play Panel (FOWP02), a FunPlay Originals Wall Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/wall-play/ghar-ghar.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Ghar Ghar Play Panel | FunPlay Originals | FunPlay Systems",
+   "og:description": "Ghar Ghar Play Panel (FOWP02), a FunPlay Originals Wall Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/wall-play/ghar-ghar.html",
+   "og:image": "https://funplaysystems.com/images/ghar-ghar-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Ghar Ghar Play Panel",
+ "data": {
+  "name": "Ghar Ghar",
+  "sku": "FOWP02",
+  "colours": [
+   {
+    "name": "Mango Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e49624 50%,\n                    #e49624 50%\n                  );\n                ",
+    "images": [
+     "/images/ghar-ghar-product-image.jpg",
+     "/images/ghar-ghar-product-image.jpg"
+    ],
+    "alts": [
+     "Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface",
+     "Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface"
+    ]
+   }
+  ],
+  "description": "Ghar Ghar is a play house built partly into a wall, a twist on the tree house for sites that are short of space. The purple house has a yellow slide and a tube tunnel, and children climb up, sit inside, crawl through and slide out. It suits city societies and schools where every square foot of open ground counts. The play house is designed for ages 5 to 12 and takes up to 15 children. The product area is 15'2\" x 13'7\" and the safe play area is 20'2\" x 16'7\". Climbing, hanging, sliding and sitting build physical fitness and exploration. The listed colour is Mango Yellow. Our 3-year warranty covers its pipes, moulded parts, laminates and rope. Send us a photo of your wall.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Wall Play",
+   "Ghar Ghar"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/wall-play.html",
+  "image": "/images/ghar-ghar-product-image.jpg",
+  "cardImage": "/images/ghar-ghar-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Ghar Ghar ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Play Panel"
+      ]
+     }
+    ],
+    "pText": "FOWP02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Mango Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #e49624 50%,\n                    #e49624 50%\n                  );\n                ",
+       "images": [
+        "/images/ghar-ghar-product-image.jpg",
+        "/images/ghar-ghar-product-image.jpg"
+       ],
+       "alts": [
+        "Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface",
+        "Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface"
+       ]
+      }
+     ],
+     "name": "Ghar Ghar"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface\", \"Ghar Ghar purple play house with yellow slide and tube tunnel on a purple surface\"]",
+      "divDataImgs": "[\"/images/ghar-ghar-product-image.jpg\", \"/images/ghar-ghar-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #e49624 50%, #e49624 50% )"
+      },
+      "divText": "",
+      "spanText": "Mango Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/wall-play.html"
+        },
+        "c": [
+         "Wall Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Ghar Ghar"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Ghar Ghar is a play house built partly into a wall, a twist on the tree house for sites that are short of space. The purple house has a yellow slide and a tube tunnel, and children climb up, sit inside, crawl through and slide out. It suits city societies and schools where every square foot of open ground counts. The play house is designed for ages 5 to 12 and takes up to 15 children. The product area is 15'2\" x 13'7\" and the safe play area is 20'2\" x 16'7\". Climbing, hanging, sliding and sitting build physical fitness and exploration. The listed colour is Mango Yellow. Our 3-year warranty covers its pipes, moulded parts, laminates and rope. Send us a photo of your wall."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/wall-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Physical Fitness"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Fun Exploration"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Ghar Ghar play house with tunnel and slide",
+    "imgSrc": "/images/Ghar-Ghar-TOP.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "462.28 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "414.02 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Ghar Ghar is galvanised pipe with composite and roto-moulded parts, and it can be installed self-standing or grouted. Where it is set against a wall, our layout drawing checks clearance on the open sides. Clean inside the house and tunnel regularly, and inspect the slide joint and wall fixings at each service.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sitting",
+      "imgSrc": "/images/Sitting.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sitting"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Physical Fitness"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Fun Exploration"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15'2\" x 13'7\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'2\" x 16'7\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Wall Play",
+    "https://funplaysystems.com/funplay-originals/wall-play.html"
+   ],
+   [
+    "Ghar Ghar Play Panel",
+    "https://funplaysystems.com/funplay-originals/wall-play/ghar-ghar.html"
+   ]
+  ],
+  "product": {
+   "name": "Ghar Ghar",
+   "sku": "FOWP02",
+   "images": [
+    "/images/ghar-ghar-product-image.jpg",
+    "/images/ghar-ghar-product-image.jpg"
+   ],
+   "description": "Ghar Ghar is a play house built partly into a wall, a twist on the tree house for sites that are short of space. The purple house has a yellow slide and a tube tunnel, and children climb up, sit inside, crawl through and slide out. It suits city societies and schools where every square foot of open ground counts. The play house is designed for ages 5 to 12 and takes up to 15 children. The product area is 15'2\" x 13'7\" and the safe play area is 20'2\" x 16'7\". Climbing, hanging, sliding and sitting build physical fitness and exploration. The listed colour is Mango Yellow. Our 3-year warranty covers its pipes, moulded parts, laminates and rope. Send us a photo of your wall.",
+   "category": "Play Panel",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/wall-play.html",
+   "colours": [
+    "Mango Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "20'2\" x 16'7\""
+    ],
+    [
+     "Length",
+     "462.28 cm"
+    ],
+    [
+     "Width",
+     "414.02 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Hanging Sliding Sitting"
+    ],
+    [
+     "Skills developed",
+     "Physical Fitness Fun Exploration"
+    ],
+    [
+     "Colour options",
+     "Mango Yellow"
+    ]
+   ]
+  }
+ }
+}

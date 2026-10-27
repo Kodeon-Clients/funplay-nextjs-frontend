@@ -1,0 +1,226 @@
+{
+ "path": "/outdoor-gym-equipment-manufacturer-supplier-adoni.html",
+ "type": "city-gym",
+ "header": "transparent",
+ "seo": {
+  "title": "Outdoor Gym Equipment Supplier in Adoni | FunPlay Systems",
+  "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Adoni. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-adoni.html",
+  "robots": "index, follow",
+  "og": {
+   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:url": "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-adoni.html",
+   "og:type": "website",
+   "og:site_name": "Fun Play Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/logo-black.png",
+   "twitter:site": "@funplayindia",
+   "twitter:creator": "@funplayindia"
+  }
+ },
+ "h1": "Outdoor Gym Equipment Manufacturer & Supplier in Adoni",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/outdoor-gym-equipment-manufacturers-in-city.jpg')"
+    },
+    "pText": "Wellness Zone"
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentManufacturer",
+   "props": {
+    "h1Text": [
+     "Outdoor Gym Equipment Manufacturer & Supplier in Adoni"
+    ]
+   }
+  },
+  {
+   "component": "CitySection2",
+   "props": {}
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Outdoor gym equipment supplier in Adoni",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "If you are looking for an outdoor gym equipment supplier in Adoni, FunPlay Systems makes the Fun Fitness range at our own factory in Vasai, near Mumbai. Adoni is about 620 km away by road, in the Kurnool district of Andhra Pradesh. We pack the machines at the factory, send them by truck and install them with our team or a dealer who works in the region."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Adoni is a cotton market town, and most of the open space here belongs to municipal parks, school grounds and new residential layouts on the edge of town. These sites get long, dry summers with strong sun, so people tend to exercise early in the morning or after sunset. Plan your open gym where there is some tree cover or a shade structure, and keep a water point nearby for regular users. A small set of four or five body-weight machines is a sensible start for a ward park, and you can add stations later because each one stands on its own base."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Machines that handle Rayalaseema heat",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Strong summer sun fades cheap paint and heats bare metal quickly. Our frames are galvanised steel pipe, and seats and handles are roto-moulded plastic, so there is less to repaint and nothing to rust through. For a first set in Adoni we often suggest the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/fun-walker-single.html"
+           },
+           "c": [
+            "Fun Walker Single"
+           ]
+          },
+          " for gentle cardio and the ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html"
+           },
+           "c": [
+            "Chest Press Cum Shoulder Press"
+           ]
+          },
+          ", which gives two upper-body exercises on one footprint. Both use body weight, so there are no weights or cables to look after."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "If the same park needs a children's area, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-adoni.html"
+           },
+           "c": [
+            "playground equipment in Adoni"
+           ]
+          },
+          "."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Adoni",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 620 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Playground equipment in Adoni",
+       "href": "/outdoor-playground-equipment-manufacturer-in-adoni.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Can you deliver open gym equipment to Adoni from Maharashtra?",
+       "a": "Yes. Every machine is made at our Vasai factory and travels to Adoni by road. Our installation team or a dealer in the region fixes it on site, grouted or self-standing depending on the ground."
+      },
+      {
+       "q": "How many machines should a small park in Adoni start with?",
+       "a": "Four or five is a practical first set: one walker, one press, one twister and one stretching station. Send us the park size and we will mark where each one goes on a layout drawing."
+      },
+      {
+       "q": "Will the plastic parts fade in strong sun?",
+       "a": "Some colour change is normal over years outdoors. Roto-moulded parts carry a 3-year warranty against manufacturing defects, and placing the gym near shade slows fading and keeps seats cooler to sit on."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "Explore More Categories?",
+    "pText": "Discover a variety of other products tailored to your needs."
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Adoni | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Adoni Contact Immediately"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Gym Equipment Manufacturer & Supplier in Adoni",
+    "https://funplaysystems.com/outdoor-gym-equipment-manufacturer-supplier-adoni.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Gym Equipment Manufacturer & Supplier in Adoni",
+   "serviceType": "Outdoor gym equipment supply and installation",
+   "areaServed": {
+    "city": "Adoni",
+    "state": "Andhra Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor gym and open-air fitness equipment to schools, societies and parks in Adoni. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Can you deliver open gym equipment to Adoni from Maharashtra?",
+    "Yes. Every machine is made at our Vasai factory and travels to Adoni by road. Our installation team or a dealer in the region fixes it on site, grouted or self-standing depending on the ground."
+   ],
+   [
+    "How many machines should a small park in Adoni start with?",
+    "Four or five is a practical first set: one walker, one press, one twister and one stretching station. Send us the park size and we will mark where each one goes on a layout drawing."
+   ],
+   [
+    "Will the plastic parts fade in strong sun?",
+    "Some colour change is normal over years outdoors. Roto-moulded parts carry a 3-year warranty against manufacturing defects, and placing the gym near shade slows fading and keeps seats cooler to sit on."
+   ]
+  ]
+ }
+}

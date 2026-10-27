@@ -1,8 +1,11 @@
-/* Additions for the rebuilt site. Theme variables now point at the self-hosted fonts. */
+/* Additions for the rebuilt site. Theme variables point at the fonts loaded by next/font (lib/fonts.ts). */
 :root {
-  --alt-font: "Quicksand Variable", "Quicksand", sans-serif;
-  --primary-font: "Nunito Variable", "Nunito", sans-serif;
+  --alt-font: var(--font-quicksand), "Quicksand Variable", sans-serif;
+  --primary-font: var(--font-nunito), "Nunito Variable", sans-serif;
 }
+/* latin-ext glyphs (₹ and accented letters), downloaded only when a page uses them */
+@font-face { font-family: "Quicksand Variable"; font-style: normal; font-display: swap; font-weight: 300 700; src: url(/fonts/text/quicksand-latin-ext-wght-normal.woff2) format("woff2-variations"); unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+@font-face { font-family: "Nunito Variable"; font-style: normal; font-display: swap; font-weight: 200 1000; src: url(/fonts/text/nunito-latin-ext-wght-normal.woff2) format("woff2-variations"); unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
 .fp-hp { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; opacity: 0; }
 .form-control.is-invalid, .form-control[aria-invalid="true"] { border-color: #dc3545 !important; }
 .fp-field-error { color: #b42318; font-size: 14px; line-height: 20px; margin-top: 6px; text-align: left; }
@@ -22,3 +25,8 @@
 .fp-rich-text a, .fp-city-facts dd a, .fp-faq .accordion-body a { color: var(--dark-gray); text-decoration: underline; text-underline-offset: 3px; }
 .fp-rich-text a:hover, .fp-city-facts dd a:hover { color: var(--base-color); }
 .fp-faq .accordion-title h3 { font-family: var(--alt-font); letter-spacing: 0; }
+
+/* Our Network links: hover colour (was an inline onmouseover handler) */
+.fp-hover-brand:hover {
+  color: #d74951 !important;
+}

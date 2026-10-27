@@ -1,0 +1,191 @@
+{
+ "path": "/clientele.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Our Clients: Schools, Builders & Government | FunPlay",
+  "description": "FunPlay Systems supplies playground equipment to municipal corporations, PSUs, builders, schools and corporates including NTPC, ONGC, L&T and Tata Steel.",
+  "canonical": "https://funplaysystems.com/clientele.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Our Clients: Schools, Builders & Government | FunPlay",
+   "og:description": "FunPlay Systems supplies playground equipment to municipal corporations, PSUs, builders, schools and corporates including NTPC, ONGC, L&T and Tata Steel.",
+   "og:url": "https://funplaysystems.com/clientele.html",
+   "og:image": "https://funplaysystems.com/videos/FP_Vision_Trans.gif",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "357b5cf4d4"
+ ],
+ "h1": "Clients Who Trust FunPlay Systems",
+ "data": {
+  "cardImage": "/images/Dhamji SHamji.png"
+ },
+ "sections": [
+  {
+   "component": "ClientsWhoTrustFunplay",
+   "props": {
+    "h1Text": "Clients Who Trust FunPlay Systems",
+    "h2Text": "Clientele"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "h3Text": [
+     "Trusted by ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fw-700 text-gradient-fast-blue-purple"
+      },
+      "c": [
+       "15,000+"
+      ]
+     },
+     {
+      "tag": "br"
+     },
+     " Happy customers nationwide"
+    ],
+    "h2Text": "22+",
+    "spanText": "years of expertise",
+    "items": [
+     {
+      "divClass": "col testimonials-style-01 md-mb-30px",
+      "divStyle2": {
+       "minHeight": "350px"
+      },
+      "divText": [
+       {
+        "tag": "span",
+        "c": [
+         "Fun Play Systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive."
+        ]
+       }
+      ],
+      "imgAlt": "Damji Shamji Shah Group logo, a FunPlay client",
+      "imgDecoding": "async",
+      "imgHeight": "305",
+      "imgLoading": "lazy",
+      "imgSrc": "/images/Dhamji SHamji.png",
+      "imgWidth": "698",
+      "divText2": "Nayan Shah",
+      "spanText": "Damji Shamji Shah Group"
+     },
+     {
+      "divClass": "col testimonials-style-01 md-mb-30px",
+      "divStyle2": {
+       "minHeight": "350px"
+      },
+      "divText": [
+       {
+        "tag": "span",
+        "c": [
+         "We at Jaideep Construction have been using Fun Play Systems’ equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional. We highly recommend Fun Play Systems."
+        ]
+       }
+      ],
+      "imgAlt": "Jaydeep Group logo, a FunPlay client",
+      "imgDecoding": "async",
+      "imgHeight": "323",
+      "imgLoading": "lazy",
+      "imgSrc": "/images/Jaydeep-Group-Logo.png",
+      "imgWidth": "562",
+      "divText2": "Customer",
+      "spanText": "Jaideep Construction"
+     },
+     {
+      "divClass": "col testimonials-style-01",
+      "divStyle2": {
+       "minHeight": "350px"
+      },
+      "divText": [
+       {
+        "tag": "span",
+        "c": [
+         "The Multi-activity design from Fun Play Systems has been a huge hit. The children enjoy the spacious, well-designed play area, which has positively impacted their outdoor play."
+        ]
+       }
+      ],
+      "imgAlt": "Urjalife's logo, a FunPlay client",
+      "imgHeight": "409",
+      "imgSrc": "/images/urja life logo.png",
+      "imgWidth": "410",
+      "divText2": "Sanjay S. Deshmukh",
+      "spanText": "Urja Hospitality LLP"
+     },
+     {
+      "divClass": "col testimonials-style-01 md-mb-30px",
+      "divStyle": {
+       "width": "50%"
+      },
+      "divStyle2": {
+       "minHeight": "450px"
+      },
+      "divText": [
+       {
+        "tag": "span",
+        "c": [
+         "We prioritize adding top-quality amenities that enhance the value of our projects, and the playground equipment from Funplay Systems Pvt. Ltd. has truly impressed us. The installation was efficient, and the design seamlessly integrated with our community spaces. The equipment is not only robust and safe but also inspires active play and creativity in children. Our clients have been extremely pleased with the playground, making it a significant attraction in our developments. We're thrilled with the product and service, and we look forward to partnering with Funplay on future projects."
+        ]
+       }
+      ],
+      "imgAlt": "Riddhi Siddhi Developers logo, a FunPlay client",
+      "imgDecoding": "async",
+      "imgHeight": "113",
+      "imgLoading": "lazy",
+      "imgSrc": "/images/rIDHI_SIDDHI_DEVLOPER.png",
+      "imgWidth": "512",
+      "divText2": "Customer",
+      "spanText": "Ridhi Sidhi Developers"
+     },
+     {
+      "divClass": "col testimonials-style-01 md-mb-30px",
+      "divStyle": {
+       "width": "50%"
+      },
+      "divStyle2": {
+       "minHeight": "450px"
+      },
+      "divText": [
+       {
+        "tag": "span",
+        "c": [
+         "As developers, we are always on the lookout for high-quality amenities that add value to our projects, and the playground equipment provided by Funplay Systems Pvt. Ltd. has exceeded our expectations. The installation process was seamless, and the design perfectly complements our community spaces. The equipment is not only durable and safe but also encourages active play and creativity among children. Our clients have expressed great satisfaction with the playground, making it a key selling point in our developments. We couldn't be happier with the product and service, and we look forward to working with Funplay on future projects."
+        ]
+       }
+      ],
+      "imgAlt": "Gami logo, a FunPlay client",
+      "imgDecoding": "async",
+      "imgHeight": "156",
+      "imgLoading": "lazy",
+      "imgSrc": "/images/GAMI LOGO.png",
+      "imgWidth": "400",
+      "divText2": "Customer",
+      "spanText": "Gami Group"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Clients Who Trust FunPlay Systems",
+    "https://funplaysystems.com/clientele.html"
+   ]
+  ],
+  "pageType": "CollectionPage"
+ }
+}

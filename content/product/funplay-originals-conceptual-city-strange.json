@@ -1,0 +1,268 @@
+{
+ "path": "/funplay-originals/conceptual/city-strange.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "City Strange Concept Play Structure | FunPlay Systems",
+  "description": "City Strange Concept Play Structure (FOC003), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "City Strange Concept Play Structure | FunPlay Systems",
+   "og:description": "City Strange Concept Play Structure (FOC003), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html",
+   "og:image": "https://funplaysystems.com/images/City-Strange-V1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "City Strange Concept Play Structure",
+ "data": {
+  "name": "City Strange",
+  "sku": "FOC003",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "background: conic-gradient(#4cb2d6 0% 33.33%, #b9152e 33.33% 66.66%, #354777 66.66% 100%);",
+    "images": [
+     "/images/City-Strange-V1.jpg",
+     "/images/City-Strange-V2.jpg",
+     "/images/City-Strange-V3.jpg",
+     "/images/City-Strange-V4.jpg",
+     "/images/City-Strange-V5.jpg",
+     "/images/City-Strange-V6.jpg",
+     "/images/City-Strange-V7.jpg"
+    ],
+    "alts": [
+     "Aerial view of City Strange city-themed playground with tube slides, net climber and tower",
+     "City Strange city-themed playground with dark blue tube slide, cage tower and climbing net",
+     "Side view of City Strange playground with spiral tube slide, cage tower and net climber",
+     "Front view of City Strange city-themed playground with house facade, nets and slides",
+     "City Strange city-themed play structure with net dome, tower and blue and red slides",
+     "Side view of City Strange playground with spiral tube slide and net climbers",
+     "Top view of City Strange city-themed playground layout"
+    ]
+   }
+  ],
+  "description": "City Strange is a multi-level concept structure from Funplay Originals, built on a city theme. One side has a house facade, and around it stand a cage tower, a net dome and a climbing net. A dark blue spiral tube slide and open slides in blue and red bring children back to the ground. The idea is a small town that children explore at different heights, climbing the nets, moving through the cage tower and deciding which way to come down. It suits a township, a large housing society or a public park that wants a single feature structure. Detailed specifications are still to be listed, so we confirm the age group, capacity and safe play area in the layout drawing for your site. Once built, its galvanised pipe, roto-moulded parts, composite laminates and play rope fall under our 3-year warranty. Call our sales team to discuss it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "City Strange"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/City-Strange-V1.jpg",
+  "cardImage": "/images/City-Strange-V1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "City Strange ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Concept Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOC003",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "background: conic-gradient(#4cb2d6 0% 33.33%, #b9152e 33.33% 66.66%, #354777 66.66% 100%);",
+       "images": [
+        "/images/City-Strange-V1.jpg",
+        "/images/City-Strange-V2.jpg",
+        "/images/City-Strange-V3.jpg",
+        "/images/City-Strange-V4.jpg",
+        "/images/City-Strange-V5.jpg",
+        "/images/City-Strange-V6.jpg",
+        "/images/City-Strange-V7.jpg"
+       ],
+       "alts": [
+        "Aerial view of City Strange city-themed playground with tube slides, net climber and tower",
+        "City Strange city-themed playground with dark blue tube slide, cage tower and climbing net",
+        "Side view of City Strange playground with spiral tube slide, cage tower and net climber",
+        "Front view of City Strange city-themed playground with house facade, nets and slides",
+        "City Strange city-themed play structure with net dome, tower and blue and red slides",
+        "Side view of City Strange playground with spiral tube slide and net climbers",
+        "Top view of City Strange city-themed playground layout"
+       ]
+      }
+     ],
+     "name": "City Strange"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Aerial view of City Strange city-themed playground with tube slides, net climber and tower\", \"City Strange city-themed playground with dark blue tube slide, cage tower and climbing net\", \"Side view of City Strange playground with spiral tube slide, cage tower and net climber\", \"Front view of City Strange city-themed playground with house facade, nets and slides\", \"City Strange city-themed play structure with net dome, tower and blue and red slides\", \"Side view of City Strange playground with spiral tube slide and net climbers\", \"Top view of City Strange city-themed playground layout\"]",
+      "divDataImgs": "[\"/images/City-Strange-V1.jpg\", \"/images/City-Strange-V2.jpg\", \"/images/City-Strange-V3.jpg\", \"/images/City-Strange-V4.jpg\", \"/images/City-Strange-V5.jpg\", \"/images/City-Strange-V6.jpg\", \"/images/City-Strange-V7.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient(#4cb2d6 0% 33.33%, #b9152e 33.33% 66.66%, #354777 66.66% 100%)"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "City Strange"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription2",
+   "props": {
+    "h2Text": [
+     "Description",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-light-gray"
+      }
+     }
+    ],
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "City Strange is a multi-level concept structure from Funplay Originals, built on a city theme. One side has a house facade, and around it stand a cage tower, a net dome and a climbing net. A dark blue spiral tube slide and open slides in blue and red bring children back to the ground. The idea is a small town that children explore at different heights, climbing the nets, moving through the cage tower and deciding which way to come down. It suits a township, a large housing society or a public park that wants a single feature structure. Detailed specifications are still to be listed, so we confirm the age group, capacity and safe play area in the layout drawing for your site. Once built, its galvanised pipe, roto-moulded parts, composite laminates and play rope fall under our 3-year warranty. Call our sales team to discuss it."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "From the renders, City Strange combines steel towers, roto-moulded slides and rope nets. We finalise the frame and materials with you and choose a self-standing or grouted installation after seeing site photos. With several levels and nets, every exit and climbing face needs an impact-absorbing surface. Check rope nets and tube joints at regular intervals."
+     },
+     {
+      "pText": "This whimsical play city invites children on thrilling journeys through its winding streets and towering structures, discovering new surprises at every turn. From climbing walls to slides, each element is thoughtfully crafted to offer endless opportunities for fun and adventure."
+     },
+     {
+      "pText": ""
+     }
+    ],
+    "text": "Join us in City Strange, where every corner holds a new discovery and every adventure is sure to ignite the imagination. Let’s explore the wonders of the city together!"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "City Strange Concept Play Structure",
+    "https://funplaysystems.com/funplay-originals/conceptual/city-strange.html"
+   ]
+  ],
+  "product": {
+   "name": "City Strange",
+   "sku": "FOC003",
+   "images": [
+    "/images/City-Strange-V1.jpg",
+    "/images/City-Strange-V2.jpg",
+    "/images/City-Strange-V3.jpg",
+    "/images/City-Strange-V4.jpg",
+    "/images/City-Strange-V5.jpg",
+    "/images/City-Strange-V6.jpg"
+   ],
+   "description": "City Strange is a multi-level concept structure from Funplay Originals, built on a city theme. One side has a house facade, and around it stand a cage tower, a net dome and a climbing net. A dark blue spiral tube slide and open slides in blue and red bring children back to the ground. The idea is a small town that children explore at different heights, climbing the nets, moving through the cage tower and deciding which way to come down. It suits a township, a large housing society or a public park that wants a single feature structure. Detailed specifications are still to be listed, so we confirm the age group, capacity and safe play area in the layout drawing for your site. Once built, its galvanised pipe, roto-moulded parts, composite laminates and play rope fall under our 3-year warranty. Call our sales team to discuss it.",
+   "category": "Concept Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

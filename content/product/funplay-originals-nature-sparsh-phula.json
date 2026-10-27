@@ -1,0 +1,771 @@
+{
+ "path": "/funplay-originals/nature-sparsh/phula.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Phula Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Phula Nature Play Station (FONS03), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/phula.html",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "og": {
+   "og:title": "Phula Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Phula Nature Play Station (FONS03), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:type": "product",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/phula.html",
+   "og:image": "https://funplaysystems.com/images/Phula-1.jpg",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Phula Nature Play Station | FunPlay Originals | FunPlay",
+   "twitter:description": "Phula Nature Play Station (FONS03), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "twitter:image": "https://funplaysystems.com/funplay-originals/nature-sparsh/images/Phula-1.jpg",
+   "twitter:site": "@funplaysystems"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Phula Nature Play Station",
+ "data": {
+  "name": "Phula",
+  "sku": "FONS03",
+  "colours": [
+   {
+    "name": "Banana Yellow & Sand Beige",
+    "swatch": "\n                  background: conic-gradient(\n                    #cb8936 0% 33.33%,\n                    #ddc7ab 33.33% 66.66%,\n                    #2d1900 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Phula-1.jpg",
+     "/images/Phula-2.jpg",
+     "/images/Phula3.jpg",
+     "/images/Phula4.jpg",
+     "/images/Phula5.jpg",
+     "/images/Phula6.jpg",
+     "/images/Phula7.jpg",
+     "/images/Phula8.jpg",
+     "/images/Phula9.jpg",
+     "/images/Phula10.jpg"
+    ],
+    "alts": [
+     "Phula wooden-look play station with tube tunnel, slides and arched net climber",
+     "Phula play station with wooden arch towers, curved stepping ladder and spiral slide",
+     "Side view of Phula with wooden towers, spiral tube slide and stepping arch",
+     "Rear view of Phula with stepping arch climber, tunnel and slides",
+     "Phula wooden play towers with arched net climber and tube slide",
+     "Phula wooden arch play station with spiral slide on a sand-coloured surface",
+     "Phula play station with wooden towers, tunnel bridge and stepping ladder",
+     "Front view of Phula with wooden tower, stepping climber and slides",
+     "Side view of Phula with arched net climber and wooden play towers",
+     "Rear view of Phula with climbing wall and stepping arch"
+    ]
+   }
+  ],
+  "description": "Phula is a long play station that children travel along from one end to the other. Wooden arch towers are linked by a tube tunnel, a curved stepping ladder and an arched net climber, and slides including a spiral tube slide bring them down. At 37'2\" x 15'3\", with a safe play area of 42'2\" x 20'3\", it is the longest piece in our Nature Sparsh collection and needs a large lawn or township park. It takes up to 15 children aged 5 to 12. Sliding, climbing and crawling build coordination, physical strength and creative exploration. The colours are Banana Yellow and Sand Beige. A 3-year warranty applies to its galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a site visit plan.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Phula"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Phula-1.jpg",
+  "cardImage": "/images/Phula-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Phula ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow & Sand Beige",
+       "swatch": "\n                  background: conic-gradient(\n                    #cb8936 0% 33.33%,\n                    #ddc7ab 33.33% 66.66%,\n                    #2d1900 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Phula-1.jpg",
+        "/images/Phula-2.jpg",
+        "/images/Phula3.jpg",
+        "/images/Phula4.jpg",
+        "/images/Phula5.jpg",
+        "/images/Phula6.jpg",
+        "/images/Phula7.jpg",
+        "/images/Phula8.jpg",
+        "/images/Phula9.jpg",
+        "/images/Phula10.jpg"
+       ],
+       "alts": [
+        "Phula wooden-look play station with tube tunnel, slides and arched net climber",
+        "Phula play station with wooden arch towers, curved stepping ladder and spiral slide",
+        "Side view of Phula with wooden towers, spiral tube slide and stepping arch",
+        "Rear view of Phula with stepping arch climber, tunnel and slides",
+        "Phula wooden play towers with arched net climber and tube slide",
+        "Phula wooden arch play station with spiral slide on a sand-coloured surface",
+        "Phula play station with wooden towers, tunnel bridge and stepping ladder",
+        "Front view of Phula with wooden tower, stepping climber and slides",
+        "Side view of Phula with arched net climber and wooden play towers",
+        "Rear view of Phula with climbing wall and stepping arch"
+       ]
+      }
+     ],
+     "name": "Phula"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Phula wooden-look play station with tube tunnel, slides and arched net climber\", \"Phula play station with wooden arch towers, curved stepping ladder and spiral slide\", \"Side view of Phula with wooden towers, spiral tube slide and stepping arch\", \"Rear view of Phula with stepping arch climber, tunnel and slides\", \"Phula wooden play towers with arched net climber and tube slide\", \"Phula wooden arch play station with spiral slide on a sand-coloured surface\", \"Phula play station with wooden towers, tunnel bridge and stepping ladder\", \"Front view of Phula with wooden tower, stepping climber and slides\", \"Side view of Phula with arched net climber and wooden play towers\", \"Rear view of Phula with climbing wall and stepping arch\"]",
+      "divDataImgs": "[\"/images/Phula-1.jpg\", \"/images/Phula-2.jpg\", \"/images/Phula3.jpg\", \"/images/Phula4.jpg\", \"/images/Phula5.jpg\", \"/images/Phula6.jpg\", \"/images/Phula7.jpg\", \"/images/Phula8.jpg\", \"/images/Phula9.jpg\", \"/images/Phula10.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #cb8936 0% 33.33%, #ddc7ab 33.33% 66.66%, #2d1900 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow & Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Phula"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Phula is a long play station that children travel along from one end to the other. Wooden arch towers are linked by a tube tunnel, a curved stepping ladder and an arched net climber, and slides including a spiral tube slide bring them down. At 37'2\" x 15'3\", with a safe play area of 42'2\" x 20'3\", it is the longest piece in our Nature Sparsh collection and needs a large lawn or township park. It takes up to 15 children aged 5 to 12. Sliding, climbing and crawling build coordination, physical strength and creative exploration. The colours are Banana Yellow and Sand Beige. A 3-year warranty applies to its galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a site visit plan."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Cooperative Play"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Physical Strength"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Phula play station",
+    "imgSrc": "/images/Phula-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1132.84 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "464.82 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Phula's towers are galvanised pipe with wooden-look and composite panels, joined by roto-moulded tunnels and rope nets. It is installed self-standing or grouted, and level ground along its length makes installation simpler. Mark the full 42'2\" x 20'3\" zone before planting trees or benches. Check the tunnel joints and stepping arch regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creative Exploration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Physical Strength"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "37'2\" x 15'3\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "42'2\" x 20'3\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Phula Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/phula.html"
+   ]
+  ],
+  "product": {
+   "name": "Phula",
+   "sku": "FONS03",
+   "images": [
+    "/images/Phula-1.jpg",
+    "/images/Phula-2.jpg",
+    "/images/Phula3.jpg",
+    "/images/Phula4.jpg",
+    "/images/Phula5.jpg",
+    "/images/Phula6.jpg"
+   ],
+   "description": "Phula is a long play station that children travel along from one end to the other. Wooden arch towers are linked by a tube tunnel, a curved stepping ladder and an arched net climber, and slides including a spiral tube slide bring them down. At 37'2\" x 15'3\", with a safe play area of 42'2\" x 20'3\", it is the longest piece in our Nature Sparsh collection and needs a large lawn or township park. It takes up to 15 children aged 5 to 12. Sliding, climbing and crawling build coordination, physical strength and creative exploration. The colours are Banana Yellow and Sand Beige. A 3-year warranty applies to its galvanised pipes, roto-moulded parts, composite laminates and play rope. Ask us for a site visit plan.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Banana Yellow & Sand Beige"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "42'2\" x 20'3\""
+    ],
+    [
+     "Length",
+     "1132.84 cm"
+    ],
+    [
+     "Width",
+     "464.82 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Crawling"
+    ],
+    [
+     "Skills developed",
+     "Coordination Creative Exploration Physical Strength"
+    ],
+    [
+     "Colour options",
+     "Banana Yellow & Sand Beige"
+    ]
+   ]
+  }
+ }
+}

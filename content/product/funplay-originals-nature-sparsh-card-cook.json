@@ -1,0 +1,804 @@
+{
+ "path": "/funplay-originals/nature-sparsh/card-cook.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Card Cook Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Card Cook Nature Play Station (FONS07), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-cook.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Card Cook Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Card Cook Nature Play Station (FONS07), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/card-cook.html",
+   "og:image": "https://funplaysystems.com/images/Card-Crook.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Card Cook Nature Play Station",
+ "data": {
+  "name": "Card Cook",
+  "sku": "FONS07",
+  "colours": [
+   {
+    "name": "Sea Green",
+    "swatch": "\n                  background: conic-gradient(\n                    #97d534 0% 33.33%,\n                    #1f79ad 33.33% 66.66%,\n                    #df346b 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Card-Crook.jpg",
+     "/images/Card-Crook-2.jpg",
+     "/images/Card-Crook-3.jpg",
+     "/images/Card-Crook-4.jpg",
+     "/images/Card-Crook-5.jpg",
+     "/images/Card-Crook-6.jpg",
+     "/images/Card-Crook-7.jpg",
+     "/images/Card-Crook-8.jpg",
+     "/images/Card-Crook-9.jpg",
+     "/images/Card-Crook-10.jpg",
+     "/images/Card-Crook-11.jpg"
+    ],
+    "alts": [
+     "Card Cook card-themed play station in sea green and blue with red slide and net climber",
+     "Side view of Card Cook with red slide, rope net tunnel and curved ladder",
+     "Front view of Card Cook play panels with red slide and arched net climber",
+     "Top view of Card Cook play station on a blue circular safety surface",
+     "Card Cook play station with net climber and red slide on an orange safety surface",
+     "Close view of Card Cook round window panel, pink slide and green rings",
+     "Inside view of Card Cook deck with tube slide and green hand rings",
+     "Close view of Card Cook green panel with net tunnel and pink slide",
+     "Card Cook blue panel with circular window, ladder and pink slide",
+     "Close view of Card Cook green and blue panels with net climber and pink slide",
+     "Top view of Card Cook showing deck, tube slide and net tunnel"
+    ]
+   }
+  ],
+  "description": "Card Cook is a card-themed play station in Sea Green and blue, built from folded panels with cut-outs. A red slide, an arched net climber, a rope net tunnel and a curved ladder are packed into one frame. It is designed for younger children, ages 3 to 9, and the cut-out panels give them windows to peep through as they move round. Activities cover climbing, sliding, hanging, balancing and crawling, which build coordination and gross motor skills. It takes up to 15 children. The product area is 13'5\" x 11'8\" and the safe play area is 17'11\" x 16'8\". The galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us for a layout drawing for your nursery or society park.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Card Cook"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Card-Crook.jpg",
+  "cardImage": "/images/Card-Crook.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#c7c7df",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Card Cook ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS07",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sea Green",
+       "swatch": "\n                  background: conic-gradient(\n                    #97d534 0% 33.33%,\n                    #1f79ad 33.33% 66.66%,\n                    #df346b 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Card-Crook.jpg",
+        "/images/Card-Crook-2.jpg",
+        "/images/Card-Crook-3.jpg",
+        "/images/Card-Crook-4.jpg",
+        "/images/Card-Crook-5.jpg",
+        "/images/Card-Crook-6.jpg",
+        "/images/Card-Crook-7.jpg",
+        "/images/Card-Crook-8.jpg",
+        "/images/Card-Crook-9.jpg",
+        "/images/Card-Crook-10.jpg",
+        "/images/Card-Crook-11.jpg"
+       ],
+       "alts": [
+        "Card Cook card-themed play station in sea green and blue with red slide and net climber",
+        "Side view of Card Cook with red slide, rope net tunnel and curved ladder",
+        "Front view of Card Cook play panels with red slide and arched net climber",
+        "Top view of Card Cook play station on a blue circular safety surface",
+        "Card Cook play station with net climber and red slide on an orange safety surface",
+        "Close view of Card Cook round window panel, pink slide and green rings",
+        "Inside view of Card Cook deck with tube slide and green hand rings",
+        "Close view of Card Cook green panel with net tunnel and pink slide",
+        "Card Cook blue panel with circular window, ladder and pink slide",
+        "Close view of Card Cook green and blue panels with net climber and pink slide",
+        "Top view of Card Cook showing deck, tube slide and net tunnel"
+       ]
+      }
+     ],
+     "name": "Card Cook"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Card Cook card-themed play station in sea green and blue with red slide and net climber\", \"Side view of Card Cook with red slide, rope net tunnel and curved ladder\", \"Front view of Card Cook play panels with red slide and arched net climber\", \"Top view of Card Cook play station on a blue circular safety surface\", \"Card Cook play station with net climber and red slide on an orange safety surface\", \"Close view of Card Cook round window panel, pink slide and green rings\", \"Inside view of Card Cook deck with tube slide and green hand rings\", \"Close view of Card Cook green panel with net tunnel and pink slide\", \"Card Cook blue panel with circular window, ladder and pink slide\", \"Close view of Card Cook green and blue panels with net climber and pink slide\", \"Top view of Card Cook showing deck, tube slide and net tunnel\"]",
+      "divDataImgs": "[\"/images/Card-Crook.jpg\", \"/images/Card-Crook-2.jpg\", \"/images/Card-Crook-3.jpg\", \"/images/Card-Crook-4.jpg\", \"/images/Card-Crook-5.jpg\", \"/images/Card-Crook-6.jpg\", \"/images/Card-Crook-7.jpg\", \"/images/Card-Crook-8.jpg\", \"/images/Card-Crook-9.jpg\", \"/images/Card-Crook-10.jpg\", \"/images/Card-Crook-11.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #97d534 0% 33.33%, #1f79ad 33.33% 66.66%, #df346b 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Sea Green"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Card Cook"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Card Cook is a card-themed play station in Sea Green and blue, built from folded panels with cut-outs. A red slide, an arched net climber, a rope net tunnel and a curved ladder are packed into one frame. It is designed for younger children, ages 3 to 9, and the cut-out panels give them windows to peep through as they move round. Activities cover climbing, sliding, hanging, balancing and crawling, which build coordination and gross motor skills. It takes up to 15 children. The product area is 13'5\" x 11'8\" and the safe play area is 17'11\" x 16'8\". The galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us for a layout drawing for your nursery or society park."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-9 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Coordination"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Exploration"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Gross Motor Skills"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Card Cook play structure",
+    "imgSrc": "/images/Card-Crook-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "408.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "355.6 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Card Cook stands on galvanised pipe with composite card panels and a play rope tunnel and net. It is fixed self-standing or grouted. Photos show it on blue and orange circular safety surfaces, and some form of impact flooring is needed across the 17'11\" x 16'8\" zone. Check the net tunnel and panel edges at each service.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Coordination"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Exploration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Gross Motor Skills"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "13'5\" x 11'8\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "17'11\" x 16'8\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Card Cook Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/card-cook.html"
+   ]
+  ],
+  "product": {
+   "name": "Card Cook",
+   "sku": "FONS07",
+   "images": [
+    "/images/Card-Crook.jpg",
+    "/images/Card-Crook-2.jpg",
+    "/images/Card-Crook-3.jpg",
+    "/images/Card-Crook-4.jpg",
+    "/images/Card-Crook-5.jpg",
+    "/images/Card-Crook-6.jpg"
+   ],
+   "description": "Card Cook is a card-themed play station in Sea Green and blue, built from folded panels with cut-outs. A red slide, an arched net climber, a rope net tunnel and a curved ladder are packed into one frame. It is designed for younger children, ages 3 to 9, and the cut-out panels give them windows to peep through as they move round. Activities cover climbing, sliding, hanging, balancing and crawling, which build coordination and gross motor skills. It takes up to 15 children. The product area is 13'5\" x 11'8\" and the safe play area is 17'11\" x 16'8\". The galvanised pipes, roto-moulded parts, composite laminates and play rope have a 3-year warranty. Ask us for a layout drawing for your nursery or society park.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Sea Green"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "17'11\" x 16'8\""
+    ],
+    [
+     "Length",
+     "408.94 cm"
+    ],
+    [
+     "Width",
+     "355.6 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Sliding Hanging Balancing Crawling"
+    ],
+    [
+     "Skills developed",
+     "Coordination Exploration Gross Motor Skills"
+    ],
+    [
+     "Colour options",
+     "Sea Green"
+    ]
+   ]
+  }
+ }
+}

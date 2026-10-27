@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/s-bridge-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "S Bridge Climber | CoreCraft | FunPlay Systems",
+  "description": "S Bridge Climber (FPCL10) from the CoreCraft Climbers range: 15 kids at a time, safe play area 18' x 12'5\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/s-bridge-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "S Bridge Climber | CoreCraft | FunPlay Systems",
+   "og:description": "S Bridge Climber (FPCL10) from the CoreCraft Climbers range: 15 kids at a time, safe play area 18' x 12'5\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/s-bridge-climber.html",
+   "og:image": "https://funplaysystems.com/images/S-BRIDGE-LADDER-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "S Bridge Climber",
+ "data": {
+  "name": "S Bridge Climber",
+  "sku": "FPCL10",
+  "colours": [
+   {
+    "name": "Play Red & Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #fce300 50%\n                  );\n                ",
+    "images": [
+     "/images/S-BRIDGE-LADDER-Product-Image.jpg"
+    ],
+    "alts": [
+     "S Bridge Climber S-shaped red overhead ladder on yellow poles with side ladders"
+    ]
+   }
+  ],
+  "description": "The S Bridge Climber bends its overhead ladder into an S curve, so children must change direction halfway across. The ladder is red and sits on yellow poles, with a side ladder at each end for getting up and down. Turning mid-crossing asks children to plan each reach and shift their body weight, which is harder than a straight run of bars. It covers 13' x 7'5\", with a safe play area of 18' x 12'5\". This climber gives older children a fresh challenge in a school ground or park where a plain monkey bar is already in place. Colours are Play Red and Play Yellow. Galvanised pipe on this frame carries a 3-year warranty. Send us your site plan and we will mark the safe play area for you.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "S Bridge Ladder"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/S-BRIDGE-LADDER-Product-Image.jpg",
+  "cardImage": "/images/S-BRIDGE-LADDER-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "S Bridge Climber"
+    ],
+    "pText": "FPCL10",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #bb1e10 50%,\n                    #fce300 50%\n                  );\n                ",
+       "images": [
+        "/images/S-BRIDGE-LADDER-Product-Image.jpg"
+       ],
+       "alts": [
+        "S Bridge Climber S-shaped red overhead ladder on yellow poles with side ladders"
+       ]
+      }
+     ],
+     "name": "S Bridge Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"S Bridge Climber S-shaped red overhead ladder on yellow poles with side ladders\"]",
+      "divDataImgs": "[\"/images/S-BRIDGE-LADDER-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #bb1e10 50%, #fce300 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Red & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "S Bridge Ladder"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The S Bridge Climber bends its overhead ladder into an S curve, so children must change direction halfway across. The ladder is red and sits on yellow poles, with a side ladder at each end for getting up and down. Turning mid-crossing asks children to plan each reach and shift their body weight, which is harder than a straight run of bars. It covers 13' x 7'5\", with a safe play area of 18' x 12'5\". This climber gives older children a fresh challenge in a school ground or park where a plain monkey bar is already in place. Colours are Play Red and Play Yellow. Galvanised pipe on this frame carries a 3-year warranty. Send us your site plan and we will mark the safe play area for you."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The S-shaped ladder and its supporting poles are galvanised steel, which resists rust in wet weather. It can be installed self-standing or grouted. Children can drop from points across the width of the curve. Cover the full 18' x 12'5\" area with an impact-absorbing surface and check the joints at each bend during maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "13' x 7'5\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "18' x 12'5\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "S Bridge Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/s-bridge-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "S Bridge Climber",
+   "sku": "FPCL10",
+   "images": [
+    "/images/S-BRIDGE-LADDER-Product-Image.jpg"
+   ],
+   "description": "The S Bridge Climber bends its overhead ladder into an S curve, so children must change direction halfway across. The ladder is red and sits on yellow poles, with a side ladder at each end for getting up and down. Turning mid-crossing asks children to plan each reach and shift their body weight, which is harder than a straight run of bars. It covers 13' x 7'5\", with a safe play area of 18' x 12'5\". This climber gives older children a fresh challenge in a school ground or park where a plain monkey bar is already in place. Colours are Play Red and Play Yellow. Galvanised pipe on this frame carries a 3-year warranty. Send us your site plan and we will mark the safe play area for you.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Play Red & Play Yellow"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "18' x 12'5\""
+    ],
+    [
+     "Colour options",
+     "Play Red & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

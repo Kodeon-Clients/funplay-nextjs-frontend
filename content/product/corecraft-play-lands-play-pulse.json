@@ -1,0 +1,676 @@
+{
+ "path": "/corecraft/play-lands/play-pulse.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Play Pulse Multi Play Station | CoreCraft | FunPlay Systems",
+  "description": "Play Pulse Multi Play Station (PLAMPFS05) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/play-pulse.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Play Pulse Multi Play Station | CoreCraft | FunPlay Systems",
+   "og:description": "Play Pulse Multi Play Station (PLAMPFS05) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/play-pulse.html",
+   "og:image": "https://funplaysystems.com/images/play-lands-play-pulse1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Play Pulse Multi Play Station",
+ "data": {
+  "name": "Play Pulse",
+  "sku": "PLAMPFS05",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "background: conic-gradient(#e27f0c 0% 33.33%, #334297 33.33% 66.66%, #e1e300 66.66% 100%);",
+    "images": [
+     "/images/play-lands-play-pulse1.jpg",
+     "/images/play-lands-play-pulse.jpg"
+    ],
+    "alts": [
+     "Play Pulse multi-colour playground with towers, tube slides and climbing nets",
+     "Top view of Play Pulse playground layout with linked decks and slides"
+    ]
+   }
+  ],
+  "description": "Play Pulse comes in a multi colour finish, which keeps it bright on a plain lawn or a grey podium. Its towers are joined by linked decks, with climbing nets to get up and tube slides to come down. The footprint is close to square at 39'6\" x 38'5\", so it sits well in the middle of a park or society play area with paths on all sides. Children climb, slide and hang across the decks. The age group is 3+ and key users are 3 to 12, with a listed capacity of 15. The safe play area is 45'6\" x 43'5\". If you want particular colours, we can discuss our roto-moulded shade options. We warrant the galvanised pipe, roto-moulded parts, composite laminates and play rope for 3 years. Ask us for a quote and a drawing for your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "Play Pulse"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/play-lands-play-pulse1.jpg",
+  "cardImage": "/images/play-lands-play-pulse1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Play Pulse ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "background: conic-gradient(#e27f0c 0% 33.33%, #334297 33.33% 66.66%, #e1e300 66.66% 100%);",
+       "images": [
+        "/images/play-lands-play-pulse1.jpg",
+        "/images/play-lands-play-pulse.jpg"
+       ],
+       "alts": [
+        "Play Pulse multi-colour playground with towers, tube slides and climbing nets",
+        "Top view of Play Pulse playground layout with linked decks and slides"
+       ]
+      }
+     ],
+     "name": "Play Pulse"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Play Pulse multi-colour playground with towers, tube slides and climbing nets\", \"Top view of Play Pulse playground layout with linked decks and slides\"]",
+      "divDataImgs": "[\"/images/play-lands-play-pulse1.jpg\", \"/images/play-lands-play-pulse.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient(#e27f0c 0% 33.33%, #334297 33.33% 66.66%, #e1e300 66.66% 100%)"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Play Pulse"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Play Pulse comes in a multi colour finish, which keeps it bright on a plain lawn or a grey podium. Its towers are joined by linked decks, with climbing nets to get up and tube slides to come down. The footprint is close to square at 39'6\" x 38'5\", so it sits well in the middle of a park or society play area with paths on all sides. Children climb, slide and hang across the decks. The age group is 3+ and key users are 3 to 12, with a listed capacity of 15. The safe play area is 45'6\" x 43'5\". If you want particular colours, we can discuss our roto-moulded shade options. We warrant the galvanised pipe, roto-moulded parts, composite laminates and play rope for 3 years. Ask us for a quote and a drawing for your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Play Pulse playground layout",
+    "imgSrc": "/images/Play-Pulse.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1203.96 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1170.94 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The structure stands on galvanised steel posts, with roto-moulded tube slides and rope climbing nets. We fix it by grouting or as a self-standing unit. Because children can enter from every side, keep the full 45'6\" x 43'5\" zone surfaced and free of benches. Check net tension and slide joints during routine maintenance.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "39'6\" x 38'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "45'6\" x 43'5\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Play Pulse Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/play-pulse.html"
+   ]
+  ],
+  "product": {
+   "name": "Play Pulse",
+   "sku": "PLAMPFS05",
+   "images": [
+    "/images/play-lands-play-pulse1.jpg",
+    "/images/play-lands-play-pulse.jpg"
+   ],
+   "description": "Play Pulse comes in a multi colour finish, which keeps it bright on a plain lawn or a grey podium. Its towers are joined by linked decks, with climbing nets to get up and tube slides to come down. The footprint is close to square at 39'6\" x 38'5\", so it sits well in the middle of a park or society play area with paths on all sides. Children climb, slide and hang across the decks. The age group is 3+ and key users are 3 to 12, with a listed capacity of 15. The safe play area is 45'6\" x 43'5\". If you want particular colours, we can discuss our roto-moulded shade options. We warrant the galvanised pipe, roto-moulded parts, composite laminates and play rope for 3 years. Ask us for a quote and a drawing for your site.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "45'6\" x 43'5\""
+    ],
+    [
+     "Length",
+     "1203.96 cm"
+    ],
+    [
+     "Width",
+     "1170.94 cm"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

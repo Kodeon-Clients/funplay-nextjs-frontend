@@ -1,0 +1,226 @@
+{
+ "path": "/blog/challenges-in-building-playgrounds-in-indian-cities.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Challenges in Building Playgrounds in Indian Cities",
+  "description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
+  "canonical": "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html",
+  "robots": null,
+  "og": {
+   "og:title": "Challenges in Building Playgrounds in Indian Cities",
+   "og:description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
+   "og:image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
+   "og:url": "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html",
+   "og:type": "article",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Challenges in Building Playgrounds in Indian Cities",
+   "twitter:description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
+   "twitter:image": "https://funplaysystems.com/images/g10.jpg"
+  }
+ },
+ "h1": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/blog-17-cover.jpg')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "18 August 2025"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       " ",
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       },
+       " "
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
+    "h1Text": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+    "imgDecoding": "async"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent",
+   "props": {
+    "article": {
+     "slug": "challenges-in-building-playgrounds-in-indian-cities"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "playground challenges in india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "lack of playgrounds india"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "safe play areas for children"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "inclusive playground design"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "urban planning for kids"
+      ]
+     }
+    ],
+    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+    "imgSrc": "/images/g2.jpg",
+    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "11 October 2026"
+     }
+    ],
+    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc2": "/images/about_us2.jpg",
+    "imgAlt2": "Playground Design Ideas for Small Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc3": "/images/funplay-innovative-images.JPG",
+    "imgAlt3": "Blending Play Equipment with Green Spaces",
+    "items3": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+    "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html"
+   ]
+  ],
+  "article": {
+   "headline": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+   "description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
+   "image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
+   "datePublished": "2025-08-18",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

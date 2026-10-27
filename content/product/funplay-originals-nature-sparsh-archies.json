@@ -1,0 +1,695 @@
+{
+ "path": "/funplay-originals/nature-sparsh/archies.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Archies Nature Play Station | FunPlay Originals | FunPlay",
+  "description": "Archies Nature Play Station (FONS04), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Archies Nature Play Station | FunPlay Originals | FunPlay",
+   "og:description": "Archies Nature Play Station (FONS04), a FunPlay Originals Nature Sparsh design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html",
+   "og:image": "https://funplaysystems.com/images/Archies-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Archies Nature Play Station",
+ "data": {
+  "name": "Archies",
+  "sku": "FONS04",
+  "colours": [
+   {
+    "name": "Banana Yellow & Baby Blue",
+    "swatch": "\n                  background: conic-gradient(\n                    #d8d239 0% 33.33%,\n                    #7aadc7 33.33% 66.66%,\n                    #543408 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Archies-1.jpg",
+     "/images/Archies-2.jpg",
+     "/images/Archies-3.jpg",
+     "/images/Archies-4.jpg"
+    ],
+    "alts": [
+     "Archies wooden arch tower in banana yellow and baby blue with tube slide and open slide",
+     "Archies wooden tower playground with yellow tube slide and blue open slide on grass",
+     "Side view of Archies with wooden climbing wall, tube slide and ladder",
+     "Archies arched wooden play tower with yellow slide on a grass base"
+    ]
+   }
+  ],
+  "description": "Archies is a compact wooden arch tower from our Nature Sparsh collection, made for two kinds of play at once. A yellow tube slide leaves from one side and a blue open slide from the other, and children climb up by a wooden climbing wall or a ladder. One child can climb while another slides, which keeps a queue moving. The tower suits ages 5 to 12 and takes up to 15 children. It comes in Banana Yellow and Baby Blue. The product area is 24'9\" x 7'5\", with a safe play area of 30'9\" x 10'5\", so it sits neatly along a narrow lawn. Our 3-year warranty covers its galvanised pipes, roto-moulded slides, composite laminates and play rope. Send us the width of your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Nature Sparsh",
+   "Archies"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/nature-sparsh.html",
+  "image": "/images/Archies-1.jpg",
+  "cardImage": "/images/Archies-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "divStyle": {
+     "backgroundColor": "#e3f1fa",
+     "borderRadius": "10px",
+     "paddingBottom": "5px"
+    },
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Archies ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Station"
+      ]
+     }
+    ],
+    "pText": "FONS04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Banana Yellow & Baby Blue",
+       "swatch": "\n                  background: conic-gradient(\n                    #d8d239 0% 33.33%,\n                    #7aadc7 33.33% 66.66%,\n                    #543408 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Archies-1.jpg",
+        "/images/Archies-2.jpg",
+        "/images/Archies-3.jpg",
+        "/images/Archies-4.jpg"
+       ],
+       "alts": [
+        "Archies wooden arch tower in banana yellow and baby blue with tube slide and open slide",
+        "Archies wooden tower playground with yellow tube slide and blue open slide on grass",
+        "Side view of Archies with wooden climbing wall, tube slide and ladder",
+        "Archies arched wooden play tower with yellow slide on a grass base"
+       ]
+      }
+     ],
+     "name": "Archies"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Archies wooden arch tower in banana yellow and baby blue with tube slide and open slide\", \"Archies wooden tower playground with yellow tube slide and blue open slide on grass\", \"Side view of Archies with wooden climbing wall, tube slide and ladder\", \"Archies arched wooden play tower with yellow slide on a grass base\"]",
+      "divDataImgs": "[\"/images/Archies-1.jpg\", \"/images/Archies-2.jpg\", \"/images/Archies-3.jpg\", \"/images/Archies-4.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d8d239 0% 33.33%, #7aadc7 33.33% 66.66%, #543408 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Banana Yellow & Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/nature-sparsh.html"
+        },
+        "c": [
+         "Nature Sparsh"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Archies"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Archies is a compact wooden arch tower from our Nature Sparsh collection, made for two kinds of play at once. A yellow tube slide leaves from one side and a blue open slide from the other, and children climb up by a wooden climbing wall or a ladder. One child can climb while another slides, which keeps a queue moving. The tower suits ages 5 to 12 and takes up to 15 children. It comes in Banana Yellow and Baby Blue. The product area is 24'9\" x 7'5\", with a safe play area of 30'9\" x 10'5\", so it sits neatly along a narrow lawn. Our 3-year warranty covers its galvanised pipes, roto-moulded slides, composite laminates and play rope. Send us the width of your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/nature-sparsh/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Simultaneous Play"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Archies play structure",
+    "imgSrc": "/images/Archies-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "754.38 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "226.06 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Archies is a slim structure, only 7'5\" deep, so it suits gardens where width is limited. It is installed self-standing or grouted. Leave the slide exits at both ends of the 30'9\" x 10'5\" safe zone clear, and lay impact flooring under each one. Check the wooden wall holds and ladder rungs on a regular schedule.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Simultaneous Play"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "24'9\" x 7'5\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30'9\" x 10'5\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Nature Sparsh",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh.html"
+   ],
+   [
+    "Archies Nature Play Station",
+    "https://funplaysystems.com/funplay-originals/nature-sparsh/archies.html"
+   ]
+  ],
+  "product": {
+   "name": "Archies",
+   "sku": "FONS04",
+   "images": [
+    "/images/Archies-1.jpg",
+    "/images/Archies-2.jpg",
+    "/images/Archies-3.jpg",
+    "/images/Archies-4.jpg"
+   ],
+   "description": "Archies is a compact wooden arch tower from our Nature Sparsh collection, made for two kinds of play at once. A yellow tube slide leaves from one side and a blue open slide from the other, and children climb up by a wooden climbing wall or a ladder. One child can climb while another slides, which keeps a queue moving. The tower suits ages 5 to 12 and takes up to 15 children. It comes in Banana Yellow and Baby Blue. The product area is 24'9\" x 7'5\", with a safe play area of 30'9\" x 10'5\", so it sits neatly along a narrow lawn. Our 3-year warranty covers its galvanised pipes, roto-moulded slides, composite laminates and play rope. Send us the width of your site.",
+   "category": "Nature Play Station",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/nature-sparsh.html",
+   "colours": [
+    "Banana Yellow & Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "30'9\" x 10'5\""
+    ],
+    [
+     "Length",
+     "754.38 cm"
+    ],
+    [
+     "Width",
+     "226.06 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing"
+    ],
+    [
+     "Skills developed",
+     "Simultaneous Play"
+    ],
+    [
+     "Colour options",
+     "Banana Yellow & Baby Blue"
+    ]
+   ]
+  }
+ }
+}

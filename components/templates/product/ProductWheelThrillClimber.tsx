@@ -1,0 +1,13 @@
+import Img from "@/components/ui/Img";
+import ProductGallery from "@/components/ui/ProductGallery";
+import R, { type Rich } from "@/components/ui/Rich";
+import { galleryAlts, galleryImgs } from "@/lib/image-seo";
+
+export type ProductWheelThrillClimberProps = { h1Text: string; pText: string; spanText: string; spanText2: string; spanText3: string; divText: Rich };
+
+/** 1 product page, e.g. /corecraft/individual-equipment/climber/wheel-thrill-climber.html */
+export default function ProductWheelThrillClimber(p: ProductWheelThrillClimberProps) {
+  return (
+    <div className="container"><div className="row my-4"><div className="col-12"><div className="last-paragraph-no-margin productimage z-index-3 mt-70px"><h1 className="productname text-dark-gray fw-600">{p.h1Text}</h1><p className="sku">{p.pText}</p></div><div className="carousel slide mb-3" data-bs-ride="carousel" id="imageCarousel"><ProductGallery className="carousel-inner" id="carouselImages" role="listbox" {...{"colours": [{"name": "", "swatch": "", "images": ["/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg"], "alts": ["Wheel Thrill Climber A-frame climber with hanging rings, rope net and spinning wheels"]}], "name": "Wheel Thrill Climber"}} />{" "}<button className="carousel-control-prev" data-bs-slide="prev" data-bs-target="#imageCarousel" type="button"><Img alt="" aria-hidden="true" decoding="async" loading="lazy" src="/images/left-arrow.svg" style={{"width": "22px", "height": "22px"}} />{" "}<span className="visually-hidden">{p.spanText}</span>{" "}</button>{" "}<button className="carousel-control-next" data-bs-slide="next" data-bs-target="#imageCarousel" type="button"><Img alt="" aria-hidden="true" decoding="async" loading="lazy" src="/images/arrow-right.svg" style={{"width": "22px", "height": "22px"}} />{" "}<span className="visually-hidden">{p.spanText2}</span>{" "}</button></div></div><div className="col-md-8 color-column"><div className="color-selector"><div className="color-option" data-alts={galleryAlts("[\"/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg\"]", "[\"Wheel Thrill Climber A-frame climber with hanging rings, rope net and spinning wheels\"]")} data-imgs={galleryImgs("[\"/images/WHEEL-THRIL-CLIMBER-Product-Image.jpg\"]")}><span className="d-inline-block align-middle mb-5px fs-12 mx-2"><div className="pcardcircle" style={{"background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"}}></div></span>{" "}<span>{p.spanText3}</span></div></div></div><div className="col-md-4 quote-column" style={{"marginTop": "-10px"}}><R v={p.divText} /></div></div></div>
+  );
+}

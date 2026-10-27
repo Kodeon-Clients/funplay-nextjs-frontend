@@ -1,0 +1,116 @@
+{
+ "path": "/nexlev-series/solitaire.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Twin-Tower Play Structures | NexLev Solitaire | FunPlay",
+  "description": "NexLev Solitaire twin-tower play structures with net bridges and tube slides. See Chalet and Jager. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/solitaire.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Twin-Tower Play Structures | NexLev Solitaire | FunPlay",
+   "og:description": "NexLev Solitaire twin-tower play structures with net bridges and tube slides. See Chalet and Jager. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/solitaire.html",
+   "og:image": "https://funplaysystems.com/images/CHALET-Img.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "NexLev Solitaire Play Towers",
+ "data": {
+  "cardImage": "/images/CHALET-Img.jpg"
+ },
+ "sections": [
+  {
+   "component": "NexlevSolitairePlayTowers",
+   "props": {
+    "h1Text": "NexLev Solitaire Play Towers",
+    "h2Text": "Solitaire"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Chalet box-tower playground with red and cream spiral tube slide",
+      "imgSrc": "/images/CHALET-Img.jpg",
+      "aHref": "/nexlev-series/solitaire/chalet.html",
+      "aText": " View Product ",
+      "spanText": "Chalet",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "42.9M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "35 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#e0cfa4 0% 33.33%, #ca2716 33.33% 66.66%, #3f120d 66.66% 100%)"
+      }
+     },
+     {
+      "imgAlt": "Jager twin barrel towers with net bridge and red tube slides",
+      "imgSrc": "/images/JAGER-Img.jpg",
+      "aHref": "/nexlev-series/solitaire/jager.html",
+      "aText": " View Product ",
+      "spanText": "Jager",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "86.9M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "45 USERS",
+      "divStyle": {
+       "background": "conic-gradient(#4b2c31 0% 33.33%, #dd7772 33.33% 66.66%, #5d718a 66.66% 100%)"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "NexLev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "NexLev Solitaire Play Towers",
+    "https://funplaysystems.com/nexlev-series/solitaire.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Chalet Play Tower",
+    "https://funplaysystems.com/nexlev-series/solitaire/chalet.html"
+   ],
+   [
+    "Jager Play Tower",
+    "https://funplaysystems.com/nexlev-series/solitaire/jager.html"
+   ]
+  ]
+ }
+}

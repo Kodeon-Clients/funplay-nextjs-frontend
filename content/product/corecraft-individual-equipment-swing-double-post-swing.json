@@ -1,0 +1,417 @@
+{
+ "path": "/corecraft/individual-equipment/swing/double-post-swing.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Double Post Swing | CoreCraft | FunPlay Systems",
+  "description": "Double Post Swing (FPSW05) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/swing/double-post-swing.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Double Post Swing | CoreCraft | FunPlay Systems",
+   "og:description": "Double Post Swing (FPSW05) from the CoreCraft Swings range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/swing/double-post-swing.html",
+   "og:image": "https://funplaysystems.com/images/Double-Post-Swing-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Double Post Swing",
+ "data": {
+  "name": "Double Post Swing",
+  "sku": "FPSW05",
+  "colours": [
+   {
+    "name": "Horizon Teal",
+    "swatch": "background-color: #99bebf;",
+    "images": [
+     "/images/Double-Post-Swing-Product-Image.jpg"
+    ],
+    "alts": [
+     "Double Post Swing two-seat swing on straight teal double posts"
+    ]
+   }
+  ],
+  "description": "Straight teal posts at each end hold the two seats of the Double Post Swing. The upright design is simple and sturdy, and it lines up neatly against a boundary or alongside other equipment. It suits the 6 to 12 years Key User Group and seats two children. The product area is 9'4\" x 3'2\" and the safe play area 11'4\" x 13'3\". Schools often like a straight-post frame because it is easy to supervise from one side. It comes in Horizon Teal. Our warranty covers galvanised pipes for 3 years and bearings and spare parts for 1 year, against manufacturing defects. Share the size of your play area and we will draw it into a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Swing",
+   "Double Post Swing"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/swing.html",
+  "image": "/images/Double-Post-Swing-Product-Image.jpg",
+  "cardImage": "/images/Double-Post-Swing-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Double Post Swing"
+    ],
+    "pText": "FPSW05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Horizon Teal",
+       "swatch": "background-color: #99bebf;",
+       "images": [
+        "/images/Double-Post-Swing-Product-Image.jpg"
+       ],
+       "alts": [
+        "Double Post Swing two-seat swing on straight teal double posts"
+       ]
+      }
+     ],
+     "name": "Double Post Swing"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Double Post Swing two-seat swing on straight teal double posts\"]",
+      "divDataImgs": "[\"/images/Double-Post-Swing-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#99bebf"
+      },
+      "divText": "",
+      "spanText": "Horizon Teal"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/swing.html"
+        },
+        "c": [
+         "Swing"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Double Post Swing"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Straight teal posts at each end hold the two seats of the Double Post Swing. The upright design is simple and sturdy, and it lines up neatly against a boundary or alongside other equipment. It suits the 6 to 12 years Key User Group and seats two children. The product area is 9'4\" x 3'2\" and the safe play area 11'4\" x 13'3\". Schools often like a straight-post frame because it is easy to supervise from one side. It comes in Horizon Teal. Our warranty covers galvanised pipes for 3 years and bearings and spare parts for 1 year, against manufacturing defects. Share the size of your play area and we will draw it into a layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications4",
+   "props": {
+    "pText": "Both posts and the top bar are galvanised steel. We can fix the frame by grouting or on a self-standing base. Mark the swing path in front of and behind the seats on your site plan, keep it clear of benches and paths, and inspect the chains and bearings at each maintenance visit.",
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2"
+     }
+    ],
+    "items2": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 9'4\" x 3'2\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "Diameter 11'4\" x 13'3\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing.html"
+   ],
+   [
+    "Double Post Swing",
+    "https://funplaysystems.com/corecraft/individual-equipment/swing/double-post-swing.html"
+   ]
+  ],
+  "product": {
+   "name": "Double Post Swing",
+   "sku": "FPSW05",
+   "images": [
+    "/images/Double-Post-Swing-Product-Image.jpg"
+   ],
+   "description": "Straight teal posts at each end hold the two seats of the Double Post Swing. The upright design is simple and sturdy, and it lines up neatly against a boundary or alongside other equipment. It suits the 6 to 12 years Key User Group and seats two children. The product area is 9'4\" x 3'2\" and the safe play area 11'4\" x 13'3\". Schools often like a straight-post frame because it is easy to supervise from one side. It comes in Horizon Teal. Our warranty covers galvanised pipes for 3 years and bearings and spare parts for 1 year, against manufacturing defects. Share the size of your play area and we will draw it into a layout.",
+   "category": "Swing",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/swing.html",
+   "colours": [
+    "Horizon Teal"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "6 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "6+ Years"
+    ],
+    [
+     "User capacity",
+     "2"
+    ],
+    [
+     "Safe play area",
+     "Diameter 11'4\" x 13'3\""
+    ],
+    [
+     "Colour options",
+     "Horizon Teal"
+    ]
+   ]
+  }
+ }
+}

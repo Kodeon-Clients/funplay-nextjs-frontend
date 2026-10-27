@@ -1,0 +1,267 @@
+{
+  "Playtopia": {
+    "name": "Playtopia",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://www.facebook.com/playtopiaindia", "what": "Facebook page named Playtopiaindia exists; could not be fetched (robots blocked), so its business is not confirmed"},
+      {"url": "https://www.facebook.com/playtopia.in/", "what": "Facebook page 'PLAYTOPIA-Delhi' exists; could not be fetched"},
+      {"url": "https://www.justdial.com/Bangalore/Playtopia-Edutainment-Bannerghatta-Road/080PXX80-XX80-171130122655-H5R5_BZDET", "what": "JustDial lists 'Playtopia Edutainment', Bangalore, under amusement parks (a venue, not an equipment maker)"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "Several unrelated businesses share the name (US Playtopia Inc., Indonesian play centres, a Bangalore play venue, a Delhi Facebook page). None could be confirmed as an Indian playground/soft play equipment manufacturer or supplier. Do not write a comparison page without the client confirming which company is meant."
+  },
+  "SmartPlay India": {
+    "name": "SmartPlay India",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://in.linkedin.com/company/smartplay-technologies", "what": "SmartPlay Technologies (Bengaluru) is a semiconductor/engineering services firm (an Aricent company), not play equipment"},
+      {"url": "https://playlsi.com/smart-play", "what": "'Smart Play' is a product line of US maker Landscape Structures, not an Indian company"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "No Indian playground equipment company named SmartPlay found. Name collides with an engineering firm and a Landscape Structures product line."
+  },
+  "Playcraft India": {
+    "name": "Playcraft India",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://m.indiamart.com/playcraft-enterprises/profile.html", "what": "Candidate only: 'Playcraft Enterprises', Pune, Maharashtra, sole proprietorship listed as trader/wholesaler; sells multi play stations, outdoor gym, FRP slides, EPDM/rubber flooring, artificial turf; IndiaMart says established 2025; no certifications listed"},
+      {"url": "https://playcraft.in/", "what": "Playcraft (playcraft.in) describes itself as a toy manufacturer, not playground equipment"},
+      {"url": "https://www.playcore.com/our-brands/playcraft-systems", "what": "Playcraft Systems is a US PlayCore brand"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "No business called exactly 'Playcraft India' found. The closest playground match is Playcraft Enterprises (Pune, small trader, est. 2025 per IndiaMart). Its name does not match exactly, so it is left unverified. Confirm with the client before using it."
+  },
+  "EcoSoft Play": {
+    "name": "EcoSoft Play",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [],
+    "checked_on": "2026-10-10",
+    "notes": "Searches for 'EcoSoft Play' and 'Ecosoftplay' returned only unrelated software, games and water-filter brands. No Indian soft play or playground company found."
+  },
+  "PlayMax India": {
+    "name": "PlayMax India",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "http://www.playmaxsurfacing.com/", "what": "PlayMax is a US poured-in-place playground surfacing brand, not an Indian company"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "No Indian playground company named PlayMax / Play Max found. The name matches a US surfacing company and a Constructive Playthings product."
+  },
+  "Active Arena India": {
+    "name": "Active Arena India",
+    "verified": false,
+    "website": "https://www.activearena.in/",
+    "hq_city": "Bengaluru", "hq_state": "Karnataka",
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://www.activearena.in/", "what": "Active Arena is a 73,000 sq ft multi-sport activity venue in Bengaluru. It does not present itself as a maker or seller of equipment"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "The only Indian 'Active Arena' found is a sports venue, not an equipment competitor. Marked unverified as a competitor."
+  },
+  "KinderPlay Equipments": {
+    "name": "KinderPlay Equipments",
+    "verified": true,
+    "website": "https://www.kinderplayequipments.com/",
+    "hq_city": "Bengaluru", "hq_state": "Karnataka",
+    "founded": "1979 (per IndiaMart About Us; own site says '45+ Years of Experience')",
+    "manufacturer_or_trader": "both",
+    "categories": ["outdoor playground", "soft play / indoor", "school furniture", "EPDM / rubber flooring", "other: imported plastic play equipment, merry-go-rounds, see-saws, climbers, basketball posts, clubhouse & activity zones"],
+    "materials_mentioned": ["LLDPE (imported plastic play equipment)", "aluminium or steel bases (merry-go-rounds)"],
+    "notable_claims_on_their_site": [
+      "\"10,000+ Installations\" (own site)",
+      "\"over 2000 installations in Bangalore city alone & over 6000 installations across the country\" (IndiaMart)",
+      "\"Safety, quality, and innovation come first.\""
+    ],
+    "certifications_claimed": ["Site shows TUV SUD PS-mark and CE marking icons (linked to TUV SUD pages) with no certificate numbers or product scope"],
+    "sources": [
+      {"url": "https://www.kinderplayequipments.com/", "what": "Address No.104/2d, Tavarekere Main Rd, Bengaluru 560029; categories; 45+ years claim; 10,000+ installations; TUV SUD/CE icons"},
+      {"url": "https://m.indiamart.com/playground-equipments/profile.html", "what": "Manufacturer and trader; established 1979; LLDPE and steel/aluminium materials; 6000+ installations claim; GST registered 2017; no certifications listed"},
+      {"url": "https://www.tradeindia.com/kinderplay-equipments-1818841/playground-equipment.html", "what": "TradeIndia lists Kinderplay Equipments, Bengaluru, as a playground equipment manufacturer"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "Installation figures are inconsistent (6,000+ on IndiaMart vs 10,000+ on own site), and the site's stat counters showed '0+' placeholders when fetched. The IndiaMart header shows '19 yrs', which conflicts with 1979. Several other domains also use the name (kinderplay.in, kinderplay.co.in, playground-equipments.com), and it is unclear if they are all the same firm. Strongest in the Bengaluru/Karnataka market; no outdoor gym line found."
+  },
+  "Arplay India": {
+    "name": "Arplay India",
+    "verified": false,
+    "website": "https://arplay-website.vercel.app/",
+    "hq_city": null, "hq_state": null,
+    "founded": "2018 (stated on the AR Play site, which also claims 'more than decade' of experience)",
+    "manufacturer_or_trader": "trader",
+    "categories": ["outdoor playground", "soft play / indoor", "outdoor gym", "EPDM / rubber flooring", "school furniture", "other: educational and wooden toys"],
+    "materials_mentioned": ["safety rubber flooring"],
+    "notable_claims_on_their_site": ["Describes itself as a 'trading & supplier' of playground equipment", "Claims innumerable completed projects across the country"],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://arplay-website.vercel.app/", "what": "AR Play site: trader/supplier, founded 2018 by Mr. Ratnesh Kumar, categories listed; no location stated"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "Candidate only. The 'AR Play' site does not state a city or country, and the only signs it is Indian are indirect. No IndiaMart, MCA or LinkedIn record found to confirm it. Its claims also contradict each other (founded 2018 but 'more than decade' of experience). Do not treat it as confirmed 'Arplay India' until the client confirms."
+  },
+  "Little Millennium Infra": {
+    "name": "Little Millennium Infra",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://franchisebyte.com/play-school-franchise/little-millennium-franchise/", "what": "Little Millennium is a preschool franchise chain, not a playground equipment company"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "No company called 'Little Millennium Infra' in play equipment found. The name points to a preschool brand, which may be a buyer rather than a competitor."
+  },
+  "Softplay India": {
+    "name": "Softplay India",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://www.softplayequipment.in/india/soft-play-equipment.html", "what": "softplayequipment.in belongs to 'Royal Play Equipments', Vasai East, Thane, Maharashtra (since 2007), and never uses the name 'Softplay India'"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "'Softplay India' is a generic phrase with no matching company. The closest domain match is Royal Play Equipments, a soft play/play zone maker in Vasai East, the same town as FunPlay. It is worth researching as a competitor in its own right, but it is not 'Softplay India'."
+  },
+  "Pioneer Play": {
+    "name": "Pioneer Play",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [],
+    "checked_on": "2026-10-10",
+    "notes": "'Pioneer' only turned up as playground product-line names from US makers (e.g. Pioneer Place, Pioneer Play System) and an unrelated 'Pioneer Sports' listing. No Indian play equipment company named Pioneer Play found."
+  },
+  "Funriders": {
+    "name": "Funriders",
+    "verified": true,
+    "website": "https://www.funridersindia.com/",
+    "hq_city": "Kochi (factory: Angamaly, Ernakulam)", "hq_state": "Kerala",
+    "founded": "2010",
+    "manufacturer_or_trader": "manufacturer",
+    "categories": ["soft play / indoor", "outdoor playground", "outdoor gym", "trampolines", "other: climbing walls, rope courses, family entertainment centre (FEC) turnkey solutions"],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [
+      "\"one of India's only fully integrated play equipment manufacturers\"",
+      "\"1200+ successful projects across India and international markets\" (another block on the same page says 1300+ installations)",
+      "\"Certified Safe Equipment\""
+    ],
+    "certifications_claimed": ["ISO 9001:2015", "ISO 14001:2015", "ISO 45001:2018", "TUV Rheinland certification (scope not stated)", "MSME ZED and Startup India recognition", "IAAPI member"],
+    "sources": [
+      {"url": "https://www.funridersindia.com/", "what": "Legal name Funriders Leisure & Amusement Pvt. Ltd.; Kochi corporate office, Angamaly factory; founded 2010; categories; certifications; project-count claims"},
+      {"url": "https://in.kompass.com/c/funriders-leisure-amusement-private-limited/in448918/", "what": "Kompass lists Funriders Leisure & Amusement Pvt Ltd, Kochi, under playground equipment"},
+      {"url": "https://www.exportersindia.com/funriders-leisure-amusement/", "what": "ExportersIndia lists it in Ernakulam as a maker of trampolines and playground equipment"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "The closest like-for-like competitor in this batch: a private limited manufacturer with outdoor play and open-gym ('Fitnezone') lines. Its focus leans toward indoor/FEC and trampoline parks. The site names no materials. The fitness page could not be fetched. MCA incorporation data not found. Project counts are inconsistent on its own site."
+  },
+  "Featherlite Play": {
+    "name": "Featherlite Play",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [],
+    "checked_on": "2026-10-10",
+    "notes": "No play equipment business called Featherlite Play found. 'Featherlite' is known in India as an office furniture brand; no playground line was found for it, and that link was not assumed."
+  },
+  "Premier Play Solutions": {
+    "name": "Premier Play Solutions",
+    "verified": false,
+    "website": "https://www.premierplaysolutions.co.uk/",
+    "hq_city": "Melton Mowbray", "hq_state": "Leicestershire, UK",
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [
+      {"url": "https://www.premierplaysolutions.co.uk/", "what": "Premier Play Solutions is a UK school playground equipment company"},
+      {"url": "https://www.bizify.co.uk/playground-equipment/melton-mowbray/LE14-4JG/premier-play-solutions", "what": "UK listing in Melton Mowbray, Leicestershire"}
+    ],
+    "checked_on": "2026-10-10",
+    "notes": "The only match is a UK company with no Indian presence found. It is not an India competitor, so it is marked unverified."
+  },
+  "Jamboree India": {
+    "name": "Jamboree India",
+    "verified": false,
+    "website": null,
+    "hq_city": null, "hq_state": null,
+    "founded": null,
+    "manufacturer_or_trader": "unclear",
+    "categories": [],
+    "materials_mentioned": [],
+    "notable_claims_on_their_site": [],
+    "certifications_claimed": [],
+    "sources": [],
+    "checked_on": "2026-10-10",
+    "notes": "'Jamboree' only turned up as product names (US play systems, playground tiles). No Indian play equipment company by that name found. Jamboree Education in India is a test-prep company and was not assumed to be relevant."
+  }
+}

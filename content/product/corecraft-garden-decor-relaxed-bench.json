@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/relaxed-bench.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Relaxed Bench | CoreCraft | FunPlay Systems",
+  "description": "Relaxed Bench (FPGD006) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/relaxed-bench.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Relaxed Bench | CoreCraft | FunPlay Systems",
+   "og:description": "Relaxed Bench (FPGD006) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/relaxed-bench.html",
+   "og:image": "https://funplaysystems.com/images/relaxed-bench-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Relaxed Bench",
+ "data": {
+  "name": "Relaxed Bench",
+  "sku": "FPGD006",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/relaxed-bench-product-image.jpg"
+    ],
+    "alts": [
+     "Relaxed Bench outdoor wooden-slat bench with black steel frame"
+    ]
+   }
+  ],
+  "description": "Seen from the side, the Relaxed Bench has a black steel frame that bends back in one sweep, setting the backrest at a reclined angle. Wooden slats form the seat and back, and the curved frame ends act as low armrests at each side. People tend to sit longer on a reclined bench, so it suits a lake edge, a viewpoint in a park or a hotel garden better than a quick stop beside a gate. It sits in the CoreCraft garden decor collection under the Sand Beige colour listing. Measurements and warranty terms come with your quote, and we can mark Relaxed Bench positions on a layout drawing alongside your other equipment.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Relaxed Bench"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/relaxed-bench-product-image.jpg",
+  "cardImage": "/images/relaxed-bench-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Relaxed Bench"
+    ],
+    "pText": "FPGD006",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/relaxed-bench-product-image.jpg"
+       ],
+       "alts": [
+        "Relaxed Bench outdoor wooden-slat bench with black steel frame"
+       ]
+      }
+     ],
+     "name": "Relaxed Bench"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Relaxed Bench outdoor wooden-slat bench with black steel frame\"]",
+      "divDataImgs": "[\"/images/relaxed-bench-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Relaxed Bench"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Seen from the side, the Relaxed Bench has a black steel frame that bends back in one sweep, setting the backrest at a reclined angle. Wooden slats form the seat and back, and the curved frame ends act as low armrests at each side. People tend to sit longer on a reclined bench, so it suits a lake edge, a viewpoint in a park or a hotel garden better than a quick stop beside a gate. It sits in the CoreCraft garden decor collection under the Sand Beige colour listing. Measurements and warranty terms come with your quote, and we can mark Relaxed Bench positions on a layout drawing alongside your other equipment."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Its curved steel frame stands on four feet that we fix self-standing on paving or grout into soil. Because the backrest leans back, leave enough walking space behind it if the bench backs onto a path. At service visits, tighten the slat screws and look for chipped paint on the frame, touching it up before rust can start."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Relaxed Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/relaxed-bench.html"
+   ]
+  ],
+  "product": {
+   "name": "Relaxed Bench",
+   "sku": "FPGD006",
+   "images": [
+    "/images/relaxed-bench-product-image.jpg"
+   ],
+   "description": "Seen from the side, the Relaxed Bench has a black steel frame that bends back in one sweep, setting the backrest at a reclined angle. Wooden slats form the seat and back, and the curved frame ends act as low armrests at each side. People tend to sit longer on a reclined bench, so it suits a lake edge, a viewpoint in a park or a hotel garden better than a quick stop beside a gate. It sits in the CoreCraft garden decor collection under the Sand Beige colour listing. Measurements and warranty terms come with your quote, and we can mark Relaxed Bench positions on a layout drawing alongside your other equipment.",
+   "category": "Park Bench",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

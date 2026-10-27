@@ -1,0 +1,232 @@
+{
+ "path": "/funplay-originals/conceptual/ground-hogs.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Ground Hogs Play Pods | FunPlay Originals | FunPlay Systems",
+  "description": "Ground Hogs Play Pods (FOC002), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Ground Hogs Play Pods | FunPlay Originals | FunPlay Systems",
+   "og:description": "Ground Hogs Play Pods (FOC002), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html",
+   "og:image": "https://funplaysystems.com/images/Ground-dog-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Ground Hogs Play Pods",
+ "data": {
+  "name": "Ground Hogs",
+  "sku": "FOC002",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: conic-gradient(\n                    #5d361e 0% 33.33%,\n                    #c7bb88 33.33% 66.66%,\n                    #8d976b 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Ground-dog-1.jpg",
+     "/images/Ground-dog-2.jpg"
+    ],
+    "alts": [
+     "Ground Hogs burrow-themed play pods on raised green platforms with ladders",
+     "Top view of Ground Hogs green platforms with dome pods"
+    ]
+   }
+  ],
+  "description": "Ground Hogs is a set of play pods on raised platforms, designed by our team as public seating that children can also play in. Adults sit on the broad platforms while children climb into small dome-shaped dens, peek out through window holes and go down beneath the platform as if into a burrow. Ladders link the levels. Keeping children within sight of the adults minding them makes it a fit for a park seating area, a society garden or a resort lawn. The listed colour is Sand Beige. As a Funplay Originals concept, the size, number of pods and safe area are planned for each site in the layout drawing. Our 3-year warranty applies to any galvanised pipe, roto-moulded parts and composite laminates in the final design. Speak to our sales team about adapting it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Ground hogs"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Ground-dog-1.jpg",
+  "cardImage": "/images/Ground-dog-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Ground Hogs ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Play Pods"
+      ]
+     }
+    ],
+    "pText": "FOC002",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: conic-gradient(\n                    #5d361e 0% 33.33%,\n                    #c7bb88 33.33% 66.66%,\n                    #8d976b 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Ground-dog-1.jpg",
+        "/images/Ground-dog-2.jpg"
+       ],
+       "alts": [
+        "Ground Hogs burrow-themed play pods on raised green platforms with ladders",
+        "Top view of Ground Hogs green platforms with dome pods"
+       ]
+      }
+     ],
+     "name": "Ground Hogs"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Ground Hogs burrow-themed play pods on raised green platforms with ladders\", \"Top view of Ground Hogs green platforms with dome pods\"]",
+      "divDataImgs": "[\"/images/Ground-dog-1.jpg\", \"/images/Ground-dog-2.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #5d361e 0% 33.33%, #c7bb88 33.33% 66.66%, #8d976b 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Ground hogs"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Ground Hogs is a set of play pods on raised platforms, designed by our team as public seating that children can also play in. Adults sit on the broad platforms while children climb into small dome-shaped dens, peek out through window holes and go down beneath the platform as if into a burrow. Ladders link the levels. Keeping children within sight of the adults minding them makes it a fit for a park seating area, a society garden or a resort lawn. The listed colour is Sand Beige. As a Funplay Originals concept, the size, number of pods and safe area are planned for each site in the layout drawing. Our 3-year warranty applies to any galvanised pipe, roto-moulded parts and composite laminates in the final design. Speak to our sales team about adapting it."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Specifications are not yet listed for Ground Hogs, so we define the platform frame, pod material and height with you before manufacture. Installation is self-standing or grouted. Children move under and between the platforms, so keep the ground below soft and well drained. Check ladders, pod edges and platform supports regularly."
+     },
+     {
+      "pText": "Ground hogs not only encourages children to engage with their surroundings but also promotes meaningful interaction with their parents and other adults present. It’s the perfect blend of relaxation and entertainment, creating moments of joy and connection for families to cherish. Join us at Ground Hog Den, where every visit promises delightful discoveries and shared experiences!"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Ground Hogs Play Pods",
+    "https://funplaysystems.com/funplay-originals/conceptual/ground-hogs.html"
+   ]
+  ],
+  "product": {
+   "name": "Ground Hogs",
+   "sku": "FOC002",
+   "images": [
+    "/images/Ground-dog-1.jpg",
+    "/images/Ground-dog-2.jpg"
+   ],
+   "description": "Ground Hogs is a set of play pods on raised platforms, designed by our team as public seating that children can also play in. Adults sit on the broad platforms while children climb into small dome-shaped dens, peek out through window holes and go down beneath the platform as if into a burrow. Ladders link the levels. Keeping children within sight of the adults minding them makes it a fit for a park seating area, a society garden or a resort lawn. The listed colour is Sand Beige. As a Funplay Originals concept, the size, number of pods and safe area are planned for each site in the layout drawing. Our 3-year warranty applies to any galvanised pipe, roto-moulded parts and composite laminates in the final design. Speak to our sales team about adapting it.",
+   "category": "Play Pods",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

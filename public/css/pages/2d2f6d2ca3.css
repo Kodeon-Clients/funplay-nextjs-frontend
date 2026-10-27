@@ -1,0 +1,6 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+* {
+        font-display: swap;
+      }
+}

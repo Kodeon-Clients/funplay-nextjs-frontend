@@ -1,0 +1,247 @@
+{
+ "path": "/corecraft/forestia.html",
+ "type": "series",
+ "header": "transparent",
+ "seo": {
+  "title": "Jungle Playground Equipment | Forestia | FunPlay",
+  "description": "Forestia jungle-themed multi play stations by FunPlay: palm-tree towers, slides, nets and swings for ages 3–12. See models and get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Jungle Playground Equipment | Forestia | FunPlay",
+   "og:description": "Forestia jungle-themed multi play stations by FunPlay: palm-tree towers, slides, nets and swings for ages 3–12. See models and get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia.html",
+   "og:image": "https://funplaysystems.com/images/JungleJive-Level1-product-catalogue.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Forestia Jungle-Themed Playground Equipment",
+ "data": {
+  "cardImage": "/images/JungleJive-Level1-product-catalogue.jpg"
+ },
+ "sections": [
+  {
+   "component": "ForestiaJungleThemedPlaygroundEquipment",
+   "props": {
+    "pText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "opacity-10"
+      },
+      "c": [
+       "Nature inspired"
+      ]
+     }
+    ],
+    "h1Text": "Forestia Jungle-Themed Playground Equipment"
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "items": [
+     {
+      "imgAlt": "Jungle Jive Level 1 play station with flower canopy, slide and swings",
+      "imgSrc": "/images/JungleJive-Level1-product-catalogue.jpg",
+      "aHref": "/corecraft/forestia/jungle-jive-l1.html",
+      "aText": " View Product ",
+      "spanText": "Jungle Jive l1",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "18.3M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #f5d865 50%, #427e77 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Jungle Jive Level 2 play station with flower canopy, slide, tunnel and net",
+      "imgSrc": "/images/JungleJive-Level2-product-catalogue.jpg",
+      "aHref": "/corecraft/forestia/jungle-jive-l2.html",
+      "aText": " View Product ",
+      "spanText": "Jungle Jive l2",
+      "spanText2": "5+ YEARS",
+      "spanText3": [
+       "65.0M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #c0c500 50%, #7aada5 50% )"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Gloracia tree-house playground with palm towers, slides and climbing net",
+      "imgSrc": "/images/Gloracia-product-catalogue.jpg",
+      "aHref": "/corecraft/forestia/gloracia.html",
+      "aText": " View Product ",
+      "spanText": "Gloracia",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "44.2M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #f2a100 50%, #538b84 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #ebd049 50%, #2c5b6f 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #ecef00 50%, #538b84 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "Blossom Brook nature-themed multi play station with palm trees and slides",
+      "imgSrc": "/images/BlossomBrook-product-catalogue.jpg",
+      "aHref": "/corecraft/forestia/blossam-brook.html",
+      "aText": " View Product ",
+      "spanText": "Blossam Brook",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "81.6M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #2c528d 50%, #c5cddb 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #c9222f 50%, #95b2ae 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #e28733 50%, #416573 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "King Kong Play Park jungle-themed playground with towers and tube slides",
+      "imgSrc": "/images/King-Kong-Play-Park-product-catalogue.jpg",
+      "aHref": "/corecraft/forestia/king-kong-play-park.html",
+      "aText": " View Product ",
+      "spanText": "King Kong Play Park",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "197.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #417c72 50%, #bfae93 50% )"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia Jungle-Themed Playground Equipment",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ]
+  ],
+  "pageType": "CollectionPage",
+  "itemList": [
+   [
+    "Blossam Brook Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/blossam-brook.html"
+   ],
+   [
+    "Gloracia Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/gloracia.html"
+   ],
+   [
+    "Jungle Jive-l1 Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/jungle-jive-l1.html"
+   ],
+   [
+    "Jungle Jive-l2 Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html"
+   ],
+   [
+    "King Kong Play Park Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/king-kong-play-park.html"
+   ]
+  ]
+ }
+}

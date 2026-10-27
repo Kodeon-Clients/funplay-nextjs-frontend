@@ -1,0 +1,57 @@
+{
+ "path": "/gallery.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Installation Photo Gallery | FunPlay Systems",
+  "description": "Photos of FunPlay playgrounds, outdoor gyms and play structures installed at schools, housing societies and parks across India.",
+  "canonical": "https://funplaysystems.com/gallery.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Installation Photo Gallery | FunPlay Systems",
+   "og:description": "Photos of FunPlay playgrounds, outdoor gyms and play structures installed at schools, housing societies and parks across India.",
+   "og:url": "https://funplaysystems.com/gallery.html",
+   "og:image": "https://funplaysystems.com/images/g1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Playground Installation Gallery",
+ "data": {
+  "cardImage": "/images/g1.jpg"
+ },
+ "sections": [
+  {
+   "component": "PlaygroundInstallationGallery",
+   "props": {
+    "h1Text": "Playground Installation Gallery",
+    "h2Text": "Gallery"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "spanText": "Gallery of Joy",
+    "h3Text": "Capturing Moments of Fun and Adventure",
+    "pText": "Discover the magic we bring to each playground. Our gallery showcases the blend of innovation and enjoyment in every design."
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Playground Installation Gallery",
+    "https://funplaysystems.com/gallery.html"
+   ]
+  ],
+  "pageType": "CollectionPage"
+ }
+}

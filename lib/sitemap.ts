@@ -1,11 +1,12 @@
-import { renderedPages, type PageRecord } from "./content";
+import { allPages } from "./pages";
+import type { PageMeta } from "./page";
 import { SITE } from "./site";
 
 export type SitemapGroup = "pages" | "products" | "blog" | "locations";
 
 const EXCLUDE = new Set(["/search-result.html", "/thank-you.html", "/thankyou.html", "/thank-you-lp.html", "/thank-you-campaign.html", "/404.html", "/generic.html", "/ads.html", "/campaign.html"]);
 
-export function indexable(r: PageRecord) {
+export function indexable(r: PageMeta) {
   if (EXCLUDE.has(r.path)) return false;
   if (/noindex/i.test(r.seo?.robots || "")) return false;
   const canon = r.seo?.canonical;
@@ -13,7 +14,7 @@ export function indexable(r: PageRecord) {
   return true;
 }
 
-export function groupOf(r: PageRecord): SitemapGroup {
+export function groupOf(r: PageMeta): SitemapGroup {
   if (r.type === "product" || r.type === "series") return "products";
   if (r.type === "blog") return "blog";
   if (r.type === "city-gym" || r.type === "city-playground") return "locations";
@@ -26,7 +27,7 @@ function esc(s: string) {
 
 export function urlset(group: SitemapGroup) {
   const today = new Date().toISOString().slice(0, 10);
-  const items = renderedPages().filter((r) => indexable(r) && groupOf(r) === group);
+  const items = allPages().filter((r) => indexable(r) && groupOf(r) === group);
   const body = items
     .map((r) => {
       const loc = SITE.url + encodeURI(r.path);

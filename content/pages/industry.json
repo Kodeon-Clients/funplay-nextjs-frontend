@@ -1,0 +1,90 @@
+{
+ "path": "/industry.html",
+ "type": "page",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment for Schools, Builders & Parks | FunPlay",
+  "description": "FunPlay builds playgrounds for schools, residential builders, hotels and resorts, corporates and government projects. See solutions by industry.",
+  "canonical": "https://funplaysystems.com/industry.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment for Schools, Builders & Parks | FunPlay",
+   "og:description": "FunPlay builds playgrounds for schools, residential builders, hotels and resorts, corporates and government projects. See solutions by industry.",
+   "og:url": "https://funplaysystems.com/industry.html",
+   "og:image": "https://funplaysystems.com/images/artimage.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Playground Solutions by Industry",
+ "data": {
+  "cardImage": "/images/artimage.jpg"
+ },
+ "sections": [
+  {
+   "component": "PlaygroundSolutionsByIndustry",
+   "props": {
+    "h1Text": "Playground Solutions by Industry",
+    "h2Text": "Industry"
+   }
+  },
+  {
+   "component": "DownSection",
+   "props": {
+    "items": [
+     {
+      "divClass": "col text-center interactive-banner-style-01 lg-mb-30px",
+      "imgAlt": "Engineer and client reviewing site plans at a construction site",
+      "imgSrc": "/images/artimage.jpg",
+      "aAriaLabel": "Developers & Architects",
+      "aText": "Developers & Architects"
+     },
+     {
+      "divClass": "col text-center interactive-banner-style-01 lg-mb-30px",
+      "imgAlt": "Hotel and resort towers at night, representing hospitality clients",
+      "imgSrc": "/images/HOTEL-RESORTS-CLUBS-ind.jpg",
+      "aAriaLabel": "Hotel, Resorts, clubs",
+      "aText": "Hotel, Resorts, clubs"
+     },
+     {
+      "divClass": "col text-center interactive-banner-style-01 lg-mb-30px",
+      "imgAlt": "Red-brick school building representing education clients",
+      "imgSrc": "/images/EDUCATORS-ind.jpg",
+      "aAriaLabel": "Educators",
+      "aText": "Educators"
+     },
+     {
+      "divClass": "col text-center interactive-banner-style-01",
+      "imgAlt": "Indian government building with dome, representing government projects",
+      "imgSrc": "/images/GOVERNMENT-PROJECTS-ind.jpg",
+      "aAriaLabel": "Government Projects",
+      "aText": "Government Projects"
+     },
+     {
+      "divClass": "col text-center interactive-banner-style-01 pt-2",
+      "imgAlt": "Glass high-rise office buildings representing corporate clients",
+      "imgSrc": "/images/CORPORATES-ind.jpg",
+      "aAriaLabel": "Corporates",
+      "aText": "Corporates"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Playground Solutions by Industry",
+    "https://funplaysystems.com/industry.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "path": "/corecraft/garden-decor/eco-bench.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Eco Bench | CoreCraft | FunPlay Systems",
+  "description": "Eco Bench (FPGD009) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/eco-bench.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Eco Bench | CoreCraft | FunPlay Systems",
+   "og:description": "Eco Bench (FPGD009) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/eco-bench.html",
+   "og:image": "https://funplaysystems.com/images/eco-bench-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Eco Bench",
+ "data": {
+  "name": "Eco Bench",
+  "sku": "FPGD009",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/eco-bench-product-image.jpg"
+    ],
+    "alts": [
+     "Eco Bench wooden-slat park bench with backrest on black steel legs"
+    ]
+   }
+  ],
+  "description": "Eco Bench is our plainest park bench and a sensible choice when you need many seats along a long walkway. Wooden slats form the seat and backrest, and each end rests on a black steel leg frame with straight, tapered sides. Its clean lines and lack of armrests let a row of them stand along a jogging track or against a compound wall without crowding the path. People can also sit down from either end, which helps on a busy society walkway. Eco Bench is part of CoreCraft garden decor and is offered in Sand Beige. Ask for the length and warranty terms with your quote, and tell us how many benches you need so we can space them on the layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Eco Bench"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/eco-bench-product-image.jpg",
+  "cardImage": "/images/eco-bench-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Eco Bench"
+    ],
+    "pText": "FPGD009",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/eco-bench-product-image.jpg"
+       ],
+       "alts": [
+        "Eco Bench wooden-slat park bench with backrest on black steel legs"
+       ]
+      }
+     ],
+     "name": "Eco Bench"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Eco Bench wooden-slat park bench with backrest on black steel legs\"]",
+      "divDataImgs": "[\"/images/eco-bench-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Eco Bench"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Eco Bench is our plainest park bench and a sensible choice when you need many seats along a long walkway. Wooden slats form the seat and backrest, and each end rests on a black steel leg frame with straight, tapered sides. Its clean lines and lack of armrests let a row of them stand along a jogging track or against a compound wall without crowding the path. People can also sit down from either end, which helps on a busy society walkway. Eco Bench is part of CoreCraft garden decor and is offered in Sand Beige. Ask for the length and warranty terms with your quote, and tell us how many benches you need so we can space them on the layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Each steel leg frame is fixed self-standing to a paved surface or grouted into soil, which stops the bench from being shifted. The slats are screwed to the frame, so tighten any loose screws at service visits. Keep the area under the seat swept so leaves and standing water do not sit against the legs."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Eco Bench",
+    "https://funplaysystems.com/corecraft/garden-decor/eco-bench.html"
+   ]
+  ],
+  "product": {
+   "name": "Eco Bench",
+   "sku": "FPGD009",
+   "images": [
+    "/images/eco-bench-product-image.jpg"
+   ],
+   "description": "Eco Bench is our plainest park bench and a sensible choice when you need many seats along a long walkway. Wooden slats form the seat and backrest, and each end rests on a black steel leg frame with straight, tapered sides. Its clean lines and lack of armrests let a row of them stand along a jogging track or against a compound wall without crowding the path. People can also sit down from either end, which helps on a busy society walkway. Eco Bench is part of CoreCraft garden decor and is offered in Sand Beige. Ask for the length and warranty terms with your quote, and tell us how many benches you need so we can space them on the layout drawing.",
+   "category": "Park Bench",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

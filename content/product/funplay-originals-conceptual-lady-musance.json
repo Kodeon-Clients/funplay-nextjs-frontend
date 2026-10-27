@@ -1,0 +1,229 @@
+{
+ "path": "/funplay-originals/conceptual/lady-musance.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Lady Musance Music Play Concept | FunPlay Systems",
+  "description": "Lady Musance Music Play Concept (FOC001), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Lady Musance Music Play Concept | FunPlay Systems",
+   "og:description": "Lady Musance Music Play Concept (FOC001), a FunPlay Originals Conceptual design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html",
+   "og:image": "https://funplaysystems.com/images/Lady-Musance-2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Lady Musance Music Play Concept",
+ "data": {
+  "name": "Lady Musance",
+  "sku": "FOC001",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #d74951 0% 16.66%,\n                    #fede51 16.66% 33.33%,\n                    #7c8ca0 33.33% 50%,\n                    #134d5b 50% 66.66%,\n                    #99bebf 66.66% 83.33%,\n                    #313238 83.33% 100%\n                  );\n                ",
+    "images": [
+     "/images/Lady-Musance-2.jpg",
+     "/images/Lady-Musance-3.jpg"
+    ],
+    "alts": [
+     "Concept drawing of Lady Musance music-themed slide and play structure with dimensions",
+     "Illustrated concept of Lady Musance music-themed play area in a park setting"
+    ]
+   }
+  ],
+  "description": "Lady Musance takes its name from music and dance. It is a concept installation shaped like a woman whose body is a guitar. In the drawings, a long slide curls down from her head and curved bars form her base, while a music note climbing wall and a harp-shaped climber stand nearby. Curved benches set around small lawns give room for casual singing, dancing and jamming, so adults use the area as much as children do. It is meant for a public park, a cultural centre or a large township garden that wants a landmark piece. As a concept, it has no standard size yet, and we develop the details with you, including age group and safe play area. When built, Lady Musance gets our 3-year warranty on the galvanised pipe, roto-moulded parts, composite laminates and play rope it uses. Contact us to discuss a project.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Conceptual",
+   "Lady Musance"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/conceptual.html",
+  "image": "/images/Lady-Musance-2.jpg",
+  "cardImage": "/images/Lady-Musance-2.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Lady Musance ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Music Play Concept"
+      ]
+     }
+    ],
+    "pText": "FOC001",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #d74951 0% 16.66%,\n                    #fede51 16.66% 33.33%,\n                    #7c8ca0 33.33% 50%,\n                    #134d5b 50% 66.66%,\n                    #99bebf 66.66% 83.33%,\n                    #313238 83.33% 100%\n                  );\n                ",
+       "images": [
+        "/images/Lady-Musance-2.jpg",
+        "/images/Lady-Musance-3.jpg"
+       ],
+       "alts": [
+        "Concept drawing of Lady Musance music-themed slide and play structure with dimensions",
+        "Illustrated concept of Lady Musance music-themed play area in a park setting"
+       ]
+      }
+     ],
+     "name": "Lady Musance"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Concept drawing of Lady Musance music-themed slide and play structure with dimensions\", \"Illustrated concept of Lady Musance music-themed play area in a park setting\"]",
+      "divDataImgs": "[\"/images/Lady-Musance-2.jpg\", \"/images/Lady-Musance-3.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d74951 0% 16.66%, #fede51 16.66% 33.33%, #7c8ca0 33.33% 50%, #134d5b 50% 66.66%, #99bebf 66.66% 83.33%, #313238 83.33% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/conceptual.html"
+        },
+        "c": [
+         "Conceptual"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Lady Musance"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Lady Musance takes its name from music and dance. It is a concept installation shaped like a woman whose body is a guitar. In the drawings, a long slide curls down from her head and curved bars form her base, while a music note climbing wall and a harp-shaped climber stand nearby. Curved benches set around small lawns give room for casual singing, dancing and jamming, so adults use the area as much as children do. It is meant for a public park, a cultural centre or a large township garden that wants a landmark piece. As a concept, it has no standard size yet, and we develop the details with you, including age group and safe play area. When built, Lady Musance gets our 3-year warranty on the galvanised pipe, roto-moulded parts, composite laminates and play rope it uses. Contact us to discuss a project."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Lady Musance exists as drawings, so its structure, materials and foundations are worked out for your site after discussion. We choose self-standing or grouted installation once we see the ground. The slide exit and climbers need impact-absorbing surfaces, while the benches can sit on grass. Plan regular checks of the slide, climbing holds and bench fixings."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Conceptual",
+    "https://funplaysystems.com/funplay-originals/conceptual.html"
+   ],
+   [
+    "Lady Musance Music Play Concept",
+    "https://funplaysystems.com/funplay-originals/conceptual/lady-musance.html"
+   ]
+  ],
+  "product": {
+   "name": "Lady Musance",
+   "sku": "FOC001",
+   "images": [
+    "/images/Lady-Musance-2.jpg",
+    "/images/Lady-Musance-3.jpg"
+   ],
+   "description": "Lady Musance takes its name from music and dance. It is a concept installation shaped like a woman whose body is a guitar. In the drawings, a long slide curls down from her head and curved bars form her base, while a music note climbing wall and a harp-shaped climber stand nearby. Curved benches set around small lawns give room for casual singing, dancing and jamming, so adults use the area as much as children do. It is meant for a public park, a cultural centre or a large township garden that wants a landmark piece. As a concept, it has no standard size yet, and we develop the details with you, including age group and safe play area. When built, Lady Musance gets our 3-year warranty on the galvanised pipe, roto-moulded parts, composite laminates and play rope it uses. Contact us to discuss a project.",
+   "category": "Music Play Concept",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/conceptual.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

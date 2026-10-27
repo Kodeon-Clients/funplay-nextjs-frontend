@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/shoulder-twirl.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Shoulder Twirl Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Shoulder Twirl Outdoor Gym Equipment (FFE027S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-twirl.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Shoulder Twirl Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Shoulder Twirl Outdoor Gym Equipment (FFE027S) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-twirl.html",
+   "og:image": "https://funplaysystems.com/images/Shoulder-twirl-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Shoulder Twirl Outdoor Gym Equipment",
+ "data": {
+  "name": "Shoulder Twirl",
+  "sku": "FFE027S",
+  "colours": [
+   {
+    "name": "Ocean Grey",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+    "images": [
+     "/images/Shoulder-twirl-product-image.jpg"
+    ],
+    "alts": [
+     "Shoulder Twirl outdoor shoulder wheel exerciser in ocean grey"
+    ]
+   }
+  ],
+  "description": "The Shoulder Twirl is a single shoulder wheel on a post, finished in Ocean Grey. The user stands facing the wheel, takes the handle and turns it in slow, wide circles, first one way and then the other. It moves the shoulder through its full range, which helps people with stiff shoulders and office workers who sit for long hours. The single version suits a small open gym or a spot beside a walking path where only one machine will fit. It belongs to our Fun Fitness range, and its twin-wheel version is the Shoulder Twirl Double. Sales can share the exact size and warranty cover on request. The Shoulder Twirl warranty will be confirmed in your quote; standard terms give 3 years on galvanised pipes and 1 year on bearings.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Shoulder Twirl"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Shoulder-twirl-product-image.jpg",
+  "cardImage": "/images/Shoulder-twirl-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Shoulder Twirl ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE027S",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Ocean Grey",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #adbcbb 50%,\n                    #adbcbb 50%\n                  );\n                ",
+       "images": [
+        "/images/Shoulder-twirl-product-image.jpg"
+       ],
+       "alts": [
+        "Shoulder Twirl outdoor shoulder wheel exerciser in ocean grey"
+       ]
+      }
+     ],
+     "name": "Shoulder Twirl"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Shoulder Twirl outdoor shoulder wheel exerciser in ocean grey\"]",
+      "divDataImgs": "[\"/images/Shoulder-twirl-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #adbcbb 50%, #adbcbb 50% )"
+      },
+      "divText": "",
+      "spanText": "Ocean Grey"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Shoulder Twirl"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Shoulder Twirl is a single shoulder wheel on a post, finished in Ocean Grey. The user stands facing the wheel, takes the handle and turns it in slow, wide circles, first one way and then the other. It moves the shoulder through its full range, which helps people with stiff shoulders and office workers who sit for long hours. The single version suits a small open gym or a spot beside a walking path where only one machine will fit. It belongs to our Fun Fitness range, and its twin-wheel version is the Shoulder Twirl Double. Sales can share the exact size and warranty cover on request. The Shoulder Twirl warranty will be confirmed in your quote; standard terms give 3 years on galvanised pipes and 1 year on bearings."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The wheel turns on a bearing at its hub, which should run smoothly and quietly; grease it when it starts to drag. A single-post machine like this is often fixed self-standing on a firm slab. Leave standing room in front of the wheel and keep the path behind the user clear."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Shoulder Twirl Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/shoulder-twirl.html"
+   ]
+  ],
+  "product": {
+   "name": "Shoulder Twirl",
+   "sku": "FFE027S",
+   "images": [
+    "/images/Shoulder-twirl-product-image.jpg"
+   ],
+   "description": "The Shoulder Twirl is a single shoulder wheel on a post, finished in Ocean Grey. The user stands facing the wheel, takes the handle and turns it in slow, wide circles, first one way and then the other. It moves the shoulder through its full range, which helps people with stiff shoulders and office workers who sit for long hours. The single version suits a small open gym or a spot beside a walking path where only one machine will fit. It belongs to our Fun Fitness range, and its twin-wheel version is the Shoulder Twirl Double. Sales can share the exact size and warranty cover on request. The Shoulder Twirl warranty will be confirmed in your quote; standard terms give 3 years on galvanised pipes and 1 year on bearings.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Ocean Grey"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Ocean Grey"
+    ]
+   ]
+  }
+ }
+}

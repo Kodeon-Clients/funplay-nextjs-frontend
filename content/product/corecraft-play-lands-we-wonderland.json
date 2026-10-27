@@ -1,0 +1,681 @@
+{
+ "path": "/corecraft/play-lands/we-wonderland.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "We Wonderland Multi Play Station | CoreCraft | FunPlay",
+  "description": "We Wonderland Multi Play Station (PLAMPFS10) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "We Wonderland Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "We Wonderland Multi Play Station (PLAMPFS10) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html",
+   "og:image": "https://funplaysystems.com/images/play-lands-we-wonderland-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "We Wonderland Multi Play Station",
+ "data": {
+  "name": "We Wonderland",
+  "sku": "PLAMPFS10",
+  "colours": [
+   {
+    "name": "Crazy Pink & Play Yellow",
+    "swatch": "background: linear-gradient(to right, #d32e4e 50%, #cfc61b 50%);",
+    "images": [
+     "/images/play-lands-we-wonderland-1.jpg",
+     "/images/play-lands-we-wonderland.jpg",
+     "/images/play-lands-we-wonderland-2.jpg"
+    ],
+    "alts": [
+     "We Wonderland pink and yellow playground with carousel-style canopy, slides and swing",
+     "Side view of We Wonderland multi play station with slides, bridge and climbing panel",
+     "Top view of We Wonderland playground on a pink circular safety surface"
+    ]
+   }
+  ],
+  "description": "We Wonderland has a carousel-style canopy in Crazy Pink and Play Yellow, which gives it a fairground look. Under it are slides, a bridge, a climbing panel and a swing, all within 29'8\" x 15'1\", the smallest product area in our Play Lands range. That narrow footprint fits a society garden, a school courtyard or a restaurant play corner. Key users are 3 to 9 years and the age group starts at 3, so it is pitched at younger children. The safe play area is 35'8\" x 21'1\" and the listed capacity is 15. Warranty cover runs for 3 years on the galvanised pipe, roto-moulded parts, composite laminates and play rope. Share the size of your space and we will send a layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "We Wonderland"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/play-lands-we-wonderland-1.jpg",
+  "cardImage": "/images/play-lands-we-wonderland-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "We Wonderland ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS10",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Crazy Pink & Play Yellow",
+       "swatch": "background: linear-gradient(to right, #d32e4e 50%, #cfc61b 50%);",
+       "images": [
+        "/images/play-lands-we-wonderland-1.jpg",
+        "/images/play-lands-we-wonderland.jpg",
+        "/images/play-lands-we-wonderland-2.jpg"
+       ],
+       "alts": [
+        "We Wonderland pink and yellow playground with carousel-style canopy, slides and swing",
+        "Side view of We Wonderland multi play station with slides, bridge and climbing panel",
+        "Top view of We Wonderland playground on a pink circular safety surface"
+       ]
+      }
+     ],
+     "name": "We Wonderland"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"We Wonderland pink and yellow playground with carousel-style canopy, slides and swing\", \"Side view of We Wonderland multi play station with slides, bridge and climbing panel\", \"Top view of We Wonderland playground on a pink circular safety surface\"]",
+      "divDataImgs": "[\"/images/play-lands-we-wonderland-1.jpg\", \"/images/play-lands-we-wonderland.jpg\", \"/images/play-lands-we-wonderland-2.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #d32e4e 50%, #cfc61b 50%)"
+      },
+      "divText": "",
+      "spanText": "Crazy Pink & Play Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "We Wonderland"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "We Wonderland has a carousel-style canopy in Crazy Pink and Play Yellow, which gives it a fairground look. Under it are slides, a bridge, a climbing panel and a swing, all within 29'8\" x 15'1\", the smallest product area in our Play Lands range. That narrow footprint fits a society garden, a school courtyard or a restaurant play corner. Key users are 3 to 9 years and the age group starts at 3, so it is pitched at younger children. The safe play area is 35'8\" x 21'1\" and the listed capacity is 15. Warranty cover runs for 3 years on the galvanised pipe, roto-moulded parts, composite laminates and play rope. Share the size of your space and we will send a layout drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-9 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Swinging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of We Wonderland playground",
+    "imgSrc": "/images/WeeWonderland.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "904.24 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "459.74 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "The frame is galvanised steel and the canopy, slides and panels are roto-moulded. Fixing is by grouting or a self-standing base, decided at the layout stage. The photos show it on a circular safety surface, and we can supply rubber flooring for the 35'8\" x 21'1\" zone. Leave room in front of and behind the swing, and check canopy bolts at every service.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 9 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Swinging",
+      "imgSrc": "/images/Swinging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Swinging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "29'8\" x 15'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "35'8\" x 21'1\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "We Wonderland Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/we-wonderland.html"
+   ]
+  ],
+  "product": {
+   "name": "We Wonderland",
+   "sku": "PLAMPFS10",
+   "images": [
+    "/images/play-lands-we-wonderland-1.jpg",
+    "/images/play-lands-we-wonderland.jpg",
+    "/images/play-lands-we-wonderland-2.jpg"
+   ],
+   "description": "We Wonderland has a carousel-style canopy in Crazy Pink and Play Yellow, which gives it a fairground look. Under it are slides, a bridge, a climbing panel and a swing, all within 29'8\" x 15'1\", the smallest product area in our Play Lands range. That narrow footprint fits a society garden, a school courtyard or a restaurant play corner. Key users are 3 to 9 years and the age group starts at 3, so it is pitched at younger children. The safe play area is 35'8\" x 21'1\" and the listed capacity is 15. Warranty cover runs for 3 years on the galvanised pipe, roto-moulded parts, composite laminates and play rope. Share the size of your space and we will send a layout drawing.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Crazy Pink & Play Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 9 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "35'8\" x 21'1\""
+    ],
+    [
+     "Length",
+     "904.24 cm"
+    ],
+    [
+     "Width",
+     "459.74 cm"
+    ],
+    [
+     "Colour options",
+     "Crazy Pink & Play Yellow"
+    ]
+   ]
+  }
+ }
+}

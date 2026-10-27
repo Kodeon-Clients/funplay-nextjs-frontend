@@ -1,0 +1,215 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment in Puducherry & Lakshadweep | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Puducherry & Lakshadweep. Made in our Vasai factory. Get a free.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Puducherry & Lakshadweep. Made in our Vasai factory. Get a free.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "3fc2e7dd56"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Puducherry & Lakshadweep",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Puducherry & Lakshadweep"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Puducherry and Lakshadweep are both small, both on the sea and both humid all year, but they are planned very differently. FunPlay Systems supplies outdoor playground equipment to schools, resorts, hotels, housing projects and public gardens in Puducherry, and to island sites in Lakshadweep that need extra planning for transport."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Puducherry town has many schools, guest houses, beach resorts along the East Coast Road and new residential layouts on its edges. Karaikal, also on the Tamil Nadu coast, has schools and town parks. Lakshadweep sites are mostly schools, government campuses and island resorts. For both, we make the equipment at our factory in Vasai, Maharashtra. For Puducherry it goes by road and is installed by our team or a dealer in south India. Island orders also need sea transport from the mainland, so speak to our sales team early and we will work out packing and installation with you before you confirm."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Salt air and sea breezes",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Puducherry gets most of its rain from the northeast monsoon, roughly from October to December, and cyclones can hit the coast in those months. Salt in the air is a bigger long-term concern than rain. Our galvanised posts and roto-moulded parts are corrosion-resistant, but rinse equipment near the beach with fresh water from time to time and check bolts after every storm."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "On islands, every spare part has to travel far, so choose simple equipment with few moving parts. Slides, climbers and fixed structures from our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/corecraft/individual-equipment.html"
+           },
+           "c": [
+            "individual equipment range"
+           ]
+          },
+          " need less attention than spring riders. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/our-network.html"
+           },
+           "c": [
+            "network page"
+           ]
+          },
+          " shows how we serve buyers across India."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Puducherry & Lakshadweep",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you supply playground equipment to resorts in Puducherry?",
+       "a": "Yes. Resorts often want a compact play area near the pool or garden. Share the space and photos and we will suggest equipment, colours and a layout with the safe play area marked."
+      },
+      {
+       "q": "How does equipment reach Lakshadweep?",
+       "a": "It travels by road from Vasai to the mainland and then by sea to the islands. Talk to our sales team on +91 902 830 2266 early so we can plan packing, shipping and installation with you."
+      },
+      {
+       "q": "Will sea air damage the equipment?",
+       "a": "Our posts are galvanised and the plastic parts are roto-moulded, both corrosion-resistant. A regular rinse with fresh water and a check of fittings after storms keep equipment near the sea in good order."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOurNetwork",
+   "props": {
+    "pText": "Andhra Pradesh | Arunachal Pradesh | Chhattisgarh | Himachal Pradesh | Jharkhand | Karnataka | Madhya Pradesh | Maharashtra | Meghalaya | Mizoram | Nagaland Rajasthan | Tamil Nadu | Telangana | Uttar Pradesh | Uttarakhand | West Bengal | Assam | Bihar | Haryana | Kerala | Manipur | Odisha | Punjab | Sikkim | Tripura | Goa Mumbai | Delhi | Bangalore | Hyderabad | Ahmedabad | Chennai | Kolkata | Gurgaon | Pune | Jaipur | Lucknow | Kanpur | Nagpur | Indore | Thane | Bhopal | Gujarat Visakhapatnam | Pimpri-Chinchwad | Patna | Vadodara | Ghaziabad | Ludhiana | Nashik | Ranchi | Faridabad | Meerut | Rajkot | Kalyan-Dombivli | Vasai-Virar | Kota Varanasi | Srinagar | Aurangabad | Dhanbad | Amritsar | Navi Mumbai | Allahabad | Howrah | Gwalior | Jabalpur | Coimbatore | Vijayawada | Jodhpur | Madurai | Mau Raipur | Chandigarh | Guwahati | Solapur | Hubli–Dharwad | Mysore | Tiruchirappalli | Bareilly | Aligarh | Tiruppur | Gurgaon | Moradabad | Jalandhar | Gaya | Kollam Bhubaneswar | Salem | Warangal | Mira-Bhayandar | Jalgaon | Guntur | Bhiwandi | Saharanpur | Gorakhpur | Bikaner | Amravati | Noida | Jamshedpur | Bhilai | Kochi Cuttack | Firozabad | Nellore | Bhavnagar | Dehradun | Durgapur | Asansol | Rourkela | Nanded | Kolhapur | Ajmer | Akola | Gulbarga | Jamnagar | Ujjain | Loni | Siliguri Jhansi | Ulhasnagar | Jammu | Sangli-Miraj & Kupwad | Mangalore | Erode | Belgaum | Ambattur | Tirunelveli | Malegaon | Thiruvananthapuram | Udaipur | Kakinada Davanagere | Kozhikode | Maheshtala | Rajpur Sonarpur | Rajahmundry | Bokaro | South Dumdum | Bellary | Patiala | Gopalpur | Agartala | Bhagalpur | Muzaffarnagar Bhatpara | Panihati | Latur | Dhule | Tirupati | Rohtak | Sagar | Korba | Bhilwara | Berhampur | Muzaffarpur | Ahmednagar | Mathura | Avadi | Kadapa | Alwar | Thrissur Kamarhati | Sambalpur | Bilaspur | Shahjahanpur | Satara | Bijapur | Kurnool | Rampur | Shimoga | Chandrapur | Junagadh | Alwar | Bardhaman | Kulti | Jalna | Barasat Nizamabad | Nizamabad | Parbhani | Tumkur | Khammam | Ozhukarai | Bihar Sharif | Panipat | Darbhanga | Bally | Aizawl | Dewas | Ichalkaranji | Karnal | Eluru | Durg Kirari Suleman Nagar | Purnia | Satna | Sonipat | Farrukhabad | Imphal | Ratlam | Hapur | Arrah | Anantapur | Karimnagar | Etawah | Ambarnath | Sikar | Rewa | Silchar North Dumdum | Bharatpur | Begusarai | New Delhi | Gandhidham | Baranagar | Tiruvottiyur | Pondicherry | Thoothukudi | Mirzapur | Raichur | Pali | Katni | Haridwar Ramagundam | Vijayanagaram | Tenali | Nagercoil | Sri Ganganagar | Karawal Nagar | Mango | Thanjavur | Bulandshahr | Uluberia | Sambhal | Singrauli | Nadiad | Bidar Secunderabad | Naihati | Yamunanagar | Bidhannagar | Pallavaram | Munger | Panchkula | Burhanpur | Raurkela Industrial Township | Kharagpur | Dindigul | Malda Gandhinagar | Hospet | Nangloi Jat | Ongole | Deoghar | Chapra | Haldia | Khandwa | Nandyal | Morena | Amroha | Anand | Bhind | Bhalswa Jahangir Pur |Morbi | Guna Madhyamgram | Bhiwani | Berhampore | Ambala | Fatehpur | Raebareli | Khora, Ghaziabad | Chittoor | Bhusawal | Orai | Bahraich | Phusro | Vellore | Mehsana | Sirsa Raiganj | Danapur | Serampore | Sultan Pur Majra | Jaunpur | Panvel | Shivpuri | Surendranagar Dudhrej | Unnao | Chinsurah | Alappuzha | Kottayam | Machilipatnam Shimla | Adoni | Udupi | Katihar | Proddatur | Mahbubnagar | Saharsa | Dibrugarh | Jorhat | Hazaribagh | Hindupur | Nagaon | Sasaram |Hajipur | Giridih | Dehri | Hosur Bhimavaram | Kumbakonam | Bongaigaon | Madanapalle | Siwan | Bettiah | Ramgarh | Tinsukia | Guntakal | Srikakulam | Motihari | Dharmavaram | Tadepalligudem Gudivada | Phagwara | Narasaraopet | Suryapet | Miryalaguda | Tadipatri | Karaikudi | Kishanganj | Jamalpur | Kohima | Ballia | Amaravat | Dispur | Shillong | Kavali Tezpur | Jehanabad | Aurangabad | Gangtok | Panaji | Bengaluru | Itanagar | Agra",
+    "h4Text": "For Dealership Outside Pondicherry And Lakshadweep Contact Immediately"
+   }
+  },
+  {
+   "component": "CityCitiesWeSupplyIn",
+   "props": {
+    "spanText": "Puducherry & Lakshadweep",
+    "h2Text": "Cities we supply in Puducherry & Lakshadweep",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-ozhukarai.html"
+        },
+        "c": [
+         "Playground equipment in Ozhukarai"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Puducherry & Lakshadweep",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-pondicherry-and-lakshadweep.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Puducherry & Lakshadweep",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "name": "Puducherry & Lakshadweep"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Puducherry & Lakshadweep. Made in our Vasai factory. Get a free."
+  },
+  "faq": [
+   [
+    "Do you supply playground equipment to resorts in Puducherry?",
+    "Yes. Resorts often want a compact play area near the pool or garden. Share the space and photos and we will suggest equipment, colours and a layout with the safe play area marked."
+   ],
+   [
+    "How does equipment reach Lakshadweep?",
+    "It travels by road from Vasai to the mainland and then by sea to the islands. Talk to our sales team on +91 902 830 2266 early so we can plan packing, shipping and installation with you."
+   ],
+   [
+    "Will sea air damage the equipment?",
+    "Our posts are galvanised and the plastic parts are roto-moulded, both corrosion-resistant. A regular rinse with fresh water and a check of fittings after storms keep equipment near the sea in good order."
+   ]
+  ]
+ }
+}

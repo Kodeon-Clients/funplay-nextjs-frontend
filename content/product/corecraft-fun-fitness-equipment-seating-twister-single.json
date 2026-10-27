@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/seating-twister-single.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Seating Twister Single Outdoor Gym Equipment | FunPlay",
+  "description": "Seating Twister Single Outdoor Gym Equipment (FFE019) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-single.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Seating Twister Single Outdoor Gym Equipment | FunPlay",
+   "og:description": "Seating Twister Single Outdoor Gym Equipment (FFE019) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-single.html",
+   "og:image": "https://funplaysystems.com/images/Seating-Twister-Single-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Seating Twister Single Outdoor Gym Equipment",
+ "data": {
+  "name": "Seating Twister Single",
+  "sku": "FFE019",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Seating-Twister-Single-product-image.jpg"
+    ],
+    "alts": [
+     "Seating Twister Single single seated waist twister with orange seat and handle wheel"
+    ]
+   }
+  ],
+  "description": "The Seating Twister Single is a one-person seated waist twister with an orange seat and a handle wheel. The user sits, holds the wheel and turns the lower body from side to side, a slow movement that loosens the back and waist. It is one of the easiest machines for older users or anyone who cannot stand for long, and it needs very little space. That makes it useful in a small society garden or as an extra station beside a walking track. It is finished in Play Orange. Our team will send its size and warranty terms along with the quote. Our standard terms give 3 years on galvanised pipes and 1 year on bearings, and we will confirm the Seating Twister Single's cover in your quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Seating Twister Single"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Seating-Twister-Single-product-image.jpg",
+  "cardImage": "/images/Seating-Twister-Single-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Seating Twister Single ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE019",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Seating-Twister-Single-product-image.jpg"
+       ],
+       "alts": [
+        "Seating Twister Single single seated waist twister with orange seat and handle wheel"
+       ]
+      }
+     ],
+     "name": "Seating Twister Single"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Seating Twister Single single seated waist twister with orange seat and handle wheel\"]",
+      "divDataImgs": "[\"/images/Seating-Twister-Single-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Seating Twister Single"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Seating Twister Single is a one-person seated waist twister with an orange seat and a handle wheel. The user sits, holds the wheel and turns the lower body from side to side, a slow movement that loosens the back and waist. It is one of the easiest machines for older users or anyone who cannot stand for long, and it needs very little space. That makes it useful in a small society garden or as an extra station beside a walking track. It is finished in Play Orange. Our team will send its size and warranty terms along with the quote. Our standard terms give 3 years on galvanised pipes and 1 year on bearings, and we will confirm the Seating Twister Single's cover in your quote."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The rotating seat sits on a bearing that takes the user's weight, so it needs greasing and a check for play at each service. A machine this small is usually installed self-standing on a firm base. Place it where the user can turn freely without knocking a bench or planter."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Seating Twister Single Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/seating-twister-single.html"
+   ]
+  ],
+  "product": {
+   "name": "Seating Twister Single",
+   "sku": "FFE019",
+   "images": [
+    "/images/Seating-Twister-Single-product-image.jpg"
+   ],
+   "description": "The Seating Twister Single is a one-person seated waist twister with an orange seat and a handle wheel. The user sits, holds the wheel and turns the lower body from side to side, a slow movement that loosens the back and waist. It is one of the easiest machines for older users or anyone who cannot stand for long, and it needs very little space. That makes it useful in a small society garden or as an extra station beside a walking track. It is finished in Play Orange. Our team will send its size and warranty terms along with the quote. Our standard terms give 3 years on galvanised pipes and 1 year on bearings, and we will confirm the Seating Twister Single's cover in your quote.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

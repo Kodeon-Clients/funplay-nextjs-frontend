@@ -1,5 +1,13 @@
 /* FunPlay landing pages (school, builders, generic). Original campaign.js with the form handler
    posting to /api/contact (reCAPTCHA v3 when <html data-recaptcha> is set), plus Tawk/WhatsApp chat. */
+function fpReady(fn) {
+    if (document.readyState === 'loading') fpReady(fn);
+    else fn();
+}
+document.addEventListener('input', function (e) {
+    var el = e.target;
+    if (el && el.matches && el.matches('[data-fp-digits]')) el.value = el.value.replace(/[^0-9]/g, '');
+});
 function fpToken(action) {
     var key = document.documentElement.getAttribute('data-recaptcha');
     if (!key) return Promise.resolve(null);
@@ -16,7 +24,7 @@ document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a[data-tawk]');
     if (a && window.Tawk_API && typeof window.Tawk_API.toggle === 'function') { e.preventDefault(); window.Tawk_API.toggle(); }
 });
-document.addEventListener('DOMContentLoaded', () => {
+fpReady(() => {
     const forms = document.querySelectorAll('form[data-fp-standalone]');
     forms.forEach(form => {
         const submitBtn = form.querySelector('button[type="submit"]');
@@ -122,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-document.addEventListener('DOMContentLoaded', function () {
+fpReady(function () {
     var acc = document.getElementsByClassName("accordion-container");
 
     for (var i = 0; i < acc.length; i++) {
@@ -375,7 +383,7 @@ document.querySelectorAll('[name="state"]').forEach(function (el) {
     });
 });
 
-document.addEventListener('DOMContentLoaded', function () {
+fpReady(function () {
     const clipDiv = document.getElementById('clip-div');
     const slider = document.getElementById('slider');
     let isDragging = false;
@@ -438,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-document.addEventListener('DOMContentLoaded', function () {
+fpReady(function () {
     const carouselContainer = document.getElementById('carouselContainer');
 
     if (!carouselContainer) {
@@ -553,7 +561,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-document.addEventListener('DOMContentLoaded', function () {
+fpReady(function () {
     // Smooth scroll for all anchor links
     document.querySelectorAll('a.smooth-scroll').forEach(anchor => {
         anchor.addEventListener('click', function (e) {

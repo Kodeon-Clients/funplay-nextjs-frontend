@@ -1,0 +1,211 @@
+{
+ "path": "/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Why Housing Projects Need Play Zones | FunPlay",
+  "description": "Why play zones are now a must-have amenity in Indian housing projects and how builders can plan them well.",
+  "canonical": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:title": "Why Housing Projects Need Play Zones | FunPlay",
+   "og:description": "Why play zones are now a must-have amenity in Indian housing projects and how builders can plan them well.",
+   "og:url": "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html",
+   "og:image": "https://funplaysystems.com/images/why-india..JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Why Housing Projects Need Play Zones | FunPlay",
+   "twitter:description": "Why play zones are now a must-have amenity in Indian housing projects and how builders can plan them well.",
+   "twitter:image": "https://funplaysystems.com/images/why-play-cover.JPG"
+  }
+ },
+ "h1": "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects",
+ "data": {
+  "cardImage": "/images/author-icon.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogHowFunplayManufacturesPlayground",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/why-play-cover.JPG')"
+    },
+    "items": [
+     {
+      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
+      "divStyle": {
+       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
+      }
+     },
+     {
+      "divClass": "h-100 position-absolute left-0px top-0 w-100",
+      "divDataParticle": "true",
+      "divDataParticleOptions": "{\"particles\":{\"number\":{\"value\":12,\"density\":{\"enable\":true,\"value_area\":2000}},\"color\":{\"value\":[\"#d5d52b\",\"#d5d52b\",\"#d5d52b\",\"#d5d52b\",\"#d5d52b\"]},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\":{\"value\":1,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"sync\":false}},\"size\":{\"value\":8,\"random\":true,\"anim\":{\"enable\":false,\"sync\":true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"right\",\"random\":false,\"straight\":false}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"repulse\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true}},\"retina_detect\":false}",
+      "divId": "particles-style-01"
+     },
+     {
+      "divClass": "opacity-light bg-dark-gray"
+     }
+    ],
+    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "text-white fs-18"
+      },
+      "c": [
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "29 May 2025"
+        ]
+       },
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
+        },
+        "c": [
+         "•"
+        ]
+       },
+       {
+        "tag": "a",
+        "attrs": {
+         "className": "text-white",
+         "href": "#"
+        },
+        "c": [
+         "Playground Design & Innovation"
+        ]
+       }
+      ]
+     }
+    ],
+    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
+    "h1Text": "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects"
+   }
+  },
+  {
+   "component": "BlogBlogInnerContent",
+   "props": {
+    "article": {
+     "slug": "why-play-zones-are-a-must-have-amenity-in-todays-housing-projects"
+    },
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Residential Playground Design India"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Play Zones for Housing Societies"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Apartment Complex Play Area Ideas"
+      ]
+     },
+     " ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "tag"
+      },
+      "c": [
+       "Family-Friendly Real Estate Trends"
+      ]
+     }
+    ],
+    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+    "imgSrc": "/images/g2.jpg",
+    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
+    "items": [
+     {
+      "pClass": "post-heading",
+      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "11 October 2026"
+     }
+    ],
+    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
+    "imgSrc2": "/images/about_us2.jpg",
+    "imgAlt2": "Playground Design Ideas for Small Spaces",
+    "items2": [
+     {
+      "pClass": "post-heading",
+      "pText": "Playground Design Ideas for Small Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "2 October 2025"
+     }
+    ],
+    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
+    "imgSrc3": "/images/funplay-innovative-images.JPG",
+    "imgAlt3": "Blending Play Equipment with Green Spaces",
+    "items3": [
+     {
+      "pClass": "post-heading",
+      "pText": "Blending Play Equipment with Green Spaces"
+     },
+     {
+      "pClass": "post-date",
+      "pText": "29 September 2025"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects",
+    "https://funplaysystems.com/blog/why-play-zones-are-a-must-have-amenity-in-todays-housing-projects.html"
+   ]
+  ],
+  "article": {
+   "headline": "Why Play Zones Are a Must-Have Amenity in Today’s Housing Projects",
+   "description": "Why play zones are now a must-have amenity in Indian housing projects and how builders can plan them well.",
+   "image": "https://funplaysystems.com/images/why-india..JPG",
+   "datePublished": "2025-05-29",
+   "dateModified": "2026-10-05",
+   "author": "FunPlay Systems Design Team"
+  }
+ }
+}

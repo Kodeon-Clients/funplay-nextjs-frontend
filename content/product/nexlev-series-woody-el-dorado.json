@@ -1,0 +1,601 @@
+{
+ "path": "/nexlev-series/woody/el-dorado.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "El Dorado Wooden Play Equipment | NexLev Series | FunPlay",
+  "description": "El Dorado Wooden Play Equipment (NXWDEL) from the NexLev Series Woody range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/woody/el-dorado.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "El Dorado Wooden Play Equipment | NexLev Series | FunPlay",
+   "og:description": "El Dorado Wooden Play Equipment (NXWDEL) from the NexLev Series Woody range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/woody/el-dorado.html",
+   "og:image": "https://funplaysystems.com/images/EL-DORADO-A.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "El Dorado Wooden Play Equipment",
+ "data": {
+  "name": "El Dorado",
+  "sku": "NXWDEL",
+  "colours": [
+   {
+    "name": "Cherry Red",
+    "swatch": "\n                  background: conic-gradient(\n                    #c3271a 0% 33.33%,\n                    #c3271a 33.33% 66.66%,\n                    #c3271a 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/EL-DORADO-A.jpg",
+     "/images/EL-DORADO-B.jpg",
+     "/images/EL-DORADO-C.jpg"
+    ],
+    "alts": [
+     "El Dorado play frame in cherry red with twin slide, ring traverse and climbers",
+     "Side view of El Dorado with rope net, ring climber and red slide",
+     "Top view of El Dorado triangular frame with red slide and net"
+    ]
+   }
+  ],
+  "description": "El Dorado is an open play frame with angled brown posts and Cherry Red play parts. Its main features are a wide twin wave slide, a traverse of hanging rings and a red climbing panel, with a rope net and a ring climber at the back. There is no roof or enclosed deck, so adults standing nearby can see every child. El Dorado suits children who like to hang and swing by their arms, and it fits a school ground or society play area of moderate size. It holds 20 to 25 children. The product area is 20'11\" x 17'6\" and the safe play area is 26'11\" x 23'6\". Skills listed are confidence, creative thinking and problem solving. El Dorado's galvanised pipes, moulded parts, laminates and play rope come with 3 years of cover. Send us your site size and age group.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Nexlev Series",
+   "Woody",
+   "El Dorado"
+  ],
+  "line": "nexlev-series",
+  "series": "/nexlev-series/woody.html",
+  "image": "/images/EL-DORADO-A.jpg",
+  "cardImage": "/images/EL-DORADO-A.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "El Dorado ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Wooden Play Equipment"
+      ]
+     }
+    ],
+    "pText": "NXWDEL",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Cherry Red",
+       "swatch": "\n                  background: conic-gradient(\n                    #c3271a 0% 33.33%,\n                    #c3271a 33.33% 66.66%,\n                    #c3271a 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/EL-DORADO-A.jpg",
+        "/images/EL-DORADO-B.jpg",
+        "/images/EL-DORADO-C.jpg"
+       ],
+       "alts": [
+        "El Dorado play frame in cherry red with twin slide, ring traverse and climbers",
+        "Side view of El Dorado with rope net, ring climber and red slide",
+        "Top view of El Dorado triangular frame with red slide and net"
+       ]
+      }
+     ],
+     "name": "El Dorado"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"El Dorado play frame in cherry red with twin slide, ring traverse and climbers\", \"Side view of El Dorado with rope net, ring climber and red slide\", \"Top view of El Dorado triangular frame with red slide and net\"]",
+      "divDataImgs": "[\"/images/EL-DORADO-A.jpg\", \"/images/EL-DORADO-B.jpg\", \"/images/EL-DORADO-C.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #c3271a 0% 33.33%, #c3271a 33.33% 66.66%, #c3271a 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series.html"
+        },
+        "c": [
+         "Nexlev Series"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series/woody.html"
+        },
+        "c": [
+         "Woody"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "El Dorado"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "El Dorado is an open play frame with angled brown posts and Cherry Red play parts. Its main features are a wide twin wave slide, a traverse of hanging rings and a red climbing panel, with a rope net and a ring climber at the back. There is no roof or enclosed deck, so adults standing nearby can see every child. El Dorado suits children who like to hang and swing by their arms, and it fits a school ground or society play area of moderate size. It holds 20 to 25 children. The product area is 20'11\" x 17'6\" and the safe play area is 26'11\" x 23'6\". Skills listed are confidence, creative thinking and problem solving. El Dorado's galvanised pipes, moulded parts, laminates and play rope come with 3 years of cover. Send us your site size and age group."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/nexlev-series/woody/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group NA"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "sectionStyle": {
+     "paddingTop": "0px"
+    },
+    "pText": "The El Dorado frame is triangular in plan, which keeps it steady once installed self-standing or grouted. Children hang from the ring traverse, so lay impact flooring under its full length and at the twin slide exit. Check the rings, their hangers and the rope net at each service.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20 - 25"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Confidence building"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creative thinking"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Problem solving"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'11\" x 17'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "26'11\" x 23'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Nexlev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "Woody",
+    "https://funplaysystems.com/nexlev-series/woody.html"
+   ],
+   [
+    "El Dorado Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/el-dorado.html"
+   ]
+  ],
+  "product": {
+   "name": "El Dorado",
+   "sku": "NXWDEL",
+   "images": [
+    "/images/EL-DORADO-A.jpg",
+    "/images/EL-DORADO-B.jpg",
+    "/images/EL-DORADO-C.jpg"
+   ],
+   "description": "El Dorado is an open play frame with angled brown posts and Cherry Red play parts. Its main features are a wide twin wave slide, a traverse of hanging rings and a red climbing panel, with a rope net and a ring climber at the back. There is no roof or enclosed deck, so adults standing nearby can see every child. El Dorado suits children who like to hang and swing by their arms, and it fits a school ground or society play area of moderate size. It holds 20 to 25 children. The product area is 20'11\" x 17'6\" and the safe play area is 26'11\" x 23'6\". Skills listed are confidence, creative thinking and problem solving. El Dorado's galvanised pipes, moulded parts, laminates and play rope come with 3 years of cover. Send us your site size and age group.",
+   "category": "Wooden Play Equipment",
+   "line": "nexlev-series",
+   "series": "/nexlev-series/woody.html",
+   "colours": [
+    "Cherry Red"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "20 - 25"
+    ],
+    [
+     "Safe play area",
+     "26'11\" x 23'6\""
+    ],
+    [
+     "Skills developed",
+     "Confidence building Creative thinking Problem solving"
+    ],
+    [
+     "Colour options",
+     "Cherry Red"
+    ]
+   ]
+  }
+ }
+}

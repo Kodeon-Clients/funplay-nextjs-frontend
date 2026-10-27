@@ -1,0 +1,601 @@
+{
+ "path": "/nexlev-series/woody/montana.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Montana Wooden Play Equipment | NexLev Series | FunPlay",
+  "description": "Montana Wooden Play Equipment (NXWDMO) from the NexLev Series Woody range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/nexlev-series/woody/montana.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Montana Wooden Play Equipment | NexLev Series | FunPlay",
+   "og:description": "Montana Wooden Play Equipment (NXWDMO) from the NexLev Series Woody range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/nexlev-series/woody/montana.html",
+   "og:image": "https://funplaysystems.com/images/MONTANA-A.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Montana Wooden Play Equipment",
+ "data": {
+  "name": "Montana",
+  "sku": "NXWDMO",
+  "colours": [
+   {
+    "name": "Baby Blue & Mango Yellow",
+    "swatch": "\n                  background: conic-gradient(\n                    #2369a5 0% 33.33%,\n                    #ed9a00 33.33% 66.66%,\n                    #e4d498 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/MONTANA-A.jpg",
+     "/images/MONTANA-B.jpg",
+     "/images/MONTANA-C.jpg"
+    ],
+    "alts": [
+     "Montana wooden play tower in baby blue and mango yellow with tube slide and net climber",
+     "Side view of Montana with spiral tube slide, climbing wall and swing",
+     "Top view of Montana with towers, bridge and slides"
+    ]
+   }
+  ],
+  "description": "Montana is a multi-tower play structure in Baby Blue and Mango Yellow, from the Woody series of our NexLev range. A bridge links its towers, a spiral tube slide winds down from one of them, and a net climber and a climbing wall offer two ways up. A swing hangs at one end for children who want a break from climbing. The two light colours stand out clearly against a green lawn. Montana takes 40 to 45 children and covers 27'1\" x 23'6\". With a safe play area of 33'1\" x 29'6\", it suits township parks, resorts and bigger society gardens. Its listed skills are confidence building, creative thinking and problem solving. We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope on Montana for 3 years. Send us your site photos and we will suggest where it goes.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Nexlev Series",
+   "Woody",
+   "Montana"
+  ],
+  "line": "nexlev-series",
+  "series": "/nexlev-series/woody.html",
+  "image": "/images/MONTANA-A.jpg",
+  "cardImage": "/images/MONTANA-A.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Montana ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Wooden Play Equipment"
+      ]
+     }
+    ],
+    "pText": "NXWDMO",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Baby Blue & Mango Yellow",
+       "swatch": "\n                  background: conic-gradient(\n                    #2369a5 0% 33.33%,\n                    #ed9a00 33.33% 66.66%,\n                    #e4d498 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/MONTANA-A.jpg",
+        "/images/MONTANA-B.jpg",
+        "/images/MONTANA-C.jpg"
+       ],
+       "alts": [
+        "Montana wooden play tower in baby blue and mango yellow with tube slide and net climber",
+        "Side view of Montana with spiral tube slide, climbing wall and swing",
+        "Top view of Montana with towers, bridge and slides"
+       ]
+      }
+     ],
+     "name": "Montana"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Montana wooden play tower in baby blue and mango yellow with tube slide and net climber\", \"Side view of Montana with spiral tube slide, climbing wall and swing\", \"Top view of Montana with towers, bridge and slides\"]",
+      "divDataImgs": "[\"/images/MONTANA-A.jpg\", \"/images/MONTANA-B.jpg\", \"/images/MONTANA-C.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #2369a5 0% 33.33%, #ed9a00 33.33% 66.66%, #e4d498 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Baby Blue & Mango Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series.html"
+        },
+        "c": [
+         "Nexlev Series"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/nexlev-series/woody.html"
+        },
+        "c": [
+         "Woody"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Montana"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Montana is a multi-tower play structure in Baby Blue and Mango Yellow, from the Woody series of our NexLev range. A bridge links its towers, a spiral tube slide winds down from one of them, and a net climber and a climbing wall offer two ways up. A swing hangs at one end for children who want a break from climbing. The two light colours stand out clearly against a green lawn. Montana takes 40 to 45 children and covers 27'1\" x 23'6\". With a safe play area of 33'1\" x 29'6\", it suits township parks, resorts and bigger society gardens. Its listed skills are confidence building, creative thinking and problem solving. We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope on Montana for 3 years. Send us your site photos and we will suggest where it goes."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/nexlev-series/woody/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group NA"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "sectionStyle": {
+     "paddingTop": "0px"
+    },
+    "pText": "Montana's towers, bridge and swing beam are galvanised pipe, with a roto-moulded tube slide and play rope nets. Installation is self-standing or grouted. The swing needs its own clear space, so do not place benches near that end of the 33'1\" x 29'6\" zone. Inspect swing parts and bridge fixings at routine services.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "40 - 45"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Confidence building"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Creative thinking"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Problem solving"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "27'1\" x 23'6\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "33'1\" x 29'6\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Nexlev Series",
+    "https://funplaysystems.com/nexlev-series.html"
+   ],
+   [
+    "Woody",
+    "https://funplaysystems.com/nexlev-series/woody.html"
+   ],
+   [
+    "Montana Wooden Play Equipment",
+    "https://funplaysystems.com/nexlev-series/woody/montana.html"
+   ]
+  ],
+  "product": {
+   "name": "Montana",
+   "sku": "NXWDMO",
+   "images": [
+    "/images/MONTANA-A.jpg",
+    "/images/MONTANA-B.jpg",
+    "/images/MONTANA-C.jpg"
+   ],
+   "description": "Montana is a multi-tower play structure in Baby Blue and Mango Yellow, from the Woody series of our NexLev range. A bridge links its towers, a spiral tube slide winds down from one of them, and a net climber and a climbing wall offer two ways up. A swing hangs at one end for children who want a break from climbing. The two light colours stand out clearly against a green lawn. Montana takes 40 to 45 children and covers 27'1\" x 23'6\". With a safe play area of 33'1\" x 29'6\", it suits township parks, resorts and bigger society gardens. Its listed skills are confidence building, creative thinking and problem solving. We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope on Montana for 3 years. Send us your site photos and we will suggest where it goes.",
+   "category": "Wooden Play Equipment",
+   "line": "nexlev-series",
+   "series": "/nexlev-series/woody.html",
+   "colours": [
+    "Baby Blue & Mango Yellow"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "40 - 45"
+    ],
+    [
+     "Safe play area",
+     "33'1\" x 29'6\""
+    ],
+    [
+     "Skills developed",
+     "Confidence building Creative thinking Problem solving"
+    ],
+    [
+     "Colour options",
+     "Baby Blue & Mango Yellow"
+    ]
+   ]
+  }
+ }
+}

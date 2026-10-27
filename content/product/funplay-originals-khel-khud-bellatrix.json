@@ -1,0 +1,774 @@
+{
+ "path": "/funplay-originals/khel-khud/bellatrix.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Bellatrix Indian Games Play Equipment | FunPlay Systems",
+  "description": "Bellatrix Indian Games Play Equipment (FOKK01), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/khel-khud/bellatrix.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Bellatrix Indian Games Play Equipment | FunPlay Systems",
+   "og:description": "Bellatrix Indian Games Play Equipment (FOKK01), a FunPlay Originals Khel Khud design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/khel-khud/bellatrix.html",
+   "og:image": "https://funplaysystems.com/images/Bellatrix-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Bellatrix Indian Games Play Equipment",
+ "data": {
+  "name": "Bellatrix",
+  "sku": "FOKK01",
+  "colours": [
+   {
+    "name": "Cherry Red",
+    "swatch": "\n                  background: conic-gradient(\n                    #d21832 0% 33.33%,\n                    #dec82b 33.33% 66.66%,\n                    #788a94 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Bellatrix-1.jpg",
+     "/images/Bellatrix-2.jpg",
+     "/images/Bellatrix-3.jpg",
+     "/images/Bellatrix-4.jpg",
+     "/images/Bellatrix-5.jpg"
+    ],
+    "alts": [
+     "Bellatrix star-shaped geometric climbing frame with red slide and climbing net",
+     "Bellatrix geometric star climber in grey and yellow with red slide and climbing discs",
+     "Top view of Bellatrix geometric climber with red slide",
+     "Side view of Bellatrix star frame climber with red slide and disc ladder",
+     "Top view of Bellatrix climbing frame layout with slide"
+    ]
+   }
+  ],
+  "description": "Bellatrix is a star-shaped geometric climbing frame in our Khel-Khud collection. Its grey and yellow frame has climbing discs, a disc ladder and a climbing net, with a Cherry Red slide on one side. Children can approach from any direction, so no two climbs are the same. Activities include climbing, hanging, balancing, rolling and sliding, and the open frame asks children to plan a route, which builds problem solving and strategy. It suits ages 5 to 12, holds up to 15 children, and needs a safe play area of 21'9\" x 19'3\". We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope for 3 years. Send us your site size and we will check the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Khel Khud",
+   "Bellatrix"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/khel-khud.html",
+  "image": "/images/Bellatrix-1.jpg",
+  "cardImage": "/images/Bellatrix-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Bellatrix ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Indian Games Play Equipment"
+      ]
+     }
+    ],
+    "pText": "FOKK01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Cherry Red",
+       "swatch": "\n                  background: conic-gradient(\n                    #d21832 0% 33.33%,\n                    #dec82b 33.33% 66.66%,\n                    #788a94 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Bellatrix-1.jpg",
+        "/images/Bellatrix-2.jpg",
+        "/images/Bellatrix-3.jpg",
+        "/images/Bellatrix-4.jpg",
+        "/images/Bellatrix-5.jpg"
+       ],
+       "alts": [
+        "Bellatrix star-shaped geometric climbing frame with red slide and climbing net",
+        "Bellatrix geometric star climber in grey and yellow with red slide and climbing discs",
+        "Top view of Bellatrix geometric climber with red slide",
+        "Side view of Bellatrix star frame climber with red slide and disc ladder",
+        "Top view of Bellatrix climbing frame layout with slide"
+       ]
+      }
+     ],
+     "name": "Bellatrix"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Bellatrix star-shaped geometric climbing frame with red slide and climbing net\", \"Bellatrix geometric star climber in grey and yellow with red slide and climbing discs\", \"Top view of Bellatrix geometric climber with red slide\", \"Side view of Bellatrix star frame climber with red slide and disc ladder\", \"Top view of Bellatrix climbing frame layout with slide\"]",
+      "divDataImgs": "[\"/images/Bellatrix-1.jpg\", \"/images/Bellatrix-2.jpg\", \"/images/Bellatrix-3.jpg\", \"/images/Bellatrix-4.jpg\", \"/images/Bellatrix-5.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d21832 0% 33.33%, #dec82b 33.33% 66.66%, #788a94 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/khel-khud.html"
+        },
+        "c": [
+         "Khel Khud"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Bellatrix"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Bellatrix is a star-shaped geometric climbing frame in our Khel-Khud collection. Its grey and yellow frame has climbing discs, a disc ladder and a climbing net, with a Cherry Red slide on one side. Children can approach from any direction, so no two climbs are the same. Activities include climbing, hanging, balancing, rolling and sliding, and the open frame asks children to plan a route, which builds problem solving and strategy. It suits ages 5 to 12, holds up to 15 children, and needs a safe play area of 21'9\" x 19'3\". We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope for 3 years. Send us your site size and we will check the fit."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/khel-khud/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Exploration"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Problem Solving"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Strategizing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Bellatrix climbing frame and slide",
+    "imgSrc": "/images/Bellatrix-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "495.3 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "449.58 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "The star frame is galvanised pipe, with roto-moulded climbing discs and a rope net. Its 16'3\" x 14'9\" footprint is almost square, which makes it easy to centre on a lawn. It is fixed self-standing or grouted. Lay impact flooring across the whole safe zone, because children climb on every face of the frame.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Rolling",
+      "imgSrc": "/images/Rolling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Rolling"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Exploration"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Problem Solving"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Strategizing"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "16'3\" x 14'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "21'9\" x 19'3\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Khel Khud",
+    "https://funplaysystems.com/funplay-originals/khel-khud.html"
+   ],
+   [
+    "Bellatrix Indian Games Play Equipment",
+    "https://funplaysystems.com/funplay-originals/khel-khud/bellatrix.html"
+   ]
+  ],
+  "product": {
+   "name": "Bellatrix",
+   "sku": "FOKK01",
+   "images": [
+    "/images/Bellatrix-1.jpg",
+    "/images/Bellatrix-2.jpg",
+    "/images/Bellatrix-3.jpg",
+    "/images/Bellatrix-4.jpg",
+    "/images/Bellatrix-5.jpg"
+   ],
+   "description": "Bellatrix is a star-shaped geometric climbing frame in our Khel-Khud collection. Its grey and yellow frame has climbing discs, a disc ladder and a climbing net, with a Cherry Red slide on one side. Children can approach from any direction, so no two climbs are the same. Activities include climbing, hanging, balancing, rolling and sliding, and the open frame asks children to plan a route, which builds problem solving and strategy. It suits ages 5 to 12, holds up to 15 children, and needs a safe play area of 21'9\" x 19'3\". We cover the galvanised pipes, roto-moulded parts, composite laminates and play rope for 3 years. Send us your site size and we will check the fit.",
+   "category": "Indian Games Play Equipment",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/khel-khud.html",
+   "colours": [
+    "Cherry Red"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "21'9\" x 19'3\""
+    ],
+    [
+     "Length",
+     "495.3 cm"
+    ],
+    [
+     "Width",
+     "449.58 cm"
+    ],
+    [
+     "Activities",
+     "Sliding Climbing Rolling Hanging Balancing"
+    ],
+    [
+     "Skills developed",
+     "Exploration Problem Solving Strategizing"
+    ],
+    [
+     "Colour options",
+     "Cherry Red"
+    ]
+   ]
+  }
+ }
+}

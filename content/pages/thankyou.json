@@ -1,0 +1,46 @@
+{
+ "path": "/thankyou.html",
+ "type": "page",
+ "header": "light",
+ "seo": {
+  "title": "Thank You",
+  "description": "funplaysystems",
+  "canonical": null,
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "styles": [
+  "ce3b443666",
+  "d43cbaf8ea"
+ ],
+ "css": [
+  "/css/landing-tw.css"
+ ],
+ "h1": "Thank You!",
+ "data": {
+  "cardImage": null
+ },
+ "sections": [
+  {
+   "component": "ThankYouContainer2",
+   "props": {
+    "h1Text": "Thank You!",
+    "pText": "Your submission has been received. We appreciate your feedback and will get back to you shortly.",
+    "aText": "Back to Home"
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Thank You!",
+    "https://funplaysystems.com/thankyou.html"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,722 @@
+{
+ "path": "/funplay-originals/organic-play/toucan.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Toucan Nature Play Structure | FunPlay Originals | FunPlay",
+  "description": "Toucan Nature Play Structure (FOO02), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/toucan.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Toucan Nature Play Structure | FunPlay Originals | FunPlay",
+   "og:description": "Toucan Nature Play Structure (FOO02), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/toucan.html",
+   "og:image": "https://funplaysystems.com/images/Toucan-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Toucan Nature Play Structure",
+ "data": {
+  "name": "Toucan",
+  "sku": "FOO02",
+  "colours": [
+   {
+    "name": "Multiple Colour",
+    "swatch": "background: conic-gradient(#cdbf00 0% 16.66%, #6eb0cf 16.66% 33.33%, #b21228 33.33% 50%, #79a931 50% 66.66%, #323237 66.66% 83.33%, #7e5f36 83.33% 100%);",
+    "images": [
+     "/images/Toucan-1.jpg",
+     "/images/Toucan-2.jpg",
+     "/images/Toucan-3.jpg",
+     "/images/Toucan-4.jpg"
+    ],
+    "alts": [
+     "Toucan toucan-shaped play structure with arched climbing frame, net and blue slide",
+     "Side view of Toucan with green arch climber, red tail and blue slide",
+     "Top view of Toucan showing climbing net, arch rungs and slide",
+     "Toucan toucan play structure with yellow beak panel and blue slide"
+    ]
+   }
+  ],
+  "description": "Toucan is a bird-shaped play structure built for children who like to climb back up the slide. Its green arch climber forms the back, a red tail rises at one end, a yellow beak panel marks the head, and a blue slide runs down from the top. A climbing net and arch rungs lead up, and children jump, slide and climb again in quick loops. It is planned for 5 to 12 year olds and a group of up to 15. The product area is 20'9\" x 5'8\", so it fits a narrow strip. Play here builds social interaction and observation. The structure comes in multiple colours and has a 3-year warranty on pipe, roto-moulded parts, laminates and rope. Ask us to mark its safe zone on your plan.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Toucan"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Toucan-1.jpg",
+  "cardImage": "/images/Toucan-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Toucan ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Nature Play Structure"
+      ]
+     }
+    ],
+    "pText": "FOO02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multiple Colour",
+       "swatch": "background: conic-gradient(#cdbf00 0% 16.66%, #6eb0cf 16.66% 33.33%, #b21228 33.33% 50%, #79a931 50% 66.66%, #323237 66.66% 83.33%, #7e5f36 83.33% 100%);",
+       "images": [
+        "/images/Toucan-1.jpg",
+        "/images/Toucan-2.jpg",
+        "/images/Toucan-3.jpg",
+        "/images/Toucan-4.jpg"
+       ],
+       "alts": [
+        "Toucan toucan-shaped play structure with arched climbing frame, net and blue slide",
+        "Side view of Toucan with green arch climber, red tail and blue slide",
+        "Top view of Toucan showing climbing net, arch rungs and slide",
+        "Toucan toucan play structure with yellow beak panel and blue slide"
+       ]
+      }
+     ],
+     "name": "Toucan"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Toucan toucan-shaped play structure with arched climbing frame, net and blue slide\", \"Side view of Toucan with green arch climber, red tail and blue slide\", \"Top view of Toucan showing climbing net, arch rungs and slide\", \"Toucan toucan play structure with yellow beak panel and blue slide\"]",
+      "divDataImgs": "[\"/images/Toucan-1.jpg\", \"/images/Toucan-2.jpg\", \"/images/Toucan-3.jpg\", \"/images/Toucan-4.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient(#cdbf00 0% 16.66%, #6eb0cf 16.66% 33.33%, #b21228 33.33% 50%, #79a931 50% 66.66%, #323237 66.66% 83.33%, #7e5f36 83.33% 100%)"
+      },
+      "divText": "",
+      "spanText": "Multiple Colour"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Toucan"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Toucan is a bird-shaped play structure built for children who like to climb back up the slide. Its green arch climber forms the back, a red tail rises at one end, a yellow beak panel marks the head, and a blue slide runs down from the top. A climbing net and arch rungs lead up, and children jump, slide and climb again in quick loops. It is planned for 5 to 12 year olds and a group of up to 15. The product area is 20'9\" x 5'8\", so it fits a narrow strip. Play here builds social interaction and observation. The structure comes in multiple colours and has a 3-year warranty on pipe, roto-moulded parts, laminates and rope. Ask us to mark its safe zone on your plan."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Social Interaction"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Observation"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Toucan play structure",
+    "imgSrc": "/images/Toucan-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "632.46 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "172.72 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Toucan is built on a galvanised pipe arch with roto-moulded panels and a play rope net. It is fixed self-standing or grouted. Children jump off it as well as slide, so lay impact flooring along the full length and on both sides. Check the arch rungs and slide exit regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Jumping",
+      "imgSrc": "/images/Jumping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Jumping"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Social Interaction"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Observation"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "20'9\" x 5'8\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "25'9\" x 4'8\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Toucan Nature Play Structure",
+    "https://funplaysystems.com/funplay-originals/organic-play/toucan.html"
+   ]
+  ],
+  "product": {
+   "name": "Toucan",
+   "sku": "FOO02",
+   "images": [
+    "/images/Toucan-1.jpg",
+    "/images/Toucan-2.jpg",
+    "/images/Toucan-3.jpg",
+    "/images/Toucan-4.jpg"
+   ],
+   "description": "Toucan is a bird-shaped play structure built for children who like to climb back up the slide. Its green arch climber forms the back, a red tail rises at one end, a yellow beak panel marks the head, and a blue slide runs down from the top. A climbing net and arch rungs lead up, and children jump, slide and climb again in quick loops. It is planned for 5 to 12 year olds and a group of up to 15. The product area is 20'9\" x 5'8\", so it fits a narrow strip. Play here builds social interaction and observation. The structure comes in multiple colours and has a 3-year warranty on pipe, roto-moulded parts, laminates and rope. Ask us to mark its safe zone on your plan.",
+   "category": "Nature Play Structure",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Multiple Colour"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "25'9\" x 4'8\""
+    ],
+    [
+     "Length",
+     "632.46 cm"
+    ],
+    [
+     "Width",
+     "172.72 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Sliding Jumping"
+    ],
+    [
+     "Skills developed",
+     "Social Interaction Observation"
+    ],
+    [
+     "Colour options",
+     "Multiple Colour"
+    ]
+   ]
+  }
+ }
+}

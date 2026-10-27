@@ -1,0 +1,402 @@
+{
+ "path": "/corecraft/individual-equipment/see-saw/rainbow-see-saw.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Rainbow See Saw | CoreCraft | FunPlay Systems",
+  "description": "Rainbow See Saw (FPSS04) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/rainbow-see-saw.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Rainbow See Saw | CoreCraft | FunPlay Systems",
+   "og:description": "Rainbow See Saw (FPSS04) from the CoreCraft See Saws range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/see-saw/rainbow-see-saw.html",
+   "og:image": "https://funplaysystems.com/images/RAINBOW-SEE-SAW-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Rainbow See Saw",
+ "data": {
+  "name": "Rainbow See Saw",
+  "sku": "FPSS04",
+  "colours": [
+   {
+    "name": "Knight Blue",
+    "swatch": "background-color: #2b3d6f",
+    "images": [
+     "/images/RAINBOW-SEE-SAW-Product-Image.jpg"
+    ],
+    "alts": [
+     "Rainbow See Saw arched rainbow see saw with two blue seats"
+    ]
+   }
+  ],
+  "description": "The Rainbow See Saw sets two blue seats on an arched beam shaped like a rainbow. The curved beam keeps the ride gentle and low, which suits the 3 to 6 years Key User Group. Two children ride at a time. It measures 6'4\" x 1'7\", the shortest of our see saws, with a safe play area of 10'4\" x 5'7\". That lets it fit along a narrow path or between two larger pieces. Its colour is Knight Blue. Parents of small children often look for a see saw with a modest height, and the rainbow arch gives exactly that. Our 3-year warranty covers galvanised pipes and roto-moulded parts. Tell us your site size and we will check the fit.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "See Saw",
+   "Rainbow See Saw"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/see-saw.html",
+  "image": "/images/RAINBOW-SEE-SAW-Product-Image.jpg",
+  "cardImage": "/images/RAINBOW-SEE-SAW-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Rainbow See Saw"
+    ],
+    "pText": "FPSS04",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Knight Blue",
+       "swatch": "background-color: #2b3d6f",
+       "images": [
+        "/images/RAINBOW-SEE-SAW-Product-Image.jpg"
+       ],
+       "alts": [
+        "Rainbow See Saw arched rainbow see saw with two blue seats"
+       ]
+      }
+     ],
+     "name": "Rainbow See Saw"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Rainbow See Saw arched rainbow see saw with two blue seats\"]",
+      "divDataImgs": "[\"/images/RAINBOW-SEE-SAW-Product-Image.jpg\"]",
+      "divStyle": {
+       "backgroundColor": "#2b3d6f"
+      },
+      "divText": "",
+      "spanText": "Knight Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/see-saw.html"
+        },
+        "c": [
+         "See Saw"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Rainbow See Saw"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Rainbow See Saw sets two blue seats on an arched beam shaped like a rainbow. The curved beam keeps the ride gentle and low, which suits the 3 to 6 years Key User Group. Two children ride at a time. It measures 6'4\" x 1'7\", the shortest of our see saws, with a safe play area of 10'4\" x 5'7\". That lets it fit along a narrow path or between two larger pieces. Its colour is Knight Blue. Parents of small children often look for a see saw with a modest height, and the rainbow arch gives exactly that. Our 3-year warranty covers galvanised pipes and roto-moulded parts. Tell us your site size and we will check the fit."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The arched beam is galvanised steel and the seats are roto-moulded. Fixing is by grouting or on a self-standing base. Even a low see saw needs a soft landing, so keep impact-absorbing flooring under the seats, and check the pivot, which has a 1-year warranty, during routine maintenance.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 6 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "6'4\" x 1'7\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10'4\" x 5'7\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw.html"
+   ],
+   [
+    "Rainbow See Saw",
+    "https://funplaysystems.com/corecraft/individual-equipment/see-saw/rainbow-see-saw.html"
+   ]
+  ],
+  "product": {
+   "name": "Rainbow See Saw",
+   "sku": "FPSS04",
+   "images": [
+    "/images/RAINBOW-SEE-SAW-Product-Image.jpg"
+   ],
+   "description": "The Rainbow See Saw sets two blue seats on an arched beam shaped like a rainbow. The curved beam keeps the ride gentle and low, which suits the 3 to 6 years Key User Group. Two children ride at a time. It measures 6'4\" x 1'7\", the shortest of our see saws, with a safe play area of 10'4\" x 5'7\". That lets it fit along a narrow path or between two larger pieces. Its colour is Knight Blue. Parents of small children often look for a see saw with a modest height, and the rainbow arch gives exactly that. Our 3-year warranty covers galvanised pipes and roto-moulded parts. Tell us your site size and we will check the fit.",
+   "category": "See Saw",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/see-saw.html",
+   "colours": [
+    "Knight Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 6 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "2"
+    ],
+    [
+     "Safe play area",
+     "10'4\" x 5'7\""
+    ],
+    [
+     "Colour options",
+     "Knight Blue"
+    ]
+   ]
+  }
+ }
+}

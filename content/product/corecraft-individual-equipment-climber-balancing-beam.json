@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/balancing-beam.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Balancing Beam | CoreCraft | FunPlay Systems",
+  "description": "Balancing Beam (FPCL16) from the CoreCraft Climbers range: 15 kids at a time, safe play area 7'9\" x 17'11\". Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/balancing-beam.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Balancing Beam | CoreCraft | FunPlay Systems",
+   "og:description": "Balancing Beam (FPCL16) from the CoreCraft Climbers range: 15 kids at a time, safe play area 7'9\" x 17'11\". Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/balancing-beam.html",
+   "og:image": "https://funplaysystems.com/images/BALANCING-BEAM-Climber-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Balancing Beam",
+ "data": {
+  "name": "Balancing Beam",
+  "sku": "FPCL16",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #7c8ca0 0% 33.33%,\n                    #bb1e10 33.33% 66.66%,\n                    #e1e300 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/BALANCING-BEAM-Climber-Product-Image.jpg"
+    ],
+    "alts": [
+     "Balancing Beam set of three low balancing beams for children in teal, yellow and red"
+    ]
+   }
+  ],
+  "description": "Three low beams make up this set, each a rounded rail on short legs, in teal, yellow and red. Laid out at different angles, they give children a path to walk heel to toe, step from one beam to the next and hold their arms out for balance. Because the beams sit close to the ground, younger children can try them alongside older ones, and teachers can use them for simple balance drills during games periods. The product area is 2'9\" x 12'11\", and the safe play area is 7'9\" x 17'11\". It is listed as Multi Color. Our 3-year warranty applies to the galvanised pipe, roto-moulded parts and composite laminates. Ask us to fit the Balancing Beam into your layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Balancing Beam"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/BALANCING-BEAM-Climber-Product-Image.jpg",
+  "cardImage": "/images/BALANCING-BEAM-Climber-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Balancing Beam"
+    ],
+    "pText": "FPCL16",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #7c8ca0 0% 33.33%,\n                    #bb1e10 33.33% 66.66%,\n                    #e1e300 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/BALANCING-BEAM-Climber-Product-Image.jpg"
+       ],
+       "alts": [
+        "Balancing Beam set of three low balancing beams for children in teal, yellow and red"
+       ]
+      }
+     ],
+     "name": "Balancing Beam"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Balancing Beam set of three low balancing beams for children in teal, yellow and red\"]",
+      "divDataImgs": "[\"/images/BALANCING-BEAM-Climber-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #7c8ca0 0% 33.33%, #bb1e10 33.33% 66.66%, #e1e300 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Balancing Beam"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Three low beams make up this set, each a rounded rail on short legs, in teal, yellow and red. Laid out at different angles, they give children a path to walk heel to toe, step from one beam to the next and hold their arms out for balance. Because the beams sit close to the ground, younger children can try them alongside older ones, and teachers can use them for simple balance drills during games periods. The product area is 2'9\" x 12'11\", and the safe play area is 7'9\" x 17'11\". It is listed as Multi Color. Our 3-year warranty applies to the galvanised pipe, roto-moulded parts and composite laminates. Ask us to fit the Balancing Beam into your layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Each beam stands on short legs that are grouted or installed self-standing. Set the three beams on level ground with rubber flooring or another soft surface around them, inside the 7'9\" x 17'11\" zone. Check the leg fixings during routine maintenance and keep the beam tops clean, as mud or algae after rain makes them slippery.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "2'9\" x 12'11\""
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "7'9\" x 17'11\""
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Balancing Beam",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/balancing-beam.html"
+   ]
+  ],
+  "product": {
+   "name": "Balancing Beam",
+   "sku": "FPCL16",
+   "images": [
+    "/images/BALANCING-BEAM-Climber-Product-Image.jpg"
+   ],
+   "description": "Three low beams make up this set, each a rounded rail on short legs, in teal, yellow and red. Laid out at different angles, they give children a path to walk heel to toe, step from one beam to the next and hold their arms out for balance. Because the beams sit close to the ground, younger children can try them alongside older ones, and teachers can use them for simple balance drills during games periods. The product area is 2'9\" x 12'11\", and the safe play area is 7'9\" x 17'11\". It is listed as Multi Color. Our 3-year warranty applies to the galvanised pipe, roto-moulded parts and composite laminates. Ask us to fit the Balancing Beam into your layout.",
+   "category": "Balance Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "7'9\" x 17'11\""
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/leg-lift-post.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Leg Lift Post Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Leg Lift Post Outdoor Gym Equipment (FFE015) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-lift-post.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Leg Lift Post Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Leg Lift Post Outdoor Gym Equipment (FFE015) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-lift-post.html",
+   "og:image": "https://funplaysystems.com/images/Leg-Lift-Post-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Leg Lift Post Outdoor Gym Equipment",
+ "data": {
+  "name": "Leg Lift Post",
+  "sku": "FFE015",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/Leg-Lift-Post-product-image.jpg"
+    ],
+    "alts": [
+     "Leg Lift Post outdoor leg lift post with orange seat, footrests and wheel"
+    ]
+   }
+  ],
+  "description": "The Leg Lift Post is a combination station around a single grey post. The product image shows an orange seat with footrests, a large orange wheel on the post and a separate round stool with a textured top beside it. On the seated part, users lift and lower the legs against the footrests. The wheel can be turned for the arms and shoulders, and the stool gives a place to sit or step. It suits older adults in a park or society who want gentle exercise in one spot. Its orange parts are listed as Play Orange. Our team will send its size and warranty terms along with the quote. For the Leg Lift Post, we will confirm cover in writing; our standard terms are 3 years on galvanised pipes and 1 year on bearings.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Leg Lift Post"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/Leg-Lift-Post-product-image.jpg",
+  "cardImage": "/images/Leg-Lift-Post-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Leg Lift Post ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE015",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/Leg-Lift-Post-product-image.jpg"
+       ],
+       "alts": [
+        "Leg Lift Post outdoor leg lift post with orange seat, footrests and wheel"
+       ]
+      }
+     ],
+     "name": "Leg Lift Post"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Leg Lift Post outdoor leg lift post with orange seat, footrests and wheel\"]",
+      "divDataImgs": "[\"/images/Leg-Lift-Post-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Leg Lift Post"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Leg Lift Post is a combination station around a single grey post. The product image shows an orange seat with footrests, a large orange wheel on the post and a separate round stool with a textured top beside it. On the seated part, users lift and lower the legs against the footrests. The wheel can be turned for the arms and shoulders, and the stool gives a place to sit or step. It suits older adults in a park or society who want gentle exercise in one spot. Its orange parts are listed as Play Orange. Our team will send its size and warranty terms along with the quote. For the Leg Lift Post, we will confirm cover in writing; our standard terms are 3 years on galvanised pipes and 1 year on bearings."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The seat arm and the wheel both turn on bearings, so check them at each service. The post and stool can be installed self-standing or grouted. Place the stool so it does not sit in the path of the moving seat arm, and keep the area level."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Leg Lift Post Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/leg-lift-post.html"
+   ]
+  ],
+  "product": {
+   "name": "Leg Lift Post",
+   "sku": "FFE015",
+   "images": [
+    "/images/Leg-Lift-Post-product-image.jpg"
+   ],
+   "description": "The Leg Lift Post is a combination station around a single grey post. The product image shows an orange seat with footrests, a large orange wheel on the post and a separate round stool with a textured top beside it. On the seated part, users lift and lower the legs against the footrests. The wheel can be turned for the arms and shoulders, and the stool gives a place to sit or step. It suits older adults in a park or society who want gentle exercise in one spot. Its orange parts are listed as Play Orange. Our team will send its size and warranty terms along with the quote. For the Leg Lift Post, we will confirm cover in writing; our standard terms are 3 years on galvanised pipes and 1 year on bearings.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

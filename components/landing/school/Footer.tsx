@@ -1,0 +1,10 @@
+import { PlainImg } from "@/components/ui/Img";
+import R, { type Rich } from "@/components/ui/Rich";
+
+export type FooterProps = { pText: Rich; items: { liText: Rich }[]; pText2: string };
+
+export default function Footer(p: FooterProps) {
+  return (
+    <footer><div className="w-[88%] mx-auto p-[64px_0_48px]"><div className="flex flex-col gap-[32px]"><div className=""><PlainImg src="/images/logo-black.png" data-at2x="images/logo-black@2x.png" height="44" alt="FunPlay Systems logo" className="h-[59px]" /></div><div><p className="inter text-[#2E2E2E]"><R v={p.pText} /></p></div><div><ul className="flex items-center gap-[16px] md:gap-[32px]">{p.items.map((px, i) => (<li key={i} className="text-[#1F1E1E] font-semibold font_16_24"><R v={px.liText} /></li>))}</ul></div></div><div className="flex items-center justify-between mt-[14px] border-t border-t-[#E9EAEB] pt-[32px]"><div><p className="inter text-[#717680] font-normal font_16_24">{p.pText2}</p></div><div className="flex items-center gap-[24px]"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/people/Fun-Play-Systems/100063520852409/#"><div><PlainImg src="/images/campaign/icons/icons8-facebook-24.png" width="24" height="24" alt="funplay" loading="lazy" decoding="async" /></div></a>{" "}<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F68143999"><div><PlainImg src="/images/campaign/icons/icons8-linkedin-24.png" width="24" height="24" alt="funplay" loading="lazy" decoding="async" /></div></a>{" "}<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIVzspLQgAJe7OSeiQKlHcg"><div><PlainImg src="/images/campaign/icons/icons8-youtube-24.png" width="24" height="24" alt="funplay" loading="lazy" decoding="async" /></div></a>{" "}<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/funplayindia/?hl=en"><div><PlainImg src="/images/campaign/icons/icons8-instagram-24.png" width="24" height="24" alt="funplay" loading="lazy" decoding="async" /></div></a></div></div></div></footer>
+  );
+}

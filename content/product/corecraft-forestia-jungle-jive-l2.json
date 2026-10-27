@@ -1,0 +1,714 @@
+{
+ "path": "/corecraft/forestia/jungle-jive-l2.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Jungle Jive-l2 Jungle Multi Play Station | FunPlay Systems",
+  "description": "Jungle Jive-l2 Jungle Multi Play Station (F0RMPFS02) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Jungle Jive-l2 Jungle Multi Play Station | FunPlay Systems",
+   "og:description": "Jungle Jive-l2 Jungle Multi Play Station (F0RMPFS02) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html",
+   "og:image": "https://funplaysystems.com/images/JungleJive-Level2-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Jungle Jive-l2 Jungle Multi Play Station",
+ "data": {
+  "name": "Jungle Jive-l2",
+  "sku": "F0RMPFS02",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c0c500 50%,\n                    #7aada5 50%\n                  );\n                ",
+    "images": [
+     "/images/JungleJive-Level2-product-image.jpg",
+     "/images/JungleJive-Level2-product-image2.jpg"
+    ],
+    "alts": [
+     "Jungle Jive-l2 jungle-themed multi play station with flower canopy, slide, tunnel and climbing net",
+     "Top view of Jungle Jive-l2 jungle playground layout with slide and activity arms"
+    ]
+   }
+  ],
+  "description": "Jungle Jive-l2 is a larger version of the flower-canopy design, made for children aged 5 to 12. Under the canopy there is a slide, a tunnel and a climbing net, with activity arms reaching out from the main tower. Children balance, hop and crawl along the lower parts and climb the net to reach the slide, so it builds more physical challenge than the l1. The product area is 30' x 23'4\" and the safe play area is 36' x 28'4\", which suits a school or a society with older children. Colour is listed as Multi Color, and capacity is listed as 15 children. The 3-year warranty on Jungle Jive-l2 covers galvanised pipes, roto-moulded parts, composite laminates and play rope. We can suggest where to place it so the tunnel entry stays visible to parents.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Forestia",
+   "Jungle Jive-l2/li>"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/forestia.html",
+  "image": "/images/JungleJive-Level2-product-image.jpg",
+  "cardImage": "/images/JungleJive-Level2-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Jungle Jive-l2 ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Jungle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "F0RMPFS02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #c0c500 50%,\n                    #7aada5 50%\n                  );\n                ",
+       "images": [
+        "/images/JungleJive-Level2-product-image.jpg",
+        "/images/JungleJive-Level2-product-image2.jpg"
+       ],
+       "alts": [
+        "Jungle Jive-l2 jungle-themed multi play station with flower canopy, slide, tunnel and climbing net",
+        "Top view of Jungle Jive-l2 jungle playground layout with slide and activity arms"
+       ]
+      }
+     ],
+     "name": "Jungle Jive-l2"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Jungle Jive-l2 jungle-themed multi play station with flower canopy, slide, tunnel and climbing net\", \"Top view of Jungle Jive-l2 jungle playground layout with slide and activity arms\"]",
+      "divDataImgs": "[\"/images/JungleJive-Level2-product-image.jpg\", \"/images/JungleJive-Level2-product-image2.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #c0c500 50%, #7aada5 50% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/forestia.html"
+        },
+        "c": [
+         "Forestia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Jungle Jive-l2/li>"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Jungle Jive-l2 is a larger version of the flower-canopy design, made for children aged 5 to 12. Under the canopy there is a slide, a tunnel and a climbing net, with activity arms reaching out from the main tower. Children balance, hop and crawl along the lower parts and climb the net to reach the slide, so it builds more physical challenge than the l1. The product area is 30' x 23'4\" and the safe play area is 36' x 28'4\", which suits a school or a society with older children. Colour is listed as Multi Color, and capacity is listed as 15 children. The 3-year warranty on Jungle Jive-l2 covers galvanised pipes, roto-moulded parts, composite laminates and play rope. We can suggest where to place it so the tunnel entry stays visible to parents."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/forestia/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hopping"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Crawling"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Jungle Jive Level 2 play station",
+    "imgSrc": "/images/JungleJive_Level-2.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "914.4 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "711.2 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Crawling tunnels need good drainage, because water that pools inside stops children using them. Plan a slightly raised base with rubber flooring across the 36' x 28'4\" zone. The frame is galvanised pipe with roto-moulded tunnel and slide and a play rope net, installed self-standing or grouted.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hopping",
+      "imgSrc": "/images/hoping.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hopping"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Crawling",
+      "imgSrc": "/images/crawling.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Crawling"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "30' x 23'4\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "36' x 28'4\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "Jungle Jive-l2 Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/jungle-jive-l2.html"
+   ]
+  ],
+  "product": {
+   "name": "Jungle Jive-l2",
+   "sku": "F0RMPFS02",
+   "images": [
+    "/images/JungleJive-Level2-product-image.jpg",
+    "/images/JungleJive-Level2-product-image2.jpg"
+   ],
+   "description": "Jungle Jive-l2 is a larger version of the flower-canopy design, made for children aged 5 to 12. Under the canopy there is a slide, a tunnel and a climbing net, with activity arms reaching out from the main tower. Children balance, hop and crawl along the lower parts and climb the net to reach the slide, so it builds more physical challenge than the l1. The product area is 30' x 23'4\" and the safe play area is 36' x 28'4\", which suits a school or a society with older children. Colour is listed as Multi Color, and capacity is listed as 15 children. The 3-year warranty on Jungle Jive-l2 covers galvanised pipes, roto-moulded parts, composite laminates and play rope. We can suggest where to place it so the tunnel entry stays visible to parents.",
+   "category": "Jungle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/forestia.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "36' x 28'4\""
+    ],
+    [
+     "Length",
+     "914.4 cm"
+    ],
+    [
+     "Width",
+     "711.2 cm"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

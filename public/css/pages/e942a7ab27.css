@@ -1,0 +1,12 @@
+/* page styles; in the theme layer so the theme's more specific rules still apply, as on the original site */
+@layer legacy {
+.outnet b {
+				font-weight: 700;
+			}
+
+			@media (min-width: 1200px) {
+				.container {
+					max-width: 1250px;
+				}
+			}
+}

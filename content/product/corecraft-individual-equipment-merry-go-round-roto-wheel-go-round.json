@@ -1,0 +1,407 @@
+{
+ "path": "/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Roto Wheel Go Round Merry-Go-Round | CoreCraft | FunPlay",
+  "description": "Roto Wheel Go Round Merry-Go-Round (FPMGR02) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Roto Wheel Go Round Merry-Go-Round | CoreCraft | FunPlay",
+   "og:description": "Roto Wheel Go Round Merry-Go-Round (FPMGR02) from the CoreCraft Merry-Go-Rounds range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html",
+   "og:image": "https://funplaysystems.com/images/Roto-Wheel-Go-Round-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Roto Wheel Go Round Merry-Go-Round",
+ "data": {
+  "name": "Roto Wheel Go Round",
+  "sku": "FPMGR02",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #424f7b 0% 33.33%,\n                    #db1b44 33.33% 66.66%,\n                    #c2e7ef 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Roto-Wheel-Go-Round-Product-Image.jpg"
+    ],
+    "alts": [
+     "Roto Wheel Go Round wheel merry-go-round with pink and blue seats and orange steering wheel"
+    ]
+   }
+  ],
+  "description": "The Roto Wheel Go Round puts an orange steering wheel at the centre of a small merry-go-round, with pink and blue seats around it. Children take turns steering and riding, so play often turns into a pretend drive. It suits the 3 to 9 years Key User Group and seats four. The unit takes up 4' x 4' and needs a safe play area of 10' x 10'. Its colours and steering wheel make it popular with younger children in a society garden or play school. The finish is multi colour. Galvanised pipes and roto-moulded parts carry a 3-year warranty, and the bearing is covered for 1 year. Send us your site details for a layout drawing and a quote.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Merry Go Round",
+   "Roto Wheel Go Round"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/merry-go-round.html",
+  "image": "/images/Roto-Wheel-Go-Round-Product-Image.jpg",
+  "cardImage": "/images/Roto-Wheel-Go-Round-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Roto Wheel Go Round ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Merry-Go-Round"
+      ]
+     }
+    ],
+    "pText": "FPMGR02",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #424f7b 0% 33.33%,\n                    #db1b44 33.33% 66.66%,\n                    #c2e7ef 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Roto-Wheel-Go-Round-Product-Image.jpg"
+       ],
+       "alts": [
+        "Roto Wheel Go Round wheel merry-go-round with pink and blue seats and orange steering wheel"
+       ]
+      }
+     ],
+     "name": "Roto Wheel Go Round"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Roto Wheel Go Round wheel merry-go-round with pink and blue seats and orange steering wheel\"]",
+      "divDataImgs": "[\"/images/Roto-Wheel-Go-Round-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #424f7b 0% 33.33%, #db1b44 33.33% 66.66%, #c2e7ef 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/merry-go-round.html"
+        },
+        "c": [
+         "Merry Go Round"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Roto Wheel Go Round"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Roto Wheel Go Round puts an orange steering wheel at the centre of a small merry-go-round, with pink and blue seats around it. Children take turns steering and riding, so play often turns into a pretend drive. It suits the 3 to 9 years Key User Group and seats four. The unit takes up 4' x 4' and needs a safe play area of 10' x 10'. Its colours and steering wheel make it popular with younger children in a society garden or play school. The finish is multi colour. Galvanised pipes and roto-moulded parts carry a 3-year warranty, and the bearing is covered for 1 year. Send us your site details for a layout drawing and a quote."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The seats and steering wheel are roto-moulded, and the base frame is galvanised steel. Grouting or a self-standing base, whichever suits your ground, holds it in place. Keep the 10' x 10' zone clear, place it on an impact-absorbing surface, and check that the steering wheel and bearing turn freely at each maintenance visit.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 to 9 Years"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "4' x 4'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "10' x 10'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Merry Go Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round.html"
+   ],
+   [
+    "Roto Wheel Go Round Merry-Go-Round",
+    "https://funplaysystems.com/corecraft/individual-equipment/merry-go-round/roto-wheel-go-round.html"
+   ]
+  ],
+  "product": {
+   "name": "Roto Wheel Go Round",
+   "sku": "FPMGR02",
+   "images": [
+    "/images/Roto-Wheel-Go-Round-Product-Image.jpg"
+   ],
+   "description": "The Roto Wheel Go Round puts an orange steering wheel at the centre of a small merry-go-round, with pink and blue seats around it. Children take turns steering and riding, so play often turns into a pretend drive. It suits the 3 to 9 years Key User Group and seats four. The unit takes up 4' x 4' and needs a safe play area of 10' x 10'. Its colours and steering wheel make it popular with younger children in a society garden or play school. The finish is multi colour. Galvanised pipes and roto-moulded parts carry a 3-year warranty, and the bearing is covered for 1 year. Send us your site details for a layout drawing and a quote.",
+   "category": "Merry-Go-Round",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/merry-go-round.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "4"
+    ],
+    [
+     "Safe play area",
+     "10' x 10'"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

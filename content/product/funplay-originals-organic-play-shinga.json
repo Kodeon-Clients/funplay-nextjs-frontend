@@ -1,0 +1,760 @@
+{
+ "path": "/funplay-originals/organic-play/shinga.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Shinga Spiral Climber | FunPlay Originals | FunPlay Systems",
+  "description": "Shinga Spiral Climber (FOO05), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/funplay-originals/organic-play/shinga.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Shinga Spiral Climber | FunPlay Originals | FunPlay Systems",
+   "og:description": "Shinga Spiral Climber (FOO05), a FunPlay Originals Organic Play design. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/funplay-originals/organic-play/shinga.html",
+   "og:image": "https://funplaysystems.com/images/Shinga-1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Shinga Spiral Climber",
+ "data": {
+  "name": "Shinga",
+  "sku": "FOO05",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: conic-gradient(\n                    #d84e0c 0% 33.33%,\n                    #d84e0c 33.33% 66.66%,\n                    #d84e0c 66.66% 100%\n                  );\n                ",
+    "images": [
+     "/images/Shinga-1.jpg",
+     "/images/Shinga-2.jpg",
+     "/images/Shinga-8.jpg",
+     "/images/Shinga-9.jpg",
+     "/images/Shinga-10.jpg"
+    ],
+    "alts": [
+     "Shinga bull-horn spiral climbers in play orange on a grass mound",
+     "Shinga orange spiral horn climbers with wavy balance path",
+     "Front view of Shinga two spiral horn climbers facing each other",
+     "Shinga pair of orange horn-shaped spiral climbers with balance beam between",
+     "Side view of Shinga orange horn climbers on a grass base"
+    ]
+   },
+   {
+    "name": "Cherry Red",
+    "swatch": "\n                  background: conic-gradient(\n                    #932321 0% 33.33%,\n                    #932321 33.33% 66.66%,\n                    #932321 66.66% 100%\n                  );\n                  margin-left: -10px;\n                ",
+    "images": [
+     "/images/Shinga-3.jpg",
+     "/images/Shinga-4.jpg",
+     "/images/Shinga-5.jpg",
+     "/images/Shinga-6.jpg",
+     "/images/Shinga-7.jpg"
+    ],
+    "alts": [
+     "Shinga bull-horn spiral climbers in cherry red on a grass base",
+     "Front view of Shinga red spiral horn climbers with wavy balance path",
+     "Shinga cherry red horn climbers facing each other on a grass mound",
+     "Side view of Shinga red spiral horn climbers",
+     "Shinga two red horn-shaped spiral climbers with balance beam"
+    ]
+   }
+  ],
+  "description": "Shinga is a pair of spiral climbers shaped like a bull's horns, facing each other across a wavy balance path that forms the head. Children climb up a horn from either side, meet in the middle and cross over, so two groups play towards each other. The photos show it in Play Orange on a grass mound, and Cherry Red is also offered. The age range is 5 to 12, with room for 15 children. The climber is long and narrow, 22'10\" x 4'9\", with a safe play area of 27'10\" x 9'9\". Climbing and balancing build interaction and parallel play. Its galvanised pipe and moulded parts carry our 3-year warranty. Ask us whether a mound or a flat base suits your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Funplay Originals",
+   "Organic Play",
+   "Shinga"
+  ],
+  "line": "funplay-originals",
+  "series": "/funplay-originals/organic-play.html",
+  "image": "/images/Shinga-1.jpg",
+  "cardImage": "/images/Shinga-1.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Shinga ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Spiral Climber"
+      ]
+     }
+    ],
+    "pText": "FOO05",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: conic-gradient(\n                    #d84e0c 0% 33.33%,\n                    #d84e0c 33.33% 66.66%,\n                    #d84e0c 66.66% 100%\n                  );\n                ",
+       "images": [
+        "/images/Shinga-1.jpg",
+        "/images/Shinga-2.jpg",
+        "/images/Shinga-8.jpg",
+        "/images/Shinga-9.jpg",
+        "/images/Shinga-10.jpg"
+       ],
+       "alts": [
+        "Shinga bull-horn spiral climbers in play orange on a grass mound",
+        "Shinga orange spiral horn climbers with wavy balance path",
+        "Front view of Shinga two spiral horn climbers facing each other",
+        "Shinga pair of orange horn-shaped spiral climbers with balance beam between",
+        "Side view of Shinga orange horn climbers on a grass base"
+       ]
+      },
+      {
+       "name": "Cherry Red",
+       "swatch": "\n                  background: conic-gradient(\n                    #932321 0% 33.33%,\n                    #932321 33.33% 66.66%,\n                    #932321 66.66% 100%\n                  );\n                  margin-left: -10px;\n                ",
+       "images": [
+        "/images/Shinga-3.jpg",
+        "/images/Shinga-4.jpg",
+        "/images/Shinga-5.jpg",
+        "/images/Shinga-6.jpg",
+        "/images/Shinga-7.jpg"
+       ],
+       "alts": [
+        "Shinga bull-horn spiral climbers in cherry red on a grass base",
+        "Front view of Shinga red spiral horn climbers with wavy balance path",
+        "Shinga cherry red horn climbers facing each other on a grass mound",
+        "Side view of Shinga red spiral horn climbers",
+        "Shinga two red horn-shaped spiral climbers with balance beam"
+       ]
+      }
+     ],
+     "name": "Shinga"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Shinga bull-horn spiral climbers in play orange on a grass mound\", \"Shinga orange spiral horn climbers with wavy balance path\", \"Front view of Shinga two spiral horn climbers facing each other\", \"Shinga pair of orange horn-shaped spiral climbers with balance beam between\", \"Side view of Shinga orange horn climbers on a grass base\"]",
+      "divDataImgs": "[\"/images/Shinga-1.jpg\", \"/images/Shinga-2.jpg\", \"/images/Shinga-8.jpg\", \"/images/Shinga-9.jpg\", \"/images/Shinga-10.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #d84e0c 0% 33.33%, #d84e0c 33.33% 66.66%, #d84e0c 66.66% 100% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     },
+     {
+      "divDataAlts": "[\"Shinga bull-horn spiral climbers in cherry red on a grass base\", \"Front view of Shinga red spiral horn climbers with wavy balance path\", \"Shinga cherry red horn climbers facing each other on a grass mound\", \"Side view of Shinga red spiral horn climbers\", \"Shinga two red horn-shaped spiral climbers with balance beam\"]",
+      "divDataImgs": "[\"/images/Shinga-3.jpg\", \"/images/Shinga-4.jpg\", \"/images/Shinga-5.jpg\", \"/images/Shinga-6.jpg\", \"/images/Shinga-7.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #932321 0% 33.33%, #932321 33.33% 66.66%, #932321 66.66% 100% )",
+       "marginLeft": "-10px"
+      },
+      "divText": "",
+      "spanText": "Cherry Red"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals.html"
+        },
+        "c": [
+         "Funplay Originals"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/funplay-originals/organic-play.html"
+        },
+        "c": [
+         "Organic Play"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Shinga"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Shinga is a pair of spiral climbers shaped like a bull's horns, facing each other across a wavy balance path that forms the head. Children climb up a horn from either side, meet in the middle and cross over, so two groups play towards each other. The photos show it in Play Orange on a grass mound, and Cherry Red is also offered. The age range is 5 to 12, with room for 15 children. The climber is long and narrow, 22'10\" x 4'9\", with a safe play area of 27'10\" x 9'9\". Climbing and balancing build interaction and parallel play. Its galvanised pipe and moulded parts carry our 3-year warranty. Ask us whether a mound or a flat base suits your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/funplay-originals/organic-play/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 5-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Skills Development"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Interaction"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Parallel Play"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Shinga horn climbers",
+    "imgSrc": "/images/Shinga-top.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "695.96 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "144.78 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications",
+   "props": {
+    "pText": "Shinga's horns are galvanised pipe spirals with roto-moulded and composite parts on the balance path. It is installed self-standing or grouted, and a grass mound needs a firm concrete footing beneath. Keep impact flooring or soft ground along both horns, and inspect the spiral joints and balance path regularly.",
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "5 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     }
+    ],
+    "divStyle2": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items3": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Interaction"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Parallel Play"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle3": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "22'10\" x 4'9\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "27'10\" x 9'9\""
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle4": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items6": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "Funplay Originals",
+    "https://funplaysystems.com/funplay-originals.html"
+   ],
+   [
+    "Organic Play",
+    "https://funplaysystems.com/funplay-originals/organic-play.html"
+   ],
+   [
+    "Shinga Spiral Climber",
+    "https://funplaysystems.com/funplay-originals/organic-play/shinga.html"
+   ]
+  ],
+  "product": {
+   "name": "Shinga",
+   "sku": "FOO05",
+   "images": [
+    "/images/Shinga-1.jpg",
+    "/images/Shinga-2.jpg",
+    "/images/Shinga-8.jpg",
+    "/images/Shinga-9.jpg",
+    "/images/Shinga-10.jpg",
+    "/images/Shinga-3.jpg"
+   ],
+   "description": "Shinga is a pair of spiral climbers shaped like a bull's horns, facing each other across a wavy balance path that forms the head. Children climb up a horn from either side, meet in the middle and cross over, so two groups play towards each other. The photos show it in Play Orange on a grass mound, and Cherry Red is also offered. The age range is 5 to 12, with room for 15 children. The climber is long and narrow, 22'10\" x 4'9\", with a safe play area of 27'10\" x 9'9\". Climbing and balancing build interaction and parallel play. Its galvanised pipe and moulded parts carry our 3-year warranty. Ask us whether a mound or a flat base suits your site.",
+   "category": "Spiral Climber",
+   "line": "funplay-originals",
+   "series": "/funplay-originals/organic-play.html",
+   "colours": [
+    "Play Orange",
+    "Cherry Red"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "5 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "5+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "27'10\" x 9'9\""
+    ],
+    [
+     "Length",
+     "695.96 cm"
+    ],
+    [
+     "Width",
+     "144.78 cm"
+    ],
+    [
+     "Activities",
+     "Climbing Balancing"
+    ],
+    [
+     "Skills developed",
+     "Interaction Parallel Play"
+    ],
+    [
+     "Colour options",
+     "Play Orange, Cherry Red"
+    ]
+   ]
+  }
+ }
+}

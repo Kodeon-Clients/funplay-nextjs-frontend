@@ -1,0 +1,394 @@
+{
+ "path": "/corecraft/individual-equipment/climber/wall-rock-climber.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Wall Rock Climber | CoreCraft | FunPlay Systems",
+  "description": "Wall Rock Climber (FPCL12) from the CoreCraft Climbers range: 15 kids at a time, safe play area 14' x 3'. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/wall-rock-climber.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Wall Rock Climber | CoreCraft | FunPlay Systems",
+   "og:description": "Wall Rock Climber (FPCL12) from the CoreCraft Climbers range: 15 kids at a time, safe play area 14' x 3'. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/wall-rock-climber.html",
+   "og:image": "https://funplaysystems.com/images/wall-climber-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Wall Rock Climber",
+ "data": {
+  "name": "Wall Rock Climber",
+  "sku": "FPCL12",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+    "images": [
+     "/images/wall-climber-product-image.jpg"
+    ],
+    "alts": [
+     "Wall Rock Climber green freestanding rock climbing wall with multi-colour holds"
+    ]
+   }
+  ],
+  "description": "The Wall Rock Climber is a green freestanding climbing wall dotted with multi-colour holds. At 8 ft tall and 12 ft long, it gives several children room to climb side by side, each picking a route across the coloured holds. Rock climbing asks children to plan the next move, test their footing and use their legs as much as their arms. Schools often use a wall like this for structured play during games periods, while societies place it as a standalone challenge for older children. Because it is freestanding, it can go near a boundary or in the middle of a lawn. Our 3-year warranty covers galvanised pipes, roto-moulded parts and composite laminates against manufacturing defects. Ask us for a layout drawing with the wall marked on your site.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Wall Rock Climber"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/wall-climber-product-image.jpg",
+  "cardImage": "/images/wall-climber-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Wall Rock Climber"
+    ],
+    "pText": "FPCL12",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+       "images": [
+        "/images/wall-climber-product-image.jpg"
+       ],
+       "alts": [
+        "Wall Rock Climber green freestanding rock climbing wall with multi-colour holds"
+       ]
+      }
+     ],
+     "name": "Wall Rock Climber"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Wall Rock Climber green freestanding rock climbing wall with multi-colour holds\"]",
+      "divDataImgs": "[\"/images/wall-climber-product-image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Wall Rock Climber"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Wall Rock Climber is a green freestanding climbing wall dotted with multi-colour holds. At 8 ft tall and 12 ft long, it gives several children room to climb side by side, each picking a route across the coloured holds. Rock climbing asks children to plan the next move, test their footing and use their legs as much as their arms. Schools often use a wall like this for structured play during games periods, while societies place it as a standalone challenge for older children. Because it is freestanding, it can go near a boundary or in the middle of a lawn. Our 3-year warranty covers galvanised pipes, roto-moulded parts and composite laminates against manufacturing defects. Ask us for a layout drawing with the wall marked on your site."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "The wall stands on its own frame and is made from weather-proof, corrosion-resistant materials. We install it self-standing or grouted. Lay an impact-absorbing surface along the full climbing face, check every hold for tightness during maintenance, and replace any hold that turns or cracks before children use the wall again.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "12' x 3\" (8' Ht)"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "14' x 3'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Wall Rock Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/wall-rock-climber.html"
+   ]
+  ],
+  "product": {
+   "name": "Wall Rock Climber",
+   "sku": "FPCL12",
+   "images": [
+    "/images/wall-climber-product-image.jpg"
+   ],
+   "description": "The Wall Rock Climber is a green freestanding climbing wall dotted with multi-colour holds. At 8 ft tall and 12 ft long, it gives several children room to climb side by side, each picking a route across the coloured holds. Rock climbing asks children to plan the next move, test their footing and use their legs as much as their arms. Schools often use a wall like this for structured play during games periods, while societies place it as a standalone challenge for older children. Because it is freestanding, it can go near a boundary or in the middle of a lawn. Our 3-year warranty covers galvanised pipes, roto-moulded parts and composite laminates against manufacturing defects. Ask us for a layout drawing with the wall marked on your site.",
+   "category": "Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "14' x 3'"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}

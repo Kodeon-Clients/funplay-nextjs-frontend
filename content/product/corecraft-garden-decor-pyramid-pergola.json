@@ -1,0 +1,225 @@
+{
+ "path": "/corecraft/garden-decor/pyramid-pergola.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Pyramid Pergola | CoreCraft | FunPlay Systems",
+  "description": "Pyramid Pergola (FPGD004) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/garden-decor/pyramid-pergola.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Pyramid Pergola | CoreCraft | FunPlay Systems",
+   "og:description": "Pyramid Pergola (FPGD004) from the CoreCraft Garden Decor range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/garden-decor/pyramid-pergola.html",
+   "og:image": "https://funplaysystems.com/images/PYRAMID-PERGOLA-1-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Pyramid Pergola",
+ "data": {
+  "name": "Pyramid Pergola",
+  "sku": "FPGD004",
+  "colours": [
+   {
+    "name": "Sand Beige",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+    "images": [
+     "/images/PYRAMID-PERGOLA-1-product-image.jpg",
+     "/images/pyramid-pergola-2-product-image.jpg",
+     "/images/pyramid-pergola-3-product-image.jpg"
+    ],
+    "alts": [
+     "Pyramid Pergola wooden garden pergola with pyramid roof and coloured panels",
+     "Pyramid Pergola",
+     "Pyramid Pergola"
+    ]
+   }
+  ],
+  "description": "The Pyramid Pergola stands on four tall wooden posts and carries a stepped pyramid roof finished in wood. Just below the roof edge, a band of coloured panels in red, blue and green wraps around all four sides, which makes the structure easy to spot across a lawn. The space underneath is open, so it works as a shaded marker where paths meet, a waiting spot outside a play area or a feature on a resort lawn. It belongs to our CoreCraft garden decor range, and the listed colour is Sand Beige. The photos do not show seating, so tell us if you want benches placed underneath. We confirm size and warranty terms along with the quote and layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Pyramid Pergola"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/garden-decor.html",
+  "image": "/images/PYRAMID-PERGOLA-1-product-image.jpg",
+  "cardImage": "/images/PYRAMID-PERGOLA-1-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Pyramid Pergola"
+    ],
+    "pText": "FPGD004",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Sand Beige",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #d2b48c 50%,\n                    #d2b48c 50%\n                  );\n                ",
+       "images": [
+        "/images/PYRAMID-PERGOLA-1-product-image.jpg",
+        "/images/pyramid-pergola-2-product-image.jpg",
+        "/images/pyramid-pergola-3-product-image.jpg"
+       ],
+       "alts": [
+        "Pyramid Pergola wooden garden pergola with pyramid roof and coloured panels",
+        "Pyramid Pergola",
+        "Pyramid Pergola"
+       ]
+      }
+     ],
+     "name": "Pyramid Pergola"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Pyramid Pergola wooden garden pergola with pyramid roof and coloured panels\", \"Pyramid Pergola\", \"Pyramid Pergola\"]",
+      "divDataImgs": "[\"/images/PYRAMID-PERGOLA-1-product-image.jpg\", \"/images/pyramid-pergola-2-product-image.jpg\", \"/images/pyramid-pergola-3-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #d2b48c 50%, #d2b48c 50% )"
+      },
+      "divText": "",
+      "spanText": "Sand Beige"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Pyramid Pergola"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Pyramid Pergola stands on four tall wooden posts and carries a stepped pyramid roof finished in wood. Just below the roof edge, a band of coloured panels in red, blue and green wraps around all four sides, which makes the structure easy to spot across a lawn. The space underneath is open, so it works as a shaded marker where paths meet, a waiting spot outside a play area or a feature on a resort lawn. It belongs to our CoreCraft garden decor range, and the listed colour is Sand Beige. The photos do not show seating, so tell us if you want benches placed underneath. We confirm size and warranty terms along with the quote and layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "Four posts hold up a heavy roof, so on most sites we grout the Pyramid Pergola into footings after checking the ground. Inspect the roof fixings and coloured panels after the monsoon and after strong wind. Do not let children climb the posts, and recoat the exposed wood when it starts to grey."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Pyramid Pergola",
+    "https://funplaysystems.com/corecraft/garden-decor/pyramid-pergola.html"
+   ]
+  ],
+  "product": {
+   "name": "Pyramid Pergola",
+   "sku": "FPGD004",
+   "images": [
+    "/images/PYRAMID-PERGOLA-1-product-image.jpg",
+    "/images/pyramid-pergola-2-product-image.jpg",
+    "/images/pyramid-pergola-3-product-image.jpg"
+   ],
+   "description": "The Pyramid Pergola stands on four tall wooden posts and carries a stepped pyramid roof finished in wood. Just below the roof edge, a band of coloured panels in red, blue and green wraps around all four sides, which makes the structure easy to spot across a lawn. The space underneath is open, so it works as a shaded marker where paths meet, a waiting spot outside a play area or a feature on a resort lawn. It belongs to our CoreCraft garden decor range, and the listed colour is Sand Beige. The photos do not show seating, so tell us if you want benches placed underneath. We confirm size and warranty terms along with the quote and layout drawing.",
+   "category": "Garden Pergola",
+   "line": "corecraft",
+   "series": "/corecraft/garden-decor.html",
+   "colours": [
+    "Sand Beige"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Sand Beige"
+    ]
+   ]
+  }
+ }
+}

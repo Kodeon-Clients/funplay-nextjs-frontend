@@ -1,0 +1,748 @@
+{
+ "path": "/corecraft/forestia/gloracia.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Gloracia Jungle Multi Play Station | CoreCraft | FunPlay",
+  "description": "Gloracia Jungle Multi Play Station (F0RMPFS03) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/forestia/gloracia.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Gloracia Jungle Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Gloracia Jungle Multi Play Station (F0RMPFS03) from the CoreCraft Forestia range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/forestia/gloracia.html",
+   "og:image": "https://funplaysystems.com/images/Gloracia-yellow-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Gloracia Jungle Multi Play Station",
+ "data": {
+  "name": "Gloracia",
+  "sku": "F0RMPFS03",
+  "colours": [
+   {
+    "name": "Play Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ebd049 50%,\n                    #2c5b6f 50%\n                  );\n                ",
+    "images": [
+     "/images/Gloracia-yellow-product-image.jpg",
+     "/images/Gloracia-yellow2-product-image.jpg"
+    ],
+    "alts": [
+     "Gloracia tree-house playground in play yellow with palm towers, slide, swing and climbing net",
+     "Top view of Gloracia playground with slide, tower and activity arm"
+    ]
+   },
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f2a100 50%,\n                    #538b84 50%\n                  );\n                ",
+    "images": [
+     "/images/Gloracia-orange-product-image.jpg",
+     "/images/Gloracia-orange-product-image.jpg"
+    ],
+    "alts": [
+     "Gloracia tree-house playground in play orange with palm towers, slide and climbing net",
+     "Gloracia tree-house playground in play orange with palm towers, slide and climbing net"
+    ]
+   },
+   {
+    "name": "Lemon Yellow",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ecef00 50%,\n                    #538b84 50%\n                  );\n                ",
+    "images": [
+     "/images/Gloracia-green-product-image.jpg",
+     "/images/Gloracia-green-product-image.jpg"
+    ],
+    "alts": [
+     "Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber",
+     "Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber"
+    ]
+   }
+  ],
+  "description": "Gloracia is a tree-house style play station in Play Yellow. It has palm towers, a slide, a swing and a climbing net, plus an activity arm reaching out from the main tower. Children climb the net, hang from the arm and come down the slide, so the play is active without being spread too wide. The product area is 23'8\" x 20'1\", with a safe play area of 29'8\" x 26'1\", which fits a mid-sized society garden or school ground. Children from 3 to 12 can use it. Apart from Play Yellow, it is offered in Play Orange and Lemon Yellow, and capacity is listed as 15 children. Gloracia comes with a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us photos of your site for a layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Forestia",
+   "Gloracia/li>"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/forestia.html",
+  "image": "/images/Gloracia-yellow-product-image.jpg",
+  "cardImage": "/images/Gloracia-yellow-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Gloracia ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Jungle Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "F0RMPFS03",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ebd049 50%,\n                    #2c5b6f 50%\n                  );\n                ",
+       "images": [
+        "/images/Gloracia-yellow-product-image.jpg",
+        "/images/Gloracia-yellow2-product-image.jpg"
+       ],
+       "alts": [
+        "Gloracia tree-house playground in play yellow with palm towers, slide, swing and climbing net",
+        "Top view of Gloracia playground with slide, tower and activity arm"
+       ]
+      },
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #f2a100 50%,\n                    #538b84 50%\n                  );\n                ",
+       "images": [
+        "/images/Gloracia-orange-product-image.jpg",
+        "/images/Gloracia-orange-product-image.jpg"
+       ],
+       "alts": [
+        "Gloracia tree-house playground in play orange with palm towers, slide and climbing net",
+        "Gloracia tree-house playground in play orange with palm towers, slide and climbing net"
+       ]
+      },
+      {
+       "name": "Lemon Yellow",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ecef00 50%,\n                    #538b84 50%\n                  );\n                ",
+       "images": [
+        "/images/Gloracia-green-product-image.jpg",
+        "/images/Gloracia-green-product-image.jpg"
+       ],
+       "alts": [
+        "Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber",
+        "Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber"
+       ]
+      }
+     ],
+     "name": "Gloracia"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Gloracia tree-house playground in play yellow with palm towers, slide, swing and climbing net\", \"Top view of Gloracia playground with slide, tower and activity arm\"]",
+      "divDataImgs": "[\"/images/Gloracia-yellow-product-image.jpg\", \"/images/Gloracia-yellow2-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ebd049 50%, #2c5b6f 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Yellow"
+     },
+     {
+      "divDataAlts": "[\"Gloracia tree-house playground in play orange with palm towers, slide and climbing net\", \"Gloracia tree-house playground in play orange with palm towers, slide and climbing net\"]",
+      "divDataImgs": "[\"/images/Gloracia-orange-product-image.jpg\", \"/images/Gloracia-orange-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #f2a100 50%, #538b84 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     },
+     {
+      "divDataAlts": "[\"Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber\", \"Gloracia tree-house playground in lemon yellow with palm towers, slides and net climber\"]",
+      "divDataImgs": "[\"/images/Gloracia-green-product-image.jpg\", \"/images/Gloracia-green-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ecef00 50%, #538b84 50% )"
+      },
+      "divText": "",
+      "spanText": "Lemon Yellow"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/forestia.html"
+        },
+        "c": [
+         "Forestia"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Gloracia/li>"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Gloracia is a tree-house style play station in Play Yellow. It has palm towers, a slide, a swing and a climbing net, plus an activity arm reaching out from the main tower. Children climb the net, hang from the arm and come down the slide, so the play is active without being spread too wide. The product area is 23'8\" x 20'1\", with a safe play area of 29'8\" x 26'1\", which fits a mid-sized society garden or school ground. Children from 3 to 12 can use it. Apart from Play Yellow, it is offered in Play Orange and Lemon Yellow, and capacity is listed as 15 children. Gloracia comes with a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us photos of your site for a layout."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/forestia/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Gloracia playground layout",
+    "imgSrc": "/images/Gloracia.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "721.36 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "612.14 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Gloracia has a swing as well as a slide, so the safe zone of 29'8\" x 26'1\" must include clear space in the swing path. Frames are galvanised pipe, with roto-moulded palm towers and slide and a play rope climbing net. It can be self-standing or grouted. Check the swing fittings and net knots during routine visits.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#e6f5fc",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "23'8\" x 20'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "29'8\" x 26'1\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#e6f5fc"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Forestia",
+    "https://funplaysystems.com/corecraft/forestia.html"
+   ],
+   [
+    "Gloracia Jungle Multi Play Station",
+    "https://funplaysystems.com/corecraft/forestia/gloracia.html"
+   ]
+  ],
+  "product": {
+   "name": "Gloracia",
+   "sku": "F0RMPFS03",
+   "images": [
+    "/images/Gloracia-yellow-product-image.jpg",
+    "/images/Gloracia-yellow2-product-image.jpg",
+    "/images/Gloracia-orange-product-image.jpg",
+    "/images/Gloracia-orange-product-image.jpg",
+    "/images/Gloracia-green-product-image.jpg",
+    "/images/Gloracia-green-product-image.jpg"
+   ],
+   "description": "Gloracia is a tree-house style play station in Play Yellow. It has palm towers, a slide, a swing and a climbing net, plus an activity arm reaching out from the main tower. Children climb the net, hang from the arm and come down the slide, so the play is active without being spread too wide. The product area is 23'8\" x 20'1\", with a safe play area of 29'8\" x 26'1\", which fits a mid-sized society garden or school ground. Children from 3 to 12 can use it. Apart from Play Yellow, it is offered in Play Orange and Lemon Yellow, and capacity is listed as 15 children. Gloracia comes with a 3-year warranty on galvanised pipes, roto-moulded parts, composite laminates and play rope. Send us photos of your site for a layout.",
+   "category": "Jungle Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/forestia.html",
+   "colours": [
+    "Play Yellow",
+    "Play Orange",
+    "Lemon Yellow"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "29'8\" x 26'1\""
+    ],
+    [
+     "Length",
+     "721.36 cm"
+    ],
+    [
+     "Width",
+     "612.14 cm"
+    ],
+    [
+     "Colour options",
+     "Play Yellow, Play Orange, Lemon Yellow"
+    ]
+   ]
+  }
+ }
+}

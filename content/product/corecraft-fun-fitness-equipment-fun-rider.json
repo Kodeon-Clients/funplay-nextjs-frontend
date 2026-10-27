@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/fun-rider.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Fun Rider Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Fun Rider Outdoor Gym Equipment (FFE023) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Fun Rider Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Fun Rider Outdoor Gym Equipment (FFE023) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html",
+   "og:image": "https://funplaysystems.com/images/fun-rider-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Fun Rider Outdoor Gym Equipment",
+ "data": {
+  "name": "Fun Rider",
+  "sku": "FFE023",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/fun-rider-product-image.jpg"
+    ],
+    "alts": [
+     "Fun Rider outdoor horse-rider exercise machine with orange seat and handlebar"
+    ]
+   }
+  ],
+  "description": "The Fun Rider is a horse-rider machine with an orange seat and handlebar. The user sits, pushes with the feet and pulls the handlebar at the same time, rising and lowering in a rowing-like motion. It works the arms, back and legs together, so one machine covers a lot of the body. Users of most ages can manage it because they set their own pace. The Fun Rider comes in Play Orange and belongs to our Fun Fitness outdoor gym range. We share the exact footprint and warranty terms with every quote. Our sales team will confirm the Fun Rider's warranty; our standard cover is 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include it in your park or society layout.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Fun Rider"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/fun-rider-product-image.jpg",
+  "cardImage": "/images/fun-rider-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Fun Rider ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE023",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/fun-rider-product-image.jpg"
+       ],
+       "alts": [
+        "Fun Rider outdoor horse-rider exercise machine with orange seat and handlebar"
+       ]
+      }
+     ],
+     "name": "Fun Rider"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Fun Rider outdoor horse-rider exercise machine with orange seat and handlebar\"]",
+      "divDataImgs": "[\"/images/fun-rider-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Fun Rider"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Fun Rider is a horse-rider machine with an orange seat and handlebar. The user sits, pushes with the feet and pulls the handlebar at the same time, rising and lowering in a rowing-like motion. It works the arms, back and legs together, so one machine covers a lot of the body. Users of most ages can manage it because they set their own pace. The Fun Rider comes in Play Orange and belongs to our Fun Fitness outdoor gym range. We share the exact footprint and warranty terms with every quote. Our sales team will confirm the Fun Rider's warranty; our standard cover is 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include it in your park or society layout."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The Fun Rider has several linked pivots between the seat, footrests and handlebar, so check each joint and bearing for looseness at every service. Installation is self-standing or grouted, chosen after we see your ground. Keep space behind the seat clear, because the seat arm moves as the user rides."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Fun Rider Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/fun-rider.html"
+   ]
+  ],
+  "product": {
+   "name": "Fun Rider",
+   "sku": "FFE023",
+   "images": [
+    "/images/fun-rider-product-image.jpg"
+   ],
+   "description": "The Fun Rider is a horse-rider machine with an orange seat and handlebar. The user sits, pushes with the feet and pulls the handlebar at the same time, rising and lowering in a rowing-like motion. It works the arms, back and legs together, so one machine covers a lot of the body. Users of most ages can manage it because they set their own pace. The Fun Rider comes in Play Orange and belongs to our Fun Fitness outdoor gym range. We share the exact footprint and warranty terms with every quote. Our sales team will confirm the Fun Rider's warranty; our standard cover is 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include it in your park or society layout.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

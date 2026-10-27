@@ -1,0 +1,224 @@
+{
+ "path": "/corecraft/fun-fitness-equipment/chest-press-double.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Chest Press Double Outdoor Gym Equipment | FunPlay Systems",
+  "description": "Chest Press Double Outdoor Gym Equipment (FFE005D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press-double.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Chest Press Double Outdoor Gym Equipment | FunPlay Systems",
+   "og:description": "Chest Press Double Outdoor Gym Equipment (FFE005D) from the CoreCraft Fun Fitness range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press-double.html",
+   "og:image": "https://funplaysystems.com/images/chest-press-double-product-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Chest Press Double Outdoor Gym Equipment",
+ "data": {
+  "name": "Chest Press Double",
+  "sku": "FFE005D",
+  "colours": [
+   {
+    "name": "Play Orange",
+    "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+    "images": [
+     "/images/chest-press-double-product-image.jpg"
+    ],
+    "alts": [
+     "Chest Press Double two-user outdoor chest press station with orange seats"
+    ]
+   }
+  ],
+  "description": "The Chest Press Double has two seats facing pressing handles, so two people can do the same upper-body exercise side by side. Seated users push the handles forward and let them return, working the chest, shoulders and arms against their own body weight. A double unit is useful where the gym gets busy at fixed times, such as before office hours in a corporate campus or after school in a society. It comes in Play Orange, with orange seats, as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard warranty gives 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include the Chest Press Double on your layout drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Fun Fitness Equipment",
+   "Chest Press Double"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/fun-fitness-equipment.html",
+  "image": "/images/chest-press-double-product-image.jpg",
+  "cardImage": "/images/chest-press-double-product-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Chest Press Double ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Outdoor Gym Equipment"
+      ]
+     }
+    ],
+    "pText": "FFE005D",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Orange",
+       "swatch": "\n                  background: linear-gradient(\n                    to right,\n                    #ff6400 50%,\n                    #ff6400 50%\n                  );\n                ",
+       "images": [
+        "/images/chest-press-double-product-image.jpg"
+       ],
+       "alts": [
+        "Chest Press Double two-user outdoor chest press station with orange seats"
+       ]
+      }
+     ],
+     "name": "Chest Press Double"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Chest Press Double two-user outdoor chest press station with orange seats\"]",
+      "divDataImgs": "[\"/images/chest-press-double-product-image.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient( to right, #ff6400 50%, #ff6400 50% )"
+      },
+      "divText": "",
+      "spanText": "Play Orange"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/fun-fitness-equipment.html"
+        },
+        "c": [
+         "Fun Fitness Equipment"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Chest Press Double"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "The Chest Press Double has two seats facing pressing handles, so two people can do the same upper-body exercise side by side. Seated users push the handles forward and let them return, working the chest, shoulders and arms against their own body weight. A double unit is useful where the gym gets busy at fixed times, such as before office hours in a corporate campus or after school in a society. It comes in Play Orange, with orange seats, as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard warranty gives 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include the Chest Press Double on your layout drawing."
+     },
+     {
+      "pClass": "productdescription mt-15px",
+      "pText": "The pressing arms swing on pivots, so check bearings and seat fixings during routine maintenance. We install the double press self-standing or grouted. Leave clear space in front of both handle sets, and place it where users can see each other, which helps when two people are training together."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Fun Fitness Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment.html"
+   ],
+   [
+    "Chest Press Double Outdoor Gym Equipment",
+    "https://funplaysystems.com/corecraft/fun-fitness-equipment/chest-press-double.html"
+   ]
+  ],
+  "product": {
+   "name": "Chest Press Double",
+   "sku": "FFE005D",
+   "images": [
+    "/images/chest-press-double-product-image.jpg"
+   ],
+   "description": "The Chest Press Double has two seats facing pressing handles, so two people can do the same upper-body exercise side by side. Seated users push the handles forward and let them return, working the chest, shoulders and arms against their own body weight. A double unit is useful where the gym gets busy at fixed times, such as before office hours in a corporate campus or after school in a society. It comes in Play Orange, with orange seats, as part of our Fun Fitness range. We confirm the footprint and the warranty on this unit in writing with your quote. Our standard warranty gives 3 years on galvanised pipes and 1 year on bearings and spare parts. Ask us to include the Chest Press Double on your layout drawing.",
+   "category": "Outdoor Gym Equipment",
+   "line": "corecraft",
+   "series": "/corecraft/fun-fitness-equipment.html",
+   "colours": [
+    "Play Orange"
+   ],
+   "specs": [
+    [
+     "Colour options",
+     "Play Orange"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,432 @@
+{
+ "path": "/outdoor-playground-equipment-manufacturer-in-lucknow.html",
+ "type": "city-playground",
+ "header": "transparent",
+ "seo": {
+  "title": "Playground Equipment Manufacturer in Lucknow | FunPlay",
+  "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Lucknow. Made in our Vasai factory. Get a free quote.",
+  "canonical": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-lucknow.html",
+  "robots": null,
+  "og": {
+   "og:type": "website",
+   "og:title": "Playground Equipment Manufacturer in Lucknow | FunPlay",
+   "og:description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Lucknow. Made in our Vasai factory. Get a free quote.",
+   "og:url": "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-lucknow.html",
+   "og:image": "https://funplaysystems.com/images/CoreCraft-cat1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "styles": [
+  "20b1669e7a"
+ ],
+ "h1": "Outdoor Playground Equipment Manufacturer & Supplier in Lucknow",
+ "data": {
+  "cardImage": "/images/CoreCraft-cat1.jpg"
+ },
+ "sections": [
+  {
+   "component": "CitySection",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/images/product-bg.jpg')"
+    },
+    "pText": "Multi Play Fun System"
+   }
+  },
+  {
+   "component": "CityDownSection",
+   "props": {
+    "h1Text": [
+     "Outdoor Playground Equipment Manufacturer & Supplier in Lucknow"
+    ],
+    "items": [
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "Lucknow has large, planned colonies such as Gomti Nagar, Aliganj and Indira Nagar, each with neighbourhood parks, and a strong base of private schools. Both need outdoor playground equipment that copes with a scorching summer, a damp monsoon and cold, foggy winters. FunPlay Systems makes that equipment at our factory in Vasai and sends it about 1,170 km by road to Lucknow."
+     },
+     {
+      "pClass": "fs-18 lh-30 mt-15px",
+      "pText": "We have been designing and manufacturing play equipment since 2002, with our own design, roto-moulding and fabrication teams. In Lucknow, installation is done by our team or a dealer in north India. We start with your site size, the age group and a few photos, and we reply with a layout and a quote. From there, we manufacture, dispatch and install."
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityExploreMoreCategories",
+   "props": {
+    "h2Class": "h4 text-white fw-600",
+    "h2Text": "How would you like to start?",
+    "pText": "Turn your playground dreams to reality"
+   }
+  },
+  {
+   "component": "CityWhyChooseUs",
+   "props": {
+    "divText": [
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "fs-24 alt-font text-dark-gray d-block fw-600 ls-minus-1px mb-0"
+      },
+      "c": [
+       "Designer, Manufacturer of Outdoor Play Equipment"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "CityDiv",
+   "props": {
+    "items": [
+     {
+      "richText": {
+       "heading": "Three seasons to plan for",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "From April to June, Lucknow sees intense heat, and plastic and metal in direct sun get hot to the touch. Place slides so they face away from the afternoon sun, or plan shade over the deck. The monsoon brings humid, wet weeks when drainage matters. In December and January, cold mornings and fog keep the equipment damp for hours."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Galvanised steel and roto-moulded plastic handle all three seasons well. Rubber flooring under the equipment is better than packed earth, which turns hard in summer and slippery in the rains."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Equipment for Lucknow schools",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Schools usually need separate zones for nursery and primary children, with low slides, spring riders and a small play station for the youngest, and climbers and swings for older pupils. Our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/funplay-originals/khel-khud.html"
+           },
+           "c": [
+            "Khel Khud"
+           ]
+          },
+          " designs, inspired by Indian games, are popular with schools that want group play."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Tell us how many children use the ground during a break, and we will suggest a layout that spreads them across several pieces."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Schools also ask about cleaning. Plastic parts need only a wash with water, which a school's own staff can manage."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Parks, societies and housing projects",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Parks run by the municipal corporation and by the Lucknow Development Authority see families every evening, so durable, simple pieces work best there. New apartment projects on the city's edges want a compact play station ready before handover."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "We also supply nearby cities such as ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-playground-equipment-manufacturer-in-kanpur.html"
+           },
+           "c": [
+            "Kanpur"
+           ]
+          },
+          ". For adult fitness in the same park, see our ",
+          {
+           "tag": "a",
+           "attrs": {
+            "href": "/outdoor-gym-equipment-manufacturer-supplier-lucknow.html"
+           },
+           "c": [
+            "outdoor gym equipment in Lucknow"
+           ]
+          },
+          "."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Many colonies have a park in every sector, so equipment that is easy to maintain matters to the committee that runs it."
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "richText": {
+       "heading": "Starting a Lucknow project",
+       "className": "pt-0 pb-50px",
+       "content": [
+        {
+         "tag": "p",
+         "c": [
+          "Send us the length and width of your ground, a few photos and the age group of the children. We suggest equipment, mark the safe play area on a layout drawing and share a quote. After approval, we manufacture at Vasai and dispatch by road."
+         ]
+        },
+        {
+         "tag": "p",
+         "c": [
+          "Choose a colour scheme early. We have more than 15 roto-moulded shades, and schools often match the equipment to their uniform or building colours. Design changes can be made on request before manufacture."
+         ]
+        }
+       ]
+      }
+     }
+    ],
+    "cityFacts": {
+     "heading": "FunPlay in Lucknow",
+     "facts": [
+      {
+       "label": "Factory",
+       "value": "Vasai East, Palghar district, Maharashtra"
+      },
+      {
+       "label": "Distance",
+       "value": "About 1,170 km from our Vasai factory (straight line)"
+      },
+      {
+       "label": "Delivery and installation",
+       "value": "By road from Vasai; installed by our team or a local dealer"
+      },
+      {
+       "label": "Also available",
+       "value": "Outdoor gym equipment in Lucknow",
+       "href": "/outdoor-gym-equipment-manufacturer-supplier-lucknow.html"
+      },
+      {
+       "label": "Sales enquiries",
+       "value": "+91 902 830 2266 · sales@funplaysystems.com",
+       "href": "tel:+919028302266"
+      }
+     ]
+    },
+    "faq": {
+     "items": [
+      {
+       "q": "Do you install playground equipment in Lucknow?",
+       "a": "Yes. We manufacture at our Vasai factory, send the equipment to Lucknow by road and install it with our own team or a dealer in north India. We plan the installation once the ground is ready and the base has been prepared."
+      },
+      {
+       "q": "Which surface is best under play equipment in Lucknow?",
+       "a": "Rubber flooring on a level, well-drained base. It cushions falls, stays usable in the rains and does not crack like packed earth in the summer heat. We can supply it with the equipment."
+      },
+      {
+       "q": "Can you plan a playground for separate age groups in a school?",
+       "a": "Yes. Share the size of the ground and the age groups, and we will send a layout with separate zones and the safe play area marked for each piece. Younger children then play apart from older pupils during breaks."
+      },
+      {
+       "q": "What does your warranty cover?",
+       "a": "Manufacturing defects for three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and for one year on springs, bearings and spare parts, when installed and maintained as instructed."
+      }
+     ],
+     "id": "city-faq"
+    }
+   }
+  },
+  {
+   "component": "CityOutdoorGymEquipmentSuppliers",
+   "props": {
+    "aHref": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html",
+    "aText": "Delhi & Uttar Pradesh",
+    "spanText": "Lucknow",
+    "h2Text": "Playground equipment suppliers near Lucknow",
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-unnao.html"
+        },
+        "c": [
+         "Playground equipment in Unnao"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-kanpur.html"
+        },
+        "c": [
+         "Playground equipment in Kanpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-raebareli.html"
+        },
+        "c": [
+         "Playground equipment in Raebareli"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-fatehpur.html"
+        },
+        "c": [
+         "Playground equipment in Fatehpur"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-bahraich.html"
+        },
+        "c": [
+         "Playground equipment in Bahraich"
+        ]
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "pText": [
+       "Looking for outdoor gym equipment in Lucknow? ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-gym-equipment-manufacturer-supplier-lucknow.html"
+        },
+        "c": [
+         "Outdoor gym equipment in Lucknow"
+        ]
+       }
+      ]
+     },
+     {
+      "pText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+        },
+        "c": [
+         "See all cities we serve in Delhi & Uttar Pradesh"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/our-network.html"
+        },
+        "c": [
+         "All states"
+        ]
+       },
+       " · ",
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/contact-us.html"
+        },
+        "c": [
+         "Get a quote"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Our Network",
+    "https://funplaysystems.com/our-network.html"
+   ],
+   [
+    "Delhi & Uttar Pradesh",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-delhi-and-up.html"
+   ],
+   [
+    "Outdoor Playground Equipment Manufacturer & Supplier in Lucknow",
+    "https://funplaysystems.com/outdoor-playground-equipment-manufacturer-in-lucknow.html"
+   ]
+  ],
+  "service": {
+   "name": "Outdoor Playground Equipment Manufacturer & Supplier in Lucknow",
+   "serviceType": "Outdoor playground equipment supply and installation",
+   "areaServed": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh"
+   },
+   "description": "FunPlay Systems supplies outdoor playground equipment to schools, societies and parks in Lucknow. Made in our Vasai factory. Get a free quote."
+  },
+  "faq": [
+   [
+    "Do you install playground equipment in Lucknow?",
+    "Yes. We manufacture at our Vasai factory, send the equipment to Lucknow by road and install it with our own team or a dealer in north India. We plan the installation once the ground is ready and the base has been prepared."
+   ],
+   [
+    "Which surface is best under play equipment in Lucknow?",
+    "Rubber flooring on a level, well-drained base. It cushions falls, stays usable in the rains and does not crack like packed earth in the summer heat. We can supply it with the equipment."
+   ],
+   [
+    "Can you plan a playground for separate age groups in a school?",
+    "Yes. Share the size of the ground and the age groups, and we will send a layout with separate zones and the safe play area marked for each piece. Younger children then play apart from older pupils during breaks."
+   ],
+   [
+    "What does your warranty cover?",
+    "Manufacturing defects for three years on galvanised pipes, roto-moulded parts, composite laminates and play rope, and for one year on springs, bearings and spare parts, when installed and maintained as instructed."
+   ]
+  ]
+ }
+}

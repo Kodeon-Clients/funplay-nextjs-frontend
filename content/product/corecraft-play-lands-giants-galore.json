@@ -1,0 +1,700 @@
+{
+ "path": "/corecraft/play-lands/giants-galore.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Giants Galore Multi Play Station | CoreCraft | FunPlay",
+  "description": "Giants Galore Multi Play Station (PLAMPFS01) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/play-lands/giants-galore.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Giants Galore Multi Play Station | CoreCraft | FunPlay",
+   "og:description": "Giants Galore Multi Play Station (PLAMPFS01) from the CoreCraft Play Lands range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/play-lands/giants-galore.html",
+   "og:image": "https://funplaysystems.com/images/play-lands-Giant-Galore.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Giants Galore Multi Play Station",
+ "data": {
+  "name": "Giants Galore",
+  "sku": "PLAMPFS01",
+  "colours": [
+   {
+    "name": "Play Red & Baby Blue",
+    "swatch": "background: linear-gradient(to right, #c6343b 50%, #81bfd1 50%);",
+    "images": [
+     "/images/play-lands-Giant-Galore.jpg",
+     "/images/play-lands-Giant-Galore-3.jpg",
+     "/images/play-lands-Giant-Galore-1.jpg"
+    ],
+    "alts": [
+     "Aerial view of Giants Galore red and blue mega playground with multiple slides and towers",
+     "Giants Galore giant red and baby blue playground with tube slides, octopus figure and towers",
+     "Top view of Giants Galore playground with radiating striped slides and walkways"
+    ]
+   }
+  ],
+  "description": "Giants Galore is the largest unit in Play Lands, covering 54'5\" x 47'1\" before the safe zone is added. An octopus figure sits among Play Red and Baby Blue towers, and striped slides radiate out from the centre along with tube slides and walkways. Children climb up, balance along the walkways, hang from the bars and pick from several slides on the way down. The age group is 3+ with key users from 3 to 12. At this size it makes a centrepiece for a large public park, township or resort lawn rather than a society corner. The safe play area is 59'5\" x 53'1\" and the listed capacity is 15. Every galvanised pipe, roto-moulded part, composite laminate and length of play rope in it is warranted for 3 years. Call us to discuss whether your ground can take it.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Play Lands",
+   "Giants Galore"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/play-lands.html",
+  "image": "/images/play-lands-Giant-Galore.jpg",
+  "cardImage": "/images/play-lands-Giant-Galore.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Giants Galore ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Multi Play Station"
+      ]
+     }
+    ],
+    "pText": "PLAMPFS01",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Play Red & Baby Blue",
+       "swatch": "background: linear-gradient(to right, #c6343b 50%, #81bfd1 50%);",
+       "images": [
+        "/images/play-lands-Giant-Galore.jpg",
+        "/images/play-lands-Giant-Galore-3.jpg",
+        "/images/play-lands-Giant-Galore-1.jpg"
+       ],
+       "alts": [
+        "Aerial view of Giants Galore red and blue mega playground with multiple slides and towers",
+        "Giants Galore giant red and baby blue playground with tube slides, octopus figure and towers",
+        "Top view of Giants Galore playground with radiating striped slides and walkways"
+       ]
+      }
+     ],
+     "name": "Giants Galore"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Aerial view of Giants Galore red and blue mega playground with multiple slides and towers\", \"Giants Galore giant red and baby blue playground with tube slides, octopus figure and towers\", \"Top view of Giants Galore playground with radiating striped slides and walkways\"]",
+      "divDataImgs": "[\"/images/play-lands-Giant-Galore.jpg\", \"/images/play-lands-Giant-Galore-3.jpg\", \"/images/play-lands-Giant-Galore-1.jpg\"]",
+      "divStyle": {
+       "background": "linear-gradient(to right, #c6343b 50%, #81bfd1 50%)"
+      },
+      "divText": "",
+      "spanText": "Play Red & Baby Blue"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/play-lands.html"
+        },
+        "c": [
+         "Play Lands"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Giants Galore"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Giants Galore is the largest unit in Play Lands, covering 54'5\" x 47'1\" before the safe zone is added. An octopus figure sits among Play Red and Baby Blue towers, and striped slides radiate out from the centre along with tube slides and walkways. Children climb up, balance along the walkways, hang from the bars and pick from several slides on the way down. The age group is 3+ with key users from 3 to 12. At this size it makes a centrepiece for a large public park, township or resort lawn rather than a society corner. The safe play area is 59'5\" x 53'1\" and the listed capacity is 15. Every galvanised pipe, roto-moulded part, composite laminate and length of play rope in it is warranted for 3 years. Call us to discuss whether your ground can take it."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection2",
+   "props": {
+    "sectionStyle": {
+     "backgroundImage": "url('/corecraft/play-lands/images/vertical-line-bg-medium-gray.svg')"
+    },
+    "items": [
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Age Group 3-12 years"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Activities"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray fw-700 alt-font",
+      "divText": "Sliding"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Climbing"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Hanging"
+     },
+     {
+      "divClass": "fs-90 text-dark-gray opacity-5 fw-700 alt-font",
+      "divText": "Balancing"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDiagram",
+   "props": {
+    "imgAlt": "Top-view line drawing of Giants Galore playground layout",
+    "imgSrc": "/images/Giant-Galore.jpg",
+    "items": [
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "LENGTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1658.62 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "WIDTH"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "1435.1 cm"
+        ]
+       }
+      ]
+     },
+     {
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-label text-base-color"
+        },
+        "c": [
+         "HEIGHT"
+        ]
+       },
+       " ",
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "dimension-value"
+        },
+        "c": [
+         "NA"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications3",
+   "props": {
+    "pText": "Walkways, towers and slides sit on a galvanised steel frame, with roto-moulded slide beds and figures. We choose grouting or a self-standing base after a site check. Mark the full 59'5\" x 53'1\" safe area on your plan before work starts and keep footpaths outside it. Walkways and their joints need a regular check for loose bolts.",
+    "sectionStyle": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3+ Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "3 - 12 Years"
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "divStyle": {
+     "backgroundColor": "#E6F5FC",
+     "padding": "15px"
+    },
+    "items2": [
+     {
+      "imgAlt": "Climbing",
+      "imgSrc": "/images/climbing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Climbing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Sliding",
+      "imgSrc": "/images/Sliding.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Sliding"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Balancing",
+      "imgSrc": "/images/Balancing.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Balancing"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Hanging",
+      "imgSrc": "/images/Hanging.svg",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "fw-600 text-dark-gray fs-16"
+        },
+        "c": [
+         "Hanging"
+        ]
+       }
+      ]
+     }
+    ],
+    "sectionStyle2": {
+     "padding": "0",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items3": [
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0 , 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "54'5\" x 47'1\""
+     },
+     {
+      "divStyle": {
+       "border": "1px solid rgb(0, 0, 0, 0.1)"
+      },
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "59'5\" x 53'1\""
+     }
+    ],
+    "divStyle2": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items4": [
+     {
+      "pText": "3 years warranty for Galvanized pipe, Roto molded parts, Composite laminates and Play rope."
+     },
+     {
+      "pText": "1 years warranty for Springs, Bearings and Spare parts."
+     }
+    ],
+    "divStyle3": {
+     "padding": "15px",
+     "backgroundColor": "#E6F5FC"
+    },
+    "items5": [
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Site Preparation"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the proposed area is clear of any rocks, debris, or other obstructions."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Check that the site is correctly leveled."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide proper drainage to avoid accumulation of water."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Foundation Markings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Make accurate markings as per the foundation drawings provided."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure the depth of PCC is as per the given standard depth."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Material Handling"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Ensure proper material handling equipment is available on site."
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Provide lifts in case the installation is on terraces or podiums."
+     },
+     {
+      "liAriaCurrent": "true",
+      "liClass": "list-group-item text-white bg-base-color",
+      "liText": "Review Installation Drawings"
+     },
+     {
+      "liClass": "list-group-item text-medium-gray",
+      "liText": "Read the installation drawings provided to familiarize yourself with the installation methods."
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Play Lands",
+    "https://funplaysystems.com/corecraft/play-lands.html"
+   ],
+   [
+    "Giants Galore Multi Play Station",
+    "https://funplaysystems.com/corecraft/play-lands/giants-galore.html"
+   ]
+  ],
+  "product": {
+   "name": "Giants Galore",
+   "sku": "PLAMPFS01",
+   "images": [
+    "/images/play-lands-Giant-Galore.jpg",
+    "/images/play-lands-Giant-Galore-3.jpg",
+    "/images/play-lands-Giant-Galore-1.jpg"
+   ],
+   "description": "Giants Galore is the largest unit in Play Lands, covering 54'5\" x 47'1\" before the safe zone is added. An octopus figure sits among Play Red and Baby Blue towers, and striped slides radiate out from the centre along with tube slides and walkways. Children climb up, balance along the walkways, hang from the bars and pick from several slides on the way down. The age group is 3+ with key users from 3 to 12. At this size it makes a centrepiece for a large public park, township or resort lawn rather than a society corner. The safe play area is 59'5\" x 53'1\" and the listed capacity is 15. Every galvanised pipe, roto-moulded part, composite laminate and length of play rope in it is warranted for 3 years. Call us to discuss whether your ground can take it.",
+   "category": "Multi Play Station",
+   "line": "corecraft",
+   "series": "/corecraft/play-lands.html",
+   "colours": [
+    "Play Red & Baby Blue"
+   ],
+   "specs": [
+    [
+     "Recommended age",
+     "3 - 12 Years"
+    ],
+    [
+     "Minimum age",
+     "3+ Years"
+    ],
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "59'5\" x 53'1\""
+    ],
+    [
+     "Length",
+     "1658.62 cm"
+    ],
+    [
+     "Width",
+     "1435.1 cm"
+    ],
+    [
+     "Colour options",
+     "Play Red & Baby Blue"
+    ]
+   ]
+  }
+ }
+}

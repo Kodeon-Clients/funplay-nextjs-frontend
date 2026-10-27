@@ -1,0 +1,206 @@
+{
+ "path": "/projects/swr-railways.html",
+ "type": "project",
+ "header": "transparent",
+ "seo": {
+  "title": "SWR Railways, Bengaluru: Playground Project | FunPlay",
+  "description": "See the playground FunPlay Systems installed for South Western Railway in Bengaluru: safe, inclusive outdoor play equipment for a railway site.",
+  "canonical": "https://funplaysystems.com/projects/swr-railways.html",
+  "robots": null,
+  "og": {},
+  "twitter": {}
+ },
+ "css": [
+  "/css/projects.css"
+ ],
+ "data": {
+  "cardImage": "/images/Ulta-Ghar-product-catalogue.jpg",
+  "project": {
+   "title": "SWR Railways",
+   "location": "BENGALURU"
+  }
+ },
+ "sections": [
+  {
+   "component": "SwrRailways",
+   "props": {
+    "h1Text": "SWR Railways",
+    "items": [
+     {
+      "divClass": "hero-subtitle alt-font text-white fw-400 fs-20 lh-1",
+      "divId": "hero-subtitle",
+      "divText": "BENGALURU"
+     },
+     {
+      "divClass": "hero-description mb-0 text-white alt-font lh-22 text-shadow-double-large fw-500 fs-16",
+      "divId": "hero-description",
+      "divText": "Safe, inclusive play equipment for a South Western Railway site in Bengaluru."
+     }
+    ]
+   }
+  },
+  {
+   "component": "Section5",
+   "props": {
+    "pText": "School Playground Setup"
+   }
+  },
+  {
+   "component": "Section6",
+   "props": {
+    "pText": "Products Installed",
+    "items": [
+     {
+      "imgAlt": "Ulta Ghar upside-down house play structure with green tube slide",
+      "imgSrc": "/images/Ulta-Ghar-product-catalogue.jpg",
+      "aHref": "/funplay-originals/nature-sparsh/ulta-ghar.html",
+      "aText": " View Product ",
+      "spanText": "Ulta Ghar",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "38.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient(to right, #1f584c 50%, #67472e 50%)"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Fortress Fun castle playground with tube slide, twin towers and climbing wall",
+      "imgSrc": "/images/fortress-fun-product-catalogue.jpg",
+      "aHref": "/corecraft/castle-crest/fortress-fun.html",
+      "aText": " View Product ",
+      "spanText": "Fortress Fun",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "59.5M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #bb0e0e 50%, #79c4d9 50% )"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #212c55 50%, #7bc4d9 50% )",
+         "marginLeft": "-10px"
+        }
+       },
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #c98c0f 50%, #3a6e69 50% )",
+         "marginLeft": "-10px"
+        }
+       }
+      ]
+     },
+     {
+      "imgAlt": "Orbit Climber dome-shaped spider web rope climber",
+      "imgSrc": "/images/orbit-climber-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/climber/orbit-climber.html",
+      "aText": " View Product ",
+      "spanText": "Orbit Climber",
+      "spanText2": "3+ YEARS",
+      "spanText3": [
+       "9.9M",
+       {
+        "tag": "sup",
+        "c": [
+         "2"
+        ]
+       }
+      ],
+      "spanText4": "21 USERS",
+      "items": [
+       {
+        "divStyle": {
+         "background": "linear-gradient( to right, #adbcbb 50%, #adbcbb 50% )"
+        }
+       }
+      ]
+     }
+    ],
+    "items2": [
+     {
+      "imgAlt": "\"Image coming soon\" graphic, replace with a real product photo",
+      "imgSrc": "/images/Image-coming-soon.jpg",
+      "aHref": "/corecraft/individual-equipment/spring-rider/dumbo-rider.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Dumbo Rider"
+        ]
+       }
+      ]
+     },
+     {
+      "imgAlt": "Green dinosaur-shaped spring rider",
+      "imgSrc": "/images/dinosaur-sr-product-catalogue.jpg",
+      "aHref": "/corecraft/individual-equipment/spring-rider/dino-rider.html",
+      "aText": " View Product ",
+      "divText": [
+       {
+        "tag": "span",
+        "attrs": {
+         "className": "d-inline-block text-dark-gray fs-19 fw-600"
+        },
+        "c": [
+         "Dino Rider"
+        ]
+       }
+      ]
+     }
+    ],
+    "aText": " View Product ",
+    "spanText": "Bucket Spinner",
+    "spanText2": "3+ YEARS",
+    "spanText3": "NA",
+    "spanText4": "1 USERS"
+   }
+  }
+ ],
+ "h1": "SWR Railways",
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Projects",
+    "https://funplaysystems.com/Projects.html"
+   ],
+   [
+    "SWR Railways",
+    "https://funplaysystems.com/projects/swr-railways.html"
+   ]
+  ],
+  "project": {
+   "name": "SWR Railways",
+   "location": "BENGALURU"
+  }
+ }
+}

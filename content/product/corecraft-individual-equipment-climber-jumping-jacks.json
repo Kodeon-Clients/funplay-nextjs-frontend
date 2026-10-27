@@ -1,0 +1,403 @@
+{
+ "path": "/corecraft/individual-equipment/climber/jumping-jacks.html",
+ "type": "product",
+ "header": "light",
+ "seo": {
+  "title": "Jumping Jacks Playground Climber | CoreCraft | FunPlay",
+  "description": "Jumping Jacks Playground Climber (FPCL19) from the CoreCraft Climbers range. Made in India, 3-year warranty. Get a quote.",
+  "canonical": "https://funplaysystems.com/corecraft/individual-equipment/climber/jumping-jacks.html",
+  "robots": null,
+  "og": {
+   "og:type": "product",
+   "og:title": "Jumping Jacks Playground Climber | CoreCraft | FunPlay",
+   "og:description": "Jumping Jacks Playground Climber (FPCL19) from the CoreCraft Climbers range. Made in India, 3-year warranty. Get a quote.",
+   "og:url": "https://funplaysystems.com/corecraft/individual-equipment/climber/jumping-jacks.html",
+   "og:image": "https://funplaysystems.com/images/JAMPING-JACK-Climber-Product-Image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "popupTitle": "Request Your Custom Quote Today!",
+ "h1": "Jumping Jacks Playground Climber",
+ "data": {
+  "name": "Jumping Jacks",
+  "sku": "FPCL19",
+  "colours": [
+   {
+    "name": "Multi Color",
+    "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+    "images": [
+     "/images/JAMPING-JACK-Climber-Product-Image.jpg"
+    ],
+    "alts": [
+     "Jumping Jacks set of spring-mounted bounce pads in assorted colours"
+    ]
+   }
+  ],
+  "description": "Jumping Jacks is a cluster of round bounce pads, each mounted on a coil spring above a square base plate. The pads come in navy, orange, red and sky blue, and they give slightly under a child's weight, so children bounce, balance and jump from one pad to another. Spread across an open patch, the pads become stepping stones in a game of floor-is-lava or a chase between friends. The listed product area is 9'4\" x 4', with a safe play area of 14'4\" x 9'. Colour is listed as Multi Color. Galvanised pipe and roto-moulded parts have 3-year cover, and the springs carry 1 year under our standard warranty terms. Ask us to lay the pads out on your site drawing.",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "CoreCraft",
+   "Climber",
+   "Jumping Jacks"
+  ],
+  "line": "corecraft",
+  "series": "/corecraft/individual-equipment/climber.html",
+  "image": "/images/JAMPING-JACK-Climber-Product-Image.jpg",
+  "cardImage": "/images/JAMPING-JACK-Climber-Product-Image.jpg"
+ },
+ "sections": [
+  {
+   "component": "ProductCrownCourt3Castle",
+   "props": {
+    "h1Class": "productname text-dark-gray fw-600",
+    "h1Text": [
+     "Jumping Jacks ",
+     {
+      "tag": "span",
+      "attrs": {
+       "className": "d-block fs-22 fw-400"
+      },
+      "c": [
+       "Playground Climber"
+      ]
+     }
+    ],
+    "pText": "FPCL19",
+    "productGallery": {
+     "colours": [
+      {
+       "name": "Multi Color",
+       "swatch": "\n                  background: conic-gradient(\n                    #e27100 0% 20%,\n                    #dbd900 20% 40%,\n                    #0093d2 40% 60%,\n                    #227138 60% 80%,\n                    #b4f1f9 80% 100%\n                  );\n                ",
+       "images": [
+        "/images/JAMPING-JACK-Climber-Product-Image.jpg"
+       ],
+       "alts": [
+        "Jumping Jacks set of spring-mounted bounce pads in assorted colours"
+       ]
+      }
+     ],
+     "name": "Jumping Jacks"
+    },
+    "items": [
+     {
+      "divDataAlts": "[\"Jumping Jacks set of spring-mounted bounce pads in assorted colours\"]",
+      "divDataImgs": "[\"/images/JAMPING-JACK-Climber-Product-Image.jpg\"]",
+      "divStyle": {
+       "background": "conic-gradient( #e27100 0% 20%, #dbd900 20% 40%, #0093d2 40% 60%, #227138 60% 80%, #b4f1f9 80% 100% )"
+      },
+      "divText": "",
+      "spanText": "Multi Color"
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSection",
+   "props": {
+    "items": [
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/"
+        },
+        "c": [
+         "Home"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/Products.html"
+        },
+        "c": [
+         "Products"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft.html"
+        },
+        "c": [
+         "CoreCraft"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       {
+        "tag": "a",
+        "attrs": {
+         "href": "/corecraft/individual-equipment/climber.html"
+        },
+        "c": [
+         "Climber"
+        ]
+       }
+      ]
+     },
+     {
+      "liText": [
+       "Jumping Jacks"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductDescription",
+   "props": {
+    "h2Class": "h4 descriptionheading text-dark-gray alt-font fw-600",
+    "items": [
+     {
+      "pClass": "productdescription",
+      "pText": "Jumping Jacks is a cluster of round bounce pads, each mounted on a coil spring above a square base plate. The pads come in navy, orange, red and sky blue, and they give slightly under a child's weight, so children bounce, balance and jump from one pad to another. Spread across an open patch, the pads become stepping stones in a game of floor-is-lava or a chase between friends. The listed product area is 9'4\" x 4', with a safe play area of 14'4\" x 9'. Colour is listed as Multi Color. Galvanised pipe and roto-moulded parts have 3-year cover, and the springs carry 1 year under our standard warranty terms. Ask us to lay the pads out on your site drawing."
+     }
+    ]
+   }
+  },
+  {
+   "component": "ProductSpecifications2",
+   "props": {
+    "pText": "Each spring is bolted to a base plate that is grouted or fixed self-standing to a firm surface. Springs are the wearing part here, so check them for cracks, rust and pinch gaps at every service. Lay rubber flooring between the pads and keep the 14'4\" x 9' zone clear so jumping children do not land on hard edges.",
+    "items": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Age Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Key User Group"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "NA"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "03"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Capacity"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "15"
+     }
+    ],
+    "items2": [
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "01"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           " Product Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "9'4\" x 4'"
+     },
+     {
+      "items": [
+       {
+        "divClass": "col-sm-1 text-center xs-mt-20px",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "text-dark-gray fs-16 fw-600"
+          },
+          "c": [
+           "02"
+          ]
+         }
+        ]
+       },
+       {
+        "divClass": "col-sm-3 offset-sm-1",
+        "divText": [
+         {
+          "tag": "span",
+          "attrs": {
+           "className": "fw-600 text-dark-gray fs-16"
+          },
+          "c": [
+           "Safe Play Area"
+          ]
+         }
+        ]
+       }
+      ],
+      "pText": "14'4\" x 9'"
+     }
+    ]
+   }
+  }
+ ],
+ "schema": {
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Products",
+    "https://funplaysystems.com/Products.html"
+   ],
+   [
+    "CoreCraft",
+    "https://funplaysystems.com/corecraft.html"
+   ],
+   [
+    "Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber.html"
+   ],
+   [
+    "Jumping Jacks Playground Climber",
+    "https://funplaysystems.com/corecraft/individual-equipment/climber/jumping-jacks.html"
+   ]
+  ],
+  "product": {
+   "name": "Jumping Jacks",
+   "sku": "FPCL19",
+   "images": [
+    "/images/JAMPING-JACK-Climber-Product-Image.jpg"
+   ],
+   "description": "Jumping Jacks is a cluster of round bounce pads, each mounted on a coil spring above a square base plate. The pads come in navy, orange, red and sky blue, and they give slightly under a child's weight, so children bounce, balance and jump from one pad to another. Spread across an open patch, the pads become stepping stones in a game of floor-is-lava or a chase between friends. The listed product area is 9'4\" x 4', with a safe play area of 14'4\" x 9'. Colour is listed as Multi Color. Galvanised pipe and roto-moulded parts have 3-year cover, and the springs carry 1 year under our standard warranty terms. Ask us to lay the pads out on your site drawing.",
+   "category": "Playground Climber",
+   "line": "corecraft",
+   "series": "/corecraft/individual-equipment/climber.html",
+   "colours": [
+    "Multi Color"
+   ],
+   "specs": [
+    [
+     "User capacity",
+     "15"
+    ],
+    [
+     "Safe play area",
+     "14'4\" x 9'"
+    ],
+    [
+     "Colour options",
+     "Multi Color"
+    ]
+   ]
+  }
+ }
+}
