@@ -83,7 +83,8 @@ Every page is React (JSX) rendered on the server. No page stores HTML as a strin
 | `lib/page.ts` | Page type and `buildMetadata()` |
 | `lib/pages.ts` | List of all pages (sitemaps, search index, static params) |
 | `lib/schema.ts`, `components/PageSchema.tsx` | JSON-LD: Organization, LocalBusiness, WebSite, plus page-level types |
-| `lib/fonts.ts` | Quicksand, Nunito and Inter self-hosted through `next/font` (`font-display: swap`) |
+| `styles/fonts.css` | Quicksand, Nunito and Inter, self-hosted (`font-display: swap`, metric-matched fallbacks), bundled into each page's main stylesheet |
+| `content/hero-images.json` | Each page's banner image, preloaded by `PageShell` (1600px WebP copy below desktop width) (refresh with `npm run hero-images` after a build) |
 | `lib/behaviors.ts` | Front-end behaviour that replaced jQuery and the theme scripts |
 | `styles/theme/` | Theme CSS with unused rules removed (generated, see below) |
 | `styles/legacy/` | Original theme CSS, the input of the CSS clean-up |
@@ -104,7 +105,12 @@ In the code:
 - **Title, description, canonical, Open Graph of any page:** the `seo` block of its JSON file.
 - **Blog post body:** the `.mdx` file in `content/blog/`; Markdown for text, JSX for images (`<Img />`) and FAQs (`<Faq />`).
 - **Alt texts and image swaps set from the sheet:** `content/image-seo.json`.
-- **Images:** put new files in `public/images/` and run `npm run optimize-images` to create WebP variants.
+- **Images:** put new files in `public/images/`. `scripts/optimize-images.mjs` made the WebP copies in `public/_img/`
+  from the original site and needs its files; new images work without copies (no `srcset`).
+- **Page banners:** after changing a page's banner image, run `npm run build && npm run hero-images` and build
+  again, so the new banner is the one preloaded.
+- **Media clean-up:** `npm run build && npm run audit-media` lists unused files and broken references
+  (`.media-audit/`). Deleted WebP copies are skipped automatically.
 
 Changes made in the code flow back into the sheet automatically. Rebuild and deploy afterwards.
 

@@ -17,6 +17,13 @@ const nextConfig: NextConfig = {
   // Images are pre-optimised by scripts/optimize-images.mjs (WebP variants + compressed originals).
   images: { unoptimized: true },
   poweredByHeader: false,
+  // Drop Next.js's legacy-browser polyfills from the browser bundle (see lib/no-polyfills.js).
+  turbopack: {
+    resolveAlias: {
+      "../build/polyfills/polyfill-module": { browser: "./lib/no-polyfills.js" },
+      "next/dist/build/polyfills/polyfill-module": { browser: "./lib/no-polyfills.js" },
+    },
+  },
   async redirects() {
     const out: { source: string; destination: string; statusCode: 301 }[] = [];
     for (const r of redirects) {

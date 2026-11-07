@@ -2,6 +2,7 @@
   ads.html loaded its own <style> block before the theme stylesheets, all unlayered, so the theme won
   wherever selectors tied. This route group reproduces that order exactly.
 */
+@import "../../styles/fonts.css";
 @import "../../styles/ads-page.css";
 @import "../../styles/theme/vendors.css";
 @import "../../styles/theme/icon.css";

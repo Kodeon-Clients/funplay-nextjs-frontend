@@ -11,3 +11,4 @@ out/
 pipeline/tools/extracted/
 pipeline/tools/fixed/
 .sheet-sync/
+.media-audit/

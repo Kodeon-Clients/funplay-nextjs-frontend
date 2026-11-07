@@ -1,0 +1,56 @@
+/*
+  Text fonts (self-hosted, latin; latin-ext faces are in styles/site.css). These rules used to come from
+  next/font in the root layout, which put them in a separate render-blocking stylesheet; here they are
+  part of each page's main stylesheet. Same files, font-display: swap, and metric-matched fallbacks
+  (the "… Fallback" faces) so text does not jump when the font arrives.
+*/
+@font-face {
+  font-family: quicksand;
+  src: url("../node_modules/@fontsource-variable/quicksand/files/quicksand-latin-wght-normal.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 300 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "quicksand Fallback";
+  src: local(Arial);
+  ascent-override: 96.26%;
+  descent-override: 24.07%;
+  line-gap-override: 0%;
+  size-adjust: 103.88%;
+}
+@font-face {
+  font-family: nunito;
+  src: url("../node_modules/@fontsource-variable/nunito/files/nunito-latin-wght-normal.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 200 1000;
+  font-style: normal;
+}
+@font-face {
+  font-family: "nunito Fallback";
+  src: local(Arial);
+  ascent-override: 103.02%;
+  descent-override: 35.97%;
+  line-gap-override: 0%;
+  size-adjust: 98.13%;
+}
+@font-face {
+  font-family: inter;
+  src: url("../node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "inter Fallback";
+  src: local(Arial);
+  ascent-override: 89.79%;
+  descent-override: 22.36%;
+  line-gap-override: 0%;
+  size-adjust: 107.89%;
+}
+:root {
+  --font-quicksand: "quicksand", "quicksand Fallback";
+  --font-nunito: "nunito", "nunito Fallback";
+  --font-inter: "inter", "inter Fallback";
+}

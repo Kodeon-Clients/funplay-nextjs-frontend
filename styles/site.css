@@ -1,4 +1,4 @@
-/* Additions for the rebuilt site. Theme variables point at the fonts loaded by next/font (lib/fonts.ts). */
+/* Additions for the rebuilt site. Theme variables point at the text fonts in styles/fonts.css. */
 :root {
   --alt-font: var(--font-quicksand), "Quicksand Variable", sans-serif;
   --primary-font: var(--font-nunito), "Nunito Variable", sans-serif;
@@ -29,4 +29,143 @@
 /* Our Network links: hover colour (was an inline onmouseover handler) */
 .fp-hover-brand:hover {
   color: #d74951 !important;
+}
+
+/* City pages: space above the first content block (e.g. "Keeping sand out of a desert playground").
+   The markup asks for pt-80px, which the theme does not define; tablet and mobile keep md-pt-50px. */
+.fp-city-content {
+  padding-top: 80px;
+}
+
+/* Slider arrows with nothing to navigate to (one slide, or the end of a non-looping slider) */
+.carousel-control-prev:disabled,
+.carousel-control-next:disabled,
+.fp-arrow-disabled {
+  opacity: 0.2 !important;
+  cursor: default !important;
+  pointer-events: none !important;
+}
+.swiper-button-next.swiper-button-disabled,
+.swiper-button-prev.swiper-button-disabled {
+  opacity: 0.35;
+}
+
+/* Slider cursor (lib/behaviors.ts magicCursor). The theme hides the pointer over .magic-cursor sliders;
+   it is hidden only once the replacement cursor exists, so a pointer is always visible. */
+.magic-cursor {
+  cursor: auto;
+}
+html.fp-has-cursor .magic-cursor {
+  cursor: none;
+}
+.fp-cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10000;
+  pointer-events: none;
+  transition: opacity 0.2s ease-in-out;
+  will-change: transform;
+}
+.fp-cursor.is-hidden {
+  opacity: 0;
+}
+.fp-cursor-ball {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 70px;
+  height: 70px;
+  padding: 0 12px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--white, #fff);
+  background-color: var(--dark-gray, #232323);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.25);
+  opacity: 0;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0.3s ease, opacity 0.3s ease-in-out 0.1s;
+}
+.fp-cursor.is-on .fp-cursor-ball {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+.fp-cursor-ball svg {
+  width: 20px;
+  height: 20px;
+  flex: none;
+}
+.fp-cursor-drag {
+  display: none;
+}
+.fp-cursor.is-drag .fp-cursor-ball {
+  width: 140px;
+  height: 140px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.2);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+}
+.fp-cursor.is-drag svg {
+  display: none;
+}
+.fp-cursor.is-drag .fp-cursor-drag {
+  display: block;
+  font-family: var(--alt-font);
+  font-size: 14px;
+  font-weight: 600;
+  word-spacing: 4px;
+  white-space: nowrap;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.9);
+}
+.fp-cursor.is-light .fp-cursor-ball {
+  color: var(--dark-gray, #232323);
+  background-color: var(--white, #fff);
+}
+@media (hover: none) {
+  .fp-cursor {
+    display: none;
+  }
+}
+
+/* Catalogue popup: its form fields sit in a step wrapper (display: contents), so Bootstrap's
+   ".row > *" gutters are applied to them here (widths still come from col-md-*) */
+.row > .fp-row-contents > * {
+  flex-shrink: 0;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: var(--bs-gutter-y);
+}
+@media (max-width: 767.98px) {
+  .row > .fp-row-contents > * {
+    width: 100%;
+  }
+}
+
+/* Popups on phones and tablets: never taller than the screen; the content scrolls inside the popup
+   while its close button stays in the corner */
+@media (max-width: 1199.98px) {
+  .mfp-inline-holder .mfp-content > .contact-form-style-01 {
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 30px);
+    max-height: calc(100dvh - 30px);
+    overflow: hidden;
+  }
+  .mfp-inline-holder .mfp-content > .contact-form-style-01 > .row {
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Blog page banner (/blog.html): cover the banner without tiling the image */
+.page-title-big-typography[style*="/images/blog-bg.webp"] {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }

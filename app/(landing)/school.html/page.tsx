@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import PageSchema from "@/components/PageSchema";
+import HeroPreload from "@/components/HeroPreload";
 import { buildMetadata, section, type PageMeta } from "@/lib/page";
 import meta from "@/content/pages/school.json";
 import Header from "@/components/landing/school/Header";
@@ -15,6 +16,8 @@ export const metadata: Metadata = buildMetadata(page);
 export default function Page() {
   return (
     <>
+      {/* banner: the .box background in /css/campaign.css */}
+      <HeroPreload src="/images/campaign/banners/funplay-banner.webp" selector=".box" />
       <link rel="stylesheet" href="/css/campaign.css" precedence="landing" />
       <link rel="stylesheet" href="/css/standalone-tw.css" precedence="landing" />
       <link rel="stylesheet" href="/css/pages/school-1.css" precedence="landing" />

@@ -1,4 +1,6 @@
 import type React from "react";
+import fs from "node:fs";
+import path from "node:path";
 import images from "@/content/images.json";
 import { altFor, srcFor } from "@/lib/image-seo";
 
@@ -10,10 +12,31 @@ export function imageInfo(src?: string | null): ImageInfo | undefined {
   return src ? MAP[src] : undefined;
 }
 
+/** Does an optimised copy exist in public/? (Pages are built ahead of time, so this runs at build time.)
+ * Copies deleted after a media clean-up are simply left out of srcset. */
+const exists = new Map<string, boolean>();
+let publicDir: boolean | undefined;
+export function variantExists(url: string): boolean {
+  // a page rendered on the server at request time may not have public/ on disk: keep every copy then
+  publicDir ??= fs.existsSync(path.join(process.cwd(), "public", "_img"));
+  if (!publicDir) return true;
+  let ok = exists.get(url);
+  if (ok === undefined) {
+    try {
+      ok = fs.existsSync(path.join(process.cwd(), "public", decodeURIComponent(url)));
+    } catch {
+      ok = true;
+    }
+    exists.set(url, ok);
+  }
+  return ok;
+}
+
 export function srcSetFor(src?: string | null): string | undefined {
   const info = imageInfo(src);
-  if (!info || info.variants.length === 0) return undefined;
-  return info.variants.map(([w, u]) => `${u} ${w}w`).join(", ");
+  const variants = info ? info.variants.filter(([, u]) => variantExists(u)) : [];
+  if (!info || variants.length === 0) return undefined;
+  return variants.map(([w, u]) => `${u} ${w}w`).join(", ");
 }
 
 /**

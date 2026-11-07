@@ -289,22 +289,58 @@ function collapse(): Cleanup {
 }
 
 /* ---------------------------------------------------------------- product gallery (Bootstrap carousel) */
+/** Enable or disable a slider arrow (button or link). */
+function setArrow(btn: Element | null | undefined, off: boolean) {
+  if (!btn) return;
+  btn.classList.toggle("fp-arrow-disabled", off);
+  if (off) btn.setAttribute("aria-disabled", "true");
+  else btn.removeAttribute("aria-disabled");
+  if (btn instanceof HTMLButtonElement) btn.disabled = off;
+  else if (btn instanceof HTMLElement) {
+    if (off && !btn.hasAttribute("data-fp-tab")) {
+      btn.setAttribute("data-fp-tab", btn.getAttribute("tabindex") ?? "");
+      btn.tabIndex = -1;
+    } else if (!off && btn.hasAttribute("data-fp-tab")) {
+      const t = btn.getAttribute("data-fp-tab");
+      if (t) btn.setAttribute("tabindex", t);
+      else btn.removeAttribute("tabindex");
+      btn.removeAttribute("data-fp-tab");
+    }
+  }
+}
+
+const carouselUpdaters = new WeakMap<HTMLElement, () => void>();
+
 function carousels(): Cleanup {
   const offs: Cleanup[] = [];
   qsa<HTMLElement>(".carousel").forEach((car) => {
     const inner = qs<HTMLElement>(".carousel-inner", car);
     if (!inner) return;
     const items = () => qsa<HTMLElement>(".carousel-item", inner);
+    // looping (the default) wraps around; data-bs-wrap="false" stops at the first and last slide
+    const wrap = car.getAttribute("data-bs-wrap") !== "false";
+    const prev = qs(".carousel-control-prev", car);
+    const next = qs(".carousel-control-next", car);
+    const update = () => {
+      const list = items();
+      const cur = Math.max(0, list.findIndex((i) => i.classList.contains("active")));
+      const single = list.length < 2;
+      setArrow(prev, single || (!wrap && cur === 0));
+      setArrow(next, single || (!wrap && cur === list.length - 1));
+    };
     const go = (dir: number) => {
       const list = items();
       if (list.length < 2) return;
       const cur = list.findIndex((i) => i.classList.contains("active"));
-      const nxt = (cur + dir + list.length) % list.length;
+      let nxt = cur + dir;
+      if (wrap) nxt = (nxt + list.length) % list.length;
+      else if (nxt < 0 || nxt >= list.length) return;
       list[cur]?.classList.remove("active");
       list[nxt].classList.add("active");
+      update();
     };
-    const prev = qs(".carousel-control-prev", car);
-    const next = qs(".carousel-control-next", car);
+    update();
+    carouselUpdaters.set(inner, update);
     const p = (e: Event) => { e.preventDefault(); go(-1); };
     const n = (e: Event) => { e.preventDefault(); go(1); };
     prev?.addEventListener("click", p);
@@ -344,6 +380,7 @@ function carousels(): Cleanup {
       inner.appendChild(d);
     });
     qsa(".color-option").forEach((o) => o.classList.toggle("active", o === opt));
+    carouselUpdaters.get(inner)?.();
   };
   document.addEventListener("click", onColour);
   offs.push(() => document.removeEventListener("click", onColour));
@@ -436,7 +473,26 @@ async function sliders(): Promise<Cleanup> {
     if (opts.pagination && typeof opts.pagination === "object") opts.pagination.addIcons = false;
     opts.modules = [mods.Autoplay, mods.Navigation, mods.Pagination, mods.EffectFade, mods.Keyboard, mods.Mousewheel, mods.EffectCreative, mods.Thumbs, mods.FreeMode];
     try {
-      instances.push(new Swiper(el, opts));
+      const sw = new Swiper(el, opts);
+      instances.push(sw);
+      // arrows: a looping slider with a single slide has both arrows disabled; a non-looping slider
+      // disables them at its first and last slide (Swiper does that). Arrows Swiper would hide because
+      // there is nothing to slide ("lock") are shown disabled instead.
+      const arrows = () => {
+        const nav = sw.navigation as unknown as { nextEl?: HTMLElement | HTMLElement[]; prevEl?: HTMLElement | HTMLElement[] } | undefined;
+        if (!nav) return;
+        const list = (x?: HTMLElement | HTMLElement[]) => (Array.isArray(x) ? x : x ? [x] : []);
+        const real = sw.slides.filter((sl) => !sl.classList.contains("swiper-slide-duplicate")).length;
+        const nothing = real <= 1 || sw.isLocked;
+        for (const b of [...list(nav.nextEl), ...list(nav.prevEl)]) {
+          b.classList.remove("swiper-button-lock");
+          if (nothing) b.classList.add("swiper-button-disabled");
+          else if (sw.params.loop) b.classList.remove("swiper-button-disabled");
+          setArrow(b, nothing || (!sw.params.loop && b.classList.contains("swiper-button-disabled")));
+        }
+      };
+      arrows();
+      for (const ev of ["slideChange", "resize", "update", "lock", "unlock"] as const) sw.on(ev, () => requestAnimationFrame(arrows));
     } catch {
       /* invalid options on one slider must not break the rest */
     }
@@ -716,16 +772,20 @@ function loadMore(): Cleanup {
 
 /* ---------------------------------------------------------------- lightbox for [data-group] image links */
 function lightbox(): Cleanup {
+  const IMAGE = /\.(jpe?g|png|webp|gif)$/i;
+  const VIDEO = /\.(mp4|webm|mov|m4v)$/i;
+  const media = (x: Element) => IMAGE.test(x.getAttribute("href") || "") || VIDEO.test(x.getAttribute("href") || "");
   const onClick = (e: Event) => {
     const a = (e.target as HTMLElement).closest<HTMLAnchorElement>("a[data-group]");
-    if (!a || !/\.(jpe?g|png|webp|gif)$/i.test(a.getAttribute("href") || "")) return;
+    if (!a || !media(a)) return;
     e.preventDefault();
-    const group = qsa<HTMLAnchorElement>(`a[data-group="${a.dataset.group}"]`).filter((x) => /\.(jpe?g|png|webp|gif)$/i.test(x.getAttribute("href") || ""));
+    const group = qsa<HTMLAnchorElement>(`a[data-group="${a.dataset.group}"]`).filter(media);
     let idx = group.indexOf(a);
     const bg = document.createElement("div");
     bg.className = "mfp-bg mfp-ready";
     const wrap = document.createElement("div");
-    wrap.className = "mfp-wrap mfp-gallery mfp-close-btn-in mfp-auto-cursor mfp-ready";
+    // close button outside the image holder (as the theme's closeBtnInside: false): white round button, top right
+    wrap.className = "mfp-wrap mfp-gallery mfp-auto-cursor mfp-ready";
     wrap.setAttribute("role", "dialog");
     wrap.setAttribute("aria-modal", "true");
     wrap.tabIndex = -1;
@@ -734,21 +794,39 @@ function lightbox(): Cleanup {
       el("div", { class: "mfp-container mfp-s-ready mfp-image-holder" },
         el("div", { class: "mfp-content" },
           el("div", { class: "mfp-figure" },
-            el("button", btnAttrs("Close (Esc)", "mfp-close", "Close"), "\u00d7"),
             el("figure", {},
               el("img", { class: "mfp-img", alt: "" }),
               el("figcaption", {}, el("div", { class: "mfp-bottom-bar" }, el("div", { class: "mfp-title" }), el("div", { class: "mfp-counter" })))))),
         el("button", btnAttrs("Previous", "mfp-arrow mfp-arrow-left", "Previous")),
         el("button", btnAttrs("Next", "mfp-arrow mfp-arrow-right", "Next"))),
+      el("button", btnAttrs("Close (Esc)", "mfp-close", "Close"), "\u00d7"),
     );
     const img = qs<HTMLImageElement>(".mfp-img", wrap)!;
+    // gallery videos play in the same popup, in place of the image
+    const video = el("video", { class: "mfp-img", controls: "", playsinline: "", preload: "metadata" }) as HTMLVideoElement;
+    video.style.cssText = "max-height:calc(100vh - 80px);width:auto;max-width:100%;margin:0 auto;background:#000";
+    img.after(video);
     const show = () => {
       const cur = group[idx];
-      img.src = cur.getAttribute("href")!;
-      img.alt = qs<HTMLImageElement>("img", cur)?.alt || "";
+      const href = cur.getAttribute("href")!;
+      const isVideo = VIDEO.test(href);
+      video.pause();
+      img.hidden = isVideo;
+      video.hidden = !isVideo;
+      if (isVideo) {
+        video.src = href;
+        video.setAttribute("aria-label", cur.getAttribute("aria-label") || cur.title || "Video");
+        video.play().catch(() => {});
+        img.removeAttribute("src");
+      } else {
+        video.removeAttribute("src");
+        video.load();
+        img.src = href;
+        img.alt = qs<HTMLImageElement>("img", cur)?.alt || "";
+      }
       qs(".mfp-counter", wrap)!.textContent = `${idx + 1} of ${group.length}`;
     };
-    const close = () => { wrap.remove(); bg.remove(); document.removeEventListener("keydown", key); document.documentElement.style.overflow = ""; a.focus(); };
+    const close = () => { video.pause(); wrap.remove(); bg.remove(); document.removeEventListener("keydown", key); document.documentElement.style.overflow = ""; a.focus(); };
     const key = (ev: KeyboardEvent) => {
       if (ev.key === "Escape") close();
       if (ev.key === "ArrowRight") { idx = (idx + 1) % group.length; show(); }
@@ -758,16 +836,90 @@ function lightbox(): Cleanup {
       const t = ev.target as HTMLElement;
       if (t.classList.contains("mfp-arrow-right")) { idx = (idx + 1) % group.length; show(); return; }
       if (t.classList.contains("mfp-arrow-left")) { idx = (idx - 1 + group.length) % group.length; show(); return; }
-      if (t.classList.contains("mfp-close") || t.classList.contains("mfp-container") || t === wrap) close();
+      // close: the button, the dark area around the image, or the image itself (theme: closeOnContentClick)
+      if (t.closest(".mfp-close") || t.classList.contains("mfp-container") || t.classList.contains("mfp-content") || (t.classList.contains("mfp-img") && t.tagName === "IMG") || t === wrap) close();
     });
     document.addEventListener("keydown", key);
     document.body.append(bg, wrap);
     document.documentElement.style.overflow = "hidden";
     show();
+    if (group.length < 2) qsa(".mfp-arrow", wrap).forEach((b) => setArrow(b, true));
     wrap.focus();
   };
   document.addEventListener("click", onClick);
   return () => document.removeEventListener("click", onClick);
+}
+
+/* ---------------------------------------------------------------- slider cursor (theme "magic cursor") */
+/**
+ * Over sliders marked .magic-cursor the theme hides the mouse pointer and shows a round "drag" cursor
+ * that follows the mouse (dark circle with arrows; .drag-cursor sliders: frosted circle reading "< DRAG >").
+ * Only on devices with a mouse; the pointer is hidden only once this cursor exists (styles/site.css).
+ */
+function magicCursor(): Cleanup {
+  const zones = qsa<HTMLElement>(".magic-cursor");
+  if (!zones.length || !window.matchMedia("(hover: hover) and (pointer: fine)").matches) return () => {};
+  const svg = (points: string) => {
+    const s = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    s.setAttribute("viewBox", "0 0 24 24");
+    s.setAttribute("fill", "none");
+    s.setAttribute("stroke", "currentColor");
+    s.setAttribute("stroke-width", "2");
+    s.setAttribute("stroke-linecap", "round");
+    s.setAttribute("stroke-linejoin", "round");
+    const pl = document.createElementNS("http://www.w3.org/2000/svg", "polyline");
+    pl.setAttribute("points", points);
+    s.append(pl);
+    return s;
+  };
+  const ball = el("div", { class: "fp-cursor-ball" }, svg("15 18 9 12 15 6"), el("span", { class: "fp-cursor-drag" }, "< DRAG >"), svg("9 18 15 12 9 6"));
+  const cur = el("div", { class: "fp-cursor", "aria-hidden": "true" }, ball);
+  document.body.append(cur);
+  document.documentElement.classList.add("fp-has-cursor");
+  const pos = { x: -200, y: -200 };
+  const at = { x: -200, y: -200 };
+  let raf = 0;
+  let inside = 0;
+  const tick = () => {
+    at.x += 0.35 * (pos.x - at.x);
+    at.y += 0.35 * (pos.y - at.y);
+    cur.style.transform = `translate3d(${at.x}px, ${at.y}px, 0)`;
+    raf = Math.abs(pos.x - at.x) + Math.abs(pos.y - at.y) > 0.5 ? requestAnimationFrame(tick) : 0;
+  };
+  const move = (e: MouseEvent) => {
+    pos.x = e.clientX;
+    pos.y = e.clientY;
+    if (!raf) raf = requestAnimationFrame(tick);
+    // over links, buttons and slider controls the normal pointer shows instead
+    const t = e.target as Element | null;
+    cur.classList.toggle("is-hidden", !!t?.closest?.("a, button, .swiper-button-next, .swiper-button-prev, .swiper-pagination, input, select, textarea"));
+  };
+  const enter = (e: Event) => {
+    const z = e.currentTarget as HTMLElement;
+    inside++;
+    cur.classList.toggle("is-drag", z.classList.contains("drag-cursor"));
+    cur.classList.toggle("is-light", z.classList.contains("light"));
+    cur.classList.add("is-on");
+  };
+  const leave = () => {
+    inside = Math.max(0, inside - 1);
+    if (!inside) cur.classList.remove("is-on");
+  };
+  document.addEventListener("mousemove", move, { passive: true });
+  zones.forEach((z) => {
+    z.addEventListener("mouseenter", enter);
+    z.addEventListener("mouseleave", leave);
+  });
+  return () => {
+    document.removeEventListener("mousemove", move);
+    zones.forEach((z) => {
+      z.removeEventListener("mouseenter", enter);
+      z.removeEventListener("mouseleave", leave);
+    });
+    cancelAnimationFrame(raf);
+    cur.remove();
+    document.documentElement.classList.remove("fp-has-cursor");
+  };
 }
 
 /* ---------------------------------------------------------------- campaign pages: rotating client logo */
@@ -799,7 +951,7 @@ function liveChat(): Cleanup {
 }
 
 export function initBehaviors(): Cleanup {
-  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat(), digitsOnly()];
+  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat(), digitsOnly(), magicCursor()];
   let swiperCleanup: Cleanup | null = null;
   sliders().then((c) => (swiperCleanup = c)).catch(() => {});
   return () => {

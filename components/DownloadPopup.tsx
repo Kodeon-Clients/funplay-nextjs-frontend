@@ -245,12 +245,13 @@ export default function DownloadPopup() {
         aria-modal="true"
         aria-labelledby={id("title")}
         aria-describedby={id("intro")}
-        style={{ background: "#fff", textAlign: "center", position: "relative", maxHeight: "100%", overflowY: "auto" }}
+        style={{ background: "#fff", textAlign: "center", position: "relative", maxHeight: "100%", display: "flex", flexDirection: "column", overflow: "hidden" }}
       >
         <button title="Close (Esc)" type="button" className="mfp-close" aria-label="Close catalogue download" onClick={close}>
           ×
         </button>
-        <div style={{ display: "flex", flexWrap: "wrap" }}>
+        {/* the content scrolls inside the popup on small screens; the close button stays in the corner */}
+        <div style={{ display: "flex", flexWrap: "wrap", minHeight: 0, overflowY: "auto", overscrollBehavior: "contain" }}>
           <div
             className="col-lg-5 cover-background md-h-600px xs-h-400px"
             style={{ backgroundImage: "url('/images/Download-Form-Banner.png')", backgroundSize: "cover", backgroundPosition: "center", minHeight: "300px", flex: 1 }}
@@ -265,7 +266,7 @@ export default function DownloadPopup() {
                 Download our 2025 Catalogue
               </h3>
               <form ref={formRef} action="/api/download" method="post" className="row contact-form-style-02" noValidate onSubmit={requestCode} aria-busy={busy || undefined}>
-                <div style={{ display: step === "form" ? "contents" : "none" }}>
+                <div className="fp-row-contents" style={{ display: step === "form" ? "contents" : "none" }}>
                   <div className="col-md-6 mb-15px">
                     <label htmlFor={id("name")} className="visually-hidden">Your name</label>
                     <input {...a11y("name")} className="form-control required" type="text" name="name" placeholder="Your name*" required minLength={2} maxLength={80} autoComplete="name" />
@@ -309,8 +310,6 @@ export default function DownloadPopup() {
                   <div className="col-md-12 mb-15px">
                     <label htmlFor={id("comment")} className="visually-hidden">Your message</label>
                     <textarea {...a11y("comment")} className="form-control required" cols={40} rows={4} name="comment" placeholder="Your message*" maxLength={300} required></textarea>
-                    {/* updated by lib/behaviors.ts, like the other enquiry forms */}
-                    <div className="charCount" style={{ textAlign: "left" }} aria-live="polite">0 / 300</div>
                     {err("comment")}
                   </div>
                 </div>

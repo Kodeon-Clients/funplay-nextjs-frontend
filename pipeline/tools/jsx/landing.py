@@ -117,16 +117,21 @@ def page(name):
         page_meta["h1"] = " ".join(h1.get_text(" ").split())
     write(os.path.join(SITE, "content", "pages", name + ".json"), json.dumps(page_meta, ensure_ascii=False, indent=1))
     links_jsx = "\n".join(f'      <link rel="stylesheet" href="{h}" precedence="landing" />' for h in links)
+    # pages styled by /css/campaign.css show its .box banner: preload it (components/HeroPreload.tsx)
+    hero = "/css/campaign.css" in links
+    if hero:
+        links_jsx = ('      {/* banner: the .box background in /css/campaign.css */}\n'
+                     '      <HeroPreload src="/images/campaign/banners/funplay-banner.webp" selector=".box" />\n' + links_jsx)
     scripts_jsx = "\n".join(f'      <Script src="{s}" strategy="afterInteractive" />' for s in scripts)
     out = (
         'import type { Metadata } from "next";\nimport Script from "next/script";\n'
-        'import PageSchema from "@/components/PageSchema";\n'
+        'import PageSchema from "@/components/PageSchema";\n' + ('import HeroPreload from "@/components/HeroPreload";\n' if hero else "") +
         f'import {{ buildMetadata, {"section, " if sections else ""}type PageMeta }} from "@/lib/page";\n' + f'import meta from "@/content/pages/{name}.json";\n' + "\n".join(imports) + "\n\n"
         "const page = meta as PageMeta;\n\nexport const metadata: Metadata = buildMetadata(page);\n\n"
         f"/** Paid-ads landing page with its own header, footer and styles. */\nexport default function Page() {{\n  return (\n"
         f'    <div className="{wrap_cls}">\n' if wrap_cls else
         'import type { Metadata } from "next";\nimport Script from "next/script";\n'
-        'import PageSchema from "@/components/PageSchema";\n'
+        'import PageSchema from "@/components/PageSchema";\n' + ('import HeroPreload from "@/components/HeroPreload";\n' if hero else "") +
         f'import {{ buildMetadata, {"section, " if sections else ""}type PageMeta }} from "@/lib/page";\n' + f'import meta from "@/content/pages/{name}.json";\n' + "\n".join(imports) + "\n\n"
         "const page = meta as PageMeta;\n\nexport const metadata: Metadata = buildMetadata(page);\n\n"
         f"/** Paid-ads landing page with its own header, footer and styles. */\nexport default function Page() {{\n  return (\n    <>\n"
