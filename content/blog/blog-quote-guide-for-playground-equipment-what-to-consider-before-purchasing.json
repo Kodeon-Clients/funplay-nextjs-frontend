@@ -3,160 +3,89 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Playground Equipment Quote Guide: What to Check",
-  "description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
+  "title": "Playground Equipment Quote Guide: How to Get & Compare Quotes",
+  "description": "How to get an accurate playground equipment quote in India and compare quotes fairly: what to send the supplier, what a complete quote includes, and the hidden costs to check.",
   "canonical": "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Playground Equipment Quote Guide: What to Check",
-   "og:description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
-   "og:image": "https://funplaysystems.com/images/playground-helps-five.jpg",
-   "og:url": "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html",
+   "og:title": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+   "og:description": "How to get an accurate playground equipment quote in India and compare quotes fairly: what to send the supplier, what a complete quote includes, and the hidden costs to check.",
+   "og:image": "https://funplaysystems.com/images/blog-17-cover.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Playground Equipment Quote Guide: What to Check",
-   "twitter:description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
-   "twitter:image": "https://funplaysystems.com/images/g10.jpg"
+   "twitter:image": "https://funplaysystems.com/images/blog-17-cover.jpg"
   }
  },
  "h1": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/blog-17-cover.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/blog-17-cover.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "15 September 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
-    "h1Text": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent5",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "quote-guide-for-playground-equipment-what-to-consider-before-purchasing"
     },
-    "aHref": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc": "/images/about_us2.jpg",
-    "imgAlt": "Playground Design Ideas for Small Spaces",
-    "items": [
+    "title": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
+    "summaryText": "What to send a supplier so the quote is accurate, what a complete playground quote should include, and how to compare two quotes that look nothing alike.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-09-15",
+    "updated": "2026-11-14",
+    "image": "/images/blog-17-cover.jpg",
+    "imageAlt": "Wooden play deck with rope bridges over a blue patterned rubber surface",
+    "takeaways": [
      {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
+      "text": "The more you tell the supplier up front (site, users, budget), the more accurate and comparable the quote."
      },
      {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
+      "text": "A complete quote lists every model, its specification, surfacing, civil work, transport, installation, warranty and GST."
+     },
+     {
+      "text": "The cheapest quote often leaves out surfacing, installation or taxes."
+     },
+     {
+      "text": "Put all quotes in one comparison table before you decide."
      }
     ],
-    "aHref2": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc2": "/images/funplay-innovative-images.JPG",
-    "imgAlt2": "Blending Play Equipment with Green Spaces",
-    "items2": [
+    "products": [
+     "/corecraft/play-lands.html",
+     "/nexlev-series/escapade.html"
+    ],
+    "projects": [
+     "/projects/ratnakar-prestine.html"
+    ],
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "How do I get a quote for playground equipment?",
+      "a": "Send the supplier your site dimensions and photos, the type of ground, the ages and number of children, any theme or equipment you have in mind, your timeline and a budget range. Ask for a layout drawing and a line-by-line quote."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "What should a playground equipment quote include?",
+      "a": "Each item with its model, size and specification; safety surfacing with type, thickness and area; civil and base work; transport; installation; warranty terms; GST; and the delivery and installation timeline."
+     },
+     {
+      "q": "Why do playground quotes vary so much?",
+      "a": "Quotes often cover different scopes and materials. One may include surfacing, installation and GST while another does not, or use thinner steel and plastic. Compare quotes line by line on the same scope."
+     },
+     {
+      "q": "Where can I get a quote for playground equipment?",
+      "a": "You can request a layout and quote from FunPlay Systems through the enquiry form on our website, by email at sales@funplaysystems.com, or by calling +91 902 830 2266."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
-    "https://funplaysystems.com/blog/quote-guide-for-playground-equipment-what-to-consider-before-purchasing.html"
-   ]
-  ],
-  "article": {
-   "headline": "Quote Guide for Playground Equipment: What to Consider Before Purchasing",
-   "description": "What to check before you accept a playground equipment quote: specifications, materials, warranty, installation, surfacing and AMC.",
-   "image": "https://funplaysystems.com/images/playground-helps-five.jpg",
-   "datePublished": "2025-09-15",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

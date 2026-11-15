@@ -16100,5 +16100,511 @@
   "w": 800,
   "h": 605,
   "variants": []
+ },
+ "/images/projects/dighe-garden-thane/1.jpg": {
+  "w": 768,
+  "h": 1020,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/2.jpg": {
+  "w": 765,
+  "h": 1020,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/2.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/3.jpg": {
+  "w": 768,
+  "h": 1024,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/3.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/4.jpg": {
+  "w": 765,
+  "h": 1020,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/4.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/5.jpg": {
+  "w": 1020,
+  "h": 765,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/5.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dighe-garden-thane/5.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/6.jpg": {
+  "w": 768,
+  "h": 1024,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/6.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dighe-garden-thane/7.jpg": {
+  "w": 1020,
+  "h": 765,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dighe-garden-thane/7.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dighe-garden-thane/7.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/dindigul-resorts-tamil-nadu/1.webp": {
+  "w": 1600,
+  "h": 1204,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dindigul-resorts-tamil-nadu/1.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dindigul-resorts-tamil-nadu/1.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/dindigul-resorts-tamil-nadu/4.webp": {
+  "w": 1600,
+  "h": 1204,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dindigul-resorts-tamil-nadu/4.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dindigul-resorts-tamil-nadu/4.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/dindigul-resorts-tamil-nadu/5.webp": {
+  "w": 1600,
+  "h": 1204,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dindigul-resorts-tamil-nadu/5.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dindigul-resorts-tamil-nadu/5.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/dindigul-resorts-tamil-nadu/6.webp": {
+  "w": 1600,
+  "h": 1204,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/dindigul-resorts-tamil-nadu/6.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/dindigul-resorts-tamil-nadu/6.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/nakshatra-van-thane/1.jpg": {
+  "w": 1168,
+  "h": 1752,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/nakshatra-van-thane/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/nakshatra-van-thane/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/nicon-vista-mumbai/1.jpg": {
+  "w": 1428,
+  "h": 1071,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/nicon-vista-mumbai/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/nicon-vista-mumbai/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/praharsh-highland-gujrat/1.jpg": {
+  "w": 1008,
+  "h": 567,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/praharsh-highland-gujrat/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/praharsh-highland-gujrat/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/praharsh-highland-gujrat/2.jpg": {
+  "w": 1008,
+  "h": 567,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/praharsh-highland-gujrat/2.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/praharsh-highland-gujrat/2.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/ratnakar-aravali-gujrat/1.jpeg": {
+  "w": 1599,
+  "h": 1200,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/ratnakar-aravali-gujrat/1.jpeg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/ratnakar-aravali-gujrat/1.jpeg.webp"
+   ]
+  ]
+ },
+ "/images/projects/ratnakar-prestine-gujrat/1.jpg": {
+  "w": 1008,
+  "h": 567,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/ratnakar-prestine-gujrat/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/ratnakar-prestine-gujrat/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/ratnakar-prestine-gujrat/3.jpg": {
+  "w": 960,
+  "h": 540,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/ratnakar-prestine-gujrat/3.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/raymond-thane/1.webp": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/raymond-thane/1.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/raymond-thane/1.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/raymond-thane/2.webp": {
+  "w": 1200,
+  "h": 1600,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/raymond-thane/2.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/raymond-thane/2.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/raymond-thane/3.webp": {
+  "w": 1200,
+  "h": 1600,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/raymond-thane/3.webp.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/raymond-thane/3.webp.webp"
+   ]
+  ]
+ },
+ "/images/projects/royal-mangalam-mumbai/1.jpg": {
+  "w": 1008,
+  "h": 756,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/royal-mangalam-mumbai/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/royal-mangalam-mumbai/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/royal-mangalam-mumbai/2.jpg": {
+  "w": 1008,
+  "h": 756,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/royal-mangalam-mumbai/2.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/royal-mangalam-mumbai/2.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/1.jpg": {
+  "w": 1540,
+  "h": 1026,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/2.jpg": {
+  "w": 1500,
+  "h": 1000,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/2.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/2.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/3.jpeg": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/3.jpeg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/3.jpeg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/4.jpg": {
+  "w": 1080,
+  "h": 1616,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/4.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/4.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/5.jpg": {
+  "w": 1616,
+  "h": 1080,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/5.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/5.jpg.webp"
+   ],
+   [
+    1600,
+    "/_img/1600/projects/st-andrews-school-telengana/5.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/6.jpg": {
+  "w": 1216,
+  "h": 811,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/6.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/6.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/7.jpg": {
+  "w": 1616,
+  "h": 1080,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/7.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/7.jpg.webp"
+   ],
+   [
+    1600,
+    "/_img/1600/projects/st-andrews-school-telengana/7.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/8.jpg": {
+  "w": 1024,
+  "h": 683,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/8.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/8.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/st-andrews-school-telengana/9.jpg": {
+  "w": 1616,
+  "h": 1080,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/st-andrews-school-telengana/9.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/st-andrews-school-telengana/9.jpg.webp"
+   ],
+   [
+    1600,
+    "/_img/1600/projects/st-andrews-school-telengana/9.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/swr-railways-bangalore/1.jpeg": {
+  "w": 1599,
+  "h": 899,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/swr-railways-bangalore/1.jpeg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/swr-railways-bangalore/1.jpeg.webp"
+   ]
+  ]
+ },
+ "/images/projects/swr-railways-bangalore/2.jpeg": {
+  "w": 1599,
+  "h": 899,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/swr-railways-bangalore/2.jpeg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/swr-railways-bangalore/2.jpeg.webp"
+   ]
+  ]
+ },
+ "/images/projects/swr-railways-bangalore/3.jpeg": {
+  "w": 1599,
+  "h": 899,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/swr-railways-bangalore/3.jpeg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/swr-railways-bangalore/3.jpeg.webp"
+   ]
+  ]
+ },
+ "/images/projects/turquoise-grandeure-gujrat/1.jpg": {
+  "w": 1008,
+  "h": 567,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/turquoise-grandeure-gujrat/1.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/turquoise-grandeure-gujrat/1.jpg.webp"
+   ]
+  ]
+ },
+ "/images/projects/turquoise-grandeure-gujrat/2.jpg": {
+  "w": 1008,
+  "h": 567,
+  "variants": [
+   [
+    480,
+    "/_img/480/projects/turquoise-grandeure-gujrat/2.jpg.webp"
+   ],
+   [
+    960,
+    "/_img/960/projects/turquoise-grandeure-gujrat/2.jpg.webp"
+   ]
+  ]
  }
 }

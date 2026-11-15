@@ -1,0 +1,87 @@
+{
+ "path": "/blog/planning-a-public-park-playground.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Planning a Public Park Playground: Guide for Municipal Bodies",
+  "description": "A guide for municipal corporations, smart city teams and park departments planning public playgrounds in India: users, zoning, inclusive play, durability, tenders and maintenance.",
+  "canonical": "https://funplaysystems.com/blog/planning-a-public-park-playground.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/planning-a-public-park-playground.html",
+   "og:title": "Planning a Public Park Playground: A Guide for Municipal Bodies",
+   "og:description": "A guide for municipal corporations, smart city teams and park departments planning public playgrounds in India: users, zoning, inclusive play, durability, tenders and maintenance.",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/feature-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/feature-image.jpg"
+  }
+ },
+ "h1": "Planning a Public Park Playground: A Guide for Municipal Bodies",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/feature-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "planning-a-public-park-playground"
+    },
+    "title": "Planning a Public Park Playground: A Guide for Municipal Bodies",
+    "summaryText": "For municipal engineers, smart city teams and park departments: how to plan a public playground that serves every age, survives heavy use and stays safe after it opens.",
+    "topic": "buying-guides",
+    "audiences": [
+     "parks"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-12-17",
+    "image": "/images/projects/dighe-garden-thane/feature-image.jpg",
+    "imageAlt": "Public garden playground in Thane with paths, palms and play equipment",
+    "takeaways": [
+     {
+      "text": "Public playgrounds serve everyone, so plan zones for toddlers, older children, teenagers and adults."
+     },
+     {
+      "text": "Durability and vandal resistance matter more than in any other setting."
+     },
+     {
+      "text": "Inclusive design is essential in a public space: accessible routes, ground-level play and seating."
+     },
+     {
+      "text": "Write maintenance into the project from day one, with a budget and a named agency."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/funplay-originals/organic-play.html",
+     "/corecraft/fun-fitness-equipment.html",
+     "/corecraft/individual-equipment/swing.html",
+     "/corecraft/garden-decor.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/nakshatravan.html"
+    ],
+    "faq": [
+     {
+      "q": "How do you plan a playground for a public park?",
+      "a": "Understand who will use the park and when, zone the playground by age, choose durable commercial equipment designed to a recognised safety standard, include inclusive features and seating, plan surfacing and drainage, write a clear tender specification, and budget for maintenance."
+     },
+     {
+      "q": "What makes public park playground equipment different?",
+      "a": "It must withstand heavy, unsupervised use by all ages, weather and occasional vandalism. That means robust materials, tamper-resistant fixings, sealed moving parts, deep foundations and impact-absorbing surfaces."
+     },
+     {
+      "q": "How should a municipal playground be maintained?",
+      "a": "With a written schedule: daily visual checks by park staff, monthly hands-on checks and an annual inspection, a log, a process for closing damaged equipment, and an AMC or in-house team with spares."
+     }
+    ]
+   }
+  }
+ ]
+}

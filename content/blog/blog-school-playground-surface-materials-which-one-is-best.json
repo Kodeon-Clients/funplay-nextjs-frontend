@@ -3,224 +3,94 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Best School Playground Surface Materials in India",
-  "description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
+  "title": "Best School Playground Surface Materials in India (Compared)",
+  "description": "The best surface for a school playground in India: rubber tiles, poured EPDM, artificial turf, sand and grass compared on safety, monsoon drainage, heat, upkeep and budget.",
   "canonical": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "Best School Playground Surface Materials in India",
-   "og:description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html",
-   "og:image": "https://funplaysystems.com/images/school-playground.JPG",
+   "og:title": "School Playground Surface Materials: Which One Is Best?",
+   "og:description": "The best surface for a school playground in India: rubber tiles, poured EPDM, artificial turf, sand and grass compared on safety, monsoon drainage, heat, upkeep and budget.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/1.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Best School Playground Surface Materials in India",
-   "twitter:description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
-   "twitter:image": "https://funplaysystems.com/images/school-playground-cover.JPG"
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/1.jpg"
   }
  },
  "h1": "School Playground Surface Materials: Which One Is Best?",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/projects/st-andrews-school-telengana/1.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/school-playground-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "09 June 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "School Playground Surface Materials: Which One Is Best?",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "school-playground-surface-materials-which-one-is-best"
     },
-    "divText": [
+    "title": "School Playground Surface Materials: Which One Is Best?",
+    "summaryText": "Rubber tiles, poured rubber, artificial turf, sand and grass compared for Indian schools: which protects children best, which survives the monsoon, and which suits your budget.",
+    "topic": "materials-maintenance",
+    "audiences": [
+     "schools"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-06-09",
+    "updated": "2026-11-14",
+    "image": "/images/projects/st-andrews-school-telengana/1.jpg",
+    "imageAlt": "School playground with wooden play equipment on a red and orange rubber surface",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Flooring"
-      ]
+      "text": "For most Indian schools the best all-round surface under play equipment is rubber, either tiles or poured EPDM, on a well-drained base."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds India"
-      ]
+      "text": "Artificial turf works only with a shock pad underneath; turf alone gives little protection."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Rubber Tiles"
-      ]
+      "text": "Sand is the cheapest safe option but needs depth, edging and regular raking."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Artificial Grass"
-      ]
+      "text": "Plan drainage before anything else: a surface that floods every monsoon will fail early."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Play Surfaces"
-      ]
+      "text": "Mix surfaces: full protection under equipment, cheaper finishes on paths and open play areas."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/nexlev-series/woody.html",
+     "/corecraft/individual-equipment/climber.html",
+     "/corecraft/play-lands/tiny-tot.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What is the best surface for a school playground in India?",
+      "a": "Under play equipment, rubber tiles or poured rubber (EPDM) on a level, drained base give the best mix of fall protection, low upkeep and monsoon performance. Artificial turf over a tested shock pad is a good alternative. Sand is the cheapest safe option if the school can maintain it."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Is artificial grass safe for school playgrounds?",
+      "a": "Artificial grass is safe under play equipment only if it is laid over a shock pad tested for the fall height of the equipment. On its own, turf on concrete or compacted soil gives very little protection from falls."
+     },
+     {
+      "q": "Is concrete or paver block flooring safe under play equipment?",
+      "a": "No. Hard surfaces should only be used for paths and seating areas outside the safety zones. Under slides, climbers and swings they cause serious injuries from even short falls."
+     },
+     {
+      "q": "How long does rubber playground flooring last?",
+      "a": "Well-installed rubber tiles and poured rubber typically last many years in Indian conditions. Life depends on the base, drainage, UV exposure and how heavily the area is used. Worn spots under swings and slide exits can be patched rather than replacing the whole surface."
+     },
+     {
+      "q": "Which playground surface is best for heavy monsoon rain?",
+      "a": "Rubber tiles or poured rubber laid on a sloped, drained base, or artificial turf with a free-draining shock pad. Sand and grass hold water and turn muddy if the base and drainage are not prepared well."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "School Playground Surface Materials: Which One Is Best?",
-    "https://funplaysystems.com/blog/school-playground-surface-materials-which-one-is-best.html"
-   ]
-  ],
-  "article": {
-   "headline": "School Playground Surface Materials: Which One Is Best?",
-   "description": "EPDM, rubber tiles, artificial grass, sand or concrete? Compare school playground surfaces on safety, cost and durability.",
-   "image": "https://funplaysystems.com/images/school-playground.JPG",
-   "datePublished": "2025-06-09",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

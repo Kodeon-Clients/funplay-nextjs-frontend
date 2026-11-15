@@ -4,184 +4,85 @@
  "header": "light",
  "seo": {
   "title": "Playground Equipment for Primary & Pre-Primary Schools",
-  "description": "Which playground equipment suits pre-primary and primary schools: age-appropriate heights, safety features and layouts.",
+  "description": "Which playground equipment suits pre-primary (3 to 6) and primary (6 to 11) children, how to plan separate zones, and sample equipment lists for Indian schools.",
   "canonical": "https://funplaysystems.com/blog/playground-equipment-for-primary-and-pre-primary-schools.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "Playground Equipment for Primary & Pre-Primary Schools",
-   "og:description": "Which playground equipment suits pre-primary and primary schools: age-appropriate heights, safety features and layouts.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/playground-equipment-for-primary-and-pre-primary-schools.html",
-   "og:image": "https://funplaysystems.com/images/playground-image-one.JPG",
+   "og:title": "Playground Equipment for Primary and Pre-Primary Schools",
+   "og:description": "Which playground equipment suits pre-primary (3 to 6) and primary (6 to 11) children, how to plan separate zones, and sample equipment lists for Indian schools.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/1.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Playground Equipment for Primary & Pre-Primary Schools",
-   "twitter:description": "Which playground equipment suits pre-primary and primary schools: age-appropriate heights, safety features and layouts.",
-   "twitter:image": "https://funplaysystems.com/images/playground-images.JPG"
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/1.jpg"
   }
  },
  "h1": "Playground Equipment for Primary and Pre-Primary Schools",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/projects/st-andrews-school-telengana/1.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/playground-images.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "19 June 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Playground Equipment for Primary and Pre-Primary Schools",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent2",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "playground-equipment-for-primary-and-pre-primary-schools"
     },
-    "divText": [
+    "title": "Playground Equipment for Primary and Pre-Primary Schools",
+    "summaryText": "What pre-primary and primary children need from a playground, how to separate the two, and sample equipment lists you can take to a supplier.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-06-19",
+    "updated": "2026-11-14",
+    "image": "/images/projects/st-andrews-school-telengana/1.jpg",
+    "imageAlt": "School playground with wooden play towers, swings and tyre climbers between school buildings",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds India"
-      ]
+      "text": "Pre-primary children need low, simple equipment that builds basic movement skills; primary children need height and challenge."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Safety"
-      ]
+      "text": "Give each group its own zone, separated by a path, planting or a change in surface colour."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Play Equipment"
-      ]
+      "text": "Pre-primary equipment should include ground-level play: panels, sand, tunnels and spring riders."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Child Development Through Play"
-      ]
+      "text": "Primary children need climbing, swinging, spinning and balancing, plus open ground for running games."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/corecraft/individual-equipment/spring-rider.html",
+     "/corecraft/individual-equipment/climber/crawling-tunnel.html",
+     "/nexlev-series/woody/skuhoom.html",
+     "/nexlev-series/pinnacle/groovy.html",
+     "/corecraft/individual-equipment/swing.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
+     {
+      "q": "What playground equipment is suitable for pre-primary children?",
+      "a": "Low play stations with platforms under about a metre, 3 ft slides, spring riders, toddler swings, crawl tunnels, low climbers with gentle steps, balance paths close to the ground, sand play and play panels."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Age-Appropriate Playground Equipment"
-      ]
+      "q": "What playground equipment is suitable for primary school children?",
+      "a": "Multi play stations with 5 ft slides, climbing walls and nets, monkey bars, balance beams and bridges, swings, see-saws, merry-go-rounds or spinners, and rotating climbers for older children."
+     },
+     {
+      "q": "Should pre-primary and primary children share a playground?",
+      "a": "They can share a site, but should have separate zones. Older children move faster and use equipment differently, and younger children are easily knocked over. Separate zones also let you choose the right heights and surfaces for each group."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Playground Equipment for Primary and Pre-Primary Schools",
-    "https://funplaysystems.com/blog/playground-equipment-for-primary-and-pre-primary-schools.html"
-   ]
-  ],
-  "article": {
-   "headline": "Playground Equipment for Primary and Pre-Primary Schools",
-   "description": "Which playground equipment suits pre-primary and primary schools: age-appropriate heights, safety features and layouts.",
-   "image": "https://funplaysystems.com/images/playground-image-one.JPG",
-   "datePublished": "2025-06-19",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

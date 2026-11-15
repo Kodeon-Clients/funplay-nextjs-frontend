@@ -1,0 +1,88 @@
+{
+ "path": "/blog/playgrounds-for-townships-and-campuses.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playgrounds for Townships, Campuses & Railway Colonies",
+  "description": "Planning play areas for large townships, corporate and university campuses, railway and PSU colonies: multiple zones, shared facilities, durability, procurement and upkeep.",
+  "canonical": "https://funplaysystems.com/blog/playgrounds-for-townships-and-campuses.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playgrounds-for-townships-and-campuses.html",
+   "og:title": "Playgrounds for Townships, Campuses and Railway Colonies",
+   "og:description": "Planning play areas for large townships, corporate and university campuses, railway and PSU colonies: multiple zones, shared facilities, durability, procurement and upkeep.",
+   "og:image": "https://funplaysystems.com/images/projects/swr-railways-bangalore/3.jpeg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/swr-railways-bangalore/3.jpeg"
+  }
+ },
+ "h1": "Playgrounds for Townships, Campuses and Railway Colonies",
+ "data": {
+  "cardImage": "/images/projects/swr-railways-bangalore/3.jpeg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playgrounds-for-townships-and-campuses"
+    },
+    "title": "Playgrounds for Townships, Campuses and Railway Colonies",
+    "summaryText": "Large residential campuses need more than one play area. How to plan a network of play spaces for townships, institutional campuses and railway or PSU colonies.",
+    "topic": "design-ideas",
+    "audiences": [
+     "resorts-commercial",
+     "parks",
+     "housing-societies"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2026-08-26",
+    "image": "/images/projects/swr-railways-bangalore/3.jpeg",
+    "imageAlt": "Castle-style play structure with a tube slide on a railway campus",
+    "takeaways": [
+     {
+      "text": "Large campuses work best with a network: small play areas near homes plus one larger central play space."
+     },
+     {
+      "text": "Plan walking distances so younger children have a play area close to home."
+     },
+     {
+      "text": "Combine play with outdoor gyms, seating and open ground to serve all ages."
+     },
+     {
+      "text": "Institutional sites need durable equipment, clear procurement documents and a maintenance plan."
+     }
+    ],
+    "products": [
+     "/corecraft/castle-crest/fortress-fun.html",
+     "/funplay-originals/nature-sparsh/ulta-ghar.html",
+     "/corecraft/individual-equipment/climber/orbit-climber.html",
+     "/corecraft/fun-fitness-equipment.html"
+    ],
+    "projects": [
+     "/projects/swr-railways.html",
+     "/projects/raymond-thane.html"
+    ],
+    "faq": [
+     {
+      "q": "How many play areas does a large township need?",
+      "a": "It depends on the number of homes and how they are spread out. Many large townships combine small neighbourhood play areas within easy walking distance of each cluster with one larger central play space with more equipment and an outdoor gym."
+     },
+     {
+      "q": "What playground equipment suits a railway or PSU colony?",
+      "a": "Durable commercial equipment with something for each age group: multi play stations, swings, climbers and spring riders for children, and outdoor gym equipment for adults, with safety surfacing and a maintenance plan."
+     },
+     {
+      "q": "How do institutions procure playground equipment?",
+      "a": "Usually through a tender or quotation process. A clear specification with safety standards, materials, scope and evaluation criteria helps get comparable, good-quality bids."
+     }
+    ]
+   }
+  }
+ ]
+}

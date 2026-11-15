@@ -19,7 +19,7 @@ export type SchemaData = {
   faq?: Pair[];
   product?: { name: string; sku?: string; images?: string[]; description?: string; category?: string; line?: string; series?: string; colours?: string[]; specs?: Pair[] };
   service?: { name: string; serviceType: string; areaServed: { city?: string; state?: string; country?: string; name?: string }; description?: string };
-  article?: { headline: string; description?: string; image?: string; datePublished?: string; dateModified?: string; author?: string };
+  article?: { headline: string; description?: string; image?: string; datePublished?: string; dateModified?: string; author?: string; authorRole?: string };
   job?: { title: string; description: string; employmentType?: string; email?: string; datePosted?: string };
   project?: { name: string; location?: string };
 };
@@ -173,7 +173,9 @@ export function pageGraph(page: PageMeta & { schema?: SchemaData }): Node[] {
       image: abs(a.image),
       datePublished: a.datePublished,
       dateModified: a.dateModified || a.datePublished,
-      author: { "@type": "Organization", name: a.author || SITE.name, url: `${SITE.url}/about-us.html` },
+      author: a.authorRole
+        ? { "@type": "Person", name: a.author, jobTitle: a.authorRole, worksFor: { "@id": ORG } }
+        : { "@type": "Organization", name: a.author || SITE.name, url: `${SITE.url}/about-us.html` },
       publisher: { "@id": ORG },
       mainEntityOfPage: { "@id": id("webpage") },
       inLanguage: "en-IN",

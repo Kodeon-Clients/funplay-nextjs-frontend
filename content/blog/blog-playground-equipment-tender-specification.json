@@ -1,0 +1,87 @@
+{
+ "path": "/blog/playground-equipment-tender-specification.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Equipment Tender Specification: What to Include",
+  "description": "How municipal bodies, PSUs, schools and institutions in India can write a clear playground equipment tender: scope, standards, materials, surfacing, installation, warranty and evaluation.",
+  "canonical": "https://funplaysystems.com/blog/playground-equipment-tender-specification.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-equipment-tender-specification.html",
+   "og:title": "How to Write a Playground Equipment Tender Specification",
+   "og:description": "How municipal bodies, PSUs, schools and institutions in India can write a clear playground equipment tender: scope, standards, materials, surfacing, installation, warranty and evaluation.",
+   "og:image": "https://funplaysystems.com/images/projects/swr-railways-bangalore/1.jpeg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/swr-railways-bangalore/1.jpeg"
+  }
+ },
+ "h1": "How to Write a Playground Equipment Tender Specification",
+ "data": {
+  "cardImage": "/images/projects/swr-railways-bangalore/1.jpeg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-equipment-tender-specification"
+    },
+    "title": "How to Write a Playground Equipment Tender Specification",
+    "summaryText": "A practical template for procurement teams: what to put in a playground tender so bids are comparable, safe equipment wins, and the play area is still in good shape years later.",
+    "topic": "buying-guides",
+    "audiences": [
+     "parks",
+     "schools",
+     "resorts-commercial"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2026-04-08",
+    "image": "/images/projects/swr-railways-bangalore/1.jpeg",
+    "imageAlt": "Castle-style play structure installed for South Western Railway in Bengaluru",
+    "takeaways": [
+     {
+      "text": "Specify performance, standards and materials rather than copying one brand's catalogue."
+     },
+     {
+      "text": "Include the full scope: equipment, safety surfacing, civil work, installation, warranty and maintenance."
+     },
+     {
+      "text": "Ask bidders for a site layout with safety zones, technical data sheets and references."
+     },
+     {
+      "text": "Evaluate on quality and life-cycle cost, not only the lowest price."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/fun-fitness-equipment.html",
+     "/corecraft/individual-equipment.html"
+    ],
+    "projects": [
+     "/projects/swr-railways.html",
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "What should a playground equipment tender include?",
+      "a": "The scope and site details, the safety standard required, material specifications, the equipment schedule with age ranges and user capacities, safety surfacing and civil work, installation and testing, warranty and maintenance terms, documents to be submitted, and how bids will be evaluated."
+     },
+     {
+      "q": "Which safety standard should a playground tender specify?",
+      "a": "Many tenders in India specify the European standards EN 1176 for equipment and EN 1177 for impact-absorbing surfacing. Use the standard your organisation or consultant requires, and ask bidders to submit evidence of compliance."
+     },
+     {
+      "q": "How can a tender avoid poor-quality playground equipment?",
+      "a": "Specify minimum material requirements (galvanised and powder-coated steel, UV-stabilised roto-moulded plastic, tamper-resistant fixings), require technical data sheets, references and site layouts, include surfacing and installation in scope, and give weight to quality in evaluation."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "path": "/blog/category/buying-guides.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground buying guides and costs | FunPlay Blog",
+  "description": "What to buy, what it costs and how to compare suppliers: equipment types, quotes, warranties, installation and the questions to ask before you place an order.",
+  "canonical": "https://funplaysystems.com/blog/category/buying-guides.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/buying-guides.html",
+   "og:title": "Playground buying guides and costs",
+   "og:description": "What to buy, what it costs and how to compare suppliers: equipment types, quotes, warranties, installation and the questions to ask before you place an order.",
+   "og:image": "https://funplaysystems.com/images/about_us2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Buying guides and costs",
+ "data": {
+  "cardImage": "/images/about_us2.jpg"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Buying guides and costs",
+    "https://funplaysystems.com/blog/category/buying-guides.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "buying-guides",
+    "kind": "topic",
+    "title": "Buying guides and costs",
+    "introText": "What to buy, what it costs and how to compare suppliers: equipment types, quotes, warranties, installation and the questions to ask before you place an order.",
+    "shortText": "Choosing equipment and suppliers, quotes and costs.",
+    "image": "/images/about_us2.jpg",
+    "links": [
+     {
+      "label": "All products",
+      "href": "/Products.html"
+     },
+     {
+      "label": "Get a quote",
+      "href": "/contact-us.html"
+     }
+    ]
+   }
+  }
+ ]
+}

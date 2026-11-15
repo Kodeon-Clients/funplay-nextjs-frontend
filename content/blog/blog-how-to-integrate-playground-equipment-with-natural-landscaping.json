@@ -3,224 +3,86 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Integrating Playground Equipment with Landscaping",
-  "description": "How landscape architects and builders can integrate playground equipment with trees, slopes and planting for natural-looking play areas.",
+  "title": "How to Integrate Playground Equipment with Landscaping",
+  "description": "Technical guide for landscape architects and builders: integrating playground equipment with slopes, mounds, trees, planting and drainage, including embankment slides and edges.",
   "canonical": "https://funplaysystems.com/blog/how-to-integrate-playground-equipment-with-natural-landscaping.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Integrating Playground Equipment with Landscaping",
-   "og:description": "How landscape architects and builders can integrate playground equipment with trees, slopes and planting for natural-looking play areas.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/how-to-integrate-playground-equipment-with-natural-landscaping.html",
-   "og:image": "https://funplaysystems.com/images/logo-black.png",
+   "og:title": "Integrate Playground Equipment with Natural Landscaping",
+   "og:description": "Technical guide for landscape architects and builders: integrating playground equipment with slopes, mounds, trees, planting and drainage, including embankment slides and edges.",
+   "og:image": "https://funplaysystems.com/images/IMG_4266.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Integrating Playground Equipment with Landscaping",
-   "twitter:description": "How landscape architects and builders can integrate playground equipment with trees, slopes and planting for natural-looking play areas.",
-   "twitter:image": "https://funplaysystems.com/images/how-schools-images.JPG"
+   "twitter:image": "https://funplaysystems.com/images/IMG_4266.jpg"
   }
  },
  "h1": "Integrate Playground Equipment with Natural Landscaping",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/IMG_4266.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/playground-helps-cover.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "08 September 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Integrate Playground Equipment with Natural Landscaping",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "how-to-integrate-playground-equipment-with-natural-landscaping"
     },
-    "divText": [
+    "title": "Integrate Playground Equipment with Natural Landscaping",
+    "summaryText": "For landscape architects and builders: how to use slopes, mounds, trees and planting in a play area, and the technical details (levels, drainage, root zones) that make it work.",
+    "topic": "design-ideas",
+    "audiences": [
+     "parks",
+     "resorts-commercial",
+     "housing-societies"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-09-08",
+    "updated": "2026-11-14",
+    "image": "/images/IMG_4266.jpg",
+    "imageAlt": "Wood-finish play structure set among plants and a pergola in a landscaped garden",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Natural playgrounds India"
-      ]
+      "text": "Use the landform: slopes and mounds can carry slides, climbing walls and lookouts."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Nature-integrated playground design"
-      ]
+      "text": "Agree finished levels, surfacing build-up and drainage with the landscape contractor early."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor play areas with landscaping"
-      ]
+      "text": "Keep planting and tree root zones outside safety zones and foundations."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Eco-friendly playground equipment India"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Sustainable playground design India"
-      ]
+      "text": "Edges matter: where turf, rubber and planting meet, detail them so they do not trip or wash out."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals/organic-play.html",
+     "/nexlev-series/woody.html",
+     "/corecraft/individual-equipment/climber/wall-rock-climber.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/ratnakar-prestine.html",
+     "/projects/nakshatravan.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "How do you integrate a playground into a sloping site?",
+      "a": "Use the slope rather than flattening it: slides can run down a bank, climbing walls can face it, and lookouts can sit at the top. Retain and drain the slope properly and keep safety zones clear at the bottom."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How close can planting be to playground equipment?",
+      "a": "Planting should stay outside each item's safety zone. Choose non-toxic, thornless plants and keep branches from overhanging platforms or swing paths."
+     },
+     {
+      "q": "Who coordinates playground and landscape work on site?",
+      "a": "Usually the landscape architect, with the playground supplier and landscape contractor agreeing levels, surfacing, drainage and sequence before work begins."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Integrate Playground Equipment with Natural Landscaping",
-    "https://funplaysystems.com/blog/how-to-integrate-playground-equipment-with-natural-landscaping.html"
-   ]
-  ],
-  "article": {
-   "headline": "Integrate Playground Equipment with Natural Landscaping",
-   "description": "How landscape architects and builders can integrate playground equipment with trees, slopes and planting for natural-looking play areas.",
-   "image": "https://funplaysystems.com/images/author-icon.jpg",
-   "datePublished": "2025-09-08",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

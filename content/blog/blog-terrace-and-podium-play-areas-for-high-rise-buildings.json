@@ -1,0 +1,88 @@
+{
+ "path": "/blog/terrace-and-podium-play-areas-for-high-rise-buildings.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Terrace & Podium Play Areas for High-Rise Buildings",
+  "description": "How to plan a children's play area on a podium, terrace or rooftop: slab loads, waterproofing, fixings, surfacing, wind, heat, fencing and the best equipment for small elevated spaces.",
+  "canonical": "https://funplaysystems.com/blog/terrace-and-podium-play-areas-for-high-rise-buildings.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/terrace-and-podium-play-areas-for-high-rise-buildings.html",
+   "og:title": "Terrace and Podium Play Areas for High-Rise Buildings",
+   "og:description": "How to plan a children's play area on a podium, terrace or rooftop: slab loads, waterproofing, fixings, surfacing, wind, heat, fencing and the best equipment for small elevated spaces.",
+   "og:image": "https://funplaysystems.com/images/projects/raymond-thane/1.webp",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/raymond-thane/1.webp"
+  }
+ },
+ "h1": "Terrace and Podium Play Areas for High-Rise Buildings",
+ "data": {
+  "cardImage": "/images/projects/raymond-thane/1.webp"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "terrace-and-podium-play-areas-for-high-rise-buildings"
+    },
+    "title": "Terrace and Podium Play Areas for High-Rise Buildings",
+    "summaryText": "In dense cities the play area is often on a podium or terrace. What to check with the structural engineer, how equipment is fixed without digging, and which designs suit elevated spaces.",
+    "topic": "design-ideas",
+    "audiences": [
+     "housing-societies",
+     "schools"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-08-19",
+    "image": "/images/projects/raymond-thane/1.webp",
+    "imageAlt": "Play structures on artificial turf in front of high-rise residential towers",
+    "takeaways": [
+     {
+      "text": "Check slab load capacity, waterproofing and drainage with the structural consultant before choosing equipment."
+     },
+     {
+      "text": "Equipment is fixed with base plates or ballast systems designed for the slab, not buried footings."
+     },
+     {
+      "text": "Surfacing must protect children and the waterproofing, and let water drain away."
+     },
+     {
+      "text": "Wind, heat and edges need special attention: secure fencing, shade and lighter colours."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/corecraft/robo-romp/dual-bot.html",
+     "/nexlev-series/pinnacle/groovy.html",
+     "/funplay-originals/wall-play.html"
+    ],
+    "projects": [
+     "/projects/raymond-thane.html",
+     "/projects/royal-mangalam.html",
+     "/projects/turquoise-grandeure.html"
+    ],
+    "faq": [
+     {
+      "q": "Can playground equipment be installed on a terrace or podium?",
+      "a": "Yes, if the slab can carry the load and the waterproofing is protected. A structural engineer should confirm the load capacity, and equipment is fixed with base plates or other systems designed for slabs. Safety surfacing is laid on top with drainage."
+     },
+     {
+      "q": "How is playground equipment fixed on a podium?",
+      "a": "Usually with base plates anchored into the structural slab at approved points, or on a reinforced plinth, coordinated with the waterproofing layers. The method depends on the slab design and must be approved by the structural consultant."
+     },
+     {
+      "q": "What playground equipment suits a rooftop play area?",
+      "a": "Compact play stations, low climbers, spring riders, play panels and small rotating climbers suit rooftops well. Tall structures may be limited by wind, height near edges and load, so check with your supplier and engineer."
+     }
+    ]
+   }
+  }
+ ]
+}

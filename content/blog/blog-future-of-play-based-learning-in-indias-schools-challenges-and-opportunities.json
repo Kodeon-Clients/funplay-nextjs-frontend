@@ -4,184 +4,82 @@
  "header": "light",
  "seo": {
   "title": "Play-Based Learning in Indian Schools and NEP 2020",
-  "description": "What NEP 2020 means for play-based learning in Indian schools, the challenges schools face and how outdoor play spaces help.",
+  "description": "The challenges and opportunities for play-based learning in Indian schools after NEP 2020: teacher training, space, parental expectations, assessment, and practical steps forward.",
   "canonical": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Play-Based Learning in Indian Schools and NEP 2020",
-   "og:description": "What NEP 2020 means for play-based learning in Indian schools, the challenges schools face and how outdoor play spaces help.",
-   "og:image": "https://funplaysystems.com/images/future-image.JPG",
-   "og:url": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html",
+   "og:title": "Future of Play-Based Learning in India's Schools: Challenges and Opportunities",
+   "og:description": "The challenges and opportunities for play-based learning in Indian schools after NEP 2020: teacher training, space, parental expectations, assessment, and practical steps forward.",
+   "og:image": "https://funplaysystems.com/images/future-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Play-Based Learning in Indian Schools and NEP 2020",
-   "twitter:description": "What NEP 2020 means for play-based learning in Indian schools, the challenges schools face and how outdoor play spaces help.",
    "twitter:image": "https://funplaysystems.com/images/future-cover.JPG"
   }
  },
- "h1": "Future of Play-Based Learning in India’s Schools: Challenges and Opportunities",
+ "h1": "Future of Play-Based Learning in India's Schools: Challenges and Opportunities",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/future-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/future-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "30 June 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Future of Play-Based Learning in India’s Schools: Challenges and Opportunities",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent2",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "future-of-play-based-learning-in-indias-schools-challenges-and-opportunities"
     },
-    "divText": [
+    "title": "Future of Play-Based Learning in India's Schools: Challenges and Opportunities",
+    "summaryText": "NEP 2020 opened the door to play-based learning. The real obstacles schools face, from space and training to parents' expectations, and the opportunities ahead.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-06-30",
+    "updated": "2026-11-14",
+    "image": "/images/future-cover.JPG",
+    "imageAlt": "Installer preparing ground for a new school playground",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "play based learning india"
-      ]
+      "text": "Policy now supports play-based learning, especially for ages 3 to 8."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "experiential learning schools india"
-      ]
+      "text": "The main challenges are teacher training, space, large classes and parents' expectations of rote results."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "benefits of play based education"
-      ]
+      "text": "Opportunities include better-designed outdoor spaces, low-cost materials and community support."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "funplay play equipment for schools"
-      ]
+      "text": "Small, consistent changes in timetable and space make a real difference."
+     }
+    ],
+    "products": [
+     "/funplay-originals/wall-play.html",
+     "/corecraft/play-lands/tiny-tot.html",
+     "/funplay-originals/khel-khud.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
+     {
+      "q": "What are the challenges of play-based learning in India?",
+      "a": "Limited teacher training, small or unsuitable spaces, large class sizes, pressure from parents for rote results, assessment systems built around exams, and limited budgets for materials and play areas."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "holistic learning through play"
-      ]
+      "q": "What opportunities does NEP 2020 create for play-based learning?",
+      "a": "It legitimises play- and activity-based learning in the foundational stage, encourages new teaching materials and teacher training, and pushes schools to rethink classrooms and outdoor spaces."
+     },
+     {
+      "q": "How can parents support play-based learning?",
+      "a": "By understanding that play builds real skills, asking teachers how play is used for learning, encouraging outdoor play at home, and valuing understanding over memorisation."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Future of Play-Based Learning in India’s Schools: Challenges and Opportunities",
-    "https://funplaysystems.com/blog/future-of-play-based-learning-in-indias-schools-challenges-and-opportunities.html"
-   ]
-  ],
-  "article": {
-   "headline": "Future of Play-Based Learning in India’s Schools: Challenges and Opportunities",
-   "description": "What NEP 2020 means for play-based learning in Indian schools, the challenges schools face and how outdoor play spaces help.",
-   "image": "https://funplaysystems.com/images/future-image.JPG",
-   "datePublished": "2025-06-30",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

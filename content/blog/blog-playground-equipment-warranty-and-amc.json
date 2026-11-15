@@ -1,0 +1,91 @@
+{
+ "path": "/blog/playground-equipment-warranty-and-amc.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Equipment Warranty & AMC: What Should Be Covered",
+  "description": "How playground equipment warranties work in India, what they usually cover and exclude, and what an annual maintenance contract (AMC) for a playground should include.",
+  "canonical": "https://funplaysystems.com/blog/playground-equipment-warranty-and-amc.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-equipment-warranty-and-amc.html",
+   "og:title": "Playground Equipment Warranty and AMC: What to Ask For",
+   "og:description": "How playground equipment warranties work in India, what they usually cover and exclude, and what an annual maintenance contract (AMC) for a playground should include.",
+   "og:image": "https://funplaysystems.com/images/unleashing-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/unleashing-images.JPG"
+  }
+ },
+ "h1": "Playground Equipment Warranty and AMC: What to Ask For",
+ "data": {
+  "cardImage": "/images/unleashing-images.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-equipment-warranty-and-amc"
+    },
+    "title": "Playground Equipment Warranty and AMC: What to Ask For",
+    "summaryText": "What a playground warranty really covers, the exclusions to read carefully, and how to decide whether an annual maintenance contract is worth it for your site.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "priya-nair",
+    "date": "2026-09-16",
+    "image": "/images/unleashing-images.JPG",
+    "imageAlt": "FunPlay team members working on a playground installation",
+    "takeaways": [
+     {
+      "text": "Warranties are given component by component: frames usually get the longest cover, moving parts and plastics shorter."
+     },
+     {
+      "text": "Read the exclusions: vandalism, misuse, poor maintenance and changes to the equipment are usually not covered."
+     },
+     {
+      "text": "An AMC is worth it when nobody on site can do monthly checks, or when the play area is heavily used."
+     },
+     {
+      "text": "Ask for warranty terms and the AMC scope in writing with the quote, not after the order."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment.html",
+     "/corecraft/individual-equipment/merry-go-round.html",
+     "/corecraft/individual-equipment/swing.html"
+    ],
+    "projects": [
+     "/projects/royal-mangalam.html"
+    ],
+    "faq": [
+     {
+      "q": "What warranty do you get on playground equipment?",
+      "a": "Warranties are usually given by component. Galvanised steel frames typically get the longest cover, while bearings, swing hangers, chains and other moving parts get shorter cover because they wear with use. Our standard terms, for example, are 3 years on galvanised pipes and 1 year on bearings, confirmed with each quote."
+     },
+     {
+      "q": "What does a playground warranty not cover?",
+      "a": "Usually vandalism, misuse, accidents, damage from extreme weather or flooding, normal wear of moving parts beyond their warranty period, fading of colours, and any damage caused by changes, repairs or poor maintenance by others."
+     },
+     {
+      "q": "What is a playground AMC?",
+      "a": "An annual maintenance contract is a service agreement under which the supplier or a service company visits the site at set intervals to inspect, tighten, lubricate and repair equipment, and reports on its condition. Spare parts may be included or charged separately."
+     },
+     {
+      "q": "Is an AMC necessary for a housing society playground?",
+      "a": "It is not compulsory, but it is often good value for societies without trained maintenance staff, for heavily used play areas and for outdoor gyms, which have more moving parts."
+     }
+    ]
+   }
+  }
+ ]
+}

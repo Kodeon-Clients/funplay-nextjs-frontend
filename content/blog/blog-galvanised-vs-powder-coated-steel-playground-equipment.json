@@ -1,0 +1,90 @@
+{
+ "path": "/blog/galvanised-vs-powder-coated-steel-playground-equipment.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Galvanised vs Powder-Coated Steel for Playground Equipment",
+  "description": "Galvanised, powder-coated and painted steel compared for outdoor playground and gym equipment in India: how each protects against rust, how long it lasts and what to specify.",
+  "canonical": "https://funplaysystems.com/blog/galvanised-vs-powder-coated-steel-playground-equipment.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/galvanised-vs-powder-coated-steel-playground-equipment.html",
+   "og:title": "Galvanised vs Powder-Coated Steel: Which Lasts Longer Outdoors?",
+   "og:description": "Galvanised, powder-coated and painted steel compared for outdoor playground and gym equipment in India: how each protects against rust, how long it lasts and what to specify.",
+   "og:image": "https://funplaysystems.com/images/funplay-outdoor-cover.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/funplay-outdoor-cover.JPG"
+  }
+ },
+ "h1": "Galvanised vs Powder-Coated Steel: Which Lasts Longer Outdoors?",
+ "data": {
+  "cardImage": "/images/funplay-outdoor-cover.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "galvanised-vs-powder-coated-steel-playground-equipment"
+    },
+    "title": "Galvanised vs Powder-Coated Steel: Which Lasts Longer Outdoors?",
+    "summaryText": "How galvanising, powder coating and paint protect steel outdoors, why the best playground equipment uses both, and what to look for when rust appears.",
+    "topic": "materials-maintenance",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-05-06",
+    "image": "/images/funplay-outdoor-cover.JPG",
+    "imageAlt": "Man using a pull-up bar on outdoor gym equipment in a park",
+    "takeaways": [
+     {
+      "text": "Galvanising protects steel with zinc, which keeps working even where the surface is scratched."
+     },
+     {
+      "text": "Powder coating gives colour and a tough skin, but on its own rust can spread under it from any chip."
+     },
+     {
+      "text": "Galvanised then powder-coated steel (a duplex finish) is the best choice for Indian playgrounds and outdoor gyms."
+     },
+     {
+      "text": "Most rust starts at the base of posts, at welds and at drilled holes: check these first."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment.html",
+     "/corecraft/individual-equipment/swing.html",
+     "/corecraft/individual-equipment/climber.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "Is galvanised or powder-coated steel better for playgrounds?",
+      "a": "Galvanised steel resists rust far better than powder coating alone, because the zinc layer protects the steel even where it is scratched. The best option is both: galvanised first for corrosion protection, then powder coated for colour and an extra barrier."
+     },
+     {
+      "q": "How long does galvanised playground equipment last?",
+      "a": "With good galvanising, a quality powder coat and regular maintenance, steel playground frames last many years outdoors in India. Life is shorter in coastal and polluted areas and where coatings are damaged and not touched up."
+     },
+     {
+      "q": "Why does playground equipment rust at the bottom of the posts?",
+      "a": "Water and dirt collect where posts meet the ground or surfacing, the coating is often damaged during installation or by cleaning tools, and the area stays damp after rain. Check post bases monthly and touch up any damage."
+     },
+     {
+      "q": "Can rusted playground equipment be repaired?",
+      "a": "Light surface rust can usually be cleaned and touched up with a suitable primer and paint. Rust that has reduced the thickness of a post or affected a weld or fixing point should be inspected by the supplier, as the part may need replacement."
+     }
+    ]
+   }
+  }
+ ]
+}

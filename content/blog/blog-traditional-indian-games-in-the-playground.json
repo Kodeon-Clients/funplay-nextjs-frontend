@@ -1,0 +1,90 @@
+{
+ "path": "/blog/traditional-indian-games-in-the-playground.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Traditional Indian Games as Playground Equipment: Unt Sawari, Fugdi",
+  "description": "How traditional Indian games and rides such as unt sawari, fugdi, stapu, patang and chausar inspire modern playground equipment, and why they work for schools and parks.",
+  "canonical": "https://funplaysystems.com/blog/traditional-indian-games-in-the-playground.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/traditional-indian-games-in-the-playground.html",
+   "og:title": "Traditional Indian Games in the Playground: Unt Sawari, Fugdi, Stapu and More",
+   "og:description": "How traditional Indian games and rides such as unt sawari, fugdi, stapu, patang and chausar inspire modern playground equipment, and why they work for schools and parks.",
+   "og:image": "https://funplaysystems.com/images/Khel-Kud-banner.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/Khel-Kud-banner.jpg"
+  }
+ },
+ "h1": "Traditional Indian Games in the Playground: Unt Sawari, Fugdi, Stapu and More",
+ "data": {
+  "cardImage": "/images/Khel-Kud-banner.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "traditional-indian-games-in-the-playground"
+    },
+    "title": "Traditional Indian Games in the Playground: Unt Sawari, Fugdi, Stapu and More",
+    "summaryText": "How games Indian children have played for generations, from unt sawari and fugdi to stapu, chausar and kite flying, inspire playground equipment that feels familiar and fresh.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-05-20",
+    "image": "/images/Khel-Kud-banner.jpg",
+    "imageAlt": "Children on a wooden-look slide and play structure inspired by Indian games",
+    "takeaways": [
+     {
+      "text": "Traditional games give children (and their grandparents) something familiar and something to talk about."
+     },
+     {
+      "text": "Equipment inspired by Indian games builds the same skills as any playground: balance, coordination, cooperation."
+     },
+     {
+      "text": "Our FunPlay Originals ranges such as Khel Khud, Timeless Play and Organic Play draw on these games and on Indian nature."
+     },
+     {
+      "text": "Cultural designs make a play area feel local and suit schools, parks and resorts alike."
+     }
+    ],
+    "products": [
+     "/funplay-originals/khel-khud.html",
+     "/funplay-originals/timeless-play/fugadi.html",
+     "/funplay-originals/timeless-play/chausar.html",
+     "/funplay-originals/timeless-play/patang.html",
+     "/funplay-originals/organic-play/unt-savari.html",
+     "/funplay-originals/wall-play/dahi-handi.html",
+     "/corecraft/individual-equipment/climber/hopping-pod.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
+     {
+      "q": "What is stapu?",
+      "a": "Stapu, also called langdi or kith-kith in different regions, is the Indian version of hopscotch: children hop through a grid of squares drawn on the ground. In a playground it can be built into a poured rubber surface or turned into a trail of hopping posts."
+     },
+     {
+      "q": "What is unt sawari?",
+      "a": "Unt sawari means camel ride. Children's camel rides are a familiar sight at fairs and beaches in India, and playground spring riders shaped like camels bring the same fun into a safe, everyday form. Our Organic Play range includes an Unt Savari spring rider."
+     },
+     {
+      "q": "What playground equipment is inspired by Indian games?",
+      "a": "FunPlay's Khel Khud range is inspired by Indian games, while Timeless Play includes designs based on fugdi, chausar, paheli and patang (kites), and Wall Play includes a Dahi Handi climbing wall. Organic Play includes spring riders and structures inspired by Indian nature."
+     }
+    ]
+   }
+  }
+ ]
+}

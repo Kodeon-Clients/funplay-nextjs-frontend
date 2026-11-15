@@ -1,0 +1,94 @@
+{
+ "path": "/blog/playground-fall-height-and-safety-surfacing-guide.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Fall Height & Safety Surfacing Thickness Guide",
+  "description": "How to match playground flooring to fall height: rubber tiles, EPDM, turf with shock pad and sand compared, with thickness, safety zones and upkeep for Indian sites.",
+  "canonical": "https://funplaysystems.com/blog/playground-fall-height-and-safety-surfacing-guide.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-fall-height-and-safety-surfacing-guide.html",
+   "og:title": "Fall Height and Safety Surfacing: How Thick Should Playground Flooring Be?",
+   "og:description": "How to match playground flooring to fall height: rubber tiles, EPDM, turf with shock pad and sand compared, with thickness, safety zones and upkeep for Indian sites.",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/3.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/3.jpg"
+  }
+ },
+ "h1": "Fall Height and Safety Surfacing: How Thick Should Playground Flooring Be?",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/3.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-fall-height-and-safety-surfacing-guide"
+    },
+    "title": "Fall Height and Safety Surfacing: How Thick Should Playground Flooring Be?",
+    "summaryText": "How to match the floor under your playground to the height children can fall from: what fall height means, how thick each surface needs to be, and how far it should extend.",
+    "topic": "safety",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "priya-nair",
+    "date": "2025-12-03",
+    "image": "/images/projects/dighe-garden-thane/3.jpg",
+    "imageAlt": "Colourful multi play station on a poured rubber safety surface in a public garden",
+    "takeaways": [
+     {
+      "text": "The surface must be able to absorb a fall from the highest point a child can reach on the equipment above it."
+     },
+     {
+      "text": "Rubber surfaces are tested for a critical fall height at a given thickness: ask for the test report, not just the thickness."
+     },
+     {
+      "text": "Loose sand works if it is deep (around 300 mm) and topped up; a thin layer protects no one."
+     },
+     {
+      "text": "The surface must extend into the whole safety zone, not just under the equipment's footprint."
+     },
+     {
+      "text": "Concrete, paver blocks and compacted soil should never be used under climbing, sliding or swinging equipment."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/individual-equipment/slide-7foot-height.html",
+     "/corecraft/individual-equipment/swing.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/nicon-vista.html"
+    ],
+    "faq": [
+     {
+      "q": "What is fall height in a playground?",
+      "a": "Fall height (or free fall height) is the vertical distance a child could fall, usually from the platform they stand on or the highest point they can climb to, down to the surface below. It decides how much impact protection the surface needs and how large the safety zone around the equipment must be."
+     },
+     {
+      "q": "How thick should rubber flooring be under playground equipment?",
+      "a": "It depends on the product and the fall height. Rubber surfaces are tested to find the thickness that gives a certain critical fall height, so ask the supplier for the test report and choose the thickness rated for the highest fall height on site. Thicker sections can be laid under high equipment and thinner ones elsewhere."
+     },
+     {
+      "q": "Is sand a good playground surface?",
+      "a": "Sand absorbs falls well if it is deep, about 300 mm plus extra to allow for scattering, and if it is raked and topped up regularly. It is cheap but needs ongoing care, gets scattered from swing and slide exits, and drains poorly in heavy monsoon rain if the base is not prepared."
+     },
+     {
+      "q": "How far should safety surfacing extend around equipment?",
+      "a": "Across the full impact area of each piece of equipment. For most units that is at least 1.5 m beyond the equipment, more for higher fall heights, and considerably more in front of and behind swings."
+     }
+    ]
+   }
+  }
+ ]
+}

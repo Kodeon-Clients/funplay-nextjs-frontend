@@ -4,223 +4,85 @@
  "header": "light",
  "seo": {
   "title": "Colour and Aesthetics in Playground Design | FunPlay",
-  "description": "How colour and visual design in playground equipment affect children's play, mood and how well a play space fits its setting.",
+  "description": "How colour and aesthetics shape playground use: how children respond to colour, choosing palettes for different settings, contrast for safety and access, heat and fading in India.",
   "canonical": "https://funplaysystems.com/blog/role-of-color-and-aesthetics-in-playground-equipment-design.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "Colour and Aesthetics in Playground Design | FunPlay",
-   "og:description": "How colour and visual design in playground equipment affect children's play, mood and how well a play space fits its setting.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/role-of-color-and-aesthetics-in-playground-equipment-design.html",
-   "og:image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
+   "og:title": "The Role of Color and Aesthetics in Playground Equipment Design",
+   "og:description": "How colour and aesthetics shape playground use: how children respond to colour, choosing palettes for different settings, contrast for safety and access, heat and fading in India.",
+   "og:image": "https://funplaysystems.com/images/Testimonials-banner-image.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Colour and Aesthetics in Playground Design | FunPlay",
-   "twitter:description": "How colour and visual design in playground equipment affect children's play, mood and how well a play space fits its setting.",
-   "twitter:image": "https://funplaysystems.com/images/school-playground-cover.JPG"
+   "twitter:image": "https://funplaysystems.com/images/Testimonials-banner-image.jpg"
   }
  },
  "h1": "The Role of Color and Aesthetics in Playground Equipment Design",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/Testimonials-banner-image.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/playground-helps-two.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "04 September 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "The Role of Color and Aesthetics in Playground Equipment Design",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "role-of-color-and-aesthetics-in-playground-equipment-design"
     },
-    "divText": [
+    "title": "The Role of Color and Aesthetics in Playground Equipment Design",
+    "summaryText": "Colour does more than decorate a playground. How it affects how children play, how a play area fits its setting, and how to choose colours that work in Indian sun.",
+    "topic": "design-ideas",
+    "audiences": [
+     "resorts-commercial",
+     "schools",
+     "housing-societies"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-09-04",
+    "updated": "2026-11-14",
+    "image": "/images/Testimonials-banner-image.jpg",
+    "imageAlt": "Father and son playing outdoors with a football",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground design India"
-      ]
+      "text": "Colour draws children in and helps them understand the space: zones, routes and edges."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Role of colour in playgrounds"
-      ]
+      "text": "Bright palettes suit schools and toddler areas; restrained or natural palettes suit landscaped and premium settings."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Colour psychology in playground design"
-      ]
+      "text": "Contrast helps safety and accessibility, especially for children with low vision."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "FunPlay playground equipment India"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor play area design India"
-      ]
+      "text": "In India, consider heat and fading: very dark colours get hot and pale ones show dirt."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/clown-capade.html",
+     "/nexlev-series/abstract.html",
+     "/funplay-originals/nature-sparsh.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/nicon-vista.html",
+     "/projects/ratnakar-prestine.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "Why is colour important in playground design?",
+      "a": "Colour attracts children, sets the mood of a play area, helps children understand zones and routes, provides contrast for safety and accessibility, and helps the equipment fit its surroundings."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "What colours are best for playgrounds?",
+      "a": "It depends on the setting and users. Bright, contrasting colours suit schools and toddler areas; earthy and natural tones suit gardens and resorts; a restrained palette with one accent colour suits contemporary landscapes."
+     },
+     {
+      "q": "Do playground colours fade in India?",
+      "a": "Strong sun fades all coloured materials over time. UV-stabilised plastics and quality powder coats fade slowly. Mid-tones often show fading and dirt less than very dark or very pale colours."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "The Role of Color and Aesthetics in Playground Equipment Design",
-    "https://funplaysystems.com/blog/role-of-color-and-aesthetics-in-playground-equipment-design.html"
-   ]
-  ],
-  "article": {
-   "headline": "The Role of Color and Aesthetics in Playground Equipment Design",
-   "description": "How colour and visual design in playground equipment affect children's play, mood and how well a play space fits its setting.",
-   "image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
-   "datePublished": "2025-06-09",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

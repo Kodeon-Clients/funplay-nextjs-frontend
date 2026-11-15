@@ -1,0 +1,92 @@
+{
+ "path": "/blog/how-to-maintain-playground-equipment-in-monsoon.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Maintenance in Monsoon: Before, During, After",
+  "description": "A monsoon maintenance plan for playgrounds and outdoor gyms in India: pre-monsoon checks, weekly care during the rains, and the post-monsoon inspection, plus coastal tips.",
+  "canonical": "https://funplaysystems.com/blog/how-to-maintain-playground-equipment-in-monsoon.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/how-to-maintain-playground-equipment-in-monsoon.html",
+   "og:title": "How to Maintain Playground Equipment Before, During and After the Monsoon",
+   "og:description": "A monsoon maintenance plan for playgrounds and outdoor gyms in India: pre-monsoon checks, weekly care during the rains, and the post-monsoon inspection, plus coastal tips.",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/5.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/5.jpg"
+  }
+ },
+ "h1": "How to Maintain Playground Equipment Before, During and After the Monsoon",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/5.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "how-to-maintain-playground-equipment-in-monsoon"
+    },
+    "title": "How to Maintain Playground Equipment Before, During and After the Monsoon",
+    "summaryText": "The monsoon is the hardest season for outdoor equipment. What to do before the rains arrive, how to look after the play area while it rains, and what to check once the season ends.",
+    "topic": "materials-maintenance",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "priya-nair",
+    "date": "2026-05-27",
+    "image": "/images/projects/dighe-garden-thane/5.jpg",
+    "imageAlt": "Playground and outdoor gym in a palm-lined public garden",
+    "takeaways": [
+     {
+      "text": "Before the monsoon: clear drains, tighten fixings, touch up coatings and check surfacing levels."
+     },
+     {
+      "text": "During the rains: check for standing water, slippery surfaces and storm damage after every heavy spell."
+     },
+     {
+      "text": "After the monsoon: do a full inspection for rust, loose footings, surfacing damage and worn moving parts."
+     },
+     {
+      "text": "Coastal sites need fresh-water rinsing and more frequent checks for corrosion."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment.html",
+     "/corecraft/individual-equipment/merry-go-round.html",
+     "/corecraft/garden-decor.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/nicon-vista.html"
+    ],
+    "faq": [
+     {
+      "q": "How do I protect playground equipment during the monsoon?",
+      "a": "Before the rains, clear drains, tighten fixings, touch up any chipped coatings and make sure surfaces drain. During the monsoon, check after heavy rain for standing water, debris and damage, and close slippery equipment. After the season, do a full inspection."
+     },
+     {
+      "q": "Can children use playground equipment in the rain?",
+      "a": "It is safer to keep children off equipment while it is wet. Steps, platforms and slides become slippery, and wet rubber and turf can be slick. Reopen once surfaces have drained and dried."
+     },
+     {
+      "q": "Why does playground equipment rust after the monsoon?",
+      "a": "Long periods of moisture reach the steel wherever coatings are chipped, especially at the base of posts, welds and drilled holes. Galvanised steel resists this much better, but damage should still be cleaned and touched up after the season."
+     },
+     {
+      "q": "Does rubber playground flooring get damaged in the rain?",
+      "a": "Good rubber surfaces handle rain well if they are laid on a sloped, drained base. Problems come from water standing on or under the surface, which can lift edges and loosen tiles. Keep drains clear and fix low spots."
+     }
+    ]
+   }
+  }
+ ]
+}

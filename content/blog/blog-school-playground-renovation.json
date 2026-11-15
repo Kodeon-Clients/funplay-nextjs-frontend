@@ -1,0 +1,84 @@
+{
+ "path": "/blog/school-playground-renovation.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "School Playground Renovation: Repair, Replace or Rebuild?",
+  "description": "How schools in India can renovate an old playground: assessing existing equipment, deciding what to repair or replace, upgrading surfaces, phasing work around the school year.",
+  "canonical": "https://funplaysystems.com/blog/school-playground-renovation.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/school-playground-renovation.html",
+   "og:title": "Renovating an Old School Playground: Repair, Replace or Rebuild?",
+   "og:description": "How schools in India can renovate an old playground: assessing existing equipment, deciding what to repair or replace, upgrading surfaces, phasing work around the school year.",
+   "og:image": "https://funplaysystems.com/images/how-schools-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/how-schools-images.JPG"
+  }
+ },
+ "h1": "Renovating an Old School Playground: Repair, Replace or Rebuild?",
+ "data": {
+  "cardImage": "/images/how-schools-images.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "school-playground-renovation"
+    },
+    "title": "Renovating an Old School Playground: Repair, Replace or Rebuild?",
+    "summaryText": "Many schools have a playground that is tired rather than new. How to assess what you have, decide what to keep, repair or replace, and phase the work around the school calendar.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools"
+    ],
+    "author": "priya-nair",
+    "date": "2026-09-02",
+    "image": "/images/how-schools-images.JPG",
+    "imageAlt": "School children running and playing outdoors",
+    "takeaways": [
+     {
+      "text": "Start with an inspection: list every item, its condition and whether spares are available."
+     },
+     {
+      "text": "Repair what is structurally sound; replace what is corroded at the base, cracked or unsafe by design."
+     },
+     {
+      "text": "The surface is often the biggest upgrade: replacing concrete or worn soil with a safe surface changes everything."
+     },
+     {
+      "text": "Phase the work during school holidays and keep part of the playground open if possible."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/nexlev-series/woody.html",
+     "/corecraft/individual-equipment/climber.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
+     {
+      "q": "How do I know if old playground equipment should be replaced?",
+      "a": "Replace equipment with structural corrosion at the base of posts or welds, cracked or brittle plastic, parts that cannot be repaired or sourced, or a design that creates hazards such as head entrapment gaps or very high platforms without barriers. Equipment that is sound but tired can often be repaired and refreshed."
+     },
+     {
+      "q": "Can old playground equipment be repaired?",
+      "a": "Often, yes. Loose fixings, worn swing seats and chains, damaged bolt caps and surface rust can be fixed. Some plastic parts can be replaced if the manufacturer still supplies them. A qualified inspection tells you what is worth repairing."
+     },
+     {
+      "q": "When is the best time to renovate a school playground?",
+      "a": "During the long summer holidays, so foundations can cure and surfaces can be laid without children on site and before the monsoon. Shorter breaks can be used for smaller phases."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -4,303 +4,81 @@
  "header": "light",
  "seo": {
   "title": "How FunPlay Manufactures Playground Equipment | FunPlay",
-  "description": "Inside FunPlay's Vasai factory: how playground equipment is designed, roto-moulded, welded, powder-coated, tested and installed.",
+  "description": "Inside FunPlay's Vasai factory: how playground equipment is planned, roto-moulded, fabricated, galvanised and powder coated, checked, packed and installed across India.",
   "canonical": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "robots": "index, follow",
   "og": {
-   "og:title": "How FunPlay Manufactures Playground Equipment | FunPlay",
-   "og:description": "Inside FunPlay's Vasai factory: how playground equipment is designed, roto-moulded, welded, powder-coated, tested and installed.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html",
-   "og:image": "https://funplaysystems.com/images/behind-the-scenes-two.JPG",
-   "og:image:width": "1200",
-   "og:image:height": "630",
+   "og:title": "How FunPlay Manufactures Playground Equipment",
+   "og:description": "Inside FunPlay's Vasai factory: how playground equipment is planned, roto-moulded, fabricated, galvanised and powder coated, checked, packed and installed across India.",
+   "og:image": "https://funplaysystems.com/images/behind-the-scenes.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "How FunPlay Manufactures Playground Equipment | FunPlay",
-   "twitter:description": "Inside FunPlay's Vasai factory: how playground equipment is designed, roto-moulded, welded, powder-coated, tested and installed.",
-   "twitter:image": "https://funplaysystems.com/images/behind-the-scenes.JPG",
-   "twitter:site": "@funplaysystems"
+   "twitter:image": "https://funplaysystems.com/images/behind-the-scenes.JPG"
   }
  },
  "h1": "How FunPlay Manufactures Playground Equipment",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/behind-the-scenes.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/behind-the-scenes.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "15 June 2024"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "How FunPlay Manufactures Playground Equipment",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent3",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "behind-the-scenes-funplays-manufacturing-marvel"
     },
-    "items": [
+    "title": "How FunPlay Manufactures Playground Equipment",
+    "summaryText": "A walk through our 45,000 sq ft factory in Vasai, near Mumbai: how a playground goes from drawing to roto-moulded parts, steel frames, finishing, checks and dispatch.",
+    "topic": "inside-funplay",
+    "audiences": [],
+    "author": "rohan-mehta",
+    "date": "2024-06-15",
+    "updated": "2026-11-14",
+    "image": "/images/behind-the-scenes.JPG",
+    "imageAlt": "Inside the FunPlay playground equipment factory in Vasai",
+    "takeaways": [
      {
-      "summaryText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "name"
-        },
-        "c": [
-         "What makes FunPlay's manufacturing process unique?"
-        ]
-       }
-      ],
-      "divText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "text"
-        },
-        "c": [
-         "FunPlay combines collaborative planning, precision engineering, and rigorous quality checks to ensure every piece of play equipment meets the highest standards of safety and durability. Our process is both innovative and quality-driven, setting us apart in the industry."
-        ]
-       }
-      ]
+      "text": "FunPlay designs and manufactures playground equipment in-house at a 45,000 sq ft facility in Vasai, near Mumbai."
      },
      {
-      "summaryText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "name"
-        },
-        "c": [
-         "How does FunPlay ensure the safety of its playground equipment?"
-        ]
-       }
-      ],
-      "divText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "text"
-        },
-        "c": [
-         "Every product undergoes multiple stages of inspection and rigorous testing throughout the manufacturing process. We adhere to strict safety standards and only use high-quality materials to guarantee the safety and longevity of our equipment."
-        ]
-       }
-      ]
+      "text": "Plastic parts are roto-moulded; steel frames are fabricated, galvanised and powder coated."
      },
      {
-      "summaryText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "name"
-        },
-        "c": [
-         "Can FunPlay customize playground equipment for specific needs?"
-        ]
-       }
-      ],
-      "divText": [
-       {
-        "tag": "span",
-        "attrs": {
-         "itemProp": "text"
-        },
-        "c": [
-         "Yes, FunPlay offers customization options to meet the unique requirements of each client. Our team works closely with customers to design and manufacture equipment that fits their vision, space, and safety needs."
-        ]
-       }
-      ]
+      "text": "Every order is planned from CAD drawings before production starts."
+     },
+     {
+      "text": "Parts are checked before dispatch, and our own teams install across India."
      }
     ],
-    "h3Text": "Related Blogs",
-    "items2": [
-     {
-      "liText": [
-       {
-        "tag": "a",
-        "attrs": {
-         "href": "/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html"
-        },
-        "c": [
-         "Unleashing Imaginative Play: FunPlay's Design Process Unveiled"
-        ]
-       }
-      ]
-     },
-     {
-      "liText": [
-       {
-        "tag": "a",
-        "attrs": {
-         "href": "/blog/funplays-innovative-approach-to-playground-design.html"
-        },
-        "c": [
-         "FunPlay's Innovative Approach to Playground Design"
-        ]
-       }
-      ]
-     },
-     {
-      "liText": [
-       {
-        "tag": "a",
-        "attrs": {
-         "href": "/blog/top-playground-equipment-companies.html"
-        },
-        "c": [
-         "Top Playground Equipment Companies Near Me"
-        ]
-       }
-      ]
-     }
+    "products": [
+     "/corecraft.html",
+     "/funplay-originals.html",
+     "/nexlev-series.html"
     ],
-    "divText": [
+    "projects": [
+     "/projects/raymond-thane.html",
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Manufacturing India"
-      ]
+      "q": "Where does FunPlay manufacture its playground equipment?",
+      "a": "At our own 45,000 sq ft facility in Vasai East, near Mumbai, Maharashtra, where we design, roto-mould plastic parts and fabricate steel frames."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Play Equipment"
-      ]
+      "q": "What materials does FunPlay use?",
+      "a": "Galvanised steel pipes with a powder-coat finish, roto-moulded UV-stabilised polyethylene parts, composite laminate panels and steel-reinforced play rope, with galvanised or stainless fixings."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Durable Playground Materials"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Quality Playground Production"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Equipment Testing"
-      ]
+      "q": "Can I visit the FunPlay factory?",
+      "a": "Yes. We are happy to show buyers, architects and committees around the factory. Contact our sales team to arrange a visit."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "How FunPlay Manufactures Playground Equipment",
-    "https://funplaysystems.com/blog/behind-the-scenes-funplays-manufacturing-marvel.html"
-   ]
-  ],
-  "article": {
-   "headline": "How FunPlay Manufactures Playground Equipment",
-   "description": "Inside FunPlay's Vasai factory: how playground equipment is designed, roto-moulded, welded, powder-coated, tested and installed.",
-   "image": "https://funplaysystems.com/images/behind-the-scenes-two.JPG",
-   "datePublished": "2024-06-15",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

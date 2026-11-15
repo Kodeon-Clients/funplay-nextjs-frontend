@@ -4,223 +4,78 @@
  "header": "light",
  "seo": {
   "title": "FunPlay's Approach to Playground Design | FunPlay",
-  "description": "How FunPlay designs playgrounds: in-house R&D, registered designs, child-led play value and safety-first engineering.",
+  "description": "The ideas behind FunPlay's playground designs: designing for the site, play value for many ages, learning through play, Indian culture and nature, and durability for Indian conditions.",
   "canonical": "https://funplaysystems.com/blog/funplays-innovative-approach-to-playground-design.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "FunPlay's Approach to Playground Design | FunPlay",
-   "og:description": "How FunPlay designs playgrounds: in-house R&D, registered designs, child-led play value and safety-first engineering.",
-   "og:image": "https://funplaysystems.com/images/funplay-innovative-images.JPG",
-   "og:url": "https://funplaysystems.com/blog/funplays-innovative-approach-to-playground-design.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/funplays-innovative-approach-to-playground-design.html",
+   "og:title": "FunPlay's Innovative Approach to Playground Design",
+   "og:description": "The ideas behind FunPlay's playground designs: designing for the site, play value for many ages, learning through play, Indian culture and nature, and durability for Indian conditions.",
+   "og:image": "https://funplaysystems.com/images/funplay-banner.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "FunPlay's Approach to Playground Design | FunPlay",
-   "twitter:description": "How FunPlay designs playgrounds: in-house R&D, registered designs, child-led play value and safety-first engineering.",
-   "twitter:image": "https://funplaysystems.com/images/blog1thumb.jpg"
+   "twitter:image": "https://funplaysystems.com/images/funplay-banner.jpg"
   }
  },
  "h1": "FunPlay's Innovative Approach to Playground Design",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/funplay-banner.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/blog1thumb.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "06 July 2024"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "FunPlay's Innovative Approach to Playground Design",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "funplays-innovative-approach-to-playground-design"
     },
-    "divText": [
+    "title": "FunPlay's Innovative Approach to Playground Design",
+    "summaryText": "The principles that guide every FunPlay design: fit the site, offer many ways to play, mix play and learning, draw on Indian culture and nature, and build for Indian weather.",
+    "topic": "inside-funplay",
+    "audiences": [],
+    "author": "rohan-mehta",
+    "date": "2024-07-06",
+    "updated": "2026-11-14",
+    "image": "/images/funplay-banner.jpg",
+    "imageAlt": "Child hanging from a rope at a playground, smiling",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Innovative Playground Design"
-      ]
+      "text": "We design for the specific site and users, not one size for all."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Custom Play Solutions India"
-      ]
+      "text": "High play value: many activities and ways to play in each structure."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Educational Playground Equipment"
-      ]
+      "text": "Play and learning together: counting, shapes, music and stories built into equipment."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Learning Spaces"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Play Areas India"
-      ]
+      "text": "Inspired by Indian culture and nature, and built for Indian sun, rain and heavy use."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals/khel-khud.html",
+     "/funplay-originals/organic-play.html",
+     "/corecraft/play-lands.html",
+     "/nexlev-series/pinnacle.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/praharsh-highland.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What makes FunPlay's playground designs different?",
+      "a": "We design for the site and its users, aim for high play value, combine play with learning, draw on Indian culture and nature, and build for Indian conditions with in-house manufacturing in Vasai, near Mumbai."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Does FunPlay make playground equipment for all ages?",
+      "a": "Yes, from toddler play units and spring riders to adventure structures for older children and outdoor gym equipment for teenagers and adults."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "FunPlay's Innovative Approach to Playground Design",
-    "https://funplaysystems.com/blog/funplays-innovative-approach-to-playground-design.html"
-   ]
-  ],
-  "article": {
-   "headline": "FunPlay's Innovative Approach to Playground Design",
-   "description": "How FunPlay designs playgrounds: in-house R&D, registered designs, child-led play value and safety-first engineering.",
-   "image": "https://funplaysystems.com/images/funplay-innovative-images.JPG",
-   "datePublished": "2024-07-06",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

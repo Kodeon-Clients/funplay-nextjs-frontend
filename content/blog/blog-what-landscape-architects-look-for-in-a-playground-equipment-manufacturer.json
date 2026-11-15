@@ -4,226 +4,86 @@
  "header": "light",
  "seo": {
   "title": "What Architects Look for in a Playground Manufacturer",
-  "description": "What landscape architects need from a playground equipment manufacturer: CAD files, customisation, safety compliance and support.",
+  "description": "What landscape architects and designers need from a playground equipment manufacturer: technical drawings, safety zones, material specs, customisation, coordination on site and reliable delivery.",
   "canonical": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html",
-  "robots": "index,follow",
+  "robots": "index, follow",
   "og": {
-   "og:title": "What Architects Look for in a Playground Manufacturer",
-   "og:description": "What landscape architects need from a playground equipment manufacturer: CAD files, customisation, safety compliance and support.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html",
-   "og:image": "https://funplaysystems.com/images/what-landscape-image.JPG",
+   "og:title": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
+   "og:description": "What landscape architects and designers need from a playground equipment manufacturer: technical drawings, safety zones, material specs, customisation, coordination on site and reliable delivery.",
+   "og:image": "https://funplaysystems.com/images/what-landscape-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "What Architects Look for in a Playground Manufacturer",
-   "twitter:description": "What landscape architects need from a playground equipment manufacturer: CAD files, customisation, safety compliance and support.",
    "twitter:image": "https://funplaysystems.com/images/what-landscape-cover.JPG"
   }
  },
- "styles": [
-  "2d2f6d2ca3"
- ],
  "h1": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/what-landscape-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/what-landscape-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "24 July 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "what-landscape-architects-look-for-in-a-playground-equipment-manufacturer"
     },
-    "divText": [
+    "title": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
+    "summaryText": "What landscape architects need from a playground manufacturer to specify with confidence: drawings and data, design flexibility, safety information and a partner who delivers on site.",
+    "topic": "buying-guides",
+    "audiences": [
+     "parks",
+     "housing-societies",
+     "resorts-commercial"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-07-24",
+    "updated": "2026-11-14",
+    "image": "/images/what-landscape-cover.JPG",
+    "imageAlt": "Children and adults in a green landscaped space with trees",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "playground design for architects"
-      ]
+      "text": "Architects need technical data early: dimensions, safety zones, fall heights, foundations and specifications."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "modular play equipment india"
-      ]
+      "text": "Design flexibility matters: colours, materials and forms that suit the landscape, not just a catalogue."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "architect friendly playground solutions"
-      ]
+      "text": "The manufacturer should coordinate with the landscape contractor on levels, surfacing and drainage."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "custom playground design india"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "funplay playground equipment"
-      ]
+      "text": "Reliable delivery and installation protect the architect's reputation on the project."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals/organic-play.html",
+     "/funplay-originals/nature-sparsh.html",
+     "/nexlev-series/woody.html",
+     "/corecraft/garden-decor.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/nakshatravan.html",
+     "/projects/ratnakar-prestine.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What information should a playground manufacturer give an architect?",
+      "a": "Plan and elevation drawings, footprint and safety zone dimensions, free fall height, age range and user capacity, foundation details, material and finish specifications, colour options, and recommended surfacing for each unit."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Can playground equipment be customised to match a landscape design?",
+      "a": "Often, yes. Colours, finishes and materials can usually be adapted, and some manufacturers create custom or nature-inspired designs. Ask early, because custom work affects cost and lead time."
+     },
+     {
+      "q": "How should playground equipment be coordinated with landscaping?",
+      "a": "Agree finished levels, surfacing build-up, drainage, planting distances from safety zones, and the sequence of work between the landscape contractor and the playground installer before work starts on site."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "What Landscape Architects Look for in a Playground Equipment Manufacturer",
-    "https://funplaysystems.com/blog/what-landscape-architects-look-for-in-a-playground-equipment-manufacturer.html"
-   ]
-  ],
-  "article": {
-   "headline": "What Landscape Architects Look for in a Playground Equipment Manufacturer",
-   "description": "What landscape architects need from a playground equipment manufacturer: CAD files, customisation, safety compliance and support.",
-   "image": "https://funplaysystems.com/images/what-landscape-image.JPG",
-   "datePublished": "2025-07-24",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

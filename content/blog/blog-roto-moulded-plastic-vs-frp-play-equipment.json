@@ -1,0 +1,90 @@
+{
+ "path": "/blog/roto-moulded-plastic-vs-frp-play-equipment.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Roto-Moulded Plastic vs FRP for Playground Equipment",
+  "description": "Roto-moulded polyethylene and FRP (fibreglass) compared for slides, tunnels and panels: strength, safety, UV resistance, heat, repairs and cost in Indian conditions.",
+  "canonical": "https://funplaysystems.com/blog/roto-moulded-plastic-vs-frp-play-equipment.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/roto-moulded-plastic-vs-frp-play-equipment.html",
+   "og:title": "Roto-Moulded Plastic vs FRP: Which Is Better for Play Equipment?",
+   "og:description": "Roto-moulded polyethylene and FRP (fibreglass) compared for slides, tunnels and panels: strength, safety, UV resistance, heat, repairs and cost in Indian conditions.",
+   "og:image": "https://funplaysystems.com/images/cover_budget-friendly-tools.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/cover_budget-friendly-tools.jpg"
+  }
+ },
+ "h1": "Roto-Moulded Plastic vs FRP: Which Is Better for Play Equipment?",
+ "data": {
+  "cardImage": "/images/cover_budget-friendly-tools.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "roto-moulded-plastic-vs-frp-play-equipment"
+    },
+    "title": "Roto-Moulded Plastic vs FRP: Which Is Better for Play Equipment?",
+    "summaryText": "The two plastics you will see in Indian playground quotes compared: how each is made, how they behave in sun and rain, how they fail, and which suits which job.",
+    "topic": "materials-maintenance",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-11-19",
+    "image": "/images/cover_budget-friendly-tools.jpg",
+    "imageAlt": "Close-up of colourful roto-moulded slide and climbing panels on a play structure",
+    "takeaways": [
+     {
+      "text": "Roto-moulded polyethylene is seamless, flexible and tough; it tends to dent or flex rather than crack."
+     },
+     {
+      "text": "FRP (fibreglass) is rigid and can be repaired, but its surface can chalk and fade, and it can crack or splinter when damaged."
+     },
+     {
+      "text": "For slides, tunnels and panels in heavy-use playgrounds, UV-stabilised roto-moulded polyethylene is usually the better choice."
+     },
+     {
+      "text": "Whichever you choose, ask for wall thickness and UV stabilisation in writing."
+     }
+    ],
+    "products": [
+     "/corecraft/individual-equipment/slide-5foot-height.html",
+     "/corecraft/individual-equipment/slide-7foot-height/spiral-tunnel-slide.html",
+     "/funplay-originals/kagzi/paper-boat.html"
+    ],
+    "projects": [
+     "/projects/swr-railways.html"
+    ],
+    "faq": [
+     {
+      "q": "What is roto-moulded plastic?",
+      "a": "Rotational moulding heats plastic powder, usually linear low-density polyethylene, inside a mould that rotates on two axes, so the plastic coats the inside evenly and forms a seamless hollow part. It is used for slides, tunnels, roofs and play panels."
+     },
+     {
+      "q": "What is FRP playground equipment?",
+      "a": "FRP is fibre reinforced plastic, usually glass fibre set in resin with a coloured gelcoat surface. It is used by some manufacturers for slides, panels and decorative shapes."
+     },
+     {
+      "q": "Is FRP or plastic better for playground slides?",
+      "a": "For heavy-use outdoor playgrounds, UV-stabilised roto-moulded polyethylene slides are generally more forgiving: they flex instead of cracking and have no exposed fibres if damaged. FRP is rigid and repairable but its surface can chalk in strong sun and it can crack on impact."
+     },
+     {
+      "q": "Does playground plastic fade in the sun?",
+      "a": "All coloured plastics fade over time in strong sun. UV stabilisers slow this a lot. Fading of colour is normal; brittleness, chalkiness or cracking are signs the material is breaking down."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -53,7 +53,7 @@ Every page is React (JSX) rendered on the server. No page stores HTML as a strin
   their own route file, for example `app/(site)/about-us.html/page.tsx`. The route exports its metadata
   from `content/pages/<page>.json` and renders section components from `components/pages/<page>/`,
   passing each one its text from the same JSON (`section<Props>(page, "Name")`).
-- **Page families** that share one layout (668 city pages, 248 product pages, 53 blog posts) are rendered by
+- **Page families** that share one layout (668 city pages, 248 product pages, 83 blog posts) are rendered by
   `app/(site)/[...slug]/page.tsx`. Their data lives in `content/city/`, `content/product/` and
   `content/blog/` as JSON: SEO tags, structured-data inputs and a list of sections, each naming a
   component from `components/templates/<family>/` and the props it takes. Text with inline formatting
@@ -103,7 +103,8 @@ In the code:
 - **Text of any page:** the `sections` of its JSON file (`content/pages/`, `content/city/`,
   `content/product/`); text of sections shared by several pages is in `content/shared-sections.json`.
 - **Title, description, canonical, Open Graph of any page:** the `seo` block of its JSON file.
-- **Blog post body:** the `.mdx` file in `content/blog/`; Markdown for text, JSX for images (`<Img />`) and FAQs (`<Faq />`).
+- **Blog post body:** the `.mdx` file in `content/blog/`; Markdown for text, plus `<Figure />`, `<Tip />`, `<Checklist />`, `<Table />`, `<Products />` and `<Projects />` (see `components/blog/mdx.tsx`). Title, summary, topic, audiences, author, dates, picture, takeaways, linked products and projects, and FAQ are fields of the `BlogPost` section in `content/blog/blog-<slug>.json`.
+- **Blog hubs and authors:** `content/pages/blog-category-<id>.json` and `content/blog-authors.json`. How the blog works and how to add a post: `docs/CHANGES-BLOG.md`.
 - **Alt texts and image swaps set from the sheet:** `content/image-seo.json`.
 - **Images:** put new files in `public/images/`. `scripts/optimize-images.mjs` made the WebP copies in `public/_img/`
   from the original site and needs its files; new images work without copies (no `srcset`).

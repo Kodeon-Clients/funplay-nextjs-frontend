@@ -1,0 +1,90 @@
+{
+ "path": "/blog/playground-safety-inspection-checklist.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Safety Inspection Checklist (Daily, Monthly, Yearly)",
+  "description": "A printable playground inspection checklist for schools, societies and parks: what to check every day, every month and once a year, and what to do when you find a problem.",
+  "canonical": "https://funplaysystems.com/blog/playground-safety-inspection-checklist.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-safety-inspection-checklist.html",
+   "og:title": "Playground Safety Inspection Checklist: Daily, Monthly and Yearly",
+   "og:description": "A printable playground inspection checklist for schools, societies and parks: what to check every day, every month and once a year, and what to do when you find a problem.",
+   "og:image": "https://funplaysystems.com/images/why-india-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/why-india-images.JPG"
+  }
+ },
+ "h1": "Playground Safety Inspection Checklist: Daily, Monthly and Yearly",
+ "data": {
+  "cardImage": "/images/why-india-images.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-safety-inspection-checklist"
+    },
+    "title": "Playground Safety Inspection Checklist: Daily, Monthly and Yearly",
+    "summaryText": "A ready-to-use routine for whoever looks after the play area: what to check every day, every month and once a year, and what to do when something is wrong.",
+    "topic": "safety",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "priya-nair",
+    "date": "2026-06-09",
+    "image": "/images/why-india-images.JPG",
+    "imageAlt": "A FunPlay technician checking the fixing on a playground post",
+    "takeaways": [
+     {
+      "text": "Use three levels of check: a quick daily look, a hands-on monthly check and a full yearly inspection."
+     },
+     {
+      "text": "Most problems found in Indian playgrounds are loose fixings, worn swing parts, rust at the base of posts and surfacing that has worn thin."
+     },
+     {
+      "text": "Write every check down. A simple log shows patterns and protects the school or society if there is an accident."
+     },
+     {
+      "text": "Anything that could cause a serious injury should be taken out of use the same day."
+     }
+    ],
+    "products": [
+     "/corecraft/individual-equipment/swing.html",
+     "/corecraft/individual-equipment/merry-go-round.html",
+     "/corecraft/fun-fitness-equipment.html"
+    ],
+    "projects": [
+     "/projects/raymond-thane.html"
+    ],
+    "faq": [
+     {
+      "q": "How often should playground equipment be inspected?",
+      "a": "A quick visual check every day the play area is used, a hands-on check of fixings and moving parts every month, and a full inspection once a year by the supplier or a trained inspector. Check again after storms, flooding or vandalism."
+     },
+     {
+      "q": "Who should inspect a playground?",
+      "a": "Daily and monthly checks can be done by a trained caretaker, estate manager or school staff member using a checklist. The yearly inspection should be done by the supplier or someone trained in playground standards, who checks fall heights, surfacing, wear and structural soundness."
+     },
+     {
+      "q": "What should be on a playground inspection checklist?",
+      "a": "Surfacing condition and depth, loose or missing bolts, cracks in plastic parts, rust and paint damage, wear on swing chains, shackles and seats, bearings on moving equipment, foundations and posts, sharp edges, entrapment gaps, litter and hazards on the ground, and the condition of signs and fencing."
+     },
+     {
+      "q": "What should I do if equipment fails an inspection?",
+      "a": "If the fault could cause serious injury, close the item that day with tape or a barrier and a sign, record the problem and call the supplier. Minor issues such as a missing bolt cap can be logged and fixed within a few days."
+     }
+    ]
+   }
+  }
+ ]
+}

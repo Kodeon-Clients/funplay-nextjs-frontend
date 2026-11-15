@@ -3,224 +3,85 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "How to Find Top Playground Equipment Companies Near You",
-  "description": "How to shortlist playground equipment companies near you: questions to ask, red flags and what a good supplier provides.",
+  "title": "How to Find Playground Equipment Companies Near You",
+  "description": "How to find and shortlist playground equipment companies near you in India: local vs national suppliers, what to check, and how to verify a company before you order.",
   "canonical": "https://funplaysystems.com/blog/top-playground-equipment-companies.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "How to Find Top Playground Equipment Companies Near You",
-   "og:description": "How to shortlist playground equipment companies near you: questions to ask, red flags and what a good supplier provides.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/top-playground-equipment-companies.html",
-   "og:image": "https://funplaysystems.com/images/top-playground-images.JPG",
+   "og:title": "How to Find Top Playground Equipment Companies Near You",
+   "og:description": "How to find and shortlist playground equipment companies near you in India: local vs national suppliers, what to check, and how to verify a company before you order.",
+   "og:image": "https://funplaysystems.com/images/top-playgroud-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "How to Find Top Playground Equipment Companies Near You",
-   "twitter:description": "How to shortlist playground equipment companies near you: questions to ask, red flags and what a good supplier provides.",
    "twitter:image": "https://funplaysystems.com/images/top-playgroud-cover.JPG"
   }
  },
  "h1": "How to Find Top Playground Equipment Companies Near You",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/top-playgroud-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/top-playgroud-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "08 May 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
-    "h1Text": "How to Find Top Playground Equipment Companies Near You",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "top-playground-equipment-companies"
     },
-    "divText": [
+    "title": "How to Find Top Playground Equipment Companies Near You",
+    "summaryText": "Searching for a playground company near you? How to decide whether you need a local or a national supplier, and how to check any company before you hand over an order.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-05-08",
+    "updated": "2026-11-14",
+    "image": "/images/top-playgroud-cover.JPG",
+    "imageAlt": "Children running towards a newly installed playground at a school",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Equipment India"
-      ]
+      "text": "'Near me' matters most for site visits, installation and after-sales service, less for manufacturing."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Suppliers Near Me"
-      ]
+      "text": "A national manufacturer with installation teams that travel can serve you as well as a local firm, if service is clearly agreed."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Play Equipment"
-      ]
+      "text": "Shortlist three companies and verify each one: a project you can visit, written specifications and a clear quote."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playground Equipment"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Best Playground Companies"
-      ]
+      "text": "Search engines and directories are a starting point, not a recommendation."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft.html",
+     "/funplay-originals/nature-sparsh.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/swr-railways.html",
+     "/projects/ratnakar-aravali.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "How do I find playground equipment companies near me?",
+      "a": "Search online for playground equipment manufacturers or suppliers in your city, check business listings and directories, ask schools, societies or architects nearby who installed their play areas, and look at the project lists on supplier websites. Then shortlist three companies and verify each one."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Is it better to choose a local playground supplier?",
+      "a": "A local supplier can visit quickly and may be easier to reach for service. A national manufacturer can offer a wider range, factory-direct pricing and its own installation teams. What matters is that installation and after-sales service in your city are clearly agreed in writing."
+     },
+     {
+      "q": "Does FunPlay install outside Maharashtra?",
+      "a": "Yes. FunPlay Systems is based in Vasai, near Mumbai, and installs playground equipment across India, including Gujarat, Karnataka, Tamil Nadu and Telangana."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "How to Find Top Playground Equipment Companies Near You",
-    "https://funplaysystems.com/blog/top-playground-equipment-companies.html"
-   ]
-  ],
-  "article": {
-   "headline": "How to Find Top Playground Equipment Companies Near You",
-   "description": "How to shortlist playground equipment companies near you: questions to ask, red flags and what a good supplier provides.",
-   "image": "https://funplaysystems.com/images/top-playground-images.JPG",
-   "datePublished": "2025-05-08",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

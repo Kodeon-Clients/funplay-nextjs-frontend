@@ -1,0 +1,63 @@
+{
+ "path": "/blog/category/safety.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground safety and standards | FunPlay Blog",
+  "description": "How to keep a playground safe: the standards suppliers work to, fall heights and surfacing, safety zones, inspection checklists and rules children can follow.",
+  "canonical": "https://funplaysystems.com/blog/category/safety.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/safety.html",
+   "og:title": "Playground safety and standards",
+   "og:description": "How to keep a playground safe: the standards suppliers work to, fall heights and surfacing, safety zones, inspection checklists and rules children can follow.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/6.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Safety and standards",
+ "data": {
+  "cardImage": "/images/projects/st-andrews-school-telengana/6.jpg"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Safety and standards",
+    "https://funplaysystems.com/blog/category/safety.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "safety",
+    "kind": "topic",
+    "title": "Safety and standards",
+    "introText": "How to keep a playground safe: the standards suppliers work to, fall heights and surfacing, safety zones, inspection checklists and rules children can follow.",
+    "shortText": "Standards, surfacing, inspections and playground rules.",
+    "image": "/images/projects/st-andrews-school-telengana/6.jpg",
+    "links": [
+     {
+      "label": "Playground equipment FAQs",
+      "href": "/faq.html"
+     }
+    ]
+   }
+  }
+ ]
+}

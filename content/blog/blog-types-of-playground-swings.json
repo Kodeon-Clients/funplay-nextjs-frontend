@@ -1,0 +1,93 @@
+{
+ "path": "/blog/types-of-playground-swings.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Types of Playground Swings: Belt, Toddler, Nest & More",
+  "description": "The main types of playground swings for schools, societies and parks: belt, toddler, nest, mother-and-child and designer swings, with age ranges, space needs and safety tips.",
+  "canonical": "https://funplaysystems.com/blog/types-of-playground-swings.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/types-of-playground-swings.html",
+   "og:title": "Types of Playground Swings and How to Place Them Safely",
+   "og:description": "The main types of playground swings for schools, societies and parks: belt, toddler, nest, mother-and-child and designer swings, with age ranges, space needs and safety tips.",
+   "og:image": "https://funplaysystems.com/images/g11.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/g11.jpg"
+  }
+ },
+ "h1": "Types of Playground Swings and How to Place Them Safely",
+ "data": {
+  "cardImage": "/images/g11.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "types-of-playground-swings"
+    },
+    "title": "Types of Playground Swings and How to Place Them Safely",
+    "summaryText": "Belt, toddler, nest and mother-and-child swings explained: who each suits, how much space a swing set needs, and where to put swings so they do not cause collisions.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-02-25",
+    "image": "/images/g11.jpg",
+    "imageAlt": "Children on nest swings at a playground with a rubber surface",
+    "takeaways": [
+     {
+      "text": "Swings are among the most used items in any playground and suit every age."
+     },
+     {
+      "text": "Use enclosed toddler seats for under-threes and belt seats for older children; nest swings suit groups and children with limited mobility."
+     },
+     {
+      "text": "Swings need a large clear zone in front and behind; place them at the edge of the play area."
+     },
+     {
+      "text": "Check hangers, chains and seats every month: they are the parts that wear fastest."
+     }
+    ],
+    "products": [
+     "/corecraft/individual-equipment/swing/double-arc-swing.html",
+     "/corecraft/individual-equipment/swing/toddler-swing.html",
+     "/corecraft/individual-equipment/swing/mother-child-swing.html",
+     "/funplay-originals/timeless-play/patang.html",
+     "/nexlev-series/pinnacle/sway.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/praharsh-highland.html"
+    ],
+    "faq": [
+     {
+      "q": "What are the different types of playground swings?",
+      "a": "Belt or flat seat swings for older children, enclosed toddler or bucket swings for young children, nest or basket swings that several children can share, mother-and-child swings with an adult seat facing a toddler seat, and designer or themed swing frames."
+     },
+     {
+      "q": "How much space does a playground swing need?",
+      "a": "A swing needs clear space in front of and behind the seat, well beyond the frame, plus space to the sides. The exact distance depends on the height of the swing. Your supplier should mark the swing's safety zone on the layout."
+     },
+     {
+      "q": "Where should swings be placed in a playground?",
+      "a": "At the edge of the play area, away from main paths and the exits of slides, so children do not walk through the swing's path. A low barrier or planting can help guide children around it."
+     },
+     {
+      "q": "Which swing is best for children with disabilities?",
+      "a": "Nest or basket swings are popular because a child can sit or lie down with support, and friends or carers can join. Some suppliers also offer supportive seats; check the age and user range."
+     }
+    ]
+   }
+  }
+ ]
+}

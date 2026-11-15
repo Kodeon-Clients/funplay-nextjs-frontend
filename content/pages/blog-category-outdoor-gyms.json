@@ -1,0 +1,67 @@
+{
+ "path": "/blog/category/outdoor-gyms.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Outdoor gym guides | FunPlay Blog",
+  "description": "Planning an open gym for a park, society or campus: which machines to choose, how much space they need, who will use them and how to keep them safe.",
+  "canonical": "https://funplaysystems.com/blog/category/outdoor-gyms.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/outdoor-gyms.html",
+   "og:title": "Outdoor gym guides",
+   "og:description": "Planning an open gym for a park, society or campus: which machines to choose, how much space they need, who will use them and how to keep them safe.",
+   "og:image": "https://funplaysystems.com/images/Fun-fitness-cover-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Outdoor gyms",
+ "data": {
+  "cardImage": "/images/Fun-fitness-cover-image.jpg"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Outdoor gyms",
+    "https://funplaysystems.com/blog/category/outdoor-gyms.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "outdoor-gyms",
+    "kind": "topic",
+    "title": "Outdoor gyms",
+    "introText": "Planning an open gym for a park, society or campus: which machines to choose, how much space they need, who will use them and how to keep them safe.",
+    "shortText": "Open gyms for parks, societies and campuses.",
+    "image": "/images/Fun-fitness-cover-image.jpg",
+    "links": [
+     {
+      "label": "Fun Fitness outdoor gym range",
+      "href": "/corecraft/fun-fitness-equipment.html"
+     },
+     {
+      "label": "Open air gym equipment",
+      "href": "/open-air-gym-equipment-manufacturer-and-supplier-in-india.html"
+     }
+    ]
+   }
+  }
+ ]
+}

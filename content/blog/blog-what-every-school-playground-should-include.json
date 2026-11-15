@@ -3,188 +3,86 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "What Every School Playground Should Include | FunPlay",
-  "description": "A checklist of what every school playground needs: equipment by age group, safety surfacing, shade, seating and maintenance.",
+  "title": "What Every School Playground Should Include: A Checklist",
+  "description": "The essentials of a good school playground in India: zones by age, climbing, sliding, swinging and balance equipment, open space, safe surfaces, shade, seating and supervision.",
   "canonical": "https://funplaysystems.com/blog/what-every-school-playground-should-include.html",
-  "robots": "index,follow",
+  "robots": "index, follow",
   "og": {
-   "og:title": "What Every School Playground Should Include | FunPlay",
-   "og:description": "A checklist of what every school playground needs: equipment by age group, safety surfacing, shade, seating and maintenance.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/what-every-school-playground-should-include.html",
-   "og:image": "https://funplaysystems.com/images/what-every-images.JPG",
+   "og:title": "What Every School Playground Should Include",
+   "og:description": "The essentials of a good school playground in India: zones by age, climbing, sliding, swinging and balance equipment, open space, safe surfaces, shade, seating and supervision.",
+   "og:image": "https://funplaysystems.com/images/what-every-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "What Every School Playground Should Include | FunPlay",
-   "twitter:description": "A checklist of what every school playground needs: equipment by age group, safety surfacing, shade, seating and maintenance.",
    "twitter:image": "https://funplaysystems.com/images/what-every-cover.JPG"
   }
  },
- "styles": [
-  "2d2f6d2ca3"
- ],
  "h1": "What Every School Playground Should Include",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/what-every-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/what-every-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "03 July 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "What Every School Playground Should Include",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent2",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "what-every-school-playground-should-include"
     },
-    "divText": [
+    "title": "What Every School Playground Should Include",
+    "summaryText": "A checklist of what every school playground needs, from equipment for each kind of play to open space, safe surfaces, shade and supervision, with notes on why each one matters.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-07-03",
+    "updated": "2026-11-14",
+    "image": "/images/what-every-cover.JPG",
+    "imageAlt": "Installer working on new playground equipment at a school",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "school playground equipment india"
-      ]
+      "text": "A good school playground offers every kind of play: climbing, sliding, swinging, spinning, balancing, pretending and running."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "inclusive school play areas"
-      ]
+      "text": "Separate zones for younger and older children prevent most collisions."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "educational play equipment for schools"
-      ]
+      "text": "Open ground is as important as equipment: many games need space, not structures."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "safe playground design india"
-      ]
+      "text": "Safe surfaces, shade, water, seating and clear sight lines for staff complete the picture."
+     }
+    ],
+    "products": [
+     "/nexlev-series/woody/teton.html",
+     "/nexlev-series/woody/toss.html",
+     "/corecraft/individual-equipment/climber/hopping-pod.html",
+     "/nexlev-series/pinnacle/groovy.html",
+     "/corecraft/individual-equipment/merry-go-round.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/swr-railways.html"
+    ],
+    "faq": [
+     {
+      "q": "What should a school playground have?",
+      "a": "Equipment for climbing, sliding, swinging, spinning and balancing; a separate zone for younger children; open ground for running games; impact-absorbing surfaces under equipment; shade, drinking water and seating; and a layout that staff can supervise from one point."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "funplay school playground solutions"
-      ]
+      "q": "How big should a school playground be?",
+      "a": "It depends on the number of children using it at the same time and their ages. Plan equipment so a whole break-time group can play without long queues, add safety zones around each unit, and keep open ground for running games. A supplier can propose a layout from your plot plan."
+     },
+     {
+      "q": "What makes a school playground safe?",
+      "a": "Age-appropriate equipment designed to a recognised standard, impact-absorbing surfaces across all safety zones, a layout with clear routes and sight lines, simple rules, and regular inspection and maintenance."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "What Every School Playground Should Include",
-    "https://funplaysystems.com/blog/what-every-school-playground-should-include.html"
-   ]
-  ],
-  "article": {
-   "headline": "What Every School Playground Should Include",
-   "description": "A checklist of what every school playground needs: equipment by age group, safety surfacing, shade, seating and maintenance.",
-   "image": "https://funplaysystems.com/images/what-every-images.JPG",
-   "datePublished": "2025-07-03",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

@@ -3,224 +3,86 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Modular Play Equipment for Schools & Builders | FunPlay",
-  "description": "Why modular play equipment suits Indian schools and builders: flexible layouts, phased budgets and easy expansion.",
+  "title": "Modular Play Equipment for Schools & Builders in India",
+  "description": "What modular playground equipment is, why schools and builders in India choose it, how it adapts to different sites and budgets, and how to plan a structure you can extend later.",
   "canonical": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Modular Play Equipment for Schools & Builders | FunPlay",
-   "og:description": "Why modular play equipment suits Indian schools and builders: flexible layouts, phased budgets and easy expansion.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html",
-   "og:image": "https://funplaysystems.com/images/modular-images.JPG",
+   "og:title": "Modular Play Equipment for Schools and Builders in India",
+   "og:description": "What modular playground equipment is, why schools and builders in India choose it, how it adapts to different sites and budgets, and how to plan a structure you can extend later.",
+   "og:image": "https://funplaysystems.com/images/modular-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Modular Play Equipment for Schools & Builders | FunPlay",
-   "twitter:description": "Why modular play equipment suits Indian schools and builders: flexible layouts, phased budgets and easy expansion.",
-   "twitter:image": "https://funplaysystems.com/images/modular-images.JPG"
+   "twitter:image": "https://funplaysystems.com/images/modular-cover.JPG"
   }
  },
- "h1": "Modular Play Equipment for Schools & Builders in India",
+ "h1": "Modular Play Equipment for Schools and Builders in India",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/modular-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/modular-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "05 June 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Modular Play Equipment for Schools & Builders in India",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "modular-play-equipment-for-indian-schools-and-builders"
     },
-    "divText": [
+    "title": "Modular Play Equipment for Schools and Builders in India",
+    "summaryText": "How modular play structures are put together, why they suit schools and real estate projects, and how to plan one that can grow with your budget.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-06-05",
+    "updated": "2026-11-14",
+    "image": "/images/modular-cover.JPG",
+    "imageAlt": "Two children on swings at a modular playground in a school",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Modular Play Equipment"
-      ]
+      "text": "Modular play structures are built from standard towers, decks, links, slides and panels, combined to suit a site."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds India"
-      ]
+      "text": "They let you fit irregular plots, match an age group and stay within a budget without a fully custom design."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Housing Society Playgrounds"
-      ]
+      "text": "Plan for expansion: leave space and agree the connection points so you can add towers later."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Custom Play Structures"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "FunPlay Systems"
-      ]
+      "text": "Standard parts make spares and repairs simpler for years."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/castle-crest/crown-court-3.html",
+     "/corecraft/robo-romp/dual-bot.html",
+     "/corecraft/forestia/jungle-jive-l1.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/swr-railways.html",
+     "/projects/nicon-vista.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What is modular playground equipment?",
+      "a": "Modular playground equipment is built from standard components such as towers, platforms, steps, bridges, slides, climbers, roofs and play panels, which can be combined in different arrangements to suit a site, an age group and a budget."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Can modular play equipment be extended later?",
+      "a": "Yes, if it is planned. Leave space within the layout, choose a design with connection points for extra towers or links, and keep the same range so parts match."
+     },
+     {
+      "q": "Is modular play equipment good for schools?",
+      "a": "Yes. It can be arranged to fit the available space, sized for different age groups, extended in phases as budgets allow, and repaired with standard spare parts."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Modular Play Equipment for Schools & Builders in India",
-    "https://funplaysystems.com/blog/modular-play-equipment-for-indian-schools-and-builders.html"
-   ]
-  ],
-  "article": {
-   "headline": "Modular Play Equipment for Schools & Builders in India",
-   "description": "Why modular play equipment suits Indian schools and builders: flexible layouts, phased budgets and easy expansion.",
-   "image": "https://funplaysystems.com/images/modular-images.JPG",
-   "datePublished": "2025-06-05",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

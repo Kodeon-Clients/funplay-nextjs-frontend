@@ -1,0 +1,89 @@
+{
+ "path": "/blog/outdoor-gym-equipment-for-senior-citizens.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Outdoor Gym Equipment for Senior Citizens & Older Adults",
+  "description": "How to plan an outdoor gym that suits senior citizens: gentle machines, safe access, seating, shade, signage and layout ideas for parks and housing societies in India.",
+  "canonical": "https://funplaysystems.com/blog/outdoor-gym-equipment-for-senior-citizens.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/outdoor-gym-equipment-for-senior-citizens.html",
+   "og:title": "Outdoor Gym Equipment for Senior Citizens: A Planning Guide",
+   "og:description": "How to plan an outdoor gym that suits senior citizens: gentle machines, safe access, seating, shade, signage and layout ideas for parks and housing societies in India.",
+   "og:image": "https://funplaysystems.com/images/garden-decor-cover-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/garden-decor-cover-image.jpg"
+  }
+ },
+ "h1": "Outdoor Gym Equipment for Senior Citizens: A Planning Guide",
+ "data": {
+  "cardImage": "/images/garden-decor-cover-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "outdoor-gym-equipment-for-senior-citizens"
+    },
+    "title": "Outdoor Gym Equipment for Senior Citizens: A Planning Guide",
+    "summaryText": "Older residents are often the most regular users of an open gym. Which machines suit them, and the layout details that make a gym comfortable and safe for seniors.",
+    "topic": "outdoor-gyms",
+    "audiences": [
+     "parks",
+     "housing-societies"
+    ],
+    "author": "karan-desai",
+    "date": "2026-10-21",
+    "image": "/images/garden-decor-cover-image.jpg",
+    "imageAlt": "Two older men sitting on a bench in a green park",
+    "takeaways": [
+     {
+      "text": "Seniors are often the most regular open gym users, especially in the early morning."
+     },
+     {
+      "text": "Choose low-impact machines: walkers, cycles, twisters, tai chi wheels and shoulder twirls."
+     },
+     {
+      "text": "Easy access matters: level paths, handholds, low step-on heights and seating between stations."
+     },
+     {
+      "text": "Shade, lighting, water and clear signs in the local language make the gym usable every day."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment/fun-cycle.html",
+     "/corecraft/fun-fitness-equipment/tai-chi-double.html",
+     "/corecraft/fun-fitness-equipment/seating-twister-cum-tai-chi.html",
+     "/corecraft/fun-fitness-equipment/shoulder-twirl.html",
+     "/corecraft/fun-fitness-equipment/fun-walker-single.html",
+     "/corecraft/garden-decor/curve-bench.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/royal-mangalam.html"
+    ],
+    "faq": [
+     {
+      "q": "Which outdoor gym equipment is suitable for senior citizens?",
+      "a": "Low-impact machines that support the body: seated cycles, walkers with handrails, seated and standing twisters, tai chi wheels, shoulder twirls and gentle leg presses. Avoid placing only high-effort machines such as pull-up bars."
+     },
+     {
+      "q": "Is outdoor gym equipment safe for older people?",
+      "a": "Yes, when the machines are low impact, the surface is level and non-slip, there are handholds, and users exercise within their limits. Signs should advise users with health conditions to check with a doctor first."
+     },
+     {
+      "q": "How should a senior-friendly outdoor gym be laid out?",
+      "a": "On a level, step-free area close to a walking path, with seating between stations, shade, lighting and drinking water nearby, and machines grouped so users can move easily from one to the next."
+     }
+    ]
+   }
+  }
+ ]
+}

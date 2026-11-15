@@ -7,6 +7,7 @@ import { sections as productSections } from "@/components/templates/product";
 import { sections as blogSections } from "@/components/templates/blog";
 import { buildMetadata } from "@/lib/page";
 import { getTemplatedPage, templatedPages, type Family } from "@/lib/pages";
+import { postSchema } from "@/lib/blog";
 
 export const dynamicParams = false;
 
@@ -31,8 +32,10 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 
 /** City, product and blog pages: the page's JSON lists its sections; each is a component fed plain data. */
 export default async function Page({ params }: Params) {
-  const page = getTemplatedPage(toPath((await params).slug));
-  if (!page) notFound();
+  const found = getTemplatedPage(toPath((await params).slug));
+  if (!found) notFound();
+  // blog posts: structured data comes from the post's own fields (lib/blog.ts)
+  const page = found.family === "blog" ? { ...found, schema: postSchema(found) } : found;
   const registry = REGISTRY[page.family];
   return (
     <PageShell page={page}>

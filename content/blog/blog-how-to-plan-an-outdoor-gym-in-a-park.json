@@ -1,0 +1,97 @@
+{
+ "path": "/blog/how-to-plan-an-outdoor-gym-in-a-park.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "How to Plan an Open Gym in a Park or Society (Space, Equipment)",
+  "description": "How to plan an outdoor gym (open gym) for a park, housing society or campus in India: users, equipment mix, space and layout, surfacing, shade, signage and maintenance.",
+  "canonical": "https://funplaysystems.com/blog/how-to-plan-an-outdoor-gym-in-a-park.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/how-to-plan-an-outdoor-gym-in-a-park.html",
+   "og:title": "How to Plan an Outdoor Gym in a Park or Society",
+   "og:description": "How to plan an outdoor gym (open gym) for a park, housing society or campus in India: users, equipment mix, space and layout, surfacing, shade, signage and maintenance.",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/7.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/7.jpg"
+  }
+ },
+ "h1": "How to Plan an Outdoor Gym in a Park or Society",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/7.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "how-to-plan-an-outdoor-gym-in-a-park"
+    },
+    "title": "How to Plan an Outdoor Gym in a Park or Society",
+    "summaryText": "A step-by-step guide to planning an open gym: who will use it, which machines to choose, how much space it needs, and the details that keep it safe and busy.",
+    "topic": "outdoor-gyms",
+    "audiences": [
+     "parks",
+     "housing-societies",
+     "resorts-commercial"
+    ],
+    "author": "karan-desai",
+    "date": "2025-11-05",
+    "image": "/images/projects/dighe-garden-thane/7.jpg",
+    "imageAlt": "Outdoor gym stations in a public garden with palm trees",
+    "takeaways": [
+     {
+      "text": "Start with the users: mostly adults and older people in parks and societies, with teenagers in the evenings."
+     },
+     {
+      "text": "Mix cardio, strength, flexibility and balance stations so everyone finds something."
+     },
+     {
+      "text": "Allow clear space around each machine and a safe, non-slip surface."
+     },
+     {
+      "text": "Place the gym near the children's play area so parents can exercise while watching."
+     },
+     {
+      "text": "Post simple usage signs and age guidance on every station."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment/fun-walker-double.html",
+     "/corecraft/fun-fitness-equipment/cross-fit.html",
+     "/corecraft/fun-fitness-equipment/leg-press.html",
+     "/corecraft/fun-fitness-equipment/chest-press-cum-shoulder-press.html",
+     "/corecraft/fun-fitness-equipment/seating-twister-three-way.html",
+     "/corecraft/fun-fitness-equipment/pull-up-station.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/royal-mangalam.html"
+    ],
+    "faq": [
+     {
+      "q": "What is an open gym?",
+      "a": "An open gym, or outdoor gym, is a set of weather-resistant fitness machines installed in a park, housing society or campus for free public use. The machines use the user's own body weight for resistance, so they are safe and simple for people of different fitness levels."
+     },
+     {
+      "q": "How much space does an outdoor gym need?",
+      "a": "Each machine needs its footprint plus clear space around it for movement and access. A compact society gym of six to eight stations can fit in a modest corner, while a park gym with twelve or more stations needs a larger area. Your supplier should provide the safe area for each machine."
+     },
+     {
+      "q": "Which outdoor gym equipment should we start with?",
+      "a": "A balanced first set usually includes a walker or cross trainer for cardio, a leg press, a chest and shoulder press, a twister for flexibility, a pull-up or parallel bar for upper body, and a tai chi or shoulder wheel for older users."
+     },
+     {
+      "q": "Can children use outdoor gym equipment?",
+      "a": "Outdoor gym machines are designed for teenagers and adults. Younger children should use the play area instead, as gym machines have moving parts and gaps sized for adults. Signs should state the minimum age."
+     }
+    ]
+   }
+  }
+ ]
+}

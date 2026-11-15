@@ -6,6 +6,7 @@ import PageSchema from "@/components/PageSchema";
 import type { PageMeta } from "@/lib/page";
 import heroes from "@/content/hero-images.json";
 import HeroPreload from "@/components/HeroPreload";
+import RelatedGuides from "@/components/blog/RelatedGuides";
 
 /** Header, main content, footer, enquiry popup and structured data around every site page.
  * A page with its own header or footer (the ads landing page) passes them in. */
@@ -22,7 +23,10 @@ export default function PageShell({ page, children, header, footer }: { page: Pa
         <link rel="stylesheet" href={`/css/pages/${id}.css`} precedence="page" key={id} />
       ))}
       {header ?? <Header variant={page.header} />}
-      <main id="main">{children}</main>
+      <main id="main">
+        {children}
+        <RelatedGuides path={page.path} type={page.type} />
+      </main>
       {footer ?? <Footer />}
       <ContactPopup title={page.popupTitle} />
       {page.path === "/" ? <DownloadPopup /> : null}

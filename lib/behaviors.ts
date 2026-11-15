@@ -950,8 +950,33 @@ function liveChat(): Cleanup {
   return () => document.removeEventListener("click", onClick);
 }
 
+/** Blog posts: highlight the section being read in the contents list. */
+function blogToc(): Cleanup {
+  const links = qsa<HTMLAnchorElement>(".fpb-toc a[href^='#']");
+  if (!links.length || !("IntersectionObserver" in window)) return () => {};
+  const byId = new Map(links.map((a) => [decodeURIComponent(a.hash.slice(1)), a]));
+  const heads = [...byId.keys()].map((id) => document.getElementById(id)).filter((h): h is HTMLElement => !!h);
+  let current: HTMLAnchorElement | undefined;
+  const set = (id: string) => {
+    const a = byId.get(id);
+    if (!a || a === current) return;
+    current?.classList.remove("is-active");
+    a.classList.add("is-active");
+    current = a;
+  };
+  const io = new IntersectionObserver(
+    (entries) => {
+      const visible = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+      if (visible[0]) set(visible[0].target.id);
+    },
+    { rootMargin: "-100px 0px -65% 0px" },
+  );
+  heads.forEach((h) => io.observe(h));
+  return () => io.disconnect();
+}
+
 export function initBehaviors(): Cleanup {
-  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat(), digitsOnly(), magicCursor()];
+  const cleanups: Cleanup[] = [header(), search(), popups(), collapse(), carousels(), reveal(), counters(), forms(), filters(), scrollTop(), loadMore(), masonry(), lightbox(), clientRotator(), liveChat(), digitsOnly(), magicCursor(), blogToc()];
   let swiperCleanup: Cleanup | null = null;
   sliders().then((c) => (swiperCleanup = c)).catch(() => {});
   return () => {

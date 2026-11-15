@@ -4,154 +4,86 @@
  "header": "light",
  "seo": {
   "title": "Playground Design Ideas for Small Spaces | FunPlay",
-  "description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, rooftop ideas and layout tips.",
+  "description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, wall panels, multi-use surfaces, podium and courtyard ideas, and layout tips.",
   "canonical": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html",
   "robots": "index, follow",
   "og": {
    "og:type": "article",
-   "og:title": "Playground Design Ideas for Small Spaces | FunPlay",
-   "og:description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, rooftop ideas and layout tips.",
    "og:url": "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html",
-   "og:image": "https://funplaysystems.com/images/clients/park.jpeg",
+   "og:title": "Playground Design Ideas for Small Spaces",
+   "og:description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, wall panels, multi-use surfaces, podium and courtyard ideas, and layout tips.",
+   "og:image": "https://funplaysystems.com/images/about_us2.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Playground Design Ideas for Small Spaces | FunPlay",
-   "twitter:description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, rooftop ideas and layout tips.",
-   "twitter:image": "https://funplaysystems.com/images/g2.jpg"
+   "twitter:image": "https://funplaysystems.com/images/about_us2.jpg"
   }
  },
  "h1": "Playground Design Ideas for Small Spaces",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/about_us2.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/blog2.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\":{\"number\":{\"value\":12,\"density\":{\"enable\":true,\"value_area\":2000}},\"color\":{\"value\":[\"#d5d52b\",\"#d5d52b\",\"#d5d52b\",\"#d5d52b\",\"#d5d52b\"]},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\":{\"value\":1,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"sync\":false}},\"size\":{\"value\":8,\"random\":true,\"anim\":{\"enable\":false,\"sync\":true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"right\",\"random\":false,\"straight\":false}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"repulse\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true}},\"retina_detect\":false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "2 October 2025"
-        ]
-       },
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       }
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Playground Design Ideas for Small Spaces"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent5",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "playground-design-ideas-for-small-spaces"
     },
-    "aHref": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc": "/images/funplay-innovative-images.JPG",
-    "imgAlt": "Blending Play Equipment with Green Spaces",
-    "items": [
+    "title": "Playground Design Ideas for Small Spaces",
+    "summaryText": "How to fit real play value into a courtyard, podium or narrow strip: compact structures, going vertical, using walls and floors, and planning safety zones in tight spaces.",
+    "topic": "design-ideas",
+    "audiences": [
+     "housing-societies",
+     "schools"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-10-02",
+    "updated": "2026-11-14",
+    "image": "/images/about_us2.jpg",
+    "imageAlt": "Child on a nature-inspired play structure with tree-shaped canopies",
+    "takeaways": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "text": "Go vertical: compact towers stack climbing, sliding and lookouts into a small footprint."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "text": "Use walls for play panels and the floor for games; both add play without taking space."
+     },
+     {
+      "text": "Choose equipment several children can use at once, such as nest swings and rotating climbers."
+     },
+     {
+      "text": "Safety zones still apply: plan them first, then fit equipment around them."
      }
     ],
-    "aHref2": "/blog/designing-adventure-playgrounds-for-skill-development.html",
-    "imgSrc2": "/images/playground-helps-five.jpg",
-    "imgAlt2": "Designing Adventure Playgrounds for Skill Development",
-    "items2": [
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/nexlev-series/pinnacle/groovy.html",
+     "/nexlev-series/solitaire/chalet.html",
+     "/funplay-originals/wall-play.html",
+     "/funplay-originals/nature-sparsh/card-pyramid.html"
+    ],
+    "projects": [
+     "/projects/nicon-vista.html",
+     "/projects/royal-mangalam.html"
+    ],
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Designing Adventure Playgrounds for Skill Development"
+      "q": "How can I design a playground in a small space?",
+      "a": "Choose a compact multi play station that stacks activities vertically, use walls for play panels and the floor for painted or built-in games, pick equipment many children can use at once, and plan safety zones first so everything fits safely."
      },
      {
-      "pClass": "post-date",
-      "pText": "25 September 2025"
+      "q": "What is the best play equipment for small spaces?",
+      "a": "Compact play towers, small rotating net climbers, spring riders, wall-mounted play panels, crawl tunnels and low balance elements. Nest swings serve several children at once if there is room for a swing's safety zone."
+     },
+     {
+      "q": "How small can a playground be?",
+      "a": "Even a small courtyard can hold a toddler corner with a compact unit, spring riders and wall panels. The limit is the safety zone each item needs: check the safe play area of every unit before you buy."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Playground Design Ideas for Small Spaces",
-    "https://funplaysystems.com/blog/playground-design-ideas-for-small-spaces.html"
-   ]
-  ],
-  "article": {
-   "headline": "Playground Design Ideas for Small Spaces",
-   "description": "How to fit a safe, fun playground into a small space: compact play stations, vertical play, rooftop ideas and layout tips.",
-   "image": "https://funplaysystems.com/images/clients/park.jpeg",
-   "datePublished": "2025-10-02",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

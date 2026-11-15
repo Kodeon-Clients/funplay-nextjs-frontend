@@ -1,0 +1,91 @@
+{
+ "path": "/blog/playground-equipment-installation-process.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Equipment Installation Process, Step by Step",
+  "description": "How playground equipment is installed in India, step by step: site survey, layout marking, foundations, curing, assembly, surfacing, handover, and how to prepare your site.",
+  "canonical": "https://funplaysystems.com/blog/playground-equipment-installation-process.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-equipment-installation-process.html",
+   "og:title": "Playground Equipment Installation: What Happens on Site",
+   "og:description": "How playground equipment is installed in India, step by step: site survey, layout marking, foundations, curing, assembly, surfacing, handover, and how to prepare your site.",
+   "og:image": "https://funplaysystems.com/images/top-playground-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/top-playground-images.JPG"
+  }
+ },
+ "h1": "Playground Equipment Installation: What Happens on Site",
+ "data": {
+  "cardImage": "/images/top-playground-images.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-equipment-installation-process"
+    },
+    "title": "Playground Equipment Installation: What Happens on Site",
+    "summaryText": "From the site survey to handover: what happens when a playground is installed, how long each stage takes, and what the school, society or contractor needs to have ready.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "priya-nair",
+    "date": "2026-08-05",
+    "image": "/images/top-playground-images.JPG",
+    "imageAlt": "FunPlay installation team setting out playground equipment on site",
+    "takeaways": [
+     {
+      "text": "A good installation starts before the truck arrives: survey, approved layout, clear access and a level, drained site."
+     },
+     {
+      "text": "Foundations need time to cure before equipment is loaded; rushing this is the most common cause of wobbly posts."
+     },
+     {
+      "text": "Safety surfacing is laid after the equipment is fixed, and must cover every safety zone."
+     },
+     {
+      "text": "Do not open the play area until the installer has done a final check and handed over the maintenance guide."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/fun-fitness-equipment.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/st-andrews-school.html"
+    ],
+    "faq": [
+     {
+      "q": "How long does playground installation take?",
+      "a": "It depends on the size of the project and the surface. A few single items can be installed in a day or two. A larger play area with foundations and poured rubber surfacing can take one to several weeks, including time for concrete to cure and the surface to set."
+     },
+     {
+      "q": "What foundations does playground equipment need?",
+      "a": "Most equipment posts are set in concrete footings sized by the manufacturer for the load and the soil. On podiums and terraces, base plates are fixed to the slab with appropriate anchors after checking the slab's load capacity and waterproofing."
+     },
+     {
+      "q": "What should the site owner prepare before installation?",
+      "a": "An approved layout, clear and level ground, access for a vehicle and materials, storage space, water and power for tools, a contact person on site, and information about underground cables, pipes and waterproofing."
+     },
+     {
+      "q": "Can playground equipment be installed on an existing concrete floor?",
+      "a": "Some equipment can be bolted to an existing slab if it is strong enough, but you will still need impact-absorbing surfacing on top across the safety zones. Your supplier should check the slab before agreeing to this."
+     }
+    ]
+   }
+  }
+ ]
+}

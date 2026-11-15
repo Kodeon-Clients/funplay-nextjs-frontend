@@ -3,193 +3,87 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Imported vs Indian Playground Equipment: Cost & Quality",
-  "description": "Imported vs Indian playground equipment compared on price, quality, delivery time, spares and service, to help you choose.",
+  "title": "Imported vs Indian Playground Equipment: Cost, Quality, Service",
+  "description": "Imported vs Indian-made playground equipment compared on price, quality, safety standards, lead time, customisation, spares and service, to help you choose for your project.",
   "canonical": "https://funplaysystems.com/blog/imported-vs-indian-playground-equipment.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "Imported vs Indian Playground Equipment: Cost & Quality",
-   "og:description": "Imported vs Indian playground equipment compared on price, quality, delivery time, spares and service, to help you choose.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/imported-vs-indian-playground-equipment.html",
-   "og:image": "https://funplaysystems.com/images/clients/park.jpeg",
+   "og:title": "Imported vs Indian Playground Equipment: What's Better for Your Budget?",
+   "og:description": "Imported vs Indian-made playground equipment compared on price, quality, safety standards, lead time, customisation, spares and service, to help you choose for your project.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/5.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Imported vs Indian Playground Equipment: Cost & Quality",
-   "twitter:description": "Imported vs Indian playground equipment compared on price, quality, delivery time, spares and service, to help you choose.",
-   "twitter:image": "https://funplaysystems.com/images/g2.jpg"
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/5.jpg"
   }
  },
- "h1": "Imported vs. Indian Equipment: What's Better for Your Budget?",
+ "h1": "Imported vs Indian Playground Equipment: What's Better for Your Budget?",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/projects/st-andrews-school-telengana/5.jpg"
  },
  "sections": [
   {
-   "component": "BlogImportedVsIndianEquipment",
-   "props": {
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "31 July 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Budget Planning & Equipment Selection"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "text": " >",
-    "h1Text": "Imported vs. Indian Equipment: What's Better for Your Budget?",
-    "aText": "By FunPlay"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent4",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "imported-vs-indian-playground-equipment"
     },
-    "items": [
+    "title": "Imported vs Indian Playground Equipment: What's Better for Your Budget?",
+    "summaryText": "Imported and Indian-made playground equipment compared honestly: where each one makes sense, and what to check whichever way you go.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-07-31",
+    "updated": "2026-11-14",
+    "image": "/images/projects/st-andrews-school-telengana/5.jpg",
+    "imageAlt": "Wooden play tower with a climbing wall and a twin slide on a rubber surface at a school",
+    "takeaways": [
      {
-      "summaryText": "Q1: Is Indian playground equipment safe for children?",
-      "pText": "Yes, many Indian brands now follow international safety standards and use child-safe materials."
+      "text": "Good equipment can come from India or abroad; the specification, the standard and the service decide quality, not the country."
      },
      {
-      "summaryText": "Q2: Can I get spare parts easily for Indian equipment?",
-      "pText": "Yes, since Indian equipment is made locally, spare parts and service are usually quick and affordable."
+      "text": "Indian manufacturers usually win on lead time, customisation, transport cost, spares and on-site service."
      },
      {
-      "summaryText": "Q3: When should I consider imported playground equipment?",
-      "pText": "Imported equipment is a good choice if you need highly specialized designs, luxury features, or have a large budget for premium products."
+      "text": "Imported brands bring their own designs and testing, at a higher landed cost and with longer waits for parts."
+     },
+     {
+      "text": "Compare both on the same specification, warranty and service terms."
      }
     ],
-    "divText": [
+    "products": [
+     "/nexlev-series.html",
+     "/funplay-originals.html",
+     "/corecraft.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/praharsh-highland.html"
+    ],
+    "faq": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "indian vs imported playground equipment"
-      ]
+      "q": "Is imported playground equipment better than Indian equipment?",
+      "a": "Not necessarily. Quality depends on the materials, the safety standard the design follows and the installation, not the country of origin. Several Indian manufacturers design to the same European standards used by imported brands."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "affordable playground equipment india"
-      ]
+      "q": "Why is imported playground equipment more expensive?",
+      "a": "The landed cost includes international freight, import duty, distributor margins and often longer storage and handling, on top of the product price. Spares carry the same costs."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "playground equipment cost comparison"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "made in india playgrounds"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "budget friendly play equipment"
-      ]
+      "q": "How long does imported playground equipment take to arrive?",
+      "a": "Usually longer than Indian-made equipment, because of manufacturing abroad, shipping and customs clearance. Lead times for spare parts are also longer. Ask the distributor for firm timelines in writing."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Imported vs. Indian Equipment: What's Better for Your Budget?",
-    "https://funplaysystems.com/blog/imported-vs-indian-playground-equipment.html"
-   ]
-  ],
-  "article": {
-   "headline": "Imported vs. Indian Equipment: What's Better for Your Budget?",
-   "description": "Imported vs Indian playground equipment compared on price, quality, delivery time, spares and service, to help you choose.",
-   "image": "https://funplaysystems.com/images/clients/park.jpeg",
-   "datePublished": "2025-07-31",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

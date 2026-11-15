@@ -4,204 +4,82 @@
  "header": "light",
  "seo": {
   "title": "How Play-Based Learning Can Transform Indian Education",
-  "description": "What play-based learning is, why it works for Indian classrooms and how schools can use outdoor play spaces to support it.",
+  "description": "What play-based learning is, why NEP 2020 puts it at the centre of early education in India, what it looks like in classrooms and playgrounds, and how schools can start.",
   "canonical": "https://funplaysystems.com/blog/how-play-based-learning-can-transform-education-in-india.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "How Play-Based Learning Can Transform Indian Education",
-   "og:description": "What play-based learning is, why it works for Indian classrooms and how schools can use outdoor play spaces to support it.",
-   "og:image": "https://funplaysystems.com/images/outdoor-learning.JPG",
-   "og:url": "https://funplaysystems.com/blog/how-play-based-learning-can-transform-education-in-india.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/how-play-based-learning-can-transform-education-in-india.html",
+   "og:title": "How Play-Based Learning Can Transform Education in India",
+   "og:description": "What play-based learning is, why NEP 2020 puts it at the centre of early education in India, what it looks like in classrooms and playgrounds, and how schools can start.",
+   "og:image": "https://funplaysystems.com/images/play-based-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "How Play-Based Learning Can Transform Indian Education",
-   "twitter:description": "What play-based learning is, why it works for Indian classrooms and how schools can use outdoor play spaces to support it.",
    "twitter:image": "https://funplaysystems.com/images/play-based-cover.JPG"
   }
  },
  "h1": "How Play-Based Learning Can Transform Education in India",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/play-based-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogMainContent",
+   "component": "BlogPost",
    "props": {
-    "items": [
+    "article": {
+     "slug": "how-play-based-learning-can-transform-education-in-india"
+    },
+    "title": "How Play-Based Learning Can Transform Education in India",
+    "summaryText": "Play-based learning is now part of Indian education policy. What it means in practice, why it works, and how schools can bring it into classrooms and playgrounds.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-04-28",
+    "updated": "2026-11-14",
+    "image": "/images/play-based-cover.JPG",
+    "imageAlt": "Teacher and student in a classroom",
+    "takeaways": [
      {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
+      "text": "Play-based learning uses guided and free play to teach concepts and skills."
      },
      {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
+      "text": "NEP 2020 emphasises play- and activity-based learning in the foundational stage (ages 3 to 8)."
      },
      {
-      "divClass": "opacity-light bg-dark-gray"
+      "text": "It builds understanding, language, social skills and motivation, not only fun."
+     },
+     {
+      "text": "Outdoor spaces and play equipment can support it as much as classroom materials."
      }
     ],
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#",
-         "rel": "nofollow noopener"
-        },
-        "c": [
-         "28 April 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "/blog.html"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
+    "products": [
+     "/funplay-originals/wall-play.html",
+     "/funplay-originals/khel-khud.html",
+     "/funplay-originals/timeless-play.html"
     ],
-    "h1Text": "How Play-Based Learning Can Transform Education in India",
-    "aText": "By FunPlay",
-    "pText": "Tags",
-    "divText2": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Play-Based Learning India"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Holistic Child Development"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Creative Learning in Schools"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Inclusive Education India"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Learning Activities"
-      ]
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "pText2": "Latest Posts",
-    "items2": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
+      "q": "What is play-based learning?",
+      "a": "Play-based learning is an approach in which children learn concepts and skills through play, both free play they lead and guided play that a teacher shapes towards a learning goal, using materials, games, stories and the outdoor environment."
      },
      {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
-    ],
-    "items3": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
+      "q": "Is play-based learning part of NEP 2020?",
+      "a": "Yes. NEP 2020 emphasises flexible, multi-faceted, play-based and activity-based learning, especially in the foundational stage for children aged 3 to 8."
      },
      {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
-    ],
-    "items4": [
-     {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How can schools start with play-based learning?",
+      "a": "Train teachers, set aside time for guided play, use hands-on materials, take lessons outdoors, and design play spaces with elements for counting, building, role play and exploration."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "How Play-Based Learning Can Transform Education in India",
-    "https://funplaysystems.com/blog/how-play-based-learning-can-transform-education-in-india.html"
-   ]
-  ],
-  "article": {
-   "headline": "How Play-Based Learning Can Transform Education in India",
-   "description": "What play-based learning is, why it works for Indian classrooms and how schools can use outdoor play spaces to support it.",
-   "image": "https://funplaysystems.com/images/outdoor-learning.JPG",
-   "datePublished": "2025-04-28",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

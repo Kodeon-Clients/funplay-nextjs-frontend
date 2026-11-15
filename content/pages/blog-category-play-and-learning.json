@@ -1,0 +1,58 @@
+{
+ "path": "/blog/category/play-and-learning.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Play and child development | FunPlay Blog",
+  "description": "Why outdoor play matters for children in India: health, focus, social skills and learning, and how schools, families and cities can make more room for it.",
+  "canonical": "https://funplaysystems.com/blog/category/play-and-learning.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/play-and-learning.html",
+   "og:title": "Play and child development",
+   "og:description": "Why outdoor play matters for children in India: health, focus, social skills and learning, and how schools, families and cities can make more room for it.",
+   "og:image": "https://funplaysystems.com/images/educational-outdoor-cover.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Play and child development",
+ "data": {
+  "cardImage": "/images/educational-outdoor-cover.JPG"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Play and child development",
+    "https://funplaysystems.com/blog/category/play-and-learning.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "play-and-learning",
+    "kind": "topic",
+    "title": "Play and child development",
+    "introText": "Why outdoor play matters for children in India: health, focus, social skills and learning, and how schools, families and cities can make more room for it.",
+    "shortText": "Why play matters, at school and in the city.",
+    "image": "/images/educational-outdoor-cover.JPG",
+    "links": []
+   }
+  }
+ ]
+}

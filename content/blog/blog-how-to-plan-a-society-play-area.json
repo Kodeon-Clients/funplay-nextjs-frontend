@@ -1,0 +1,93 @@
+{
+ "path": "/blog/how-to-plan-a-society-play-area.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "How to Plan a Housing Society Play Area: Guide for RWAs",
+  "description": "A step-by-step guide for housing society committees and RWAs planning a new or upgraded play area: surveying residents, choosing a site, budgeting, approvals, suppliers and upkeep.",
+  "canonical": "https://funplaysystems.com/blog/how-to-plan-a-society-play-area.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/how-to-plan-a-society-play-area.html",
+   "og:title": "How to Plan a Society Play Area: A Step-by-Step Guide for RWAs",
+   "og:description": "A step-by-step guide for housing society committees and RWAs planning a new or upgraded play area: surveying residents, choosing a site, budgeting, approvals, suppliers and upkeep.",
+   "og:image": "https://funplaysystems.com/images/projects/turquoise-grandeure-gujrat/1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/turquoise-grandeure-gujrat/1.jpg"
+  }
+ },
+ "h1": "How to Plan a Society Play Area: A Step-by-Step Guide for RWAs",
+ "data": {
+  "cardImage": "/images/projects/turquoise-grandeure-gujrat/1.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "how-to-plan-a-society-play-area"
+    },
+    "title": "How to Plan a Society Play Area: A Step-by-Step Guide for RWAs",
+    "summaryText": "For society committees and RWAs upgrading or building a play area: how to find out what residents need, choose the spot, set a budget, get approval and pick a supplier.",
+    "topic": "buying-guides",
+    "audiences": [
+     "housing-societies"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2026-07-22",
+    "image": "/images/projects/turquoise-grandeure-gujrat/1.jpg",
+    "imageAlt": "Colourful play structure on a rubber surface in a housing society courtyard",
+    "takeaways": [
+     {
+      "text": "Start with residents: a short survey of children's ages and what families want avoids arguments later."
+     },
+     {
+      "text": "Choose a site that is visible, shaded in part, away from parking and not under a tower's shadow all day."
+     },
+     {
+      "text": "Budget for surfacing, installation and maintenance, not only equipment."
+     },
+     {
+      "text": "Compare at least three suppliers on the same scope and visit one of their society projects."
+     },
+     {
+      "text": "Agree who looks after the play area and how, before it opens."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/corecraft/play-lands.html",
+     "/corecraft/individual-equipment/swing.html",
+     "/corecraft/fun-fitness-equipment.html"
+    ],
+    "projects": [
+     "/projects/turquoise-grandeure.html",
+     "/projects/nicon-vista.html"
+    ],
+    "faq": [
+     {
+      "q": "How does a housing society plan a new play area?",
+      "a": "Survey residents on children's ages and needs, choose a suitable location, set a budget that includes surfacing, installation and maintenance, get approval at the general body meeting, compare quotes from at least three suppliers on the same scope, and agree a maintenance plan."
+     },
+     {
+      "q": "Who approves a society play area upgrade?",
+      "a": "Usually the managing committee prepares the proposal and the general body approves the expenditure, following the society's bye-laws. Check your society's rules for spending limits and approval procedures."
+     },
+     {
+      "q": "How do we choose the right spot for a society playground?",
+      "a": "Pick a place visible from the buildings and walkways, away from driveways and parking, with some shade but not in permanent shadow, with good drainage and enough space for safety zones around each piece of equipment."
+     },
+     {
+      "q": "How can a society keep its play area in good condition?",
+      "a": "Name a person responsible, follow a daily and monthly inspection checklist, keep a log, fix problems promptly with the supplier's spares, and consider an annual maintenance contract."
+     }
+    ]
+   }
+  }
+ ]
+}

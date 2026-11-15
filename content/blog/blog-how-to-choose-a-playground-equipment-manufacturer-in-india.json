@@ -10,6 +10,8 @@
   "og": {
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
+   "og:title": "How to Choose a Playground Equipment Manufacturer in India",
+   "og:description": "A buyer's checklist for schools, builders and civic bodies: what to ask a playground equipment manufacturer in India about materials, safety, installation and service.",
    "og:image": "https://funplaysystems.com/images/g2.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
@@ -21,218 +23,69 @@
  },
  "h1": "How to Choose a Playground Equipment Manufacturer in India",
  "data": {
-  "cardImage": "/images/g2.jpg",
-  "latest": {
-   "title": "How to Choose a Playground Equipment Manufacturer in India",
-   "date": "11 October 2026",
-   "image": "/images/g2.jpg",
-   "link": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html"
-  }
+  "cardImage": "/images/g2.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/g2.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "11 October 2026"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Buying Guide"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "How to Choose a Playground Equipment Manufacturer in India",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "how-to-choose-a-playground-equipment-manufacturer-in-india"
     },
-    "divText": [
+    "title": "How to Choose a Playground Equipment Manufacturer in India",
+    "summaryText": "A buyer's checklist for schools, builders and civic bodies: the nine questions worth asking any playground equipment manufacturer in India before you place an order.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2026-10-11",
+    "image": "/images/g2.jpg",
+    "imageAlt": "Colourful castle-themed multi play station on a blue rubber surface at a housing society",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Equipment Manufacturer"
-      ]
+      "text": "Find out whether the supplier makes the equipment or trades it: it decides how quickly they can change, repair and supply spares."
      },
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Buying Guide"
-      ]
+      "text": "Ask for material specifications in writing: plastic grade, steel finish and fixings."
      },
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Safety"
-      ]
+      "text": "Check which safety standard the designs follow and what surface they recommend for each unit."
      },
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds"
-      ]
+      "text": "Compare quotes only on the same scope: models, surfacing, installation, transport and GST."
      },
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Housing Society Playgrounds"
-      ]
+      "text": "Call two or three clients with a similar project before you sign."
      }
     ],
-    "aHref": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc": "/images/about_us2.jpg",
-    "imgAlt": "Playground Design Ideas for Small Spaces",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "products": [
+     "/funplay-originals.html",
+     "/nexlev-series.html",
+     "/corecraft.html"
     ],
-    "aHref2": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc2": "/images/funplay-innovative-images.JPG",
-    "imgAlt2": "Blending Play Equipment with Green Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/raymond-thane.html",
+     "/projects/praharsh-highland.html"
     ],
-    "aHref3": "/blog/designing-adventure-playgrounds-for-skill-development.html",
-    "imgSrc3": "/images/playground-helps-five.jpg",
-    "imgAlt3": "Designing Adventure Playgrounds for Skill Development",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Designing Adventure Playgrounds for Skill Development"
+      "q": "What should I ask a playground equipment manufacturer before ordering?",
+      "a": "Ask whether they make the equipment themselves, what materials and coatings each part uses, which safety standards the designs follow, who installs it, and what the warranty covers in writing. Ask for two or three clients with a similar project that you can call."
      },
      {
-      "pClass": "post-date",
-      "pText": "25 September 2025"
+      "q": "Which safety standards apply to playground equipment in India?",
+      "a": "Many manufacturers in India design to the European standards EN 1176 for equipment and EN 1177 for impact-absorbing surfacing. Ask the supplier which standard each unit follows and what surface they recommend for its fall height."
+     },
+     {
+      "q": "Why do playground equipment quotes vary so much?",
+      "a": "Quotes often cover different scopes. One may include safety surfacing, transport, installation and GST while another leaves them out. Compare quotes only after listing the same items, models and material specifications side by side."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "How to Choose a Playground Equipment Manufacturer in India",
-    "https://funplaysystems.com/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html"
-   ]
-  ],
-  "article": {
-   "headline": "Best Playground Equipment Manufacturers in India",
-   "description": "How to choose a playground equipment manufacturer in India: what to check on materials, safety, warranty, installation and after-sales support.",
-   "image": "https://funplaysystems.com/images/blog12-3.png",
-   "datePublished": "2025-05-08",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  },
-  "faq": [
-   [
-    "What should I ask a playground equipment manufacturer before ordering?",
-    "Ask whether they make the equipment themselves, what materials and coatings each part uses, which safety standards the designs follow, who installs it, and what the warranty covers in writing. Ask for two or three clients with a similar project that you can call."
-   ],
-   [
-    "Which safety standards apply to playground equipment in India?",
-    "Many manufacturers in India design to the European standards EN 1176 for equipment and EN 1177 for impact-absorbing surfacing. Ask the supplier which standard each unit follows and what surface they recommend for its fall height."
-   ],
-   [
-    "Why do playground equipment quotes vary so much?",
-    "Quotes often cover different scopes. One may include safety surfacing, transport, installation and GST while another leaves them out. Compare quotes only after listing the same items, models and material specifications side by side."
-   ]
-  ]
- }
+ ]
 }

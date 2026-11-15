@@ -4,223 +4,83 @@
  "header": "light",
  "seo": {
   "title": "How Physical Play Cuts Screen Time and Builds Focus",
-  "description": "How regular physical play reduces screen time and improves concentration in students, with ideas for schools and parents.",
+  "description": "How active outdoor play helps students spend less time on screens and concentrate better in class, with practical ideas for schools and parents in India.",
   "canonical": "https://funplaysystems.com/blog/how-physical-play-reduces-screen-time-and-improves-focus-in-students.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "How Physical Play Cuts Screen Time and Builds Focus",
-   "og:description": "How regular physical play reduces screen time and improves concentration in students, with ideas for schools and parents.",
-   "og:image": "https://funplaysystems.com/images/outdoor-plays.jpg",
-   "og:url": "https://funplaysystems.com/blog/how-physical-play-reduces-screen-time-and-improves-focus-in-students.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/how-physical-play-reduces-screen-time-and-improves-focus-in-students.html",
+   "og:title": "How Physical Play Reduces Screen Time and Improves Focus in Students",
+   "og:description": "How active outdoor play helps students spend less time on screens and concentrate better in class, with practical ideas for schools and parents in India.",
+   "og:image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "How Physical Play Cuts Screen Time and Builds Focus",
-   "twitter:description": "How regular physical play reduces screen time and improves concentration in students, with ideas for schools and parents.",
-   "twitter:image": "https://funplaysystems.com/images/funplay-outdoor-cover.JPG"
+   "twitter:image": "https://funplaysystems.com/images/playground-helps-cover.jpg"
   }
  },
  "h1": "How Physical Play Reduces Screen Time and Improves Focus in Students",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/playground-helps-cover.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/funplay-outdoor-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "15 May 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "How Physical Play Reduces Screen Time and Improves Focus in Students",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "how-physical-play-reduces-screen-time-and-improves-focus-in-students"
     },
-    "divText": [
+    "title": "How Physical Play Reduces Screen Time and Improves Focus in Students",
+    "summaryText": "Why active play is one of the best answers to rising screen time, how it supports concentration in class, and what schools and parents can do to make play the easy choice.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "schools",
+     "housing-societies"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-05-15",
+    "updated": "2026-11-14",
+    "image": "/images/playground-helps-cover.jpg",
+    "imageAlt": "Children playing on swings outdoors",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Active Play for Kids"
-      ]
+      "text": "Children reach for screens when nothing more interesting is available; an inviting play space competes."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Screen Time Alternatives"
-      ]
+      "text": "Short bursts of physical activity can help students settle and focus afterwards."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds India"
-      ]
+      "text": "Schools can build movement into the day: active breaks, outdoor lessons, well-equipped playgrounds."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Child Development Play"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Play Equipment"
-      ]
+      "text": "Parents and societies can make outdoor play the default after school."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/nexlev-series/pinnacle/groovy.html",
+     "/corecraft/individual-equipment/climber.html",
+     "/corecraft/play-lands.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "How does physical activity help students focus?",
+      "a": "Physical activity raises alertness and gives children a break from sitting, which helps many settle and concentrate better in the lessons that follow. Regular active play also supports better sleep, which affects attention."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How much screen time is recommended for children?",
+      "a": "The World Health Organization advises no sedentary screen time for children under 2 and no more than one hour a day for children aged 2 to 4. For older children, families and schools set limits that leave plenty of time for sleep, study and active play."
+     },
+     {
+      "q": "How can schools reduce students' screen time?",
+      "a": "By offering active breaks, outdoor lessons, sports and clubs, a playground with enough variety for all ages, and by encouraging device-free break times."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "How Physical Play Reduces Screen Time and Improves Focus in Students",
-    "https://funplaysystems.com/blog/how-physical-play-reduces-screen-time-and-improves-focus-in-students.html"
-   ]
-  ],
-  "article": {
-   "headline": "How Physical Play Reduces Screen Time and Improves Focus in Students",
-   "description": "How regular physical play reduces screen time and improves concentration in students, with ideas for schools and parents.",
-   "image": "https://funplaysystems.com/images/outdoor-plays.jpg",
-   "datePublished": "2025-05-15",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

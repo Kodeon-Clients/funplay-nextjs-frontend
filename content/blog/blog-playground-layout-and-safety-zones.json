@@ -1,0 +1,94 @@
+{
+ "path": "/blog/playground-layout-and-safety-zones.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Layout & Safety Zones: How to Plan the Space",
+  "description": "How to lay out a playground: safety zones around each item, swing and slide clearances, zoning by age, circulation routes, sight lines, and a step-by-step layout method.",
+  "canonical": "https://funplaysystems.com/blog/playground-layout-and-safety-zones.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-layout-and-safety-zones.html",
+   "og:title": "Playground Layout and Safety Zones: How to Plan the Space",
+   "og:description": "How to lay out a playground: safety zones around each item, swing and slide clearances, zoning by age, circulation routes, sight lines, and a step-by-step layout method.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/feature-image.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/feature-image.jpg"
+  }
+ },
+ "h1": "Playground Layout and Safety Zones: How to Plan the Space",
+ "data": {
+  "cardImage": "/images/projects/st-andrews-school-telengana/feature-image.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-layout-and-safety-zones"
+    },
+    "title": "Playground Layout and Safety Zones: How to Plan the Space",
+    "summaryText": "How to turn a list of equipment into a safe, easy-to-use layout: safety zones, where swings and slides go, routes children follow, and a simple method you can use on any site.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2026-03-04",
+    "image": "/images/projects/st-andrews-school-telengana/feature-image.jpg",
+    "imageAlt": "School playground layout with play towers, swings and paths seen from above",
+    "takeaways": [
+     {
+      "text": "Every item needs a safety zone that stays clear of other equipment, paths, walls and benches."
+     },
+     {
+      "text": "Swings and slide exits need the most space and belong at the edges or facing open ground."
+     },
+     {
+      "text": "Plan the routes children take between items, so nobody walks through a swing's path."
+     },
+     {
+      "text": "Keep toddler equipment together and away from the busiest equipment for older children."
+     },
+     {
+      "text": "Make sure supervisors can see the whole area from one place."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/individual-equipment/swing.html",
+     "/nexlev-series/pinnacle/groovy.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "What is a playground safety zone?",
+      "a": "The safety zone, or impact area, is the clear space around a piece of equipment where a child could fall or move while using it. It must be free of other equipment, hard objects and paths, and covered with an impact-absorbing surface."
+     },
+     {
+      "q": "How far apart should playground equipment be?",
+      "a": "Far enough that the safety zones do not overlap where they should not. Under EN 1176 most equipment needs at least 1.5 m clear around it, more for higher fall heights, and swings and slide exits need extra space. Your supplier should show each unit's safe area on the layout."
+     },
+     {
+      "q": "Where should swings go in a playground?",
+      "a": "At the edge of the play area, away from main paths, with their full safety zone in front and behind kept clear."
+     },
+     {
+      "q": "How do I plan a playground layout?",
+      "a": "Measure the site, list the equipment with each item's safe area, place the largest structure first, put swings at the edges, keep toddler equipment together, plan routes between items, check sight lines, then add seating, shade and surfacing."
+     }
+    ]
+   }
+  }
+ ]
+}

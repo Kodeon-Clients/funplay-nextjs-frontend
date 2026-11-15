@@ -1,0 +1,71 @@
+{
+ "path": "/blog/category/design-ideas.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground design ideas | FunPlay Blog",
+  "description": "Ideas for play areas that children love and that suit the site: small spaces, themes, nature and landscape, colour, age zones and inclusive play.",
+  "canonical": "https://funplaysystems.com/blog/category/design-ideas.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/design-ideas.html",
+   "og:title": "Playground design ideas",
+   "og:description": "Ideas for play areas that children love and that suit the site: small spaces, themes, nature and landscape, colour, age zones and inclusive play.",
+   "og:image": "https://funplaysystems.com/images/IMG_4107.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Design ideas",
+ "data": {
+  "cardImage": "/images/IMG_4107.jpg"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Design ideas",
+    "https://funplaysystems.com/blog/category/design-ideas.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "design-ideas",
+    "kind": "topic",
+    "title": "Design ideas",
+    "introText": "Ideas for play areas that children love and that suit the site: small spaces, themes, nature and landscape, colour, age zones and inclusive play.",
+    "shortText": "Layouts, themes, nature play and inclusive design.",
+    "image": "/images/IMG_4107.jpg",
+    "links": [
+     {
+      "label": "FunPlay Originals",
+      "href": "/funplay-originals.html"
+     },
+     {
+      "label": "NexLev Series",
+      "href": "/nexlev-series.html"
+     },
+     {
+      "label": "CoreCraft",
+      "href": "/corecraft.html"
+     }
+    ]
+   }
+  }
+ ]
+}

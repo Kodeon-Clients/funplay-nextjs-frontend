@@ -1,0 +1,7 @@
+[
+ { "id": "ananya-kulkarni", "name": "Ananya Kulkarni", "role": "Playground planning team", "bio": "Writes about planning play areas for schools, housing societies and public parks." },
+ { "id": "rohan-mehta", "name": "Rohan Mehta", "role": "Product design team", "bio": "Writes about playground design, materials and how our equipment is made." },
+ { "id": "priya-nair", "name": "Priya Nair", "role": "Projects and installation team", "bio": "Writes about installation, safety checks and looking after playgrounds once they are open." },
+ { "id": "karan-desai", "name": "Karan Desai", "role": "Outdoor fitness team", "bio": "Writes about outdoor gyms for parks, societies and campuses." },
+ { "id": "meera-iyer", "name": "Meera Iyer", "role": "Play and learning team", "bio": "Writes about play, child development and outdoor learning." }
+]

@@ -3,224 +3,87 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Age-Appropriate Playground Zones for Schools | FunPlay",
-  "description": "How to split a playground into toddler, 3–6 and 6–12 age zones: equipment heights, spacing and safety surfacing for each group.",
+  "title": "Age-Appropriate Playground Zones: How to Plan Them",
+  "description": "How to divide a playground into age zones for toddlers, younger and older children: what each group needs, equipment by zone, how to separate zones and common mistakes.",
   "canonical": "https://funplaysystems.com/blog/designing-age-appropriate-zones-in-outdoor-playgrounds.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Age-Appropriate Playground Zones for Schools | FunPlay",
-   "og:description": "How to split a playground into toddler, 3–6 and 6–12 age zones: equipment heights, spacing and safety surfacing for each group.",
-   "og:image": "https://funplaysystems.com/images/desinging-age-image.JPG",
-   "og:url": "https://funplaysystems.com/blog/designing-age-appropriate-zones-in-outdoor-playgrounds.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/designing-age-appropriate-zones-in-outdoor-playgrounds.html",
+   "og:title": "Designing Age-Appropriate Zones in Outdoor Playgrounds",
+   "og:description": "How to divide a playground into age zones for toddlers, younger and older children: what each group needs, equipment by zone, how to separate zones and common mistakes.",
+   "og:image": "https://funplaysystems.com/images/designing-age-cover.jpeg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Age-Appropriate Playground Zones for Schools | FunPlay",
-   "twitter:description": "How to split a playground into toddler, 3–6 and 6–12 age zones: equipment heights, spacing and safety surfacing for each group.",
    "twitter:image": "https://funplaysystems.com/images/designing-age-cover.jpeg"
   }
  },
  "h1": "Designing Age-Appropriate Zones in Outdoor Playgrounds",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/designing-age-cover.jpeg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/designing-age-cover.jpeg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/clients/school.jpeg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "12 June 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
-    "h1Text": "Designing Age-Appropriate Zones in Outdoor Playgrounds",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "designing-age-appropriate-zones-in-outdoor-playgrounds"
     },
-    "divText": [
+    "title": "Designing Age-Appropriate Zones in Outdoor Playgrounds",
+    "summaryText": "Why toddlers and ten-year-olds should not share the same structure, what each age group needs, and how to separate zones so the whole play area works for everyone.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-06-12",
+    "updated": "2026-11-14",
+    "image": "/images/designing-age-cover.jpeg",
+    "imageAlt": "Young child playing in a sandpit",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Safety"
-      ]
+      "text": "Toddlers, younger children and older children move and play differently; mixing them causes collisions and boredom."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playgrounds"
-      ]
+      "text": "Each zone needs equipment sized for its users: platform heights, slide lengths and step sizes."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Play"
-      ]
+      "text": "Separate zones with paths, planting or surface colour; a full fence is rarely needed."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Kids Play Zones"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Age-Based Equipment"
-      ]
+      "text": "Put the toddler zone where carers can sit close by, away from swings and fast equipment."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/corecraft/individual-equipment/spring-rider.html",
+     "/corecraft/play-lands/giants-galore.html",
+     "/nexlev-series/pinnacle/glory.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/dighe-garden.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "Why should playgrounds have age zones?",
+      "a": "Children of different ages move at different speeds and need different heights and challenges. Separate zones prevent older children knocking over younger ones, keep toddlers off equipment that is too high, and give older children enough challenge."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "What are typical playground age zones?",
+      "a": "Commonly a toddler zone for under-fives, a zone for children of about 5 to 8, and a zone for about 8 to 12, plus areas for teenagers and adults such as climbing nets or outdoor gyms in parks."
+     },
+     {
+      "q": "How do you separate playground zones?",
+      "a": "With paths, low planting, a change in surface colour or level, or the arrangement of equipment. In busy public spaces a low fence around the toddler area can help."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Designing Age-Appropriate Zones in Outdoor Playgrounds",
-    "https://funplaysystems.com/blog/designing-age-appropriate-zones-in-outdoor-playgrounds.html"
-   ]
-  ],
-  "article": {
-   "headline": "Designing Age-Appropriate Zones in Outdoor Playgrounds",
-   "description": "How to split a playground into toddler, 3–6 and 6–12 age zones: equipment heights, spacing and safety surfacing for each group.",
-   "image": "https://funplaysystems.com/images/desinging-age-image.JPG",
-   "datePublished": "2025-06-12",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

@@ -1,0 +1,75 @@
+{
+ "path": "/blog/category/parks.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground guides for parks and public spaces | FunPlay Blog",
+  "description": "For municipal corporations, smart city teams and landscape architects: durable equipment for heavy public use, inclusive play, open gyms, tender…",
+  "canonical": "https://funplaysystems.com/blog/category/parks.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/parks.html",
+   "og:title": "Playground guides for parks and public spaces",
+   "og:description": "For municipal corporations, smart city teams and landscape architects: durable equipment for heavy public use, inclusive play, open gyms, tender…",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Parks and public spaces",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/2.jpg"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Parks and public spaces",
+    "https://funplaysystems.com/blog/category/parks.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "parks",
+    "kind": "audience",
+    "title": "Parks and public spaces",
+    "introText": "For municipal corporations, smart city teams and landscape architects: durable equipment for heavy public use, inclusive play, open gyms, tender specifications and maintenance plans.",
+    "shortText": "Public parks, gardens and open gyms.",
+    "image": "/images/projects/dighe-garden-thane/2.jpg",
+    "links": [
+     {
+      "label": "Outdoor gym equipment",
+      "href": "/corecraft/fun-fitness-equipment.html"
+     },
+     {
+      "label": "Swings",
+      "href": "/corecraft/individual-equipment/swing.html"
+     },
+     {
+      "label": "Organic Play",
+      "href": "/funplay-originals/organic-play.html"
+     },
+     {
+      "label": "Park project: Dighe Garden",
+      "href": "/projects/dighe-garden.html"
+     }
+    ]
+   }
+  }
+ ]
+}

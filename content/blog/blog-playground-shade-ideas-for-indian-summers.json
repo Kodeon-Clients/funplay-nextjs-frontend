@@ -1,0 +1,92 @@
+{
+ "path": "/blog/playground-shade-ideas-for-indian-summers.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Shade Ideas for Hot Indian Summers",
+  "description": "How to keep playgrounds usable in Indian summers: trees, shade sails, roofs on play structures, orientation, lighter colours, cooler surfaces and timing, with safety tips.",
+  "canonical": "https://funplaysystems.com/blog/playground-shade-ideas-for-indian-summers.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-shade-ideas-for-indian-summers.html",
+   "og:title": "Playground Shade Ideas: Keeping Play Areas Cool in Indian Summers",
+   "og:description": "How to keep playgrounds usable in Indian summers: trees, shade sails, roofs on play structures, orientation, lighter colours, cooler surfaces and timing, with safety tips.",
+   "og:image": "https://funplaysystems.com/images/projects/nicon-vista-mumbai/1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/nicon-vista-mumbai/1.jpg"
+  }
+ },
+ "h1": "Playground Shade Ideas: Keeping Play Areas Cool in Indian Summers",
+ "data": {
+  "cardImage": "/images/projects/nicon-vista-mumbai/1.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-shade-ideas-for-indian-summers"
+    },
+    "title": "Playground Shade Ideas: Keeping Play Areas Cool in Indian Summers",
+    "summaryText": "In much of India, a playground without shade is empty from March to June. Ways to keep play areas cooler: trees, sails, roofed structures, orientation, colours and surfaces.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-04-01",
+    "image": "/images/projects/nicon-vista-mumbai/1.jpg",
+    "imageAlt": "Play station with roofs over its towers on a housing society podium",
+    "takeaways": [
+     {
+      "text": "Shade decides whether a playground is used in summer afternoons at all."
+     },
+     {
+      "text": "Plan shade from the west and south, where the afternoon sun comes from."
+     },
+     {
+      "text": "Combine sources: trees for the long term, shade sails and roofed structures for now."
+     },
+     {
+      "text": "Lighter colours on slides and surfaces stay cooler than dark ones."
+     },
+     {
+      "text": "Check surface temperatures on hot days before small children play."
+     }
+    ],
+    "products": [
+     "/corecraft/garden-decor/comfy-gazebo.html",
+     "/corecraft/garden-decor/dna-pergola.html",
+     "/nexlev-series/woody/teton.html",
+     "/corecraft/castle-crest.html"
+    ],
+    "projects": [
+     "/projects/nakshatravan.html",
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "How can I keep a playground cool in summer?",
+      "a": "Provide shade from the west and south using trees, shade sails or roofed structures; choose lighter colours for slides and surfaces; avoid dark rubber in full sun; and plan play for mornings and evenings in peak summer."
+     },
+     {
+      "q": "Do playground slides get hot in the sun?",
+      "a": "Yes. Metal slides can become hot enough to burn skin, and dark plastic gets very warm. Shade, lighter colours and checking the surface before small children slide all help."
+     },
+     {
+      "q": "Are shade sails safe over playgrounds?",
+      "a": "Yes, when they are designed and installed for the site's wind conditions, fixed to suitable posts and kept clear of children's climbing routes. Check tension and fixings regularly, and take them down if the design requires it in very high winds."
+     }
+    ]
+   }
+  }
+ ]
+}

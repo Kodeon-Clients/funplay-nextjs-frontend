@@ -1,0 +1,89 @@
+{
+ "path": "/blog/outdoor-gym-equipment-list.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Outdoor Gym Equipment List: Names, Uses and Benefits",
+  "description": "A list of outdoor gym equipment for parks and societies: walkers, cross trainers, leg press, chest press, twisters, pull-up bars and more, with what each one does and who it suits.",
+  "canonical": "https://funplaysystems.com/blog/outdoor-gym-equipment-list.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/outdoor-gym-equipment-list.html",
+   "og:title": "Outdoor Gym Equipment List: 15 Machines and What They Do",
+   "og:description": "A list of outdoor gym equipment for parks and societies: walkers, cross trainers, leg press, chest press, twisters, pull-up bars and more, with what each one does and who it suits.",
+   "og:image": "https://funplaysystems.com/images/funplay-outdoor-cover.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/funplay-outdoor-cover.JPG"
+  }
+ },
+ "h1": "Outdoor Gym Equipment List: 15 Machines and What They Do",
+ "data": {
+  "cardImage": "/images/funplay-outdoor-cover.JPG"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "outdoor-gym-equipment-list"
+    },
+    "title": "Outdoor Gym Equipment List: 15 Machines and What They Do",
+    "summaryText": "The outdoor gym machines you will find in Indian parks and societies, what each one works, who it suits, and how to combine them into a useful set.",
+    "topic": "outdoor-gyms",
+    "audiences": [
+     "parks",
+     "housing-societies",
+     "resorts-commercial"
+    ],
+    "author": "karan-desai",
+    "date": "2026-03-25",
+    "image": "/images/funplay-outdoor-cover.JPG",
+    "imageAlt": "Man exercising on a pull-up bar at an outdoor gym",
+    "takeaways": [
+     {
+      "text": "Outdoor gym machines use body weight for resistance, so they suit a wide range of fitness levels."
+     },
+     {
+      "text": "Walkers and cross trainers are the most used machines in almost every open gym."
+     },
+     {
+      "text": "Twisters, tai chi wheels and shoulder twirls are gentle and popular with older users."
+     },
+     {
+      "text": "Combination machines (two or three exercises on one post) save space and budget."
+     }
+    ],
+    "products": [
+     "/corecraft/fun-fitness-equipment/fun-walker-single.html",
+     "/corecraft/fun-fitness-equipment/fun-cycle.html",
+     "/corecraft/fun-fitness-equipment/fun-rower.html",
+     "/corecraft/fun-fitness-equipment/leg-press-double.html",
+     "/corecraft/fun-fitness-equipment/tai-chi.html",
+     "/corecraft/fun-fitness-equipment/6-station-multi-gym.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "What equipment is in an outdoor gym?",
+      "a": "Common outdoor gym equipment includes air walkers, cross trainers, cycles, rowers and step trainers for cardio; leg press, leg extension, chest press and shoulder press for strength; pull-up and parallel bars for upper body; and twisters, tai chi wheels and shoulder twirls for flexibility."
+     },
+     {
+      "q": "Which outdoor gym equipment is best for beginners?",
+      "a": "Walkers, cycles, twisters and tai chi wheels are easy to use and low impact. Leg press and chest press machines use body weight, so beginners can control the effort."
+     },
+     {
+      "q": "What is a multi gym in an outdoor gym?",
+      "a": "A multi gym combines several exercise stations on one frame, such as pull-up bars, parallel bars and sit-up benches, so several people can exercise in a compact footprint."
+     }
+    ]
+   }
+  }
+ ]
+}

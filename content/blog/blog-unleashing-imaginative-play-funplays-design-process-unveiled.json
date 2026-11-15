@@ -4,226 +4,80 @@
  "header": "light",
  "seo": {
   "title": "FunPlay's Playground Design Process | FunPlay Systems",
-  "description": "How FunPlay turns an idea into a playground: concept, 3D design, prototyping, safety testing, manufacturing and installation.",
+  "description": "How FunPlay designs playground equipment: observing children, sketching ideas, engineering in CAD, safety checks, 3D renderings and testing, from first idea to finished product.",
   "canonical": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html",
   "robots": "index, follow",
   "og": {
-   "og:title": "FunPlay's Playground Design Process | FunPlay Systems",
-   "og:description": "How FunPlay turns an idea into a playground: concept, 3D design, prototyping, safety testing, manufacturing and installation.",
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html",
+   "og:title": "Unleashing Imaginative Play: FunPlay's Design Process Unveiled",
+   "og:description": "How FunPlay designs playground equipment: observing children, sketching ideas, engineering in CAD, safety checks, 3D renderings and testing, from first idea to finished product.",
    "og:image": "https://funplaysystems.com/images/unleashing-images.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "FunPlay's Playground Design Process | FunPlay Systems",
-   "twitter:description": "How FunPlay turns an idea into a playground: concept, 3D design, prototyping, safety testing, manufacturing and installation.",
-   "twitter:image": "https://funplaysystems.com/images/blog3.jpg"
+   "twitter:image": "https://funplaysystems.com/images/unleashing-images.JPG"
   }
  },
- "styles": [
-  "2d2f6d2ca3"
- ],
- "h1": "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
+ "h1": "Unleashing Imaginative Play: FunPlay's Design Process Unveiled",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/unleashing-images.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/blog3.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "22 June 2024"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "unleashing-imaginative-play-funplays-design-process-unveiled"
     },
-    "divText": [
+    "title": "Unleashing Imaginative Play: FunPlay's Design Process Unveiled",
+    "summaryText": "How a FunPlay design goes from watching children play to a finished product: observation, sketches, CAD engineering, safety review and renderings.",
+    "topic": "inside-funplay",
+    "audiences": [],
+    "author": "rohan-mehta",
+    "date": "2024-06-22",
+    "updated": "2026-11-14",
+    "image": "/images/unleashing-images.JPG",
+    "imageAlt": "FunPlay team working together on a playground project",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Design India"
-      ]
+      "text": "Our designs start with watching and talking to children, not with a catalogue."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Imaginative Play Equipment"
-      ]
+      "text": "Ideas are sketched, refined and engineered in CAD with safety and manufacturing in mind."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Innovative Play Spaces"
-      ]
+      "text": "3D renderings let the team and clients judge the look and play value before production."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Custom Playground Solutions"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Playground Equipment"
-      ]
+      "text": "The same process is used for standard ranges and custom designs."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals.html",
+     "/funplay-originals/kagzi.html",
+     "/funplay-originals/nature-sparsh.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/praharsh-highland.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "How does FunPlay design playground equipment?",
+      "a": "We observe children at play and talk to them, brainstorm and sketch ideas, refine the strongest concepts, engineer them in CAD with safety standards and manufacturing in mind, create 3D renderings to review look and play value, then prototype and produce."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Can FunPlay design a custom playground?",
+      "a": "Yes. Our design team can adapt standard designs or develop new ones for a specific site, theme or brand. Custom designs take longer because of design development and approvals."
+     },
+     {
+      "q": "Has FunPlay won design awards?",
+      "a": "Our design team won a Red Dot Design Award in 2024."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
-    "https://funplaysystems.com/blog/unleashing-imaginative-play-funplays-design-process-unveiled.html"
-   ]
-  ],
-  "article": {
-   "headline": "Unleashing Imaginative Play - FunPlay's Design Process Unveiled",
-   "description": "How FunPlay turns an idea into a playground: concept, 3D design, prototyping, safety testing, manufacturing and installation.",
-   "image": "https://funplaysystems.com/images/unleashing-images.JPG",
-   "datePublished": "2025-06-16",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

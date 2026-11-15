@@ -1,0 +1,67 @@
+{
+ "path": "/blog/category/inside-funplay.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Inside FunPlay | FunPlay Blog",
+  "description": "How we design, manufacture and install playground equipment at FunPlay Systems, from the first sketch to the finished play area.",
+  "canonical": "https://funplaysystems.com/blog/category/inside-funplay.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/inside-funplay.html",
+   "og:title": "Inside FunPlay",
+   "og:description": "How we design, manufacture and install playground equipment at FunPlay Systems, from the first sketch to the finished play area.",
+   "og:image": "https://funplaysystems.com/images/funplay-innovative-images.JPG",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Inside FunPlay",
+ "data": {
+  "cardImage": "/images/funplay-innovative-images.JPG"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Inside FunPlay",
+    "https://funplaysystems.com/blog/category/inside-funplay.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "inside-funplay",
+    "kind": "topic",
+    "title": "Inside FunPlay",
+    "introText": "How we design, manufacture and install playground equipment at FunPlay Systems, from the first sketch to the finished play area.",
+    "shortText": "Our design process, factory and team.",
+    "image": "/images/funplay-innovative-images.JPG",
+    "links": [
+     {
+      "label": "About FunPlay",
+      "href": "/about-us.html"
+     },
+     {
+      "label": "Projects",
+      "href": "/Projects.html"
+     }
+    ]
+   }
+  }
+ ]
+}

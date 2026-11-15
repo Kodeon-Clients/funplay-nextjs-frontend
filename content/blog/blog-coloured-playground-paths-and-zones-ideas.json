@@ -1,0 +1,88 @@
+{
+ "path": "/blog/coloured-playground-paths-and-zones-ideas.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Coloured Playground Paths & Zones: Design Ideas",
+  "description": "Ideas for using colour in playground surfaces: coloured paths, zone markings, games built into EPDM, wayfinding, and tips on heat, fading and keeping colours looking fresh.",
+  "canonical": "https://funplaysystems.com/blog/coloured-playground-paths-and-zones-ideas.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/coloured-playground-paths-and-zones-ideas.html",
+   "og:title": "Design Ideas for Coloured Playground Paths and Zones",
+   "og:description": "Ideas for using colour in playground surfaces: coloured paths, zone markings, games built into EPDM, wayfinding, and tips on heat, fading and keeping colours looking fresh.",
+   "og:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/2.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/dighe-garden-thane/2.jpg"
+  }
+ },
+ "h1": "Design Ideas for Coloured Playground Paths and Zones",
+ "data": {
+  "cardImage": "/images/projects/dighe-garden-thane/2.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "coloured-playground-paths-and-zones-ideas"
+    },
+    "title": "Design Ideas for Coloured Playground Paths and Zones",
+    "summaryText": "How colour in the floor can organise a play area, guide children safely and add games for free: ideas for paths, zones and patterns in poured rubber and tiles.",
+    "topic": "design-ideas",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-11-26",
+    "image": "/images/projects/dighe-garden-thane/2.jpg",
+    "imageAlt": "Multi play station on a poured rubber surface with coloured rings and patterns",
+    "takeaways": [
+     {
+      "text": "Colour in the surface can mark zones, show routes and keep children out of swing paths without fences."
+     },
+     {
+      "text": "Poured EPDM rubber lets you build in games: hopscotch, number tracks, mazes and racing lanes."
+     },
+     {
+      "text": "Use contrast for wayfinding and accessibility: a different colour for paths and edges."
+     },
+     {
+      "text": "Lighter colours stay cooler in Indian summers; very dark surfaces get hot."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/funplay-originals/wall-play.html",
+     "/corecraft/individual-equipment/spring-rider.html"
+    ],
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/nicon-vista.html",
+     "/projects/praharsh-highland.html"
+    ],
+    "faq": [
+     {
+      "q": "How can colour be used in playground design?",
+      "a": "Colour in the surface can mark separate zones for different ages, show paths and routes, warn children away from swing and slide zones, and carry games such as hopscotch, number lines and mazes. Colour on equipment can carry a theme or match the surroundings."
+     },
+     {
+      "q": "Which surface is best for coloured playground patterns?",
+      "a": "Poured EPDM rubber is the most flexible, because colours can be laid in almost any shape. Rubber tiles can create simpler patterns with different coloured tiles. Painted games on concrete are fine for paths and open areas outside safety zones."
+     },
+     {
+      "q": "Do coloured rubber surfaces fade?",
+      "a": "Some fading in strong sun is normal over time. UV-stable EPDM granules fade slowly. Lighter, brighter colours often show fading less than very dark ones, and they also stay cooler."
+     }
+    ]
+   }
+  }
+ ]
+}

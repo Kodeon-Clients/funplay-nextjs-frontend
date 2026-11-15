@@ -4,223 +4,84 @@
  "header": "light",
  "seo": {
   "title": "Challenges in Building Playgrounds in Indian Cities",
-  "description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
+  "description": "The real obstacles to building playgrounds in Indian cities: land, heat, monsoon, maintenance, vandalism, procurement and access, and practical ways to overcome each one.",
   "canonical": "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Challenges in Building Playgrounds in Indian Cities",
-   "og:description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
-   "og:image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
-   "og:url": "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html",
+   "og:title": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+   "og:description": "The real obstacles to building playgrounds in Indian cities: land, heat, monsoon, maintenance, vandalism, procurement and access, and practical ways to overcome each one.",
+   "og:image": "https://funplaysystems.com/images/projects/nicon-vista-mumbai/feature-image.webp",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Challenges in Building Playgrounds in Indian Cities",
-   "twitter:description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
-   "twitter:image": "https://funplaysystems.com/images/g10.jpg"
+   "twitter:image": "https://funplaysystems.com/images/projects/nicon-vista-mumbai/feature-image.webp"
   }
  },
  "h1": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/projects/nicon-vista-mumbai/feature-image.webp"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/blog-17-cover.jpg')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "18 August 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
-    "h1Text": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "challenges-in-building-playgrounds-in-indian-cities"
     },
-    "divText": [
+    "title": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
+    "summaryText": "Land, heat, rain, upkeep and procurement: the practical problems that stop good playgrounds being built and kept in Indian cities, and what planners, builders and residents can do about each.",
+    "topic": "design-ideas",
+    "audiences": [
+     "parks",
+     "housing-societies"
+    ],
+    "author": "ananya-kulkarni",
+    "date": "2025-08-18",
+    "updated": "2026-11-14",
+    "image": "/images/projects/nicon-vista-mumbai/feature-image.webp",
+    "imageAlt": "High-rise residential building in a dense Indian city at dusk",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "playground challenges in india"
-      ]
+      "text": "Land is the biggest constraint: use podiums, terraces, small plots and shared school grounds."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "lack of playgrounds india"
-      ]
+      "text": "Heat and monsoon shape design: shade, drainage and durable materials are not optional."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "safe play areas for children"
-      ]
+      "text": "Many playgrounds fail after opening because nobody owns maintenance."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "inclusive playground design"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "urban planning for kids"
-      ]
+      "text": "Clear tenders and community involvement keep public playgrounds working."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/play-lands/tiny-tot.html",
+     "/funplay-originals/wall-play.html",
+     "/corecraft/fun-fitness-equipment.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/royal-mangalam.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "Why are there so few playgrounds in Indian cities?",
+      "a": "Land is scarce and expensive, open spaces are often used for parking or construction, and playgrounds compete with other priorities in budgets. Where they exist, poor maintenance often leaves them unusable."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How can cities create more playgrounds with little land?",
+      "a": "Use podiums and terraces, small pocket parks, school grounds opened after hours, streets closed for play at set times, and play elements along footpaths and in plazas."
+     },
+     {
+      "q": "Why do public playgrounds in India fall into disrepair?",
+      "a": "Often because there is no clear maintenance budget or responsible agency, equipment is not built for heavy public use, and damage is not repaired quickly."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
-    "https://funplaysystems.com/blog/challenges-in-building-playgrounds-in-indian-cities.html"
-   ]
-  ],
-  "article": {
-   "headline": "Challenges in Building Playgrounds in Indian Cities: What Needs to Be Done",
-   "description": "Land, budgets, maintenance and safety: the main challenges in building playgrounds in Indian cities and practical ways to solve them.",
-   "image": "https://funplaysystems.com/images/playground-helps-cover.jpg",
-   "datePublished": "2025-08-18",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

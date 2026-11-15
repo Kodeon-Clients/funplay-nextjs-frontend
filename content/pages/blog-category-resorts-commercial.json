@@ -1,0 +1,71 @@
+{
+ "path": "/blog/category/resorts-commercial.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground guides for resorts, hotels and campuses | FunPlay Blog",
+  "description": "For resorts, hotels, clubs, townships and corporate or railway campuses: play areas that fit the setting, keep children busy while families relax, and stand…",
+  "canonical": "https://funplaysystems.com/blog/category/resorts-commercial.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/resorts-commercial.html",
+   "og:title": "Playground guides for resorts, hotels and campuses",
+   "og:description": "For resorts, hotels, clubs, townships and corporate or railway campuses: play areas that fit the setting, keep children busy while families relax, and stand…",
+   "og:image": "https://funplaysystems.com/images/projects/dindigul-resorts-tamil-nadu/6.webp",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Resorts, hotels and campuses",
+ "data": {
+  "cardImage": "/images/projects/dindigul-resorts-tamil-nadu/6.webp"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Resorts, hotels and campuses",
+    "https://funplaysystems.com/blog/category/resorts-commercial.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "resorts-commercial",
+    "kind": "audience",
+    "title": "Resorts, hotels and campuses",
+    "introText": "For resorts, hotels, clubs, townships and corporate or railway campuses: play areas that fit the setting, keep children busy while families relax, and stand up to year-round use.",
+    "shortText": "Play areas for hospitality, clubs and institutional campuses.",
+    "image": "/images/projects/dindigul-resorts-tamil-nadu/6.webp",
+    "links": [
+     {
+      "label": "FunPlay Originals",
+      "href": "/funplay-originals.html"
+     },
+     {
+      "label": "NexLev Series",
+      "href": "/nexlev-series.html"
+     },
+     {
+      "label": "Resort project: Dindigul",
+      "href": "/projects/dindigul-resorts-tamil-nadu.html"
+     }
+    ]
+   }
+  }
+ ]
+}

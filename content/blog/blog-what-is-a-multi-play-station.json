@@ -1,0 +1,95 @@
+{
+ "path": "/blog/what-is-a-multi-play-station.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Multi Play Station (Multiplay System): How to Choose One",
+  "description": "What a multi play station or multiplay system is, what it includes, how to size one for your users and space, and how to compare themes, materials and age ranges.",
+  "canonical": "https://funplaysystems.com/blog/what-is-a-multi-play-station.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/what-is-a-multi-play-station.html",
+   "og:title": "What Is a Multi Play Station? How to Choose One for Your Site",
+   "og:description": "What a multi play station or multiplay system is, what it includes, how to size one for your users and space, and how to compare themes, materials and age ranges.",
+   "og:image": "https://funplaysystems.com/images/LP1IMAGE1.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/LP1IMAGE1.jpg"
+  }
+ },
+ "h1": "What Is a Multi Play Station? How to Choose One for Your Site",
+ "data": {
+  "cardImage": "/images/LP1IMAGE1.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "what-is-a-multi-play-station"
+    },
+    "title": "What Is a Multi Play Station? How to Choose One for Your Site",
+    "summaryText": "The structure at the heart of most playgrounds explained: what is in a multi play station, how many children it serves, and how to choose the right size, age range and theme.",
+    "topic": "buying-guides",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks",
+     "resorts-commercial"
+    ],
+    "author": "rohan-mehta",
+    "date": "2026-04-22",
+    "image": "/images/LP1IMAGE1.jpg",
+    "imageAlt": "Rendering of a red and blue multi play station with towers, slides and climbing elements",
+    "takeaways": [
+     {
+      "text": "A multi play station combines platforms, bridges, climbers and slides into one structure many children can use at once."
+     },
+     {
+      "text": "Size it by the number of children at peak time and their age, not by the space alone."
+     },
+     {
+      "text": "Platform height decides the age range, the slide sizes and the surfacing you will need."
+     },
+     {
+      "text": "Themes (castle, jungle, robot, circus, nature) cost little extra on standard designs and make the play area more inviting."
+     }
+    ],
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/castle-crest.html",
+     "/corecraft/forestia.html",
+     "/corecraft/robo-romp.html",
+     "/corecraft/clown-capade.html",
+     "/nexlev-series/pinnacle.html"
+    ],
+    "projects": [
+     "/projects/nicon-vista.html",
+     "/projects/swr-railways.html"
+    ],
+    "faq": [
+     {
+      "q": "What is a multi play station?",
+      "a": "A multi play station, also called a multiplay system or play system, is a single playground structure that combines several activities: platforms at different heights linked by steps, ladders, bridges and climbers, with one or more slides and often roofs, play panels and tunnels."
+     },
+     {
+      "q": "How many children can use a multi play station?",
+      "a": "It depends on the size. A compact toddler station may suit around ten children at once, while large structures with several towers can take many more. Suppliers usually state a user capacity for each design."
+     },
+     {
+      "q": "What size multi play station do I need?",
+      "a": "Start from the number of children likely to play at peak time and their ages, then check the space available including safety zones around the structure. If space allows only a smaller station, add ground-level play such as spring riders and play panels to spread children out."
+     },
+     {
+      "q": "Which multi play station is best for toddlers?",
+      "a": "A low structure with platforms under about a metre, short slides, gentle steps instead of ladders, enclosed sides and ground-level play panels."
+     }
+    ]
+   }
+  }
+ ]
+}

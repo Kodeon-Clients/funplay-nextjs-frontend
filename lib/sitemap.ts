@@ -16,7 +16,7 @@ export function indexable(r: PageMeta) {
 
 export function groupOf(r: PageMeta): SitemapGroup {
   if (r.type === "product" || r.type === "series") return "products";
-  if (r.type === "blog") return "blog";
+  if (r.type === "blog" || r.type === "blog-hub") return "blog";
   if (r.type === "city-gym" || r.type === "city-playground") return "locations";
   return "pages";
 }

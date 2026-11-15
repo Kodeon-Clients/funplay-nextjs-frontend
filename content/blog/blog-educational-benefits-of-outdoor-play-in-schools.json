@@ -4,223 +4,82 @@
  "header": "light",
  "seo": {
   "title": "Educational Benefits of Outdoor Play in Schools | FunPlay",
-  "description": "How outdoor play improves attention, social skills and learning in school children, with ideas for schools to add more play time.",
+  "description": "How outdoor play supports learning in Indian schools: physical development, attention, social and emotional skills, language, maths and science through play, and how to use the playground.",
   "canonical": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Educational Benefits of Outdoor Play in Schools | FunPlay",
-   "og:description": "How outdoor play improves attention, social skills and learning in school children, with ideas for schools to add more play time.",
-   "og:image": "https://funplaysystems.com/images/educational-outdoor-images.JPG",
-   "og:url": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html",
+   "og:title": "Educational Benefits of Outdoor Play in Schools",
+   "og:description": "How outdoor play supports learning in Indian schools: physical development, attention, social and emotional skills, language, maths and science through play, and how to use the playground.",
+   "og:image": "https://funplaysystems.com/images/educational-outdoor-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Educational Benefits of Outdoor Play in Schools | FunPlay",
-   "twitter:description": "How outdoor play improves attention, social skills and learning in school children, with ideas for schools to add more play time.",
    "twitter:image": "https://funplaysystems.com/images/educational-outdoor-cover.JPG"
   }
  },
  "h1": "Educational Benefits of Outdoor Play in Schools",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/educational-outdoor-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/educational-outdoor-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "07 July 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Educational Benefits of Outdoor Play in Schools",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "educational-benefits-of-outdoor-play-in-schools"
     },
-    "divText": [
+    "title": "Educational Benefits of Outdoor Play in Schools",
+    "summaryText": "Outdoor play is not time away from learning. How it supports attention, social skills, language, maths and science, and how teachers can use the playground as a learning space.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-07-07",
+    "updated": "2026-11-14",
+    "image": "/images/educational-outdoor-cover.JPG",
+    "imageAlt": "Teacher with a group of schoolchildren in a classroom",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "educational playgrounds india"
-      ]
+      "text": "Outdoor play supports physical development that underpins writing, sitting and attention."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "learning through play equipment"
-      ]
+      "text": "Group play builds communication, cooperation and self-regulation."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "playgrounds and child development"
-      ]
+      "text": "The playground can carry maths, science and language learning."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "outdoor learning spaces india"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "play based education systems"
-      ]
+      "text": "NEP 2020 emphasises play and activity-based learning, especially in the foundational years."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals/wall-play/geoboard.html",
+     "/funplay-originals/khel-khud.html",
+     "/nexlev-series/woody/skuhoom.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What are the educational benefits of outdoor play?",
+      "a": "Outdoor play builds the physical skills that support writing and sitting still, improves attention after breaks, develops social and emotional skills, and provides hands-on opportunities to learn maths, science and language."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How can teachers use the playground for learning?",
+      "a": "By using play equipment and outdoor spaces for counting, measuring, shapes, forces and motion, observing nature, storytelling and role play, and group problem-solving games."
+     },
+     {
+      "q": "Does NEP 2020 support play-based learning?",
+      "a": "Yes. The National Education Policy 2020 emphasises play-based and activity-based learning, especially in the foundational stage for children aged 3 to 8."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Educational Benefits of Outdoor Play in Schools",
-    "https://funplaysystems.com/blog/educational-benefits-of-outdoor-play-in-schools.html"
-   ]
-  ],
-  "article": {
-   "headline": "Educational Benefits of Outdoor Play in Schools",
-   "description": "How outdoor play improves attention, social skills and learning in school children, with ideas for schools to add more play time.",
-   "image": "https://funplaysystems.com/images/educational-outdoor-images.JPG",
-   "datePublished": "2025-07-07",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

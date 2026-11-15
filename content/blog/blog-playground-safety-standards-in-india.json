@@ -1,0 +1,95 @@
+{
+ "path": "/blog/playground-safety-standards-in-india.html",
+ "type": "blog",
+ "header": "light",
+ "seo": {
+  "title": "Playground Safety Standards in India: EN 1176, EN 1177 Explained",
+  "description": "What playground safety means in practice: the EN 1176 and EN 1177 standards used in India, fall heights, safety zones, entrapment gaps and what to ask your supplier.",
+  "canonical": "https://funplaysystems.com/blog/playground-safety-standards-in-india.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-safety-standards-in-india.html",
+   "og:title": "Playground Safety Standards in India: What Buyers Should Know",
+   "og:description": "What playground safety means in practice: the EN 1176 and EN 1177 standards used in India, fall heights, safety zones, entrapment gaps and what to ask your supplier.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/6.jpg",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/6.jpg"
+  }
+ },
+ "h1": "Playground Safety Standards in India: What Buyers Should Know",
+ "data": {
+  "cardImage": "/images/projects/st-andrews-school-telengana/6.jpg"
+ },
+ "sections": [
+  {
+   "component": "BlogPost",
+   "props": {
+    "article": {
+     "slug": "playground-safety-standards-in-india"
+    },
+    "title": "Playground Safety Standards in India: What Buyers Should Know",
+    "summaryText": "What 'playground safety' means in practice: the standards suppliers in India work to, the measurements that matter most, and the questions to put to a supplier before you sign.",
+    "topic": "safety",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "priya-nair",
+    "date": "2026-02-18",
+    "image": "/images/projects/st-andrews-school-telengana/6.jpg",
+    "imageAlt": "Children on a wooden play tower with slides and a climbing wall over a rubber safety surface",
+    "takeaways": [
+     {
+      "text": "Most suppliers and buyers in India refer to the European standards EN 1176 (equipment) and EN 1177 (impact-absorbing surfacing)."
+     },
+     {
+      "text": "The three numbers that matter most are the fall height, the size of the safety zone and the gaps a child's head or fingers could get caught in."
+     },
+     {
+      "text": "A certificate is only the start: the layout, the surface and the installation decide whether a playground is safe on the day it opens."
+     },
+     {
+      "text": "Ask for the fall height of every unit and the surface the supplier recommends for it, in writing."
+     }
+    ],
+    "products": [
+     "/corecraft/individual-equipment/climber.html",
+     "/nexlev-series/woody/teton.html",
+     "/nexlev-series/woody/skuhoom.html"
+    ],
+    "projects": [
+     "/projects/st-andrews-school.html",
+     "/projects/dighe-garden.html"
+    ],
+    "faq": [
+     {
+      "q": "What is playground safety?",
+      "a": "Playground safety is the set of design, installation and maintenance choices that keep the risk of serious injury low while children still get challenge and adventure. In practice it covers safe fall heights, impact-absorbing surfaces, clear safety zones, no gaps that can trap heads or fingers, sound construction and regular inspection."
+     },
+     {
+      "q": "Which safety standard applies to playground equipment in India?",
+      "a": "Most manufacturers and buyers in India use the European standards EN 1176 for playground equipment and EN 1177 for impact-absorbing surfacing as the reference. Some tenders also cite the American ASTM standards. If your tender or authority names a specific standard, ask the supplier to confirm compliance with that one in writing."
+     },
+     {
+      "q": "What is critical fall height?",
+      "a": "It is the highest fall a surface can absorb without a high risk of serious head injury, measured in a test described in EN 1177. The surface under a piece of equipment should have a critical fall height at least equal to the equipment's free fall height."
+     },
+     {
+      "q": "How big should the safety zone around playground equipment be?",
+      "a": "Under EN 1176, the impact area around equipment generally extends at least 1.5 m from the equipment, and further for higher fall heights and for swings, which need extra clear space in the direction they move. Your supplier should mark the safety zone of each unit on the layout drawing."
+     },
+     {
+      "q": "Is grass a safe playground surface?",
+      "a": "Grass is acceptable only under very low equipment. Under heavy use it wears into compacted soil that is almost as hard as concrete. Under slides, climbers and swings, use a tested surface such as rubber tiles, poured rubber, artificial turf over a shock pad, or a deep layer of loose sand."
+     }
+    ]
+   }
+  }
+ ]
+}

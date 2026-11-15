@@ -4,219 +4,85 @@
  "header": "light",
  "seo": {
   "title": "Green and Sustainable Playgrounds for India | FunPlay",
-  "description": "How to build greener playgrounds in India: recycled materials, shade, natural play and low-maintenance designs that last.",
+  "description": "What makes a playground sustainable in India: long-lasting equipment, trees and shade, permeable surfaces and drainage, local manufacturing, and maintenance that extends life.",
   "canonical": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html",
   "robots": "index, follow",
   "og": {
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html",
-   "og:title": "Green and Sustainable Playgrounds for India | FunPlay",
-   "og:description": "How to build greener playgrounds in India: recycled materials, shade, natural play and low-maintenance designs that last.",
-   "og:image": "https://funplaysystems.com/images/Abstract-product-banner.jpg",
+   "og:title": "Creating Green and Sustainable Playgrounds: A Model for India's Future",
+   "og:description": "What makes a playground sustainable in India: long-lasting equipment, trees and shade, permeable surfaces and drainage, local manufacturing, and maintenance that extends life.",
+   "og:image": "https://funplaysystems.com/images/eco-friendly-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
-   "twitter:card": "summary_large_image"
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/eco-friendly-cover.JPG"
   }
  },
- "h1": "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
+ "h1": "Creating Green and Sustainable Playgrounds: A Model for India's Future",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/eco-friendly-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/budget-friendly.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "21 August 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "creating-green-and-sustainable-playgrounds-a-model-for-indias-future"
     },
-    "divText": [
+    "title": "Creating Green and Sustainable Playgrounds: A Model for India's Future",
+    "summaryText": "Sustainability in playgrounds is mostly about building things that last and working with nature: durable equipment, trees, rainwater, local manufacturing and good upkeep.",
+    "topic": "design-ideas",
+    "audiences": [
+     "parks",
+     "schools",
+     "housing-societies"
+    ],
+    "author": "rohan-mehta",
+    "date": "2025-08-21",
+    "updated": "2026-11-14",
+    "image": "/images/eco-friendly-cover.JPG",
+    "imageAlt": "Children playing on purple and green play equipment at a school",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "sustainable playgrounds india"
-      ]
+      "text": "The most sustainable playground is one that lasts: durable materials and good maintenance beat frequent replacement."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "eco friendly play areas"
-      ]
+      "text": "Trees and shade lower temperatures and make play areas usable for more of the year."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "green playground design"
-      ]
+      "text": "Manage rainwater with drained surfaces, permeable paths and planting."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "recycled materials playground"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "child friendly eco spaces"
-      ]
+      "text": "Local manufacturing reduces transport and makes spares and repairs easier."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/funplay-originals/organic-play.html",
+     "/funplay-originals/nature-sparsh.html",
+     "/corecraft/garden-decor/eco-bench.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/nakshatravan.html",
+     "/projects/dighe-garden.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What is a sustainable playground?",
+      "a": "A playground designed to last a long time with low maintenance, built with durable materials, integrated with trees and planting, managing rainwater well, and supplied and serviced locally so parts can be repaired rather than replaced."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Are recycled materials better for playgrounds?",
+      "a": "Recycled content can reduce environmental impact, but durability and safety come first. A recycled part that fails early is not sustainable. Ask about both recycled content and expected life."
+     },
+     {
+      "q": "How do trees make playgrounds more sustainable?",
+      "a": "Trees shade equipment and surfaces, lower temperatures, absorb rainwater, improve air quality and make play areas usable for more of the year, reducing the need for built shade."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
-    "https://funplaysystems.com/blog/creating-green-and-sustainable-playgrounds-a-model-for-indias-future.html"
-   ]
-  ],
-  "article": {
-   "headline": "Creating Green and Sustainable Playgrounds: A Model for India’s Future",
-   "description": "How to build greener playgrounds in India: recycled materials, shade, natural play and low-maintenance designs that last.",
-   "image": "https://funplaysystems.com/images/Abstract-product-banner.jpg",
-   "datePublished": "2025-05-19",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

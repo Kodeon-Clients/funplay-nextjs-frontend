@@ -4,210 +4,81 @@
  "header": "light",
  "seo": {
   "title": "Why Playtime Matters as Much as Academics in India",
-  "description": "Why play is as important as academics for Indian children, and how schools and parents can make time and space for outdoor play.",
+  "description": "Why play is as important as academics for Indian children: how play supports learning, health and wellbeing, and how schools and parents can make room for it.",
   "canonical": "https://funplaysystems.com/blog/breaking-the-myth-why-playtime-is-just-as-important-as-academics-in-india.html",
   "robots": "index, follow",
   "og": {
    "og:type": "article",
    "og:url": "https://funplaysystems.com/blog/breaking-the-myth-why-playtime-is-just-as-important-as-academics-in-india.html",
-   "og:title": "Why Playtime Matters as Much as Academics in India",
-   "og:description": "Why play is as important as academics for Indian children, and how schools and parents can make time and space for outdoor play.",
-   "og:image": "https://funplaysystems.com/images/breaking-the-myth.JPG",
+   "og:title": "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
+   "og:description": "Why play is as important as academics for Indian children: how play supports learning, health and wellbeing, and how schools and parents can make room for it.",
+   "og:image": "https://funplaysystems.com/images/breaking-the-myth-cover.JPG",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
-   "twitter:card": "summary_large_image"
+   "twitter:card": "summary_large_image",
+   "twitter:image": "https://funplaysystems.com/images/breaking-the-myth-cover.JPG"
   }
  },
  "h1": "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/breaking-the-myth-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/breaking-the-myth-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "26 May 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "breaking-the-myth-why-playtime-is-just-as-important-as-academics-in-india"
     },
-    "divText": [
+    "title": "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
+    "summaryText": "Many Indian families see play as time taken from study. Why that is a myth, what play does for learning and wellbeing, and how schools and parents can strike a better balance.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-05-26",
+    "updated": "2026-11-14",
+    "image": "/images/breaking-the-myth-cover.JPG",
+    "imageAlt": "FunPlay team and children at a school",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Importance of Play in Child Development"
-      ]
+      "text": "Play and study are not opposites: play builds skills that help children learn."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Play vs Academics Balance"
-      ]
+      "text": "Active children tend to concentrate, sleep and cope with stress better."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Outdoor Play Benefits for Kids"
-      ]
+      "text": "Schools can protect break times and use the playground for learning."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Play-Based Learning India"
-      ]
+      "text": "Parents can make daily outdoor play a habit alongside homework."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/play-lands.html",
+     "/corecraft/individual-equipment/climber.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "Is play as important as studying for children?",
+      "a": "Yes. Play builds physical health, attention, social and emotional skills, creativity and problem-solving, all of which support academic learning. The goal is balance, not a choice between the two."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "How much time should children spend playing?",
+      "a": "The World Health Organization recommends that children aged 5 to 17 get an average of at least 60 minutes a day of moderate to vigorous physical activity, which active play helps provide."
+     },
+     {
+      "q": "How can parents balance study and play?",
+      "a": "Set a daily routine with time for homework and time for active play, limit screens, find a safe play space nearby, and treat play as part of a healthy day rather than a reward."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
-    "https://funplaysystems.com/blog/breaking-the-myth-why-playtime-is-just-as-important-as-academics-in-india.html"
-   ]
-  ],
-  "article": {
-   "headline": "Breaking the Myth: Why Playtime Is Just as Important as Academics in India",
-   "description": "Why play is as important as academics for Indian children, and how schools and parents can make time and space for outdoor play.",
-   "image": "https://funplaysystems.com/images/breaking-the-myth.JPG",
-   "datePublished": "2025-05-26",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

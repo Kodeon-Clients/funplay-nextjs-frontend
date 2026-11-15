@@ -1,0 +1,75 @@
+{
+ "path": "/blog/category/housing-societies.html",
+ "type": "blog-hub",
+ "header": "light",
+ "seo": {
+  "title": "Playground guides for housing societies and builders | FunPlay Blog",
+  "description": "For builders, project managers and society committees: how much space a play area needs, what residents use most, how to phase the budget and how to keep…",
+  "canonical": "https://funplaysystems.com/blog/category/housing-societies.html",
+  "robots": "index, follow",
+  "og": {
+   "og:type": "website",
+   "og:url": "https://funplaysystems.com/blog/category/housing-societies.html",
+   "og:title": "Playground guides for housing societies and builders",
+   "og:description": "For builders, project managers and society committees: how much space a play area needs, what residents use most, how to phase the budget and how to keep…",
+   "og:image": "https://funplaysystems.com/images/projects/raymond-thane/1.webp",
+   "og:site_name": "FunPlay Systems",
+   "og:locale": "en_IN"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  }
+ },
+ "h1": "Housing societies and builders",
+ "data": {
+  "cardImage": "/images/projects/raymond-thane/1.webp"
+ },
+ "schema": {
+  "pageType": "CollectionPage",
+  "breadcrumb": [
+   [
+    "Home",
+    "https://funplaysystems.com/"
+   ],
+   [
+    "Blog",
+    "https://funplaysystems.com/blog.html"
+   ],
+   [
+    "Housing societies and builders",
+    "https://funplaysystems.com/blog/category/housing-societies.html"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "component": "BlogHub",
+   "props": {
+    "hub": "housing-societies",
+    "kind": "audience",
+    "title": "Housing societies and builders",
+    "introText": "For builders, project managers and society committees: how much space a play area needs, what residents use most, how to phase the budget and how to keep the equipment in shape after handover.",
+    "shortText": "Play areas, outdoor gyms and amenities for residential projects.",
+    "image": "/images/projects/raymond-thane/1.webp",
+    "links": [
+     {
+      "label": "Play Lands multi play stations",
+      "href": "/corecraft/play-lands.html"
+     },
+     {
+      "label": "Outdoor gym equipment",
+      "href": "/corecraft/fun-fitness-equipment.html"
+     },
+     {
+      "label": "Garden decor",
+      "href": "/corecraft/garden-decor.html"
+     },
+     {
+      "label": "Residential projects",
+      "href": "/Projects.html"
+     }
+    ]
+   }
+  }
+ ]
+}

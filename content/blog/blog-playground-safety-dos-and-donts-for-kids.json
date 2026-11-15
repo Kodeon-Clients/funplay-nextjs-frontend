@@ -3,225 +3,96 @@
  "type": "blog",
  "header": "light",
  "seo": {
-  "title": "Playground Safety Do's and Don'ts for Kids | FunPlay",
-  "description": "Simple playground safety rules for children and parents: what to do, what to avoid and how to check equipment before play.",
+  "title": "Playground Safety Do's and Don'ts for Kids (10 Park Rules)",
+  "description": "Playground and park safety rules for kids: 10 simple rules, do's and don'ts for parents and teachers, and how to prevent the most common playground injuries.",
   "canonical": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html",
-  "robots": null,
+  "robots": "index, follow",
   "og": {
-   "og:title": "Playground Safety Do's and Don'ts for Kids | FunPlay",
-   "og:description": "Simple playground safety rules for children and parents: what to do, what to avoid and how to check equipment before play.",
-   "og:image": "https://funplaysystems.com/images/logo-black.png",
-   "og:url": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html",
    "og:type": "article",
+   "og:url": "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html",
+   "og:title": "Playground Safety: Do's and Don'ts for Kids",
+   "og:description": "Playground and park safety rules for kids: 10 simple rules, do's and don'ts for parents and teachers, and how to prevent the most common playground injuries.",
+   "og:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/9.jpg",
    "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Playground Safety Do's and Don'ts for Kids | FunPlay",
-   "twitter:description": "Simple playground safety rules for children and parents: what to do, what to avoid and how to check equipment before play.",
-   "twitter:image": "https://funplaysystems.com/images/doanddont.JPG"
+   "twitter:image": "https://funplaysystems.com/images/projects/st-andrews-school-telengana/9.jpg"
   }
  },
  "h1": "Playground Safety: Do's and Don'ts for Kids",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/projects/st-andrews-school-telengana/9.jpg"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/doanddont.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/clients/school.jpeg')",
-       "backgroundSize": "cover"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "14 May 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 alt-font mb-30px mb-0",
-    "h1Text": "Playground Safety: Do's and Don'ts for Kids",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "playground-safety-dos-and-donts-for-kids"
     },
-    "divText": [
+    "title": "Playground Safety: Do's and Don'ts for Kids",
+    "summaryText": "Ten simple park rules children can remember, the do's and don'ts adults should follow, and how to prevent the injuries we see most often on Indian playgrounds.",
+    "topic": "safety",
+    "audiences": [
+     "schools",
+     "housing-societies",
+     "parks"
+    ],
+    "author": "priya-nair",
+    "date": "2025-05-14",
+    "updated": "2026-11-14",
+    "image": "/images/projects/st-andrews-school-telengana/9.jpg",
+    "imageAlt": "A child coming down a pink slide at a school playground",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Safety"
-      ]
+      "text": "Most playground injuries come from falls, so the surface under the equipment matters as much as the equipment."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Play Tips"
-      ]
+      "text": "Children follow rules they can remember: keep the rules board short, pictorial and in the local language."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Kids Outdoor Safety"
-      ]
+      "text": "Match equipment to age. Toddlers on equipment built for 10-year-olds is a common cause of falls."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "School Playground Rules"
-      ]
+      "text": "Check the play area before children use it, especially after rain or on a hot afternoon."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Child Injury Prevention"
-      ]
+      "text": "Take broken equipment out of use straight away and report it."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/individual-equipment/swing/toddler-swing.html",
+     "/corecraft/play-lands/tiny-tot.html",
+     "/corecraft/individual-equipment/spring-rider/duck-rider.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/st-andrews-school.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "What are 10 safety rules for kids at the playground?",
+      "a": "Play where an adult can see you; wait your turn; slide down feet first and sitting up; hold on with both hands when climbing; stay well away from moving swings; no pushing or rough play; wear closed shoes and no loose strings or scarves; do not play on wet or very hot equipment; use equipment meant for your age; tell an adult if something is broken."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "What is the safest surface for a playground?",
+      "a": "A surface that absorbs falls: rubber tiles, poured EPDM rubber, artificial turf over a shock pad, or a deep layer of loose sand or wood chips. Concrete, paver blocks and compacted soil are not safe under climbing or sliding equipment."
+     },
+     {
+      "q": "How often should playground equipment be checked?",
+      "a": "A quick look before use every day, a closer check every month (bolts, chains, cracks, rust, surfacing) and a full inspection by the supplier or a trained person once a year. Always check after heavy rain or storms."
+     },
+     {
+      "q": "What should I do if I see broken playground equipment?",
+      "a": "Keep children off it, tape or block it if you can, and report it to the school, society office or park authority. Do not try to fix moving parts or chains yourself."
+     },
+     {
+      "q": "What safety rules should be on a park notice board?",
+      "a": "Keep it to six to ten short rules with pictures: the age range for each area, adult supervision for small children, one at a time on slides, no pushing, keep clear of swings, no play on wet equipment, report damage, and an emergency phone number."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Playground Safety: Do's and Don'ts for Kids",
-    "https://funplaysystems.com/blog/playground-safety-dos-and-donts-for-kids.html"
-   ]
-  ],
-  "article": {
-   "headline": "Playground Safety: Do's and Don'ts for Kids",
-   "description": "Simple playground safety rules for children and parents: what to do, what to avoid and how to check equipment before play.",
-   "image": "https://funplaysystems.com/images/author-icon.jpg",
-   "datePublished": "2025-05-14",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  }
- }
+ ]
 }

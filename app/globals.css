@@ -14,3 +14,4 @@
 @import "tailwindcss/utilities.css" layer(utilities) prefix(tw);
 @import "../styles/fonts.css" layer(base);
 @import "../styles/site.css" layer(components);
+@import "../styles/blog.css" layer(components);

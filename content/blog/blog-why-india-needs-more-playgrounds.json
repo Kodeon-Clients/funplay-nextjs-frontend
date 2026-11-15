@@ -4,252 +4,83 @@
  "header": "light",
  "seo": {
   "title": "Why India Needs More Playgrounds | FunPlay Systems",
-  "description": "The state of play spaces in India, who is most affected by the shortage and what can be done to build more safe playgrounds.",
+  "description": "Why India needs more and better playgrounds: shrinking open space, who is left out, what children lose without play, and what cities, schools, builders and communities can do.",
   "canonical": "https://funplaysystems.com/blog/why-india-needs-more-playgrounds.html",
-  "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+  "robots": "index, follow",
   "og": {
    "og:type": "article",
-   "og:title": "Why India Needs More Playgrounds | FunPlay Systems",
-   "og:description": "The state of play spaces in India, who is most affected by the shortage and what can be done to build more safe playgrounds.",
    "og:url": "https://funplaysystems.com/blog/why-india-needs-more-playgrounds.html",
-   "og:image": "https://funplaysystems.com/images/why-india-images.JPG",
-   "og:image:width": "1200",
-   "og:image:height": "630",
-   "og:site_name": "FunPlay Systems India",
+   "og:title": "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
+   "og:description": "Why India needs more and better playgrounds: shrinking open space, who is left out, what children lose without play, and what cities, schools, builders and communities can do.",
+   "og:image": "https://funplaysystems.com/images/why-india-cover.JPG",
+   "og:site_name": "FunPlay Systems",
    "og:locale": "en_IN"
   },
   "twitter": {
    "twitter:card": "summary_large_image",
-   "twitter:title": "Why India Needs More Playgrounds | FunPlay Systems",
-   "twitter:description": "The state of play spaces in India, who is most affected by the shortage and what can be done to build more safe playgrounds.",
-   "twitter:image": "https://funplaysystems.com/images/blog5cover.png",
-   "twitter:site": "@funplayindia",
-   "twitter:creator": "@funplayindia"
+   "twitter:image": "https://funplaysystems.com/images/why-india-cover.JPG"
   }
  },
- "styles": [
-  "9167889001"
- ],
  "h1": "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
  "data": {
-  "cardImage": "/images/author-icon.jpg"
+  "cardImage": "/images/why-india-cover.JPG"
  },
  "sections": [
   {
-   "component": "BlogHowFunplayManufacturesPlayground",
-   "props": {
-    "sectionStyle": {
-     "backgroundImage": "url('/images/why-india-cover.JPG')"
-    },
-    "items": [
-     {
-      "divClass": "background-position-center-top h-100 w-100 position-absolute left-0px top-0",
-      "divStyle": {
-       "backgroundImage": "url('/images/vertical-line-bg-small.svg')"
-      }
-     },
-     {
-      "divClass": "h-100 position-absolute left-0px top-0 w-100",
-      "divDataParticle": "true",
-      "divDataParticleOptions": "{\"particles\": {\"number\": {\"value\": 12,\"density\": {\"enable\": true,\"value_area\": 2000}},\"color\": {\"value\": [\"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\", \"#d5d52b\"]},\"shape\": {\"type\": \"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"}},\"opacity\": {\"value\": 1,\"random\": false,\"anim\": {\"enable\": false,\"speed\": 1,\"sync\": false}},\"size\": {\"value\": 8,\"random\": true,\"anim\": {\"enable\": false,\"sync\": true}},\"line_linked\":{\"enable\":false,\"distance\":0,\"color\":\"#ffffff\",\"opacity\":1,\"width\":1},\"move\": {\"enable\": true,\"speed\":1,\"direction\": \"right\",\"random\": false,\"straight\": false}},\"interactivity\": {\"detect_on\": \"canvas\",\"events\": {\"onhover\": {\"enable\": false,\"mode\": \"repulse\"},\"onclick\": {\"enable\": false,\"mode\": \"push\"},\"resize\": true}},\"retina_detect\": false}",
-      "divId": "particles-style-01"
-     },
-     {
-      "divClass": "opacity-light bg-dark-gray"
-     }
-    ],
-    "divDataAnime": "{ \"el\": \"childs\", \"opacity\": [0, 1], \"translateX\": [50, 0], \"staggervalue\": 100, \"easing\": \"easeOutQuad\" }",
-    "divText": [
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "text-white fs-18"
-      },
-      "c": [
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "05 May 2025"
-        ]
-       },
-       " ",
-       {
-        "tag": "span",
-        "attrs": {
-         "className": "d-inline-block fs-24 align-top ms-10px me-10px"
-        },
-        "c": [
-         "•"
-        ]
-       },
-       " ",
-       {
-        "tag": "a",
-        "attrs": {
-         "className": "text-white",
-         "href": "#"
-        },
-        "c": [
-         "Playground Design & Innovation"
-        ]
-       },
-       " "
-      ]
-     }
-    ],
-    "h1Class": "text-white fw-500 text-white alt-font mb-30px mb-0",
-    "h1Text": "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
-    "imgDecoding": "async"
-   }
-  },
-  {
-   "component": "BlogBlogInnerContent",
+   "component": "BlogPost",
    "props": {
     "article": {
      "slug": "why-india-needs-more-playgrounds"
     },
-    "divText": [
+    "title": "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
+    "summaryText": "Open space is shrinking in Indian cities and many villages have no play equipment at all. Who loses out, why it matters, and what different groups can do to change it.",
+    "topic": "play-and-learning",
+    "audiences": [
+     "parks",
+     "schools"
+    ],
+    "author": "meera-iyer",
+    "date": "2025-05-05",
+    "updated": "2026-11-14",
+    "image": "/images/why-india-cover.JPG",
+    "imageAlt": "Students seated in a school classroom in India",
+    "takeaways": [
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playgrounds in India"
-      ]
+      "text": "Open play space in Indian cities is shrinking as land goes to buildings, roads and parking."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Child Development and Play"
-      ]
+      "text": "Many villages and government schools have open land but little safe play equipment."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Inclusive Play Spaces"
-      ]
+      "text": "Girls, children with disabilities and children in low-income areas are most affected."
      },
-     " ",
      {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Playground Equipment India"
-      ]
-     },
-     " ",
-     {
-      "tag": "span",
-      "attrs": {
-       "className": "tag"
-      },
-      "c": [
-       "Safe Outdoor Play"
-      ]
+      "text": "Cities, schools, builders, companies and communities can each add or restore play spaces."
      }
     ],
-    "aHref": "/blog/how-to-choose-a-playground-equipment-manufacturer-in-india.html",
-    "imgSrc": "/images/g2.jpg",
-    "imgAlt": "How to Choose a Playground Equipment Manufacturer in India",
-    "items": [
-     {
-      "pClass": "post-heading",
-      "pText": "How to Choose a Playground Equipment Manufacturer in India"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "11 October 2026"
-     }
+    "products": [
+     "/corecraft/individual-equipment.html",
+     "/corecraft/play-lands.html"
     ],
-    "aHref2": "/blog/playground-design-ideas-for-small-spaces.html",
-    "imgSrc2": "/images/about_us2.jpg",
-    "imgAlt2": "Playground Design Ideas for Small Spaces",
-    "items2": [
-     {
-      "pClass": "post-heading",
-      "pText": "Playground Design Ideas for Small Spaces"
-     },
-     {
-      "pClass": "post-date",
-      "pText": "2 October 2025"
-     }
+    "projects": [
+     "/projects/dighe-garden.html",
+     "/projects/swr-railways.html"
     ],
-    "aHref3": "/blog/blending-play-equipment-with-green-spaces.html",
-    "imgSrc3": "/images/funplay-innovative-images.JPG",
-    "imgAlt3": "Blending Play Equipment with Green Spaces",
-    "items3": [
+    "faq": [
      {
-      "pClass": "post-heading",
-      "pText": "Blending Play Equipment with Green Spaces"
+      "q": "Why does India need more playgrounds?",
+      "a": "Because open spaces in cities are disappearing, many schools and villages lack safe play equipment, and play is essential for children's health, development and wellbeing. Children without safe places to play often play on streets or not at all."
      },
      {
-      "pClass": "post-date",
-      "pText": "29 September 2025"
+      "q": "Who is most affected by the lack of playgrounds in India?",
+      "a": "Children in low-income urban areas, girls whose movement is restricted to nearby spaces, children with disabilities who cannot use typical equipment, and children in villages and government schools without equipment."
+     },
+     {
+      "q": "How can more playgrounds be created in India?",
+      "a": "Through city planning that protects open space, play areas in every housing project, better school playgrounds, CSR funding for under-served areas, inclusive design, and maintenance of existing parks."
      }
     ]
    }
   }
- ],
- "schema": {
-  "breadcrumb": [
-   [
-    "Home",
-    "https://funplaysystems.com/"
-   ],
-   [
-    "Blog",
-    "https://funplaysystems.com/blog.html"
-   ],
-   [
-    "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
-    "https://funplaysystems.com/blog/why-india-needs-more-playgrounds.html"
-   ]
-  ],
-  "article": {
-   "headline": "Why India Needs More Playgrounds: A Look at the Current State of Play Spaces",
-   "description": "The state of play spaces in India, who is most affected by the shortage and what can be done to build more safe playgrounds.",
-   "image": "https://funplaysystems.com/images/why-india-images.JPG",
-   "datePublished": "2024-06-29T00:00:00+05:30",
-   "dateModified": "2026-10-05",
-   "author": "FunPlay Systems Design Team"
-  },
-  "faq": [
-   [
-    "Why are playgrounds important for children in India?",
-    "Playgrounds are crucial for Indian children's physical health, mental wellbeing, and social development. They provide safe spaces for physical activity, reduce stress and anxiety, help develop social skills through interaction with peers, and offer opportunities for creative and imaginative play essential for cognitive development."
-   ],
-   [
-    "What is the current state of playgrounds in India?",
-    "India faces a severe playground shortage with many existing play spaces being unsafe, poorly maintained, or non-existent. Urban areas are losing open spaces to development, while rural areas often completely lack playground equipment. Many schools also don't have proper play areas for children."
-   ],
-   [
-    "Who is most affected by the lack of playgrounds in India?",
-    "Children in economically disadvantaged neighborhoods, girls with limited mobility due to safety concerns, and children with disabilities are most affected. These groups often lack access to nearby, inclusive, and safe play areas, further limiting their developmental opportunities."
-   ],
-   [
-    "What problems arise when Indian children don't have safe places to play?",
-    "Lack of safe play spaces leads to multiple issues including physical health problems from insufficient activity, increased stress and anxiety, poor social skill development, and safety risks when children play in dangerous areas like roads or construction zones."
-   ],
-   [
-    "How can playground access be improved across India?",
-    "Solutions include building more playgrounds in both urban and rural areas, repairing existing broken equipment, designing inclusive play spaces for children with disabilities, using cost-effective materials for affordability, and engaging local communities in maintenance and safety."
-   ]
-  ]
- }
+ ]
 }
