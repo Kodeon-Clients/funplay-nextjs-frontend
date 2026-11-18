@@ -79,12 +79,10 @@ export async function sendMail(m: Mail): Promise<void> {
 
 /** Sends a lead notification to LEAD_RECIPIENT (+ LEAD_BCC). */
 export async function sendLead(m: Omit<Mail, "to" | "bcc">): Promise<void> {
-  const cfg = mailConfig();
-  const to = "dev@kodeon.agency";
 
   await sendMail({
     ...m,
-    to,
-    bcc: cfg?.leadBcc,
+    to: "marketing@funplaysystems.com",
+    bcc: ["vipulkumarsjain@gmail.com"],
   });
 }

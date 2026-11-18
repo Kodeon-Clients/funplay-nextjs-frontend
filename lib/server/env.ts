@@ -30,7 +30,7 @@ export function mailConfig(): MailConfig | null {
     baseUrl: region === "eu" ? "https://api.eu.mailgun.net" : "https://api.mailgun.net",
     from: read("MAIL_FROM") || "FunPlay Website <webmaster@funplaysystems.com>",
     leadRecipient: read("LEAD_RECIPIENT") || "marketing@funplaysystems.com",
-    leadBcc: (read("LEAD_BCC") || "")
+    leadBcc: (read("LEAD_BCC") || "vipulkumarsjain@gmail.com")
       .split(",")
       .map((s) => s.trim())
       .filter(Boolean),
