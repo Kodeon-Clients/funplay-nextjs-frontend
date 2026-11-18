@@ -90,7 +90,14 @@ export function honeypotTripped(fd: FormData): boolean {
   return typeof v === "string" && v.trim() !== "";
 }
 
-const THANK_YOU = ["/thank-you.html", "/thankyou.html", "/thank-you-lp.html", "/thank-you-campaign.html"];
+const THANK_YOU = [
+  "/thank-you.html",
+  "/thankyou.html",
+  "/thank-you-lp.html",
+  "/thank-you-campaign.html",
+  "/thank-you-builders-enquiry.html",
+  "/thank-you-schools-enquiry.html",
+];
 
 /**
  * Some landing pages carry a hidden `redirect` input. Only the site's own thank-you pages are

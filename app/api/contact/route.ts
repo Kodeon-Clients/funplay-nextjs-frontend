@@ -46,7 +46,7 @@ export async function POST(req: NextRequest) {
       url,
     );
     await sendLead({ subject: `Website enquiry: ${name}${location ? ` (${location})` : ""}`, html, text: plain, replyTo: replyTo(name, mail) });
-    return json({ ok: true, message: "Thank you. We will get back to you soon.", redirect: safeRedirect(fd) });
+    return json({ ok: true, message: "Thank you. We will get back to you soon." });
   } catch (e) {
     return handleError(e, "contact");
   }

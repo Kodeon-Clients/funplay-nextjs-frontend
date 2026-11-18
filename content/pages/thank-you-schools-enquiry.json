@@ -1,0 +1,69 @@
+{
+ "path": "/thank-you-schools-enquiry.html",
+ "type": "landing",
+ "seo": {
+  "title": "Thank you | FunPlay",
+  "description": "FunPlay Systems",
+  "canonical": "https://funplaysystems.com/thank-you-schools-enquiry.html",
+  "robots": "noindex, nofollow",
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "Thank you! We will call you soon.",
+ "sections": [
+  {
+   "component": "PlayThankYou",
+   "props": {
+    "audience": "schools",
+    "kind": "enquiry",
+    "landing": "/playground-for-schools.html",
+    "whatsapp": {
+     "label": "+91 99629 79406",
+     "href": "https://wa.me/919962979406"
+    },
+    "phone": {
+     "label": "+91 90283 02266",
+     "href": "tel:+919028302266"
+    },
+    "eyebrow": "Enquiry received",
+    "h1": "Thank you! We will call you soon.",
+    "sub": "Our team will call you within working hours to understand your campus and the age groups you want to serve.",
+    "image": "/images/play-lp/stock-kids-on-swings.webp",
+    "imageAlt": "A girl laughing on a swing next to her little brother",
+    "steps": [
+     {
+      "title": "We call you",
+      "text": "A quick call to understand the space, the age groups and your timeline."
+     },
+     {
+      "title": "Free layout suggestion",
+      "text": "Share a site plan or photos and we suggest a layout that fits."
+     },
+     {
+      "title": "Quote and play plan",
+      "text": "Design renders, a budget estimate and an installation plan."
+     }
+    ],
+    "primary": {
+     "label": "Chat with us on WhatsApp",
+     "href": "https://wa.me/919962979406"
+    },
+    "secondary": {
+     "label": "Download the catalogue",
+     "href": "/playground-for-schools.html#catalogue"
+    },
+    "download": null,
+    "footer": {
+     "company": "Fun Play Systems Pvt. Ltd.",
+     "address": "Unit No. 5, S. Nanda Business Park, Sagpada, Devdhal, Kaman Bhiwandi Road, Vasai East, District Palghar, Maharashtra 401208",
+     "phone": {
+      "label": "+91 90283 02266",
+      "href": "tel:+919028302266"
+     },
+     "email": "marketing@funplaysystems.com",
+     "hours": "Mon–Sat, 9:00 AM – 6:30 PM"
+    }
+   }
+  }
+ ]
+}

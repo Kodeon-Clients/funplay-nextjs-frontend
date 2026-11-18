@@ -1,0 +1,721 @@
+{
+ "path": "/playground-for-builders-and-societies.html",
+ "type": "landing",
+ "seo": {
+  "title": "Playground Equipment for Builders & Housing Societies | FunPlay",
+  "description": "Award-winning playground equipment for builders, developers and housing societies. Free layout suggestion, made in our own factory, installed by FunPlay.",
+  "canonical": "https://funplaysystems.com/playground-for-builders-and-societies.html",
+  "robots": "noindex, follow",
+  "og": {},
+  "twitter": {}
+ },
+ "h1": "The play area families remember when they choose a home",
+ "sections": [
+  {
+   "component": "PlayLanding",
+   "props": {
+    "audience": "builders",
+    "phone": {
+     "label": "+91 90283 02266",
+     "href": "tel:+919028302266"
+    },
+    "whatsapp": {
+     "label": "+91 99629 79406",
+     "href": "https://wa.me/919962979406"
+    },
+    "badges": {
+     "reddot": {
+      "src": "/images/play-lp/reddot-award.png",
+      "title": "Red Dot Design Award",
+      "sub": "Winner 2024"
+     },
+     "trust": {
+      "src": "/images/play-lp/indiamart-trustseal.png",
+      "title": "IndiaMart",
+      "sub": "TrustSEAL Verified"
+     }
+    },
+    "hero": {
+     "eyebrow": "For builders, developers & housing societies",
+     "h1": "The play area families remember when they choose a home",
+     "sub": "Award-winning playgrounds designed, made in our own factory and installed by FunPlay, from a compact play unit for a society garden to a complete township play zone.",
+     "image": "/images/g15.jpg",
+     "imageAlt": "Children on a FunPlay climber and slide at a housing society",
+     "imagePosition": "60% 40%",
+     "video": "/videos/play-lp/hero-builders.mp4",
+     "bubbleImage": "/images/play-lp/stock-girl-on-bars.webp",
+     "bubbleAlt": "A girl laughing as she hangs from playground bars",
+     "bubbleText": "Every climb, a little braver."
+    },
+    "form": {
+     "title": "Get a free quote & layout",
+     "sub": "Tell us about your project. Our team will call you to understand the space and suggest a layout, free.",
+     "orgField": "companyname",
+     "orgLabel": "Company / Society name",
+     "orgPlaceholder": "e.g. Green Park CHS",
+     "roleLabel": "I am a",
+     "roles": [
+      "Builder / Developer",
+      "Housing Society / RWA",
+      "Architect / Consultant",
+      "Other"
+     ],
+     "messagePlaceholder": "Site size, number of flats, timeline…",
+     "button": "Get My Free Quote",
+     "note": "We usually call back within working hours.",
+     "source": "lp-builders",
+     "redirect": "/thank-you-builders-enquiry.html"
+    },
+    "catalogue": {
+     "title": "Get the FunPlay catalogue",
+     "sub": "Share your details and we will email you a 6-digit code. Enter it to download the catalogue.",
+     "customerTypes": [
+      "Builder",
+      "Society",
+      "Architect",
+      "Others"
+     ],
+     "customerTypeDefault": "",
+     "customerTypeLabel": "I am a",
+     "thankYou": "/thank-you-builders-catalogue.html",
+     "button": "Email me the code"
+    },
+    "stats": [
+     {
+      "value": "24+",
+      "label": "Years of Experience",
+      "icon": "calendar",
+      "color": "#d74951"
+     },
+     {
+      "value": "150+",
+      "label": "Employees",
+      "icon": "users",
+      "color": "#3b9be0"
+     },
+     {
+      "value": "15,000+",
+      "label": "Installations Nationwide",
+      "icon": "pin",
+      "color": "#2fa36b"
+     },
+     {
+      "value": "45,000 sq. ft.",
+      "label": "Manufacturing Facility",
+      "icon": "factory",
+      "color": "#ff8a3d"
+     }
+    ],
+    "clients": {
+     "title": "Clients we have worked with",
+     "sub": "Developers, PSUs, corporates and public bodies",
+     "logos": [
+      {
+       "src": "/images/play-lp/clients/damji.webp",
+       "alt": "Damji Shamji Shah Group"
+      },
+      {
+       "src": "/images/play-lp/clients/lnt.webp",
+       "alt": "Larsen & Toubro"
+      },
+      {
+       "src": "/images/play-lp/clients/adani.webp",
+       "alt": "Adani"
+      },
+      {
+       "src": "/images/play-lp/clients/tatasteel.webp",
+       "alt": "Tata Steel"
+      },
+      {
+       "src": "/images/play-lp/clients/reliance.webp",
+       "alt": "Reliance"
+      },
+      {
+       "src": "/images/play-lp/clients/sbi.webp",
+       "alt": "State Bank of India"
+      },
+      {
+       "src": "/images/play-lp/clients/iocl.webp",
+       "alt": "Indian Oil Corporation"
+      },
+      {
+       "src": "/images/play-lp/clients/ntpc.webp",
+       "alt": "NTPC"
+      },
+      {
+       "src": "/images/play-lp/clients/ongc.webp",
+       "alt": "ONGC"
+      },
+      {
+       "src": "/images/play-lp/clients/powergrid.webp",
+       "alt": "POWERGRID"
+      },
+      {
+       "src": "/images/play-lp/clients/hpcl.webp",
+       "alt": "HPCL"
+      },
+      {
+       "src": "/images/play-lp/clients/nmdc.webp",
+       "alt": "NMDC"
+      },
+      {
+       "src": "/images/play-lp/clients/castrol.webp",
+       "alt": "Castrol"
+      },
+      {
+       "src": "/images/play-lp/clients/navy.webp",
+       "alt": "Indian Navy"
+      },
+      {
+       "src": "/images/play-lp/clients/iaf.webp",
+       "alt": "Indian Air Force"
+      },
+      {
+       "src": "/images/play-lp/clients/usconsulate.webp",
+       "alt": "US Consulate General Mumbai"
+      },
+      {
+       "src": "/images/play-lp/clients/nmmc.webp",
+       "alt": "Navi Mumbai Municipal Corporation"
+      },
+      {
+       "src": "/images/play-lp/clients/thane.webp",
+       "alt": "Thane Municipal Corporation"
+      },
+      {
+       "src": "/images/play-lp/clients/panvel.webp",
+       "alt": "Panvel Municipal Corporation"
+      },
+      {
+       "src": "/images/play-lp/clients/vvmc.webp",
+       "alt": "Vasai-Virar City Municipal Corporation"
+      },
+      {
+       "src": "/images/play-lp/clients/cpwd.webp",
+       "alt": "CPWD"
+      },
+      {
+       "src": "/images/play-lp/clients/cmpdi.webp",
+       "alt": "CMPDI"
+      },
+      {
+       "src": "/images/play-lp/clients/mcl.webp",
+       "alt": "Mahanadi Coalfields"
+      },
+      {
+       "src": "/images/play-lp/clients/irmra.webp",
+       "alt": "IRMRA"
+      },
+      {
+       "src": "/images/play-lp/clients/aniidco.webp",
+       "alt": "ANIIDCO"
+      }
+     ],
+     "namesLead": "Developers we have built for include",
+     "names": "Oberoi Constructions, R.N.A. Builders, Wescon Housing India, Balwas Realty & Infrastructure, Marvels Group, Satnam Builders & Developers, Gitanjali Spaces and Urban Life Spaces."
+    },
+    "moments": {
+     "eyebrow": "Why it matters",
+     "title": "Every evening, this is what your residents will see",
+     "sub": "A playground is more than a line in the amenities list. It is where children laugh, dare, make friends and imagine, and where a community comes together.",
+     "items": [
+      {
+       "image": "/images/play-lp/stock-kids-on-swings.webp",
+       "alt": "A girl laughing on a swing next to her little brother",
+       "position": "50% 35%",
+       "color": "#ffc23d",
+       "word": "Laughter",
+       "text": "Children racing outside to play the moment they get home."
+      },
+      {
+       "image": "/images/g13.jpg",
+       "alt": "A boy crossing a FunPlay net climber",
+       "position": "40% 50%",
+       "color": "#cfe8fb",
+       "word": "Courage",
+       "text": "Reaching the top of the climber, then doing it all over again."
+      },
+      {
+       "image": "/images/play-lp/g05-upright.webp",
+       "alt": "Three children sharing a FunPlay rocker",
+       "position": "50% 55%",
+       "color": "#d5f1e2",
+       "word": "Friendship",
+       "text": "Neighbours’ children becoming best friends in the play area."
+      },
+      {
+       "image": "/images/play-lp/g7-upright.webp",
+       "alt": "A girl smiling as she climbs a FunPlay climber",
+       "position": "50% 35%",
+       "color": "#ffd9c7",
+       "word": "Wonder",
+       "text": "Themed play that turns a podium into an adventure."
+      }
+     ]
+    },
+    "why": {
+     "eyebrow": "Why developers choose FunPlay",
+     "title": "One partner from site plan to handover",
+     "items": [
+      {
+       "icon": "layout",
+       "bg": "#ffe7a8",
+       "title": "Free layout suggestion",
+       "text": "Share your site plan or amenity area. We suggest a play layout that fits the space, the age groups and your budget."
+      },
+      {
+       "icon": "doc",
+       "bg": "#cfe8fb",
+       "title": "Committee-ready proposal",
+       "text": "You get design renders, a budget estimate and an installation plan, ready to present to your management or society committee."
+      },
+      {
+       "icon": "factory",
+       "bg": "#ffd9c7",
+       "title": "Made in our own factory",
+       "text": "Everything is manufactured at our 45,000 sq. ft. facility in Vasai, so quality and timelines stay in our hands."
+      },
+      {
+       "icon": "sun",
+       "bg": "#d5f1e2",
+       "title": "Built for Indian weather",
+       "text": "Galvanized pipe, roto-moulded parts, composite laminates and play rope, chosen for years of outdoor use."
+      },
+      {
+       "icon": "shield",
+       "bg": "#e5dcfb",
+       "title": "3-year structural warranty",
+       "text": "3 years on galvanized pipe, roto-moulded parts, composite laminates and play rope. 1 year on springs and bearings."
+      },
+      {
+       "icon": "tool",
+       "bg": "#ffe7a8",
+       "title": "Installation that fits your timeline",
+       "text": "Delivery and installation coordinated with your construction schedule, with after-sales support after handover."
+      }
+     ]
+    },
+    "ranges": {
+     "eyebrow": "Explore our ranges",
+     "title": "Play structures for every amenity space",
+     "tabs": [
+      {
+       "id": "nexlev",
+       "name": "NexLev Series",
+       "tint": "#cfe8fb",
+       "blurb": "Wooden play structures: pinnacle towers, castles and adventure sets for large communities and campuses.",
+       "items": [
+        {
+         "image": "/images/APEX-A.jpg",
+         "name": "Apex",
+         "series": "Pinnacle",
+         "activities": "Sliding · Climbing · Swinging",
+         "facts": [
+          "30–35 children",
+          "Safe area 30′10″ × 28′7″"
+         ]
+        },
+        {
+         "image": "/images/VERETX-A.jpg",
+         "name": "Vertex",
+         "series": "Pinnacle",
+         "activities": "Sliding · Climbing · Swinging",
+         "facts": [
+          "40–45 children",
+          "Safe area 19′7″ × 17′8″"
+         ]
+        },
+        {
+         "image": "/images/TETON-A.jpg",
+         "name": "Teton",
+         "series": "Woody",
+         "activities": "Sliding · Climbing · Rope walls",
+         "facts": [
+          "30–35 children",
+          "Safe area 29′7″ × 28′7″"
+         ]
+        },
+        {
+         "image": "/images/PALAMU-A.webp",
+         "name": "Palamu",
+         "series": "Castle",
+         "activities": "Sliding · Climbing · Balancing",
+         "facts": [
+          "80–99 children",
+          "Safe area 48′7″ × 33′11″"
+         ]
+        },
+        {
+         "image": "/images/AVIATOR-A.jpg",
+         "name": "Aviator",
+         "series": "Escapade",
+         "activities": "Sliding · Climbing · Role play",
+         "facts": [
+          "40–45 children",
+          "Safe area 42′8″ × 36′6″"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "corecraft",
+       "name": "CoreCraft",
+       "tint": "#ffe7a8",
+       "blurb": "Themed multi-play stations (castles, circus, jungle, robots), plus individual swings, slides, see-saws and spring riders.",
+       "items": [
+        {
+         "image": "/images/castle-Crest-Fortress-Fun-Blue-product-image.jpg",
+         "name": "Fortress Fun",
+         "series": "Castle Crest",
+         "activities": "Sliding · Climbing · Swinging",
+         "facts": [
+          "Age 3+",
+          "Safe area 30′5″ × 30′2″"
+         ]
+        },
+        {
+         "image": "/images/Jamboree-5-1.jpg",
+         "name": "Jambore 5",
+         "series": "Clown Capade",
+         "activities": "Sliding · Climbing · Hanging",
+         "facts": [
+          "Age 5–12",
+          "Safe area 27′10″ × 24′6″"
+         ]
+        },
+        {
+         "image": "/images/play-land-coral-cascade.jpg",
+         "name": "Coral Cascade",
+         "series": "Play Lands",
+         "activities": "Climbing · Sliding · Hanging",
+         "facts": [
+          "Age 5–12",
+          "Safe area 34′8″ × 32′1″"
+         ]
+        },
+        {
+         "image": "/images/JungleJive-Level2-product-image.jpg",
+         "name": "Jungle Jive L2",
+         "series": "Forestia",
+         "activities": "Climbing · Sliding · Balancing",
+         "facts": [
+          "Age 5–12",
+          "Safe area 36′ × 28′4″"
+         ]
+        },
+        {
+         "image": "/images/Robo-Kingdom-product1-image.jpg",
+         "name": "Robo Kingdom",
+         "series": "Robo Romp",
+         "activities": "Sliding · Climbing",
+         "facts": [
+          "Age 5–12",
+          "Safe area 29′7″ × 23′6″"
+         ]
+        }
+       ]
+      },
+      {
+       "id": "originals",
+       "name": "FunPlay Originals",
+       "tint": "#d5f1e2",
+       "blurb": "Our own designs, inspired by Indian play, nature and paper craft. Each one invites children to invent their own games.",
+       "items": [
+        {
+         "image": "/images/campaign/slider/Ulta-Ghar-product-catalogue.webp",
+         "name": "Ulta Ghar",
+         "series": "Nature Sparsh",
+         "activities": "Sliding · Climbing · Drop climber",
+         "facts": [
+          "Age 3+",
+          "Safe area 17′11″ × 16′8″"
+         ]
+        },
+        {
+         "image": "/images/campaign/slider/paper-boat-198.webp",
+         "name": "Paper Boat",
+         "series": "Kagzi",
+         "activities": "Sliding · Climbing · Crawling",
+         "facts": [
+          "Age 5+",
+          "Safe area 22′4″ × 19′7″"
+         ]
+        },
+        {
+         "image": "/images/campaign/slider/Phula-product-catalogue.webp",
+         "name": "Phula",
+         "series": "Nature Sparsh",
+         "activities": "Sliding · Climbing · Crawling",
+         "facts": [
+          "Age 5+",
+          "Safe area 42′2″ × 20′3″"
+         ]
+        },
+        {
+         "image": "/images/campaign/slider/Bellatrix-1.webp",
+         "name": "Bellatrix",
+         "series": "Khel Khud",
+         "activities": "Sliding · Climbing · Hanging",
+         "facts": [
+          "Age 5+",
+          "Safe area 21′9″ × 19′3″"
+         ]
+        },
+        {
+         "image": "/images/Roo-Pocket.jpg",
+         "name": "Roo Pocket",
+         "series": "Khel Khud",
+         "activities": "Sliding · Climbing · Jumping",
+         "facts": [
+          "Age 3+",
+          "Safe area 18′5″ × 9′9″"
+         ]
+        }
+       ]
+      }
+     ],
+     "moreTitle": "See every design, size and colour in the catalogue"
+    },
+    "video": {
+     "eyebrow": "See it in action",
+     "title": "From our factory floor to your amenity area",
+     "sub": "Plays muted when it scrolls into view. Pause, skip or turn on the sound any time.",
+     "src": "/videos/play-lp/main-builders.mp4",
+     "poster": "/videos/play-lp/main-builders-poster.jpg",
+     "caption": "A FunPlay multi play station on a residential podium"
+    },
+    "gallery": {
+     "eyebrow": "Completed projects",
+     "title": "15,000+ installations. Here are a few.",
+     "sub": "Real FunPlay sites. Hover to pause, tap any photo to see it full screen.",
+     "rows": [
+      [
+       {
+        "src": "/images/g10.jpg",
+        "alt": "Two children sliding down a FunPlay wave slide",
+        "caption": "Side by side, all the way down",
+        "w": 785,
+        "h": 523,
+        "width": 330
+       },
+       {
+        "src": "/images/g04.jpg",
+        "alt": "FunPlay multi play station with tube slides on a society rooftop",
+        "caption": "A rooftop full of colour",
+        "w": 785,
+        "h": 589,
+        "width": 360
+       },
+       {
+        "src": "/images/play-lp/g05-upright.webp",
+        "alt": "Three children sharing a FunPlay rocker",
+        "caption": "Three friends, one ride",
+        "w": 589,
+        "h": 785,
+        "width": 210
+       },
+       {
+        "src": "/images/g8.jpg",
+        "alt": "FunPlay wooden playground with swings and slides in a residential courtyard",
+        "caption": "Room to run in the society garden",
+        "w": 785,
+        "h": 523,
+        "width": 380
+       },
+       {
+        "src": "/images/g13.jpg",
+        "alt": "A boy crossing a FunPlay net climber",
+        "caption": "Halfway across the net",
+        "w": 785,
+        "h": 523,
+        "width": 330
+       },
+       {
+        "src": "/images/g2.jpg",
+        "alt": "FunPlay multi play station with red slides at a housing society",
+        "caption": "The podium everyone heads to",
+        "w": 785,
+        "h": 785,
+        "width": 250
+       },
+       {
+        "src": "/images/g9.jpg",
+        "alt": "FunPlay wooden play equipment with tyre see-saws",
+        "caption": "Climb, slide, repeat",
+        "w": 785,
+        "h": 523,
+        "width": 380
+       },
+       {
+        "src": "/images/g22.webp",
+        "alt": "FunPlay installation at a residential tower in Jogeshwari West, Mumbai",
+        "caption": "Play and fitness, Mumbai",
+        "w": 1600,
+        "h": 1200,
+        "width": 330
+       },
+       {
+        "src": "/images/g11.jpg",
+        "alt": "Two children on FunPlay nest swings",
+        "caption": "Swinging into the evening",
+        "w": 785,
+        "h": 523,
+        "width": 380
+       },
+       {
+        "src": "/images/g23.webp",
+        "alt": "FunPlay castle-themed playground in Navalur, Tamil Nadu",
+        "caption": "Towers to explore, Navalur",
+        "w": 1600,
+        "h": 1200,
+        "width": 330
+       }
+      ],
+      [
+       {
+        "src": "/images/play-lp/g7-upright.webp",
+        "alt": "A girl smiling as she climbs a FunPlay climber",
+        "caption": "Almost at the top",
+        "w": 589,
+        "h": 785,
+        "width": 200
+       },
+       {
+        "src": "/images/g14.jpg",
+        "alt": "A boy on a FunPlay horse spring rider",
+        "caption": "Giddy-up!",
+        "w": 785,
+        "h": 589,
+        "width": 290
+       },
+       {
+        "src": "/images/g15.jpg",
+        "alt": "Children on a FunPlay climber and slide at a housing society",
+        "caption": "Who gets there first?",
+        "w": 785,
+        "h": 523,
+        "width": 330
+       },
+       {
+        "src": "/images/g12.jpg",
+        "alt": "A child hopping across FunPlay stepping pods",
+        "caption": "One pod at a time",
+        "w": 785,
+        "h": 523,
+        "width": 330
+       },
+       {
+        "src": "/images/g3.jpg",
+        "alt": "FunPlay play house with yellow and purple slides",
+        "caption": "A play zone outside every door",
+        "w": 785,
+        "h": 785,
+        "width": 230
+       },
+       {
+        "src": "/images/g20.webp",
+        "alt": "FunPlay play station with orange slides and swings",
+        "caption": "Orange slides and swings",
+        "w": 1280,
+        "h": 963,
+        "width": 290
+       },
+       {
+        "src": "/images/g17.webp",
+        "alt": "FunPlay wooden tree-house play unit with blue slide",
+        "caption": "A tree house of their own",
+        "w": 1280,
+        "h": 853,
+        "width": 330
+       },
+       {
+        "src": "/images/g1.jpg",
+        "alt": "FunPlay tree-house play structure with swing",
+        "caption": "Garden play set",
+        "w": 785,
+        "h": 785,
+        "width": 230
+       },
+       {
+        "src": "/images/g16.webp",
+        "alt": "FunPlay multi play station with blue tube slides",
+        "caption": "Down the tube slides",
+        "w": 1280,
+        "h": 963,
+        "width": 290
+       },
+       {
+        "src": "/images/g21.webp",
+        "alt": "FunPlay jungle-themed tower with spiral slide in Ahmedabad",
+        "caption": "Spiral slide, Ahmedabad",
+        "w": 1200,
+        "h": 1600,
+        "width": 210
+       }
+      ]
+     ]
+    },
+    "steps": {
+     "eyebrow": "How it works",
+     "title": "Three simple steps to a finished play area",
+     "items": [
+      {
+       "color": "#ffe7a8",
+       "title": "Share your layout or book a site visit",
+       "text": "Tell us about the space, the theme and the age groups you want to serve."
+      },
+      {
+       "color": "#cfe8fb",
+       "title": "Get a tailored quote and play plan",
+       "text": "Design renders, budget estimate and installation plan, ready for approval."
+      },
+      {
+       "color": "#d5f1e2",
+       "title": "Delivery and installation",
+       "text": "Delivered on time and coordinated with your construction timeline."
+      }
+     ]
+    },
+    "testimonials": {
+     "eyebrow": "What developers say",
+     "title": "Trusted on projects across Mumbai and beyond",
+     "items": [
+      {
+       "quote": "Fun Play Systems Pvt. Ltd. has been instrumental in helping us tailor our playground structures within budget while adding popular elements. Their expertise and professionalism are impressive.",
+       "name": "Nayan Shah",
+       "org": "Damji Shamji Shah Group",
+       "color": "#ffc23d"
+      },
+      {
+       "quote": "We at Jaideep Construction have been using Fun Play Systems’ equipment for its safety, aesthetics, and durability. From product selection to after-sales service, their support has been exceptional. We highly recommend Fun Play Systems.",
+       "name": "Jaideep Construction",
+       "org": "Developer",
+       "color": "#cfe8fb"
+      },
+      {
+       "quote": "The installation was efficient, and the design seamlessly integrated with our community spaces. Our clients have been extremely pleased with the playground, making it a significant attraction in our developments.",
+       "name": "Ridhi Sidhi Developers",
+       "org": "Developer",
+       "color": "#d5f1e2"
+      }
+     ]
+    },
+    "clientList": null,
+    "cta": {
+     "title": "Planning an amenity area?",
+     "sub": "Get a free quote and layout suggestion, or download the catalogue first."
+    },
+    "footer": {
+     "company": "Fun Play Systems Pvt. Ltd.",
+     "address": "Unit No. 5, S. Nanda Business Park, Sagpada, Devdhal, Kaman Bhiwandi Road, Vasai East, District Palghar, Maharashtra 401208",
+     "phone": {
+      "label": "+91 90283 02266",
+      "href": "tel:+919028302266"
+     },
+     "email": "marketing@funplaysystems.com",
+     "hours": "Mon–Sat, 9:00 AM – 6:30 PM"
+    }
+   }
+  }
+ ]
+}
