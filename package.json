@@ -23,6 +23,8 @@
     "@mdx-js/react": "3.1.1",
     "@next/mdx": "16.3.8",
     "@types/mdx": "2.0.13",
+    "@wix/data": "^1.0.546",
+    "@wix/sdk": "^1.21.19",
     "next": "16.3.8",
     "nodemailer": "^10.6.0",
     "react": "19.2.0",

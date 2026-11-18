@@ -3,15 +3,11 @@ import { guard, handleError, json, methodNotAllowed } from "@/lib/server/http";
 import { leadEmail, replyTo } from "@/lib/server/leadEmail";
 import { sendLead } from "@/lib/server/mailgun";
 import { clean, email, pageUrl, phone, safeRedirect, text } from "@/lib/server/validate";
+import { insertContactForm } from "@/lib/server/wix";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-/**
- * Enquiry / quote form (replaces email-templates/contact-form.php). Used by the site-wide
- * contact popup, the contact page and the landing-page forms that carry extra fields
- * (typeOfProject, companyname, institutionname).
- */
 export async function POST(req: NextRequest) {
   const g = await guard(req, { kind: "contact", maxBytes: 32 * 1024, limit: 5, windowMs: 10 * 60 * 1000 });
   if (!("fd" in g)) return g;
@@ -29,6 +25,23 @@ export async function POST(req: NextRequest) {
     const source = clean(fd.get("source"), 40);
     const url = pageUrl(fd);
 
+    // 1) Save to Wix CMS "ContactFormSubmissions"
+    await insertContactForm({
+      name,
+      email: mail,
+      phone: tel,
+      location,
+      state,
+      category: customerType,
+      company,
+      institution,
+      message: comment,
+      source,
+      pageUrl: url,
+      submittedAt: new Date(),
+    });
+
+    // 2) Notification email
     const { html, text: plain } = leadEmail(
       "New website enquiry",
       [
@@ -46,7 +59,8 @@ export async function POST(req: NextRequest) {
       url,
     );
     await sendLead({ subject: `Website enquiry: ${name}${location ? ` (${location})` : ""}`, html, text: plain, replyTo: replyTo(name, mail) });
-    return json({ ok: true, message: "Thank you. We will get back to you soon." });
+
+    return json({ ok: true, message: "Thank you. We will get back to you soon.", redirect: safeRedirect(fd) });
   } catch (e) {
     return handleError(e, "contact");
   }

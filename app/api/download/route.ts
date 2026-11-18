@@ -19,6 +19,7 @@ import {
   safeEqual,
   type DownloadPayload,
 } from "@/lib/server/downloadToken";
+import { insertContactForm } from "@/lib/server/wix";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -142,6 +143,25 @@ async function verifyCode(req: NextRequest, fd: FormData, ip: string, secret: st
     l.pageUrl,
   );
   await sendLead({ subject: `Catalogue download: ${l.name}${l.location ? ` (${l.location})` : ""}`, html, text: plain, replyTo: replyTo(l.name, l.email) });
+
+  // Save to Wix CMS. Runs after the email so a retry (cookie is kept when sendLead fails)
+  // can't create duplicate rows, and a CMS failure never blocks the download.
+  try {
+    await insertContactForm({
+      name: l.name,
+      email: l.email,
+      phone: l.phone,
+      location: l.location,
+      state: l.state,
+      category: l.customerType,
+      message: l.comment,
+      source: "catalogue-download",
+      pageUrl: l.pageUrl,
+      submittedAt: new Date(),
+    });
+  } catch (err) {
+    console.error("[forms] download: Wix contact insert failed", err);
+  }
 
   return clearCookie(json({ ok: true, message: "Thank you. Your email is verified and the catalogue is ready.", download: catalogueUrl() }));
 }

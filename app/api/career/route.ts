@@ -4,17 +4,11 @@ import { CV_MAX_BYTES, readCv } from "@/lib/server/files";
 import { leadEmail, replyTo } from "@/lib/server/leadEmail";
 import { sendLead } from "@/lib/server/mailgun";
 import { email, pageUrl, phone, safeRedirect, text } from "@/lib/server/validate";
+import { insertCareerForm, uploadToWixMedia } from "@/lib/server/wix";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-/**
- * Job application form on the careers pages (replaces email-templates/career-form.php).
- * The CV is checked by its magic bytes, attached to the email and never written to disk.
- *
- * Note: Vercel limits serverless request bodies to about 4.5 MB, so CVs close to the 5 MB
- * limit may be rejected by the platform (HTTP 413) before this code runs. See docs/FORMS.md.
- */
 export async function POST(req: NextRequest) {
   const g = await guard(req, { kind: "career", maxBytes: CV_MAX_BYTES + 64 * 1024, limit: 3, windowMs: 10 * 60 * 1000 });
   if (!("fd" in g)) return g;
@@ -27,6 +21,22 @@ export async function POST(req: NextRequest) {
     const cv = await readCv(fd.get("career-cv-resume-file"));
     const url = pageUrl(fd);
 
+    // 1) CV -> Wix Media (API key)
+    const media = await uploadToWixMedia(cv);
+
+    // 2) Application -> Wix CMS "CareerForm" (client ID)
+    await insertCareerForm({
+      name,
+      email: mail,
+      phone: tel,
+      position: title,
+      resume: media.url,          // URL field / text field
+      resumeFileId: media.id,
+      pageUrl: url,
+      submittedAt: new Date(),
+    });
+
+    // 3) Notification email (keep or remove)
     const { html, text: plain } = leadEmail(
       `New job application: ${title}`,
       [
@@ -34,11 +44,12 @@ export async function POST(req: NextRequest) {
         ["Name", name],
         ["Email", mail],
         ["Phone", tel],
-        ["Resume", `${cv.filename} (attached, ${Math.max(1, Math.round(cv.data.byteLength / 1024))} KB)`],
+        ["Resume", `${cv.filename} (${Math.max(1, Math.round(cv.data.byteLength / 1024))} KB) – ${media.url}`],
       ],
       url,
     );
     await sendLead({ subject: `Job application: ${title} - ${name}`, html, text: plain, replyTo: replyTo(name, mail), attachments: [cv] });
+
     return json({ ok: true, message: "Thank you. Your application has been sent.", redirect: safeRedirect(fd) });
   } catch (e) {
     return handleError(e, "career");

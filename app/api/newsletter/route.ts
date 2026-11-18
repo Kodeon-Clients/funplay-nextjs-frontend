@@ -4,6 +4,7 @@ import { leadEmail } from "@/lib/server/leadEmail";
 import { subscribe } from "@/lib/server/mailchimp";
 import { sendLead } from "@/lib/server/mailgun";
 import { email, pageUrl } from "@/lib/server/validate";
+import { insertNewsletterSubscriber } from "@/lib/server/wix";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -18,12 +19,24 @@ export async function POST(req: NextRequest) {
     const url = pageUrl(fd);
 
     const mc = await subscribe(mail);
+
+    // Save to Wix CMS. Wrapped separately so a CMS failure never blocks the sign-up.
+    try {
+      await insertNewsletterSubscriber({
+        email: mail,
+        source: "footer-newsletter",
+        pageUrl: url,
+        submittedAt: new Date(),
+      });
+    } catch (e) {
+      console.error("[forms] newsletter Wix insert failed:", (e as Error).message);
+    }
+
     try {
       const { html, text } = leadEmail(
         "New newsletter subscriber",
         [
           ["Email", mail],
-          ["Mailchimp", mc === "subscribed" ? "Added to list" : mc === "failed" ? "Could not add to list, please add manually" : "Not configured"],
         ],
         url,
       );
