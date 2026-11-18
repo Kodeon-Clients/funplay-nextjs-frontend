@@ -25,7 +25,6 @@ export async function uploadToWixMedia(file: { filename: string; data: ArrayBuff
   const mimeType = mimeFor(file.filename, file.contentType);
   const headers = { Authorization: apiKey, "wix-site-id": siteId };
 
-  // 1) Get a one-time upload URL
   const urlRes = await fetch("https://www.wixapis.com/site-media/v1/files/generate-upload-url", {
     method: "POST",
     headers: { ...headers, "Content-Type": "application/json" },
@@ -34,7 +33,6 @@ export async function uploadToWixMedia(file: { filename: string; data: ArrayBuff
   if (!urlRes.ok) throw new Error(`Wix generate-upload-url failed: ${urlRes.status} ${await urlRes.text()}`);
   const { uploadUrl } = (await urlRes.json()) as { uploadUrl: string };
 
-  // 2) Upload the bytes
   const body = new Blob([file.data as BlobPart], { type: mimeType });
   const upRes = await fetch(`${uploadUrl}?filename=${encodeURIComponent(file.filename)}`, {
     method: "PUT",
@@ -62,7 +60,7 @@ function wixClient() {
 
 /** Inserts an item into the CareerForm CMS collection. */
 export async function insertCareerForm(data: Record<string, unknown>) {
-  return wixClient().items.insert("CareerForm", data);
+  return wixClient().items.insert("CareerFormSubmissions", data);
 }
 
 /** Inserts an item into the ContactFormSubmissions CMS collection. */
@@ -73,4 +71,15 @@ export async function insertContactForm(data: Record<string, unknown>) {
 /** Inserts an item into the NewsletterSubscribers CMS collection. */
 export async function insertNewsletterSubscriber(data: Record<string, unknown>) {
   return wixClient().items.insert("NewsletterSubscribers", data);
+}
+
+/** Runs a Wix call without ever failing the request, and logs the real reason. */
+export async function wixSafe<T>(label: string, fn: () => Promise<T>): Promise<T | null> {
+  try {
+    return await fn();
+  } catch (e) {
+    const err = e as { message?: string; details?: unknown; code?: string };
+    console.error(`[wix] ${label} failed:`, err.message, err.code ?? "", JSON.stringify(err.details ?? {}));
+    return null;
+  }
 }

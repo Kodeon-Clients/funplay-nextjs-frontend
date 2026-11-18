@@ -128,6 +128,20 @@ export function handleError(e: unknown, kind: string) {
     console.error(`[forms] ${kind}: Mailgun is not configured (set MAILGUN_API_KEY and MAILGUN_DOMAIN)`);
     return fail("Sorry, our form is temporarily unavailable. Please call us or email marketing@funplaysystems.com.", 503);
   }
-  console.error(`[forms] ${kind} failed:`, e instanceof Error ? e.message : "unknown error");
-  return fail("Sorry, something went wrong sending your message. Please try again or call us.", 502);
+
+  const err = e as { message?: string; code?: string; details?: unknown; cause?: unknown; stack?: string };
+  const detail = e instanceof Error ? e.message : typeof e === "string" ? e : "unknown error";
+
+  console.error(
+    `[forms] ${kind} failed:`,
+    detail,
+    err?.code ?? "",
+    err?.details ? JSON.stringify(err.details) : "",
+    err?.cause ? String(err.cause) : "",
+    err?.stack ?? "",
+  );
+
+  const base = "Sorry, something went wrong sending your message. Please try again or call us.";
+  const message = process.env.FORMS_DEBUG === "1" ? `${base} [debug: ${kind}: ${detail}]` : base;
+  return fail(message, 502);
 }

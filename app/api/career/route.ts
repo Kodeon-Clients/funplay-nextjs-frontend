@@ -44,6 +44,7 @@ export async function POST(req: NextRequest) {
         ["Name", name],
         ["Email", mail],
         ["Phone", tel],
+        ["Page URL", url],
         ["Resume", `${cv.filename} (${Math.max(1, Math.round(cv.data.byteLength / 1024))} KB) – ${media.url}`],
       ],
       url,

@@ -7,17 +7,16 @@ import { recaptchaToken } from "@/lib/behaviors";
 /*
   Homepage catalogue popup (replaces js/popup-injector.js). Same markup classes and look as the
   original: it appears about a second after the page has loaded, at most once per browser
-  session. Flow: details form -> 6-digit code emailed by /api/download (step=request) ->
-  code entry (step=verify) -> download link. The phone.email sign-in widget is left out.
+  session. Flow: details form -> /api/download validates, emails the lead and saves it to the CMS
+  -> the browser downloads the catalogue and the popup closes.
 */
 
 const SEEN_KEY = "fp_catalogue_popup_seen";
 const SHOW_DELAY_MS = 1000;
 
-type Step = "form" | "verify" | "done";
 type Msg = { text: string; tone: "ok" | "error" } | null;
 type Errors = Partial<Record<string, string>>;
-type ApiResult = { ok?: boolean; message?: string; step?: string; download?: string };
+type ApiResult = { ok?: boolean; message?: string; download?: string };
 
 const FALLBACK = "Something went wrong. Please try again, or call us.";
 
@@ -35,6 +34,17 @@ function markSeen() {
   } catch {
     /* storage blocked: the popup may show again on the next page load, which is acceptable */
   }
+}
+
+/** Saves the file instead of opening it (the URL is same-origin, so `download` is honoured). */
+function startDownload(url: string) {
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = url.split("/").pop() || "catalogue.pdf";
+  a.rel = "noopener";
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
 }
 
 /** Mirrors the server rules in app/api/download/route.ts. */
@@ -62,15 +72,11 @@ export default function DownloadPopup() {
   const uid = useId();
   const id = (n: string) => `dl${uid.replace(/:/g, "")}-${n}`;
   const [open, setOpen] = useState(false);
-  const [step, setStep] = useState<Step>("form");
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState<Msg>(null);
   const [errors, setErrors] = useState<Errors>({});
-  const [download, setDownload] = useState("");
   const dialogRef = useRef<HTMLDivElement>(null);
   const formRef = useRef<HTMLFormElement>(null);
-  const codeRef = useRef<HTMLInputElement>(null);
-  const linkRef = useRef<HTMLAnchorElement>(null);
   const lastFocus = useRef<HTMLElement | null>(null);
 
   // Show once per session, shortly after the page has finished loading.
@@ -134,18 +140,16 @@ export default function DownloadPopup() {
     };
   }, [open, close]);
 
-  // Move focus to the right control for each step.
+  // Focus the first field when the popup opens.
   useEffect(() => {
     if (!open) return;
     const t = window.setTimeout(() => {
-      if (step === "form") formRef.current?.querySelector<HTMLInputElement>("input[name=name]")?.focus();
-      else if (step === "verify") codeRef.current?.focus();
-      else linkRef.current?.focus();
+      formRef.current?.querySelector<HTMLInputElement>("input[name=name]")?.focus();
     }, 30);
     return () => window.clearTimeout(t);
-  }, [open, step]);
+  }, [open]);
 
-  const requestCode = async (e: FormEvent<HTMLFormElement>) => {
+  const submitForm = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (busy || !formRef.current) return;
     const fd = new FormData(formRef.current);
@@ -160,53 +164,18 @@ export default function DownloadPopup() {
     setBusy(true);
     setMsg(null);
     try {
-      fd.set("step", "request");
       fd.set("page_url", window.location.href);
       const token = await recaptchaToken("download");
       if (token) fd.set("g-recaptcha-response", token);
       const r = await post(fd);
-      if (r.ok && r.step === "verify") {
-        setStep("verify");
-        setMsg({ text: r.message || "We have emailed you a 6-digit code.", tone: "ok" });
-      } else {
-        setMsg({ text: r.message || FALLBACK, tone: "error" });
-      }
-    } catch {
-      setMsg({ text: FALLBACK, tone: "error" });
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  const verifyCode = async () => {
-    if (busy) return;
-    const code = (codeRef.current?.value || "").replace(/\s+/g, "");
-    if (!/^\d{6}$/.test(code)) {
-      setErrors({ code: "Please enter the 6-digit code from the email." });
-      codeRef.current?.focus();
-      return;
-    }
-    setErrors({});
-    setBusy(true);
-    setMsg(null);
-    try {
-      const fd = new FormData();
-      fd.set("step", "verify");
-      fd.set("code", code);
-      fd.set("website", "");
-      const r = await post(fd);
       if (r.ok && r.download) {
-        setDownload(r.download);
-        setStep("done");
-        setMsg({ text: r.message || "Thank you. Your catalogue is ready.", tone: "ok" });
+        startDownload(r.download);
         try {
-          (window as unknown as { dataLayer?: unknown[] }).dataLayer?.push({ event: "catalogue_download_verified" });
-        } catch {}
+          (window as unknown as { dataLayer?: unknown[] }).dataLayer?.push({ event: "catalogue_download" });
+        } catch { }
+        close();
       } else {
-        // expired / too many attempts: the server cleared the cookie, so start again
-        if (/request a new code/i.test(r.message || "")) setStep("form");
         setMsg({ text: r.message || FALLBACK, tone: "error" });
-        if (codeRef.current) codeRef.current.value = "";
       }
     } catch {
       setMsg({ text: FALLBACK, tone: "error" });
@@ -265,8 +234,8 @@ export default function DownloadPopup() {
               <h3 className="fw-600 text-dark-gray mb-5" id={id("title")}>
                 Download our 2025 Catalogue
               </h3>
-              <form ref={formRef} action="/api/download" method="post" className="row contact-form-style-02" noValidate onSubmit={requestCode} aria-busy={busy || undefined}>
-                <div className="fp-row-contents" style={{ display: step === "form" ? "contents" : "none" }}>
+              <form ref={formRef} action="/api/download" method="post" className="row contact-form-style-02" noValidate onSubmit={submitForm} aria-busy={busy || undefined}>
+                <div className="fp-row-contents" style={{ display: "contents" }}>
                   <div className="col-md-6 mb-15px">
                     <label htmlFor={id("name")} className="visually-hidden">Your name</label>
                     <input {...a11y("name")} className="form-control required" type="text" name="name" placeholder="Your name*" required minLength={2} maxLength={80} autoComplete="name" />
@@ -314,31 +283,6 @@ export default function DownloadPopup() {
                   </div>
                 </div>
 
-                {step === "verify" ? (
-                  <div className="col-md-12 mb-15px" id="code-input-box">
-                    <label htmlFor={id("code")} className="visually-hidden">Verification code</label>
-                    <input
-                      ref={codeRef}
-                      {...a11y("code")}
-                      className="form-control"
-                      type="text"
-                      name="code"
-                      placeholder="Enter the code you received"
-                      inputMode="numeric"
-                      autoComplete="one-time-code"
-                      pattern="^[0-9]{6}$"
-                      maxLength={6}
-                      onKeyDown={(e) => {
-                        if (e.key === "Enter") {
-                          e.preventDefault();
-                          verifyCode();
-                        }
-                      }}
-                    />
-                    {err("code")}
-                  </div>
-                ) : null}
-
                 <div className="col-md-12 mb-15px">
                   <span
                     id="error-msg"
@@ -354,37 +298,9 @@ export default function DownloadPopup() {
                 </div>
                 <div className="col-md-5 text-center text-md-end sm-mt-20px">
                   <div className="fp-hp" aria-hidden="true"><input type="text" name="website" tabIndex={-1} autoComplete="off" aria-label="Leave this field empty" /></div>
-                  {step === "form" ? (
-                    <button className="btn btn-dark" id="send-verify-button" type="submit" disabled={busy} aria-busy={busy || undefined}>
-                      {busy ? "sending..." : "verify email"}
-                    </button>
-                  ) : null}
-                  {step === "verify" ? (
-                    <>
-                      <button className="btn btn-dark" id="email-verify-button" type="button" onClick={verifyCode} disabled={busy} aria-busy={busy || undefined}>
-                        {busy ? "checking..." : "verify code"}
-                      </button>
-                      <div className="mt-10px">
-                        <button
-                          type="button"
-                          className="btn btn-link p-0 fs-15"
-                          disabled={busy}
-                          onClick={() => {
-                            setStep("form");
-                            setMsg(null);
-                            setErrors({});
-                          }}
-                        >
-                          Change details or resend code
-                        </button>
-                      </div>
-                    </>
-                  ) : null}
-                  {step === "done" ? (
-                    <a ref={linkRef} className="btn btn-dark submit" id="download-form-submit-button" href={download} target="_blank" rel="noopener" download>
-                      Download Now
-                    </a>
-                  ) : null}
+                  <button className="btn btn-dark" id="download-form-submit-button" type="submit" disabled={busy} aria-busy={busy || undefined}>
+                    {busy ? "please wait..." : "download now"}
+                  </button>
                 </div>
               </form>
             </div>
